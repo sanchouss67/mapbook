@@ -1,4 +1,4 @@
-import Image from "next/image";
+/* eslint-disable @next/next/no-img-element */
 import type { PlaceCertainty, RoutePoint } from "@/types/book";
 
 const certaintyLabels: Record<PlaceCertainty, string> = {
@@ -16,15 +16,7 @@ export default function PlaceCard({ point }: PlaceCardProps) {
     <aside className="placePanel" aria-label="Карточка точки маршрута">
       {point.imageUrl ? (
         <figure className="placePhoto">
-          <Image
-            src={point.imageUrl}
-            alt={point.imageAlt ?? point.displayName}
-            width={640}
-            height={400}
-            sizes="(max-width: 1180px) 100vw, 340px"
-            priority
-            unoptimized
-          />
+          <img src={point.imageUrl} alt={point.imageAlt ?? point.displayName} loading="lazy" />
           {point.imageCredit ? <figcaption>{point.imageCredit}</figcaption> : null}
         </figure>
       ) : null}

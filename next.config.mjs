@@ -5,20 +5,7 @@ const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "commons.wikimedia.org",
-        pathname: "/wiki/Special:FilePath/**"
-      },
-      {
-        protocol: "https",
-        hostname: "upload.wikimedia.org",
-        pathname: "/**"
-      }
-    ]
-  },
+  allowedDevOrigins: ["127.0.0.1"],
   turbopack: {
     root: projectRoot
   }
