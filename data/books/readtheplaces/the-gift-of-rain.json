@@ -1,0 +1,80 @@
+{
+  "id": "the-gift-of-rain",
+  "title": "The Gift of Rain",
+  "author": "Tan Twan Eng",
+  "year": 2007,
+  "description": "On the island of Penang, the half-English, half-Chinese Philip Hutton is taken as a pupil by the Japanese diplomat Endo-san, who teaches him aiki-jutsu and a hard code of duty, only for the bond to be tested to breaking when Japan invades Malaya in 1941. Tan maps his home island: the Hutton family's George Town mansion and the colonial society of the port, the small island off the coast where Endo-san lives and teaches, the town under brutal occupation, and Penang Hill above it all.",
+  "route": [
+    {
+      "order": 1,
+      "place": "george-town-mansion",
+      "displayName": "George Town (the Hutton mansion)",
+      "country": "MY",
+      "lat": 5.418,
+      "lng": 100.34,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "The lonely, in-between son of an English trading family and a Chinese mother, Philip belongs fully to neither world of George Town's layered society. The mansion and the port city, with their godowns, clubs and clan houses, are the home whose fate he will be forced to weigh against his loyalty to his Japanese teacher.",
+      "note": "Philip grows up at his family's mansion in George Town, the real colonial capital of Penang, a Straits trading port of great mixed wealth; the specific house is invented and sited in the real town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+    },
+    {
+      "order": 2,
+      "place": "endo-san-island",
+      "displayName": "Endo-san's island",
+      "country": "MY",
+      "lat": 5.4,
+      "lng": 100.31,
+      "reference": "Book 1",
+      "certainty": "approximate",
+      "summary": "On his rented island Endo-san drills Philip in the discipline, balance and philosophy of aiki-jutsu, and a deep bond of teacher and pupil, almost of destiny, forms between them. The island, reached by boat across the water, is the still centre of the book and, it emerges, a listening post for the coming invasion.",
+      "note": "The Japanese diplomat Endo-san rents a small island off the Penang coast, where he lives and teaches Philip the martial art of aiki-jutsu; the islet is drawn from the real islands in the strait off Penang.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Gift_of_Rain"
+    },
+    {
+      "order": 3,
+      "place": "colonial-george-town",
+      "displayName": "Colonial George Town",
+      "country": "MY",
+      "lat": 5.424,
+      "lng": 100.335,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "Noel Hutton and the English merchant class carry on their trade and their clubs in a Penang they believe is theirs and safe, blind to how soon it will fall. The confident colonial town, seen just before the catastrophe, sharpens the tragedy of what the Japanese occupation will do to the Huttons and the island.",
+      "note": "The colonial society of the port, its trading houses and grand hotels such as the Eastern & Oriental, is the world of Philip's father Noel Hutton; sited in the real George Town of the interwar years.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eastern_%26_Oriental_Hotel"
+    },
+    {
+      "order": 4,
+      "place": "george-town-occupation",
+      "displayName": "George Town under occupation",
+      "country": "MY",
+      "lat": 5.416,
+      "lng": 100.338,
+      "reference": "Book 2",
+      "certainty": "approximate",
+      "summary": "Under occupation Philip works for the Japanese, trying to shield his family and people even as his teacher Endo-san rises in the administration and the Kempeitai torture and kill. The impossible bind, loving the man whose army is destroying his home, is the tragedy the whole book has been moving toward.",
+      "note": "After the 1941 invasion, George Town falls under a brutal Japanese occupation with its secret police; the terror is sited in the real occupied town, the specific offices the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Malaya"
+    },
+    {
+      "order": 5,
+      "place": "penang-hill",
+      "displayName": "Penang Hill",
+      "country": "MY",
+      "lat": 5.425,
+      "lng": 100.27,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "In the jungle and hill country above the town, Philip's friend Kon fights with the resistance, and the two young men trained in the same arts find themselves on opposing sides of the war. Penang Hill, cool and green above the suffering port, is where the book's questions of loyalty, honour and survival come to their hardest test.",
+      "note": "Penang Hill, the real forested height above George Town, and the temples and jungle of the island are the ground of the resistance and of Philip's friendship with the martial artist Kon.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Penang_Hill"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

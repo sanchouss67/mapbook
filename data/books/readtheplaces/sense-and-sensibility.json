@@ -1,0 +1,80 @@
+{
+  "id": "sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "author": "Jane Austen",
+  "year": 1811,
+  "description": "Dispossessed of their home, the Dashwood sisters, prudent Elinor and passionate Marianne, retire to a Devon cottage and are schooled by love and disappointment in the balance of sense and sensibility. Austen sets the story across a real England: the Sussex estate they lose, the Devon country of their new life and Marianne's romance, the London where hearts are broken, and the western house where illness brings the reckoning.",
+  "route": [
+    {
+      "order": 1,
+      "place": "norland",
+      "displayName": "Norland Park",
+      "country": "GB",
+      "lat": 51,
+      "lng": 0.2,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "At Norland in Sussex, the death of Mr Dashwood leaves his second family at the mercy of his son, whose grasping wife whittles their promised support down to nothing. Austen opens on the precariousness of women without money, and on the contrast between Elinor's guarded good sense and Marianne's open, romantic heart, tested at once by leaving the only home they know.",
+      "note": "Norland Park, the Sussex estate the Dashwood women lose on their father's death, is a fictional seat drawn from the country of southern England; sited in Sussex, outside the Devon setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Austen"
+    },
+    {
+      "order": 2,
+      "place": "barton-cottage",
+      "displayName": "Barton Cottage",
+      "country": "GB",
+      "lat": 50.85,
+      "lng": -3.7,
+      "reference": "The Devon chapters",
+      "certainty": "approximate",
+      "summary": "At Barton Cottage in Devon, the reduced Dashwoods make a new life under the good-natured patronage of their cousin Sir John Middleton. Austen settles the sisters into a smaller world of country neighbours and quiet economy, the stage on which both will meet the men who will try their opposite temperaments.",
+      "note": "Barton Cottage in Devon, the modest new home of the Dashwood women, is a fictional cottage drawn from the Devon countryside; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Devon"
+    },
+    {
+      "order": 3,
+      "place": "the-devon-romance",
+      "displayName": "Barton and the hills",
+      "country": "GB",
+      "lat": 50.86,
+      "lng": -3.68,
+      "reference": "The romance chapters",
+      "certainty": "approximate",
+      "summary": "Caught in the rain on the Devon hills, Marianne is rescued by the dashing Willoughby, and flings herself headlong into a romance that flouts every prudence, while the steadier Colonel Brandon watches and hopes. Austen sets the passionate heart's ideal love against the reticent good man, and lets the Devon idyll run just long enough to make its collapse hurt.",
+      "note": "The Devon hills where Marianne twists her ankle and is carried home by Willoughby, and the courtship that follows, are set in the country around Barton; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sense_and_Sensibility"
+    },
+    {
+      "order": 4,
+      "place": "london",
+      "displayName": "London",
+      "country": "GB",
+      "lat": 51.51,
+      "lng": -0.14,
+      "reference": "The London chapters",
+      "certainty": "exact",
+      "summary": "In London society Willoughby cuts Marianne coldly and reveals he is to marry for money, while Elinor bears in silence the discovery that the man she loves is secretly engaged elsewhere. Austen brings both sisters to grief in the city, and shows the difference between them, Marianne collapsing into public despair, Elinor swallowing her pain with a self-command that is its own kind of suffering.",
+      "note": "In London the sisters' hopes are dashed, Willoughby abandoning Marianne for an heiress and Elinor learning of Edward's secret engagement; sited in the real city, outside the Devon setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sense_and_Sensibility"
+    },
+    {
+      "order": 5,
+      "place": "cleveland-delaford",
+      "displayName": "Cleveland and Delaford",
+      "country": "GB",
+      "lat": 50.9,
+      "lng": -3.5,
+      "reference": "The closing chapters",
+      "certainty": "approximate",
+      "summary": "At Cleveland, Marianne nearly dies of a fever brought on by her own reckless grief, and her recovery brings a chastened wisdom that at last opens her to the faithful Colonel Brandon and his home at Delaford. Austen ends by marrying sense and sensibility both, each sister tempered by the other's example into a happiness founded on more than first passion.",
+      "note": "Marianne's near-fatal illness at Cleveland and her eventual home at Colonel Brandon's Delaford are fictional West Country estates; sited toward Devon and Somerset in the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sense_and_Sensibility"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

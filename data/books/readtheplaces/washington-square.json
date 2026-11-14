@@ -1,0 +1,91 @@
+{
+  "id": "washington-square",
+  "title": "Washington Square",
+  "author": "Henry James",
+  "year": 1880,
+  "description": "A single square, mapped to the door. James fixes the whole novel to a few blocks of Greenwich Village: Dr Sloper's wide-fronted house on Washington Square North, the real Row of Greek Revival houses that still stands; the Square itself, with its wooden paling and ailantus-trees; and the confident new Fifth Avenue taking its origin at the corner. Downtown, near the City Hall, is the old world the doctor left; uptown is the raw frontier fashion was chasing. A tour of Switzerland is the one excursion beyond the setting.",
+  "route": [
+    {
+      "order": 1,
+      "place": "lower-downtown-city-hall",
+      "displayName": "Lower Broadway / City Hall (the old downtown)",
+      "country": "US",
+      "lat": 40.7128,
+      "lng": -74.0061,
+      "reference": "Ch. III",
+      "certainty": "approximate",
+      "summary": "The world the Slopers left. When trade turned the old brick houses near the City Hall into \"offices, warehouses, and shipping agencies\", the doctor followed fashion north to Washington Square. James uses the shift downtown-to-uptown as social chronology: an address is a date.",
+      "note": "Dr Sloper's first house is fiction, but James fixes it precisely: a red-brick edifice with granite copings and a fanlight, \"within five minutes' walk of the City Hall\", in the downtown quarter that was fashionable about 1820 before trade drove the doctors out. The pin marks City Hall, the real landmark James measures the house against.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    },
+    {
+      "order": 2,
+      "place": "dr-slopers-house-washington-square-north",
+      "displayName": "Dr Sloper's house, Washington Square North",
+      "country": "US",
+      "lat": 40.7318,
+      "lng": -73.9962,
+      "reference": "Ch. III",
+      "certainty": "approximate",
+      "summary": "The novel's fixed address: the doctor's marble-stepped house on the north side of the Square, the setting for nearly every interior scene. James pins his fiction to the real Row of houses he knew, \"the ideal of quiet and of genteel retirement\", and half the drama is about who is allowed through that white-marble door.",
+      "note": "The Sloper house is invented, but James sites it exactly on \"the Row\", the terrace of Greek Revival houses built along Washington Square North in 1829-33, which he calls \"very solid and honourable dwellings\" that \"remain to this day\". Nos. 1-13 still stand, east of Fifth Avenue. The pin marks the Row.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    },
+    {
+      "order": 3,
+      "place": "fifth-avenue-origin",
+      "displayName": "Fifth Avenue, at its origin on the Square",
+      "country": "US",
+      "lat": 40.7332,
+      "lng": -73.9958,
+      "reference": "Ch. III",
+      "certainty": "exact",
+      "summary": "Fifth Avenue begins at the north-west corner of Washington Square and runs uptown into the money. Its \"spacious and confident air\" is the marriage-market world Morris Townsend wants into: charming, penniless, and calculating what Catherine will inherit. James makes the avenue's ambition and the suitor's the same thing.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    },
+    {
+      "order": 4,
+      "place": "washington-square-park-fountain",
+      "displayName": "Washington Square park",
+      "country": "US",
+      "lat": 40.7308,
+      "lng": -73.9973,
+      "reference": "Ch. X",
+      "certainty": "exact",
+      "summary": "The public square outside the door, with its wooden paling, ailantus-trees and fountain, is where the courtship spills into the open. Here Morris presses Catherine to swear she will hold to him against her father. The park is real and still the heart of Greenwich Village; the fountain still runs.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    },
+    {
+      "order": 5,
+      "place": "a-lonely-pass-in-the-alps",
+      "displayName": "A lonely pass in the Alps",
+      "country": "US",
+      "lat": 46.392,
+      "lng": 7.6082,
+      "reference": "Ch. XXIV",
+      "certainty": "approximate",
+      "summary": "Sloper takes Catherine abroad to break the engagement. In this desolate valley, alone at dusk in \"a great suffusion of cold, red light\", he turns on her and asks if she has given Morris up, letting her feel how far she is from home and how completely in his power. The one scene the book stages outside New York.",
+      "note": "James names no pass, only \"a lonely valley of the Alps\" reached on foot while crossing between Switzerland and Italy. The pin marks the Gemmi Pass in the Bernese Alps, a real, much-walked Victorian tourist crossing that fits the scene. It is flagged as an excursion far beyond the New York setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    },
+    {
+      "order": 6,
+      "place": "the-house-on-the-square-later-years",
+      "displayName": "The house on the Square, in later years",
+      "country": "US",
+      "lat": 40.7319,
+      "lng": -73.996,
+      "reference": "Ch. XXXIV",
+      "certainty": "approximate",
+      "summary": "Catherine grows old on the Square she was born to. Jilted, then outlived by her father, she stays in the marble-stepped house among the ailantus-trees, refusing to leave it. When Morris finally comes back, thickened and fair-bearded, she turns him from the door. The Square is where she began and where she ends.",
+      "note": "Still the invented Sloper house on the real Row of Washington Square North, years on. The pin marks the same terrace of Greek Revival houses; the certainty is the same as for the doctor's house earlier in the book.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2870"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

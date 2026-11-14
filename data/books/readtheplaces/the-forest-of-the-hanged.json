@@ -1,0 +1,80 @@
+{
+  "id": "the-forest-of-the-hanged",
+  "title": "The Forest of the Hanged",
+  "author": "Liviu Rebreanu",
+  "year": 1922,
+  "description": "Apostol Bologa, a Romanian officer in the Austro-Hungarian army of the First World War, sits on the court-martial that hangs a Czech deserter, and is then ordered to the Transylvanian front to fight against his fellow Romanians, until conscience and divided loyalty tear him apart. Rebreanu sets it between the far Galician front where the hangings begin and Bologa's Transylvanian homeland: his home village near Năsăud, the border front against Romania, and the forest where he too will hang.",
+  "route": [
+    {
+      "order": 1,
+      "place": "galician-front-hanging",
+      "displayName": "The Galician front (the hanging)",
+      "country": "RO",
+      "lat": 49,
+      "lng": 24,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "On the Galician front, the zealous young officer Apostol Bologa helps condemn a Czech lieutenant to death for trying to desert to the enemy, and watches him hang with approval. The execution, and the field of gallows the book's title evokes, plants the first seed of the doubt that will consume him.",
+      "note": "The book opens on the Eastern Front in Galicia, where Bologa sits on a court-martial that hangs a Czech officer for desertion; the front is real, the exact wood the novel's own, sited far north of Transylvania.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)"
+    },
+    {
+      "order": 2,
+      "place": "bologa-home-nasaud",
+      "displayName": "Bologa's home (near Năsăud)",
+      "country": "RO",
+      "lat": 47.29,
+      "lng": 24.48,
+      "reference": "The homeland chapters",
+      "certainty": "approximate",
+      "summary": "Back in his Transylvanian village, betrothed to Marta and raised to serve the Emperor, Bologa is a Romanian in an empire fighting Romania, a contradiction he has never had to feel until now. The home country, and the fiancée who cannot understand his crisis, embody the settled identity his conscience is about to shatter.",
+      "note": "Bologa's Romanian homeland is in Transylvania near Năsăud, drawn from Rebreanu's own region; the home village and his fiancée Marta are sited in that real countryside.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/N%C4%83s%C4%83ud"
+    },
+    {
+      "order": 3,
+      "place": "transylvanian-front",
+      "displayName": "The Transylvanian front",
+      "country": "RO",
+      "lat": 47.4,
+      "lng": 24.6,
+      "reference": "The crisis chapters",
+      "certainty": "exact",
+      "summary": "Ordered to the front against his own people, and pushed further by the disillusioned fellow officer Klapka, Bologa can no longer reconcile his uniform with his blood. The Transylvanian front, where the guns face the country of his birth, is where the abstract question of loyalty becomes an unbearable daily choice.",
+      "note": "When Romania enters the war, Bologa is transferred to the Transylvanian front to fight against Romanians; the real Carpathian border front is where his loyalty finally breaks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Romanian_campaign_(World_War_I)"
+    },
+    {
+      "order": 4,
+      "place": "the-village-ilona",
+      "displayName": "The village (Ilona)",
+      "country": "RO",
+      "lat": 47.35,
+      "lng": 24.55,
+      "reference": "The love chapters",
+      "certainty": "approximate",
+      "summary": "In a village behind the lines Bologa finds, in his love for the simple peasant girl Ilona, a last human reason to live and to break with the war. Her tenderness stands against the machinery of duty and death, and makes his coming decision to desert both a betrayal and an act of faith.",
+      "note": "Billeted in a village behind the Transylvanian front, Bologa falls in love with the peasant girl Ilona; the village is invented and sited in the real countryside behind the front.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+    },
+    {
+      "order": 5,
+      "place": "the-forest-execution",
+      "displayName": "The forest (the execution)",
+      "country": "RO",
+      "lat": 47.38,
+      "lng": 24.58,
+      "reference": "The ending",
+      "certainty": "approximate",
+      "summary": "Bologa attempts to cross to the Romanians, is captured, and is condemned by the same military justice he once served, hanged as the Czech officer was hanged at the start. Rebreanu ends with the officer of conscience swinging from the gallows, the forest of the hanged now claiming the man who first approved of it.",
+      "note": "Caught trying to desert to the Romanian side, Bologa is court-martialled and hanged; the execution is sited near the Transylvanian front, closing the circle the Galician hanging opened.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Forest_of_the_Hanged"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

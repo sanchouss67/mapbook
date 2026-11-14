@@ -1,0 +1,93 @@
+{
+  "id": "crazy-rich-asians",
+  "title": "Crazy Rich Asians",
+  "author": "Kevin Kwan",
+  "year": 2013,
+  "description": "An American-born Chinese economics professor flies to Singapore with her boyfriend and discovers that his family is impossibly wealthy. The map runs from the arrivals hall at Changi across the island: a hidden colonial estate near the Botanic Gardens, the hawker stalls of Newton, the shops of Orchard Road, the rooftop of Marina Bay Sands and the beaches of Sentosa.",
+  "route": [
+    {
+      "order": 1,
+      "place": "changi-airport",
+      "displayName": "Changi Airport",
+      "country": "SG",
+      "lat": 1.3644,
+      "lng": 103.9915,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Rachel lands in Singapore expecting a modest family visit and is met instead by the first signs of extraordinary money. The arrival at Changi, gleaming and orchid-lined, sets the tone for a world she cannot yet read.",
+      "note": "Kwan names Singapore's Changi Airport as the couple's point of arrival; sited at the main passenger terminals on the island's eastern edge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changi_Airport"
+    },
+    {
+      "order": 2,
+      "place": "tyersall-park",
+      "displayName": "Tyersall Park",
+      "country": "SG",
+      "lat": 1.305,
+      "lng": 103.811,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The family seat is a vast colonial estate hidden behind a long drive, a house older and grander than any hotel. Kwan invents the mansion but borrows its bearings from the genuine Tyersall grounds by the Botanic Gardens, where a Johor sultan once kept a palace now lost to fire.",
+      "note": "Tyersall Park is a fictional mansion, but its name and setting draw on the real Tyersall estate beside the Botanic Gardens, home to the Sultan of Johor's Istana Woodneuk; sited on that historic ground.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tyersall_Park"
+    },
+    {
+      "order": 3,
+      "place": "newton-food-centre",
+      "displayName": "Newton Food Centre",
+      "country": "SG",
+      "lat": 1.3119,
+      "lng": 103.8394,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Away from the mansions, Nick takes Rachel to a hawker centre for satay and noodles under fluorescent light, a reminder that the same city holds street food and staggering wealth side by side. Newton is the open-air stalls that anchor the scene.",
+      "note": "Kwan names the Newton hawker centre as the setting for a late-night meal; sited at the food centre on Clemenceau Avenue North by Newton Circus.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Newton_Food_Centre"
+    },
+    {
+      "order": 4,
+      "place": "orchard-road",
+      "displayName": "Orchard Road",
+      "country": "SG",
+      "lat": 1.3048,
+      "lng": 103.8318,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The novel's spending sprees and status games play out along Orchard Road, the boulevard of luxury malls where the family's friends measure each other in handbags and couture. It stands in for the city's appetite for display.",
+      "note": "Kwan names Orchard Road, Singapore's main shopping boulevard; sited along its central retail stretch.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Orchard_Road"
+    },
+    {
+      "order": 5,
+      "place": "marina-bay-sands",
+      "displayName": "Marina Bay Sands",
+      "country": "SG",
+      "lat": 1.2834,
+      "lng": 103.8607,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The famous rooftop of Marina Bay Sands, with its ship-shaped deck and infinity pool high above the bay, appears as a stage for the moneyed set at play. It is one of the city's most recognisable modern landmarks.",
+      "note": "Kwan names Marina Bay Sands, the three-towered hotel with its rooftop deck; sited at the resort on Bayfront Avenue.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+    },
+    {
+      "order": 6,
+      "place": "sentosa",
+      "displayName": "Sentosa",
+      "country": "SG",
+      "lat": 1.2494,
+      "lng": 103.8303,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "Sentosa, the pleasure island of beaches, resorts and private villas just off the main coast, marks the story's turn toward leisure and spectacle among the very rich. It rounds out Kwan's tour of a Singapore built for indulgence.",
+      "note": "Kwan names Sentosa, the resort island off Singapore's southern coast; sited at the island's centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentosa"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "anna-karenina",
+  "title": "Anna Karenina",
+  "author": "Leo Tolstoy",
+  "year": 1878,
+  "description": "Moscow, Petersburg, and the railway between them. Anna arrives in Moscow past a man crushed at the station, and dies under a train at Obiralovka before her story ends. Levin's Pokrovskoe is invented; Tolstoy drew it from his own country life at Yasnaya Polyana. The line between the two capitals is the most important place in the book.",
+  "route": [
+    {
+      "order": 1,
+      "place": "moscow-railway-station",
+      "displayName": "The Moscow railway station",
+      "country": "RU",
+      "lat": 55.7758,
+      "lng": 37.653,
+      "reference": "Part 1, ch. 18",
+      "certainty": "approximate",
+      "summary": "Anna steps off the Petersburg train into Vronsky's life, and a watchman is crushed under the wheels on the same platform the moment they meet. The novel's ending is laid down here in its first pages: she reads the death as an omen, and returns to this rail line to die.",
+      "note": "Tolstoy names only \"the station\" in Moscow, but Anna arrives from Petersburg, and the Moscow terminus of the Petersburg line was the Nikolaevsky station, now Leningradsky on Komsomolskaya Square. The pin marks it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+      "order": 2,
+      "place": "the-moscow-ball",
+      "displayName": "The Moscow ball",
+      "country": "RU",
+      "lat": 55.7589,
+      "lng": 37.6164,
+      "reference": "Part 1, ch. 22",
+      "certainty": "approximate",
+      "summary": "Kitty comes to the ball expecting Vronsky to propose, and watches him fall for Anna across the ballroom instead. The Moscow winter season is where three lives turn at once: Kitty is humiliated, Anna is undone, and Vronsky is caught.",
+      "note": "Tolstoy does not name the house. Moscow's grand society balls of the 1870s were held in halls like the Noble Assembly (Blagorodnoye Sobraniye), now the House of the Unions on Bolshaya Dmitrovka, where the pin sits.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+      "order": 3,
+      "place": "petersburg-railway-station",
+      "displayName": "The Petersburg railway station",
+      "country": "RU",
+      "lat": 59.9245,
+      "lng": 30.3573,
+      "reference": "Part 1, ch. 31",
+      "certainty": "approximate",
+      "summary": "Anna returns to Petersburg and to Karenin, who takes her arm on the platform with a sense of property. This is where the capital and its society close around her: the correct husband, the ministry, the salons that will soon judge and then cut her.",
+      "note": "The scene is explicitly in Petersburg, where Karenin meets Anna's train home. The Petersburg terminus of the line was the Nikolaevsky station, now Moskovsky on Znamenskaya (Vosstaniya) Square; the pin marks it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+      "order": 4,
+      "place": "the-races-at-krasnoe-selo",
+      "displayName": "The races at Krasnoe Selo",
+      "country": "RU",
+      "lat": 59.7338,
+      "lng": 30.0863,
+      "reference": "Part 2, ch. 19",
+      "certainty": "exact",
+      "summary": "At the officers' steeplechase at Krasnoe Selo, the summer camp town south of Petersburg, Vronsky breaks his mare Frou-Frou's back with a clumsy movement in the saddle. Anna, watching from the stands, betrays herself in front of her husband, and the affair stops being a secret.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+      "order": 5,
+      "place": "levins-pokrovskoe",
+      "displayName": "Levin's estate, Pokrovskoe",
+      "country": "RU",
+      "lat": 54.0723,
+      "lng": 37.5223,
+      "reference": "Part 3, ch. 2",
+      "certainty": "approximate",
+      "summary": "Away from the capitals, Levin mows the meadow alongside his own peasants through a long summer day, and the physical work gives him the peace the city never does. His half of the book is the counterweight to Anna's: the land, marriage, and faith set against the railway and the salon.",
+      "note": "Pokrovskoe is invented and unlocated, somewhere in the central-Russian provinces a day from Moscow. Tolstoy drew Levin's country life from his own estate at Yasnaya Polyana in Tula, where he wrote the novel; the pin marks that real place, south of the book's setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+      "order": 6,
+      "place": "obiralovka-station",
+      "displayName": "Obiralovka station",
+      "country": "RU",
+      "lat": 55.744,
+      "lng": 38.0168,
+      "reference": "Part 7, ch. 31",
+      "certainty": "exact",
+      "summary": "Anna takes the train out to Obiralovka to find Vronsky, and on the platform the memory of the watchman crushed the day they met tells her what to do. She throws herself under the wheels here. The real station, east of Moscow, is now Zheleznodorozhnaya, in the town once called Obiralovka.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1399"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the-storyteller",
+  "title": "The Storyteller",
+  "author": "Mario Vargas Llosa",
+  "year": 1987,
+  "description": "A writer, haunted by a photograph glimpsed in Florence, reconstructs the story of his university friend Saúl Zuratas, a marked, Jewish-Peruvian outsider who vanished into the rainforest to become a hablador, a wandering storyteller of the nomadic Machiguenga people. Vargas Llosa maps a real Amazon: the jungle of the Machiguenga along the Urubamba, the mission and oil frontier pressing in on them, and the endless walking by which a people holds itself together through its tales.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-machiguenga-forest",
+      "displayName": "The Machiguenga forest",
+      "country": "PE",
+      "lat": -12,
+      "lng": -72.5,
+      "reference": "The Machiguenga chapters",
+      "certainty": "approximate",
+      "summary": "Deep in the eastern rainforest live the scattered, walking bands of the Machiguenga, a people who keep no fixed home and hold themselves together only through the stories passed among them. Vargas Llosa alternates his narrator's voice with the storyteller's own myths, and roots this vanishing forest world in the real Amazon of south-eastern Peru.",
+      "note": "The nomadic Machiguenga of the novel live in the Amazon rainforest along the Urubamba and its tributaries; drawn from that real region of the Peruvian jungle and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Machiguenga"
+    },
+    {
+      "order": 2,
+      "place": "the-urubamba",
+      "displayName": "The Urubamba",
+      "country": "PE",
+      "lat": -12.1,
+      "lng": -72.9,
+      "reference": "The storyteller chapters",
+      "certainty": "exact",
+      "summary": "Along the Urubamba and the forest paths the hablador walks from band to band, carrying news, myth and memory, the living thread that binds a dispersed people into one. Through the river country Vargas Llosa gives shape to his central image, the storyteller as the very soul of a culture that survives only so long as its tales are told.",
+      "note": "The Urubamba river and its jungle tributaries, the real waterways of the Machiguenga country, thread the storyteller's endless walking; sited in the Amazon of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Urubamba_River"
+    },
+    {
+      "order": 3,
+      "place": "the-mission",
+      "displayName": "The mission and the frontier",
+      "country": "PE",
+      "lat": -11.8,
+      "lng": -72.2,
+      "reference": "The frontier chapters",
+      "certainty": "approximate",
+      "summary": "Missionaries, ethnologists and the crews of the oil and timber frontier push ever deeper into the forest, offering the Machiguenga schools and medicine at the price of their wandering way of life. Vargas Llosa sets against each other the will to protect the tribe and the will to change it, the very debate over whether such a people should be left alone.",
+      "note": "The missions, linguists and oil and logging crews pressing on the Machiguenga are drawn from the real frontier of the Peruvian Amazon; sited in the jungle of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/SIL_International"
+    },
+    {
+      "order": 4,
+      "place": "lima-university",
+      "displayName": "Lima (the university)",
+      "country": "PE",
+      "lat": -12.06,
+      "lng": -77.08,
+      "reference": "The Lima chapters",
+      "certainty": "exact",
+      "summary": "In Lima, the birthmarked, half-Jewish outsider Saúl Zuratas and the narrator argue as students over the fate of the forest peoples, until Saúl's fascination with the Machiguenga swallows him whole. The capital is where the novel's great question is first framed, and where Saúl begins the disappearance that will turn him, impossibly, into the tribe's own storyteller.",
+      "note": "The friendship of Saúl Zuratas and the narrator begins as students in Lima, the real Peruvian capital; sited there, outside the Amazon setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lima"
+    },
+    {
+      "order": 5,
+      "place": "florence",
+      "displayName": "Florence",
+      "country": "PE",
+      "lat": 43.77,
+      "lng": 11.256,
+      "reference": "The framing chapters",
+      "certainty": "exact",
+      "summary": "In a Florence gallery, far from Peru, the writer sees a photograph of a Machiguenga hablador and is certain, against all reason, that it is his lost friend Saúl. From that distant image the whole novel is spun, and Vargas Llosa closes on the mystery of a man who chose to dissolve himself into another people's stories rather than his own.",
+      "note": "The frame narrative is set in Florence, the real Italian city, where the writer glimpses a photograph of a Machiguenga storyteller and begins to reconstruct Saúl's fate; sited there, far outside the Amazon setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

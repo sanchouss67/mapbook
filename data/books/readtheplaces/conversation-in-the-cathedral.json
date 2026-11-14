@@ -1,0 +1,80 @@
+{
+  "id": "conversation-in-the-cathedral",
+  "title": "Conversation in the Cathedral",
+  "author": "Mario Vargas Llosa",
+  "year": 1969,
+  "description": "Over a single four-hour conversation in a grimy Lima bar called La Catedral, the disillusioned journalist Santiago Zavala and his father's old chauffeur Ambrosio reconstruct the corruption of Peru under the dictatorship of Manuel Odría. From that table the book fans out across the real city: the university of San Marcos where Santiago is radicalised, the government palace and secret police that run the regime, the wealthy district of Miraflores where the Zavalas live, and the newsroom where Santiago's own compromises are made. Its question hangs over everything: at what moment had Peru screwed itself up?",
+  "route": [
+    {
+      "order": 1,
+      "place": "la-catedral-bar",
+      "displayName": "La Catedral (the bar)",
+      "country": "PE",
+      "lat": -12.055,
+      "lng": -77.03,
+      "reference": "Framing conversation",
+      "certainty": "approximate",
+      "summary": "Santiago runs into Ambrosio, once his father's chauffeur, at the dog pound and they end up drinking and talking in the squalid bar La Catedral. Their long conversation is the frame from which the whole tangled history of the Odría years is reconstructed, voice folding into voice across a single table.",
+      "note": "The whole novel is framed by a four-hour talk in a cheap Lima bar called La Catedral, near the city dog pound; the bar is invented and sited in the working districts of the real city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral"
+    },
+    {
+      "order": 2,
+      "place": "san-marcos-university",
+      "displayName": "San Marcos University",
+      "country": "PE",
+      "lat": -12.056,
+      "lng": -77.0375,
+      "reference": "The San Marcos chapters",
+      "certainty": "exact",
+      "summary": "At San Marcos the young Santiago falls in with a communist cell against his wealthy family's wishes, only to see the group betrayed and broken by the regime's police. His brief idealism and its collapse set the pattern of a life of compromise, the wound the whole conversation keeps pressing.",
+      "note": "Santiago is radicalised at the National University of San Marcos, the real and oldest university in the Americas, whose historic centre stood by the Parque Universitario in central Lima.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_University_of_San_Marcos"
+    },
+    {
+      "order": 3,
+      "place": "government-palace-police",
+      "displayName": "The Government Palace and secret police",
+      "country": "PE",
+      "lat": -12.0464,
+      "lng": -77.03,
+      "reference": "The Cayo Bermúdez chapters",
+      "certainty": "exact",
+      "summary": "The sinister Cayo Bermúdez runs the regime's security service, bribing, spying and breaking opponents for the dictator. Through him the novel anatomises how the Odría state really worked, the sordid machinery of intimidation and favour behind the palace's official face.",
+      "note": "The dictatorship of Manuel Odría is run from the Government Palace on the Plaza Mayor and the security apparatus beneath it; the palace is real and the regime's police machinery is sited at the seat of power in central Lima.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Government_Palace_(Peru)"
+    },
+    {
+      "order": 4,
+      "place": "miraflores-zavala-home",
+      "displayName": "Miraflores (the Zavala home)",
+      "country": "PE",
+      "lat": -12.12,
+      "lng": -77.03,
+      "reference": "The Zavala chapters",
+      "certainty": "approximate",
+      "summary": "In the comfortable Miraflores home of Santiago's father, Don Fermín, a powerful businessman entangled with the regime, respectability hides bargains and secrets. Santiago's flight from this house and its privilege is his one act of rebellion, and the conversation keeps circling back to what his father really was.",
+      "note": "The Zavala family lives in Miraflores, the affluent Lima district; the specific house is invented and sited in that real seaside neighbourhood of the city's elite.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Miraflores_District,_Lima"
+    },
+    {
+      "order": 5,
+      "place": "la-cronica-newsroom",
+      "displayName": "La Crónica newsroom",
+      "country": "PE",
+      "lat": -12.05,
+      "lng": -77.035,
+      "reference": "The newspaper chapters",
+      "certainty": "approximate",
+      "summary": "Having renounced his family's world, Santiago settles into the small, defeated life of a crime reporter at La Crónica, mediocrity chosen as a kind of protest. The newsroom is where his idealism finally dies quietly, and where the book locates the exact grey texture of a life under a corrupt regime.",
+      "note": "Santiago works as a crime reporter for the Lima daily La Crónica, a real newspaper of the period; its downtown newsroom is sited in the central city where the paper was produced.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "the-grapes-of-wrath",
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "year": 1939,
+  "description": "Steinbeck follows one Dust Bowl family the whole length of Route 66. Driven off their land near Sallisaw in eastern Oklahoma, the Joads load a truck and drive west through Oklahoma City, the panhandle and the desert, across the Colorado River at Needles, over the mountains and down into the California Central Valley, where the promised work turns out to be hunger and hostility. The map is that migration, a real highway from Oklahoma to a government camp near Bakersfield.",
+  "route": [
+    {
+      "order": 1,
+      "place": "joad-farm-sallisaw",
+      "displayName": "The Joad farm near Sallisaw",
+      "country": "US",
+      "lat": 35.46,
+      "lng": -94.803,
+      "reference": "Chapters 1-10",
+      "certainty": "approximate",
+      "summary": "The book opens on the dust-choked farms near Sallisaw, where drought, the banks and the tractors have driven the tenant families off the land. Tom Joad comes home from prison to find his family packing to leave. This ruined ground is what the whole journey is a flight from.",
+      "note": "The Joads' farm is fictional, but the novel places it in the cotton country near Sallisaw, in Sequoyah County, eastern Oklahoma. The pin marks a representative point by the real town, not a documented farm.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sallisaw,_Oklahoma"
+    },
+    {
+      "order": 2,
+      "place": "oklahoma-city",
+      "displayName": "Route 66 at Oklahoma City",
+      "country": "US",
+      "lat": 35.4676,
+      "lng": -97.5164,
+      "reference": "Chapter 12",
+      "certainty": "exact",
+      "summary": "The family joins US Route 66, the great migrant road, and rolls west through Oklahoma City with the other loaded jalopies. Steinbeck names the highway and its towns as a litany of the exodus. The city is the last big place before the long dry run across the panhandle and the desert.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oklahoma_City"
+    },
+    {
+      "order": 3,
+      "place": "needles-colorado-river",
+      "displayName": "The Colorado River at Needles",
+      "country": "US",
+      "lat": 34.8481,
+      "lng": -114.6141,
+      "reference": "Chapter 18",
+      "certainty": "exact",
+      "summary": "At Needles the road reaches the Colorado River, the California line, and the family bathes in the water before the last terrible push across the Mojave by night. Here the migrants are first warned they are not wanted in the state ahead. The river is the threshold between the desert and the promised valley.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Needles,_California"
+    },
+    {
+      "order": 4,
+      "place": "bakersfield-central-valley",
+      "displayName": "Bakersfield and the Central Valley",
+      "country": "US",
+      "lat": 35.3733,
+      "lng": -119.0187,
+      "reference": "Chapters 19-26",
+      "certainty": "exact",
+      "summary": "Over the Tehachapi mountains the family comes down into the green San Joaquin Valley around Bakersfield, the California they crossed a continent for. What they find is a glut of desperate labour, wages cut to nothing, and the roadside Hoovervilles burned by the police. The valley's plenty is fenced off from the people who pick it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+    },
+    {
+      "order": 5,
+      "place": "weedpatch-camp",
+      "displayName": "The Weedpatch government camp",
+      "country": "US",
+      "lat": 35.2333,
+      "lng": -118.9139,
+      "reference": "Chapters 22-26",
+      "certainty": "exact",
+      "summary": "The one decent refuge the Joads find is the federal migrant camp at Weedpatch, run by the campers themselves with sanitation, dances and dignity, a glimpse of what solidarity could build. It stands against the squalor and violence of the growers' camps around it. The real Arvin Federal Government Camp still stands south of Bakersfield.",
+      "note": "The novel's clean, self-governed federal camp is the real Arvin Federal Government Camp (the Weedpatch or Sunset Camp) south of Bakersfield near Lamont; some of its buildings survive.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Arvin_Federal_Government_Camp"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "the-awakening",
+  "title": "The Awakening",
+  "author": "Kate Chopin",
+  "year": 1899,
+  "description": "Two Louisianas, an hour and a century apart: the Creole summer colony on Grand Isle in the Gulf, and the Pontellier house on Esplanade back in New Orleans. Chopin named the real islands, streets, and church; the bbox spans the whole run from the barrier island north to the city.",
+  "route": [
+    {
+      "order": 1,
+      "place": "grand-isle-the-lebrun-cottages",
+      "displayName": "Grand Isle, the Lebrun cottages",
+      "country": "US",
+      "lat": 29.2366,
+      "lng": -89.9873,
+      "reference": "Ch. 1",
+      "certainty": "exact",
+      "summary": "The novel opens where the Creole families of the Quartier Français summer: Madame Lebrun's cottages on Grand Isle, the barrier island at the mouth of Barataria Bay. Robert spends every vacation here, and here he begins the long, idle attention to Edna that starts her awakening.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "order": 2,
+      "place": "the-gulf-beach-edna-swims",
+      "displayName": "The Gulf beach, where Edna learns to swim",
+      "country": "US",
+      "lat": 29.2553,
+      "lng": -89.9528,
+      "reference": "Ch. 10",
+      "certainty": "approximate",
+      "summary": "On a moonlit night Edna swims unaided for the first time, and the small physical triumph turns into something larger: she strikes out alone for open water, intoxicated by a power she has never been allowed. The Gulf that teaches her to swim is the same water she walks into at the end.",
+      "note": "The exact spot is not fixed in the text; the pin marks the Gulf-of-Mexico beach on the seaward side of Grand Isle, along the present-day Grand Isle State Park shore, where the bathers gather.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "order": 3,
+      "place": "our-lady-of-lourdes-cheniere-caminada",
+      "displayName": "Our Lady of Lourdes, Chênière Caminada",
+      "country": "US",
+      "lat": 29.2108,
+      "lng": -90.0504,
+      "reference": "Ch. 12",
+      "certainty": "approximate",
+      "summary": "Edna slips away with Robert on Beaudelet's lugger to hear mass at the Chênière Caminada, then flees the stifling little church for Madame Antoine's cottage. The village Chopin names was real and recent history to her readers: the 1893 storm had already erased it and its people.",
+      "note": "The Chênière Caminada village and its church were swept away in the great hurricane of 1893, six years before the novel; the pin marks the site of the drowned fishing community west of Grand Isle.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "order": 4,
+      "place": "carondelet-street-the-business-district",
+      "displayName": "Carondelet Street, the business district",
+      "country": "US",
+      "lat": 29.948,
+      "lng": -90.0705,
+      "reference": "Ch. 16",
+      "certainty": "approximate",
+      "summary": "Carondelet Street is the men's New Orleans: cotton offices, banks, and Léonce Pontellier's business. When Edna presses her husband for news of the departed Robert, it is here that the two men crossed paths, in the commercial district she herself is never quite part of.",
+      "note": "Carondelet Street is named but no address is given; the pin sits on the street in the New Orleans central business district, the mercantile heart where Léonce works and where Robert is seen before leaving for Mexico.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "order": 5,
+      "place": "the-pontellier-house-esplanade-street",
+      "displayName": "The Pontellier house on Esplanade Street",
+      "country": "US",
+      "lat": 29.9622,
+      "lng": -90.0587,
+      "reference": "Ch. 17",
+      "certainty": "approximate",
+      "summary": "Back in the city, the Pontelliers' dazzling white cottage on Esplanade is the house Edna slowly refuses: Léonce's reception days, his household gods, the perfect appointments she stops maintaining. Her rebellion is measured out against these rooms until she leaves them for good.",
+      "note": "The Pontellier cottage is fictional; the pin sits on Esplanade Avenue at its lower, French Quarter end, the Creole address Chopin gives the family.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "order": 6,
+      "place": "the-pigeon-house",
+      "displayName": "The pigeon house",
+      "country": "US",
+      "lat": 29.9628,
+      "lng": -90.0596,
+      "reference": "Ch. 31",
+      "certainty": "approximate",
+      "summary": "Edna moves out of her husband's house into a tiny rented cottage a few steps away, small enough to be nicknamed the pigeon house. It is her declaration of independence in brick and mortar, a place that is hers, bought with her own money and won on her own terms.",
+      "note": "The pigeon house is fictional and, in the text, stands just around the corner from the Esplanade Street house; the pin is set a few doors away, beside it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/160"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

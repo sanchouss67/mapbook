@@ -1,0 +1,80 @@
+{
+  "id": "a-little-life",
+  "title": "A Little Life",
+  "author": "Hanya Yanagihara",
+  "year": 2015,
+  "description": "Four college friends build their adult lives in New York across some thirty years, the story circling ever closer to Jude St Francis, a gifted litigator carrying a childhood of unspeakable harm. The map holds to Lower Manhattan: a first cramped apartment on Lispenard Street in TriBeCa, the SoHo loft on Greene Street that Jude and Willem come to share, the downtown courts and the square by NYU, with a weekend house upstate off to the north.",
+  "route": [
+    {
+      "order": 1,
+      "place": "lispenard-street-apartment",
+      "displayName": "The Lispenard Street apartment",
+      "country": "US",
+      "lat": 40.7206,
+      "lng": -74.0049,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The four friends start out broke in a cramped, badly kept walk-up on Lispenard Street, the young men's first real home in the city and the setting for the early friendship between Jude and Willem. Yanagihara pins it to this short TriBeCa street between Church Street and Broadway.",
+      "note": "The novel names Lispenard Street in TriBeCa as the site of the first shared apartment, but not a verifiable building; this marks a mid-block point on the real street.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/a-little-life/"
+    },
+    {
+      "order": 2,
+      "place": "greene-street-loft",
+      "displayName": "The Greene Street loft",
+      "country": "US",
+      "lat": 40.724,
+      "lng": -74.0016,
+      "reference": "Part Three",
+      "certainty": "approximate",
+      "summary": "As Jude's law career takes off, he buys and slowly makes over a large loft on Greene Street in SoHo, the apartment that becomes the emotional centre of the later book and the home he and Willem eventually share. It is designed, in part, around the difficulty of his own body.",
+      "note": "The book fixes the grand loft on Greene Street in SoHo but gives no verifiable address; this marks a representative point on the real, cast-iron stretch of the street.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/a-little-life/"
+    },
+    {
+      "order": 3,
+      "place": "washington-square-nyu",
+      "displayName": "Washington Square and NYU",
+      "country": "US",
+      "lat": 40.7308,
+      "lng": -73.9973,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The friends' Greenwich Village years turn on Washington Square and the NYU blocks around it, where Jude studies and the group's student life plays out before careers pull them apart. The park anchors the map's northern, university end.",
+      "note": "Washington Square and the surrounding NYU area are named in the novel; this marks the park at the heart of the district.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/a-little-life/"
+    },
+    {
+      "order": 4,
+      "place": "downtown-courts",
+      "displayName": "The downtown courts",
+      "country": "US",
+      "lat": 40.7141,
+      "lng": -74.0021,
+      "reference": "Part Three",
+      "certainty": "approximate",
+      "summary": "Jude rises to become a formidable litigator at a corporate law firm, and much of his adult identity is bound up in the courtrooms and offices of Lower Manhattan. The courthouses around Foley Square stand in for the downtown legal world he moves through.",
+      "note": "Jude's firm and his court appearances are placed in downtown Manhattan without a named building; this marks Foley Square, the cluster of civil and federal courthouses where such litigation is heard.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/a-little-life/"
+    },
+    {
+      "order": 5,
+      "place": "upstate-country-house",
+      "displayName": "The house upstate",
+      "country": "US",
+      "lat": 41.3812,
+      "lng": -73.9476,
+      "reference": "Part Four",
+      "certainty": "approximate",
+      "summary": "Away from the city, Willem's weekend house upstate gives the friends a place of quiet and rare safety, a retreat where some of the book's gentler scenes unfold. The novel keeps it in the Hudson Valley without naming a town.",
+      "note": "The weekend house sits upstate along the Hudson without a verifiable town, so this marks a representative point in the valley near Garrison; it lies outside the book's New York City setting on purpose.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/a-little-life/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

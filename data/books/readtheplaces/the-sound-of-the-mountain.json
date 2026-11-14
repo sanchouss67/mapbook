@@ -1,0 +1,89 @@
+{
+  "id": "the-sound-of-the-mountain",
+  "title": "The Sound of the Mountain",
+  "author": "Yasunari Kawabata",
+  "year": 1954,
+  "description": "Kamakura, the old seaside capital, where one sleepless night the aging Shingo Ogata hears a deep sound from the wooded hills behind his house and takes it for a summons. He commutes to a Tokyo office along the line north, so the map runs from the temple town to the gardens of the capital.",
+  "route": [
+    {
+      "order": 1,
+      "place": "ogata-house-hase-kamakura",
+      "displayName": "The Ogata house, Hase, Kamakura",
+      "country": "JP",
+      "lat": 35.3145,
+      "lng": 139.5385,
+      "reference": "Opening section, the sound in the hills",
+      "certainty": "approximate",
+      "summary": "The Ogata family share a house in Kamakura, and it is here, on a sleepless August night, that the aging Shingo hears a low rumble from the hills behind the house and reads it as a warning of his own death. Kawabata leaves the house unnamed and wrote the book while living a few streets away in Hase, so we anchor it there.",
+      "note": "The house is fictional and unnamed. We site it in Hase, beside Kawabata's own former Kamakura residence at 1-12-5 Hase, whose domestic world and wooded backdrop the novel closely reflects."
+    },
+    {
+      "order": 2,
+      "place": "kamakura-station-yokosuka-line",
+      "displayName": "Kamakura Station and the Yokosuka Line",
+      "country": "JP",
+      "lat": 35.3181,
+      "lng": 139.5503,
+      "reference": "The Kamakura–Tokyo commute, recurring",
+      "certainty": "approximate",
+      "summary": "Shingo and his son Shuichi ride the train from Kamakura into Tokyo together, and the daily line between home and office frames the novel's movement between family and work. The station and its Yokosuka Line still connect the two cities exactly as the commute requires.",
+      "note": "The novel has Shingo and his son commute from Kamakura into central Tokyo. The Yokosuka Line through Kamakura Station is the real railway that carries that journey, so it is the concrete point for a movement the text describes rather than names."
+    },
+    {
+      "order": 3,
+      "place": "kotoku-in-great-buddha",
+      "displayName": "The Great Buddha, Kotoku-in",
+      "country": "JP",
+      "lat": 35.3168,
+      "lng": 139.5357,
+      "reference": "Kamakura setting, Hase",
+      "certainty": "approximate",
+      "summary": "The bronze Great Buddha has sat open to the sky in Hase since the thirteenth century, a short walk from where the novel places the Ogata house. It anchors the old seaside capital whose hills, temples and quiet give the book its mood.",
+      "note": "Kotoku-in stands in Hase, the same neighbourhood as the Ogata home. The novel is set in this temple town without staging a scene we can pin to the statue, so we include it as a landmark of the Kamakura the family lives among.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in"
+    },
+    {
+      "order": 4,
+      "place": "engaku-ji-kita-kamakura",
+      "displayName": "Engaku-ji, Kita-Kamakura",
+      "country": "JP",
+      "lat": 35.3377,
+      "lng": 139.5475,
+      "reference": "Kamakura setting, Kita-Kamakura",
+      "certainty": "approximate",
+      "summary": "Engaku-ji spreads up a forested valley at Kita-Kamakura, its cedars and gates the kind of temple landscape that surrounds the Ogatas' Kamakura. The wooded hills that give the novel its title sound rise from exactly this terrain.",
+      "note": "Engaku-ji is Kamakura's great Zen monastery, at the wooded northern edge of the town the novel inhabits. We include it as a setting landmark rather than a pinpointed scene.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Engaku-ji"
+    },
+    {
+      "order": 5,
+      "place": "shingo-office-marunouchi",
+      "displayName": "Shingo's office, Marunouchi",
+      "country": "JP",
+      "lat": 35.6752,
+      "lng": 139.7668,
+      "reference": "The Tokyo office, recurring",
+      "certainty": "approximate",
+      "summary": "Shingo keeps a small Tokyo office and a young secretary, and the city is where the novel's business and its quiet betrayals play out, away from the Kamakura house. Marunouchi, the district around Tokyo Station, is the plausible ground for a company man's daily work.",
+      "note": "Shingo works in a Tokyo office reached by the commuter line, but the novel does not give its street. We site it in Marunouchi, the central business district beside Tokyo Station where such an office would sit."
+    },
+    {
+      "order": 6,
+      "place": "shinjuku-gyoen-garden",
+      "displayName": "Shinjuku Gyoen",
+      "country": "JP",
+      "lat": 35.6853,
+      "lng": 139.7094,
+      "reference": "The garden meeting with Kikuko, late in the novel",
+      "certainty": "approximate",
+      "summary": "In one of the novel's tenderest passages Shingo meets Kikuko in a Tokyo garden, where she stands against a blaze of yellow ginkgo and steps for a moment out of the family's shadow. Shinjuku Gyoen, the great imperial garden opened to the public, is the park the scene is understood to describe.",
+      "note": "The novel sends Shingo and his daughter-in-law Kikuko to a Tokyo park; readers and critics identify it as Shinjuku Gyoen, the national garden, which is where we place it."
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

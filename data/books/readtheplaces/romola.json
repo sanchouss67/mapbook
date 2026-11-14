@@ -1,0 +1,88 @@
+{
+  "id": "romola",
+  "title": "Romola",
+  "author": "George Eliot",
+  "year": 1863,
+  "description": "Eliot's Florence of the 1490s, researched to the stone. The Mercato Vecchio where the book opens, the Duomo and its Baptistery, the Ponte Vecchio over the Arno, San Marco where Savonarola is prior, the Piazza della Signoria of the Bonfire of the Vanities, and the Via de' Bardi in Oltrarno where the blind scholar Bardo lives with his daughter Romola. It brings George Eliot into the atlas, and a second Florence four centuries before A Room with a View.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-ponte-vecchio",
+      "displayName": "The Ponte Vecchio",
+      "country": "IT",
+      "lat": 43.768,
+      "lng": 11.2531,
+      "reference": "Proem",
+      "certainty": "exact",
+      "summary": "Eliot opens with a Spirit of the old Florentine dead looking down on the unchanged city. The Ponte Vecchio, still lined with its shops over the Arno, is the first landmark he names, and the reader's first fixed point in the map.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    },
+    {
+      "order": 2,
+      "place": "the-mercato-vecchio",
+      "displayName": "The Mercato Vecchio",
+      "country": "IT",
+      "lat": 43.7714,
+      "lng": 11.2539,
+      "reference": "Chapter I: The Mercato",
+      "certainty": "exact",
+      "summary": "The old market square where the book opens, and where the shipwrecked Greek Tito Melema first surfaces among the pedlars and money-changers. The Mercato Vecchio was cleared in the 1880s; its ground is now Piazza della Repubblica.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    },
+    {
+      "order": 3,
+      "place": "the-piazza-del-duomo",
+      "displayName": "The Piazza del Duomo",
+      "country": "IT",
+      "lat": 43.7734,
+      "lng": 11.2562,
+      "reference": "Chapter III: The Duomo",
+      "certainty": "exact",
+      "summary": "Nello the barber halts Tito in the Piazza San Giovanni to show off the cathedral, Giotto's campanile, and the octagon of the Baptistery with its bronze doors. Brunelleschi's dome and Santa Maria del Fiore still close the square exactly as Eliot sets them.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    },
+    {
+      "order": 4,
+      "place": "via-de-bardi-oltrarno",
+      "displayName": "Via de' Bardi (Oltrarno)",
+      "country": "IT",
+      "lat": 43.767,
+      "lng": 11.2545,
+      "reference": "Chapter V: Via de' Bardi",
+      "certainty": "approximate",
+      "summary": "Across the Arno in Oltrarno, the blind classical scholar Bardo de' Bardi lives with his daughter Romola among his books and antiquities. Eliot gives the street its real history, back to the great banking family the Bardi, ruined in the fourteenth century.",
+      "note": "The Via de' Bardi is a real street named exactly in the text; the house of the blind scholar Bardo is fictional, so the pin sits on the street itself, between the Ponte Vecchio and the Ponte alle Grazie, rather than on a specific address.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    },
+    {
+      "order": 5,
+      "place": "san-marco",
+      "displayName": "San Marco",
+      "country": "IT",
+      "lat": 43.7783,
+      "lng": 11.2588,
+      "reference": "Chapter XV: San Marco",
+      "certainty": "exact",
+      "summary": "In the chapter-house of the Dominican convent of San Marco, at the deathbed of her brother Dino, Romola first sees the friar who will come to rule the city. San Marco was Savonarola's base as prior, and the convent still stands on Piazza San Marco.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    },
+    {
+      "order": 6,
+      "place": "piazza-della-signoria-the-bonfire",
+      "displayName": "The Piazza della Signoria: the bonfire",
+      "country": "IT",
+      "lat": 43.7698,
+      "lng": 11.2556,
+      "reference": "Chapter XLIX: The Pyramid of Vanities",
+      "certainty": "exact",
+      "summary": "In the great square before the Palazzo Vecchio, Savonarola's followers raise the Bonfire of the Vanities: sixty feet of masks, mirrors, playing-cards, and lewd pictures, heaped for burning. The same Piazza della Signoria would see the friar himself burned in 1498.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/24020"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

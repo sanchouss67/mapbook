@@ -1,0 +1,93 @@
+{
+  "id": "our-man-in-havana",
+  "title": "Our Man in Havana",
+  "author": "Graham Greene",
+  "year": 1958,
+  "description": "Greene's Havana is the tourist capital of Batista's Cuba, all cocktail bars, floodlit cabarets and the sea breaking over the Malecon, where a downtrodden vacuum-cleaner salesman is recruited as a British agent and invents his network out of thin air. The map anchors in Old Havana, runs out to the seafront and the Tropicana, and slips east to Santiago as the revolution gathers.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wormolds-shop-lamparilla",
+      "displayName": "Wormold's vacuum shop, Lamparilla Street",
+      "country": "CU",
+      "lat": 23.1378,
+      "lng": -82.3511,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The story opens behind the counter of a failing vacuum-cleaner business in Old Havana, where a mild English widower frets over money and his teenage daughter. Lamparilla is a real street in Habana Vieja, and the shop stands for the ordinary life the intelligence service persuades him to leave behind.",
+      "note": "Greene places Wormold's shop on Lamparilla Street in Old Havana but gives no street number, so this marks a representative point mid-street on the real Lamparilla.",
+      "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g147271-d148917-Reviews-Lamparilla_Street-Havana_Ciudad_de_la_Habana_Province_Cuba.html"
+    },
+    {
+      "order": 2,
+      "place": "sloppy-joes-bar",
+      "displayName": "Sloppy Joe's Bar",
+      "country": "CU",
+      "lat": 23.1395,
+      "lng": -82.358,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "In the washroom of this famous tourist bar a stranger from British intelligence corners the salesman and signs him up as an agent. Sloppy Joe's was a genuine Havana landmark that drew American visitors through the 1950s, closed for decades, and later reopened in the same building.",
+      "note": "Greene names the bar; it is a real establishment on the corner of Zulueta and Animas, and this marks the historic building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sloppy_Joe's_Bar,_Havana"
+    },
+    {
+      "order": 3,
+      "place": "hotel-nacional-de-cuba",
+      "displayName": "Hotel Nacional de Cuba",
+      "country": "CU",
+      "lat": 23.1431,
+      "lng": -82.3806,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The grand hotel above the sea stands for the moneyed, cosmopolitan Havana the spy story moves through, a world of cocktails, informers and expense accounts. Greene sends his characters between hotels and bars of this tourist city, among them the Seville-Biltmore where Wormold drinks and schemes.",
+      "note": "The cliff-top Hotel Nacional is a real, named Havana landmark on the Malecon in Vedado; this marks the hotel itself.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hotel_Nacional_de_Cuba"
+    },
+    {
+      "order": 4,
+      "place": "el-malecon",
+      "displayName": "The Malecon",
+      "country": "CU",
+      "lat": 23.1452,
+      "lng": -82.3667,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "The seafront drive, where waves break over the wall, recurs as a backdrop for walking, talking and being watched. Greene's characters cross it again and again, and it remains the best-known public space in Havana.",
+      "note": "The Malecon is Havana's real seafront boulevard, named in the novel; it runs for kilometres, so this marks a representative point along the esplanade.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malec%C3%B3n,_Havana"
+    },
+    {
+      "order": 5,
+      "place": "tropicana-nightclub",
+      "displayName": "Tropicana nightclub",
+      "country": "CU",
+      "lat": 23.0961,
+      "lng": -82.4231,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "The open-air cabaret in the suburbs, all showgirls and floodlit trees, is where the spying and the drinking dissolve into tourist spectacle. The Tropicana is real, opened in 1939 in Marianao, and still stages its shows.",
+      "note": "Greene names the Tropicana; it is the real open-air cabaret in the Marianao district, and this marks the club's grounds.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tropicana_Club"
+    },
+    {
+      "order": 6,
+      "place": "santiago-de-cuba",
+      "displayName": "Santiago de Cuba",
+      "country": "CU",
+      "lat": 20.0229,
+      "lng": -75.8217,
+      "reference": "Part Four",
+      "certainty": "exact",
+      "summary": "The plot pushes east to Santiago, the island's second city near the Sierra Maestra where rebels were massing, taking the story briefly out of Havana and closer to the revolution about to arrive. It is a deliberate excursion beyond the novel's Havana world.",
+      "note": "Greene names Santiago; this marks the centre of Cuba's second city, roughly 870 kilometres east of Havana, well outside the book's Havana setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santiago_de_Cuba"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

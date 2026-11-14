@@ -1,0 +1,93 @@
+{
+  "id": "my-brilliant-friend",
+  "title": "My Brilliant Friend",
+  "author": "Elena Ferrante",
+  "year": 2011,
+  "description": "Ferrante's neighbourhood, the rione, is drawn from the real Rione Luzzatti on the eastern edge of Naples: a poor 1930s housing estate hemmed by the railway, with its stradone, its parish church and the tunnel out to the ponds. From there the map runs west to the wealthier centre, the elegant streets around Via Chiaia and Piazza dei Martiri, and out across the bay to Ischia.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rione-luzzatti-stradone",
+      "displayName": "The rione and the stradone",
+      "country": "IT",
+      "lat": 40.8552,
+      "lng": 14.2895,
+      "reference": "Childhood, The Story of Don Achille",
+      "certainty": "exact",
+      "summary": "The whole childhood unfolds inside one poor neighbourhood on the eastern rim of Naples: a walled estate of 1930s blocks strung along a wide avenue the girls call the stradone, where the two friends first size each other up. Ferrante never names it, but it maps onto the real Rione Luzzatti near Gianturco.",
+      "note": "The novel's unnamed rione is Rione Luzzatti, the eastern Naples estate Ferrante has said she drew on; sited at a representative point on its main avenue, the stradone.",
+      "sourceUrl": "https://www.lonelyplanet.com/articles/elena-ferrantes-naples-locations-and-inspirations-of-the-neapolitan-novels"
+    },
+    {
+      "order": 2,
+      "place": "sacra-famiglia-church",
+      "displayName": "The parish church, Sacra Famiglia",
+      "country": "IT",
+      "lat": 40.8578,
+      "lng": 14.2901,
+      "reference": "Childhood",
+      "certainty": "exact",
+      "summary": "The parish church is the fixed point of the neighbourhood's public life, where the children are marched for catechism and where the community's small rituals play out. The rione's real church, the Sacra Famiglia on Via Carlo Bussola, still stands at its heart.",
+      "note": "The rione's parish church is the real Sacra Famiglia al Rione Luzzatti on Via Carlo Bussola; coordinates from the church's own listing.",
+      "sourceUrl": "https://www.chiesadinapoli.it/wd-annuario-enti/decanati-1571666374/decanato-06-20-parrocchie-vasto-centro-direzionale-poggioreale-1308/sacra-famiglia-al-rione-luzzatti-468/"
+    },
+    {
+      "order": 3,
+      "place": "gianturco-railway-tunnel",
+      "displayName": "The tunnel under the railway",
+      "country": "IT",
+      "lat": 40.8539,
+      "lng": 14.2878,
+      "reference": "Childhood",
+      "certainty": "approximate",
+      "summary": "On their first real adventure the two girls dare each other to walk out through the dark tunnel under the railway, meaning to reach the sea, and turn back frightened before they get there. The rione is boxed in by the rail line at Gianturco, and the underpass beside the station is the way out that the scene describes.",
+      "note": "The novel's tunnel is the railway underpass at the edge of the rione; sited at the verified Napoli Gianturco station, beside which the line and its underpass run, as a representative point.",
+      "sourceUrl": "https://www.afar.com/magazine/how-to-experience-elena-ferrantes-naples-and-ischia-too"
+    },
+    {
+      "order": 4,
+      "place": "cerullo-shoemaker-shop",
+      "displayName": "The Cerullo shoemaker's shop",
+      "country": "IT",
+      "lat": 40.8546,
+      "lng": 14.2888,
+      "reference": "Adolescence, The Story of the Shoes",
+      "certainty": "approximate",
+      "summary": "Lila's father mends and makes shoes in a cramped workshop off the courtyard, and it is here that she and her brother secretly design the first pair of Cerullo shoes, the ambition that drives the book's second half. The shop is invented, but it belongs to the same rione streets as everything else in the girls' childhood.",
+      "note": "The Cerullo shoe shop is a fictional business with no real address; sited at a representative point inside the Rione Luzzatti footprint, where the novel places it.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/my-brilliant-friend-2/"
+    },
+    {
+      "order": 5,
+      "place": "piazza-dei-martiri",
+      "displayName": "Piazza dei Martiri",
+      "country": "IT",
+      "lat": 40.8342,
+      "lng": 14.2418,
+      "reference": "Adolescence",
+      "certainty": "exact",
+      "summary": "Walking west out of the rione, the girls cross into a wealthier Naples they barely know: the elegant shopping street of Via Chiaia and the smart square of Piazza dei Martiri, where the family's shoes will eventually reach a fashionable shop. The gap between this Naples and their own is the distance the whole novel measures.",
+      "note": "Piazza dei Martiri is a real, named square in central Naples; coordinates from its Wikipedia geotag.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Piazza_dei_Martiri,_Naples"
+    },
+    {
+      "order": 6,
+      "place": "ischia-summer-island",
+      "displayName": "Ischia",
+      "country": "IT",
+      "lat": 40.7379,
+      "lng": 13.9486,
+      "reference": "Adolescence",
+      "certainty": "exact",
+      "summary": "A summer sent to the island of Ischia, across the bay from the city, is the great escape of the book's second half: sea, sun and a first infatuation, a world away from the rione's dust. For the narrator it is the first time the map of her life opens beyond the neighbourhood.",
+      "note": "Ischia is a real, named island; set outsideSetting because it lies about thirty kilometres west across the bay, well beyond the Naples setting. Coordinates mark the island's main town.",
+      "sourceUrl": "https://www.afar.com/magazine/how-to-experience-elena-ferrantes-naples-and-ischia-too"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

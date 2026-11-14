@@ -1,0 +1,80 @@
+{
+  "id": "the-bonfire-of-the-vanities",
+  "title": "The Bonfire of the Vanities",
+  "author": "Tom Wolfe",
+  "year": 1987,
+  "description": "Wolfe's panorama of 1980s New York runs on the distance between its worlds. Sherman McCoy, a Wall Street bond trader who thinks of himself as a Master of the Universe, lives in a Park Avenue duplex and takes a wrong turn off the expressway into the South Bronx, where his mistress hits a young Black man with his car. The fallout pulls in the Bronx County Courthouse, a Harlem preacher, and the tabloids, and the map is the city's fault lines laid end to end.",
+  "route": [
+    {
+      "order": 1,
+      "place": "park-avenue-duplex",
+      "displayName": "Sherman McCoy's Park Avenue duplex",
+      "country": "US",
+      "lat": 40.7685,
+      "lng": -73.9645,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The book opens in the duplex that certifies Sherman as a Master of the Universe: the two-storey marble entrance, the decorator wife, the mortgage that quietly devours his million-dollar income. It is the height from which the rest of the novel drops him.",
+      "note": "Sherman's ten-room apartment is invented but sited squarely on upper Park Avenue in the East 60s–70s, the address that stands for everything he believes about himself; placed on that stretch of the avenue.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+    },
+    {
+      "order": 2,
+      "place": "wall-street-pierce-and-pierce",
+      "displayName": "Wall Street (Pierce & Pierce)",
+      "country": "US",
+      "lat": 40.706,
+      "lng": -74.009,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "On the bond-trading floor Sherman is a god of the golden crumbs, moving hundreds of millions and skimming his fraction. Wolfe uses the roar of the room to show the money that props up the Park Avenue life, and the single failing trade that starts to pull it apart.",
+      "note": "Sherman trades bonds at the fictional firm Pierce & Pierce, set on Wall Street in the real Financial District where the 1980s bond market minted the fortunes the book satirises.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+    },
+    {
+      "order": 3,
+      "place": "south-bronx-wrong-turn",
+      "displayName": "The wrong turn in the South Bronx",
+      "country": "US",
+      "lat": 40.812,
+      "lng": -73.916,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "Lost off the Bruckner in the dark, Sherman and his mistress Maria are confronted by two young men on a ramp. Panicking, Maria takes the wheel and the car strikes one of them, Henry Lamb. The couple flee, and that hit-and-run is the hinge the entire novel turns on.",
+      "note": "Returning from the airport, Sherman misses the ramp and drops off the expressway into the South Bronx; the borough and its expressways are real, the exact ramp unnamed. Sited in the South Bronx the book describes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+    },
+    {
+      "order": 4,
+      "place": "bronx-county-courthouse",
+      "displayName": "The Bronx County Courthouse",
+      "country": "US",
+      "lat": 40.8265,
+      "lng": -73.923,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "The assistant DA Larry Kramer, underpaid and hungry for a case that will matter, seizes on the Lamb affair as his chance. The courthouse on the Grand Concourse, and the machinery of a Bronx justice system starved of white defendants, turn Sherman into a political trophy.",
+      "note": "The prosecution of Sherman plays out at the real Bronx County Courthouse on the Grand Concourse, the monumental building that houses the district attorney's office in the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bronx_County_Courthouse"
+    },
+    {
+      "order": 5,
+      "place": "harlem-reverend-bacon",
+      "displayName": "Harlem (Reverend Bacon)",
+      "country": "US",
+      "lat": 40.81,
+      "lng": -73.945,
+      "reference": "Chapter 8",
+      "certainty": "approximate",
+      "summary": "The Reverend Bacon, a canny Harlem power broker, turns the injured Henry Lamb into a cause, staging demonstrations and working the newspapers. Wolfe uses him to show how outrage, real and manufactured, becomes leverage in a city run on publicity.",
+      "note": "Reverend Bacon operates out of Harlem, from which he organises the protests and press campaign around Henry Lamb; the church and office are invented and sited in the real Harlem.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

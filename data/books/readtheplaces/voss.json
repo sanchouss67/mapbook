@@ -1,0 +1,80 @@
+{
+  "id": "voss",
+  "title": "Voss",
+  "author": "Patrick White",
+  "year": 1957,
+  "description": "In the 1840s the obsessive German explorer Voss sets out to cross the Australian continent, sustained by a strange, wordless spiritual bond with Laura Trevelyan, a young woman he leaves behind in Sydney. White's novel holds together two worlds: colonial Sydney, with the Bonner household and the harbour from which the expedition departs, and the vast unmapped interior, drawn from the real inland journeys of explorers like Leichhardt, where the party is broken and Voss meets his death.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bonner-house-sydney",
+      "displayName": "The Bonner house, Sydney",
+      "country": "AU",
+      "lat": -33.87,
+      "lng": 151.225,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "In the Bonners' drawing room the proud, unbending Voss and the reserved, intelligent Laura meet and strike the strange current that binds them across the whole book. Colonial Sydney, all propriety and commerce, is the world Voss disdains and Laura outgrows, and the fixed point from which she follows him in spirit.",
+      "note": "The novel opens in the comfortable Sydney house of the merchant Bonner, Laura's uncle; sited in the real colonial town, in the well-to-do quarters near the harbour.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Sydney"
+    },
+    {
+      "order": 2,
+      "place": "sydney-departure",
+      "displayName": "Sydney (the departure)",
+      "country": "AU",
+      "lat": -33.86,
+      "lng": 151.21,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "Backed by Sydney money and cheered by a society that half-wants a hero and half-wants a spectacle, Voss gathers his ill-matched party and leaves. The harbour departure marks the passage from the settled coastal world into the unknown, where his will is to be tested against a land that answers to no one.",
+      "note": "The expedition is fitted out and sets off from Sydney and its harbour, the real port from which the inland journeys of the period departed by sea to the frontier.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sydney_Harbour"
+    },
+    {
+      "order": 3,
+      "place": "the-frontier-station",
+      "displayName": "The frontier station",
+      "country": "AU",
+      "lat": -26.96,
+      "lng": 151.2,
+      "reference": "Chapter 8",
+      "certainty": "approximate",
+      "summary": "At the edge of the known country, on the last cattle stations before the map runs out, the expedition takes on its final shape and the poet Le Mesurier and the others follow Voss into the interior. Beyond here lies only rumour and desert, and the slow unravelling of the men against the land.",
+      "note": "The party strikes inland from the last frontier stations of the settled districts, drawn from the real jumping-off points of 1840s exploration such as the Darling Downs; sited on that frontier, well beyond the coastal setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voss_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "the-interior-ordeal",
+      "displayName": "The interior (the ordeal)",
+      "country": "AU",
+      "lat": -24,
+      "lng": 138,
+      "reference": "Chapters 10-14",
+      "certainty": "approximate",
+      "summary": "In the waterless interior the party is broken by thirst, sickness and division, and the Aboriginal guides, among them the boy Jackie, read a country the white men cannot. White turns the physical ordeal into a spiritual one, Voss's iron will stripped down in the desert to something like humility, or madness.",
+      "note": "The heart of the book is the crossing of the arid interior, drawn from the real inland expeditions of the 1840s; the route is the novel's own, sited in the central Australian desert far outside the Sydney setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voss_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "voss-death-interior",
+      "displayName": "Voss's death in the interior",
+      "country": "AU",
+      "lat": -23.5,
+      "lng": 137.5,
+      "reference": "Chapter 15",
+      "certainty": "approximate",
+      "summary": "Abandoned by fate and by most of his men, Voss is finally killed by the Aboriginal people whose country he trespassed, the boy Jackie made to do the deed. Back in Sydney Laura senses the moment of his death, and the book ends by turning the failed explorer into a strange, enduring myth of the land itself.",
+      "note": "Voss meets his death deep in the interior at the hands of Aboriginal people, as the historical explorer Leichhardt vanished; the place is the novel's own, sited in the remote inland far from Sydney.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Voss_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "blood-meridian",
+  "title": "Blood Meridian",
+  "author": "Cormac McCarthy",
+  "year": 1985,
+  "description": "The novel follows a nameless runaway, the Kid, out of the East Texas pine country and into the desert borderlands of 1849 and 1850, where he falls in with the Glanton gang, a company of scalp-hunters paid by Mexican authorities to bring in Apache dead. Their route runs across the real Chihuahuan and Sonoran deserts, from Chihuahua City through the abandoned mines of New Mexico to the Colorado River ferry at Yuma, and closes years later on the Texas plains. The map traces that route soberly; the book's violence is historical and extreme.",
+  "route": [
+    {
+      "order": 1,
+      "place": "nacogdoches-texas",
+      "displayName": "Nacogdoches, Texas",
+      "country": "MX",
+      "lat": 31.6035,
+      "lng": -94.6555,
+      "reference": "Early chapters",
+      "certainty": "exact",
+      "summary": "The narrative begins with a boy fleeing his family and drifting west across the South, and Nacogdoches is his first named stop in Texas. In this old town near the Louisiana line he first crosses paths with the giant, hairless Judge Holden and sees the frontier's casual violence up close before turning further west.",
+      "note": "McCarthy names Nacogdoches directly; the coordinates mark the centre of the old East Texas town, since the novel gives no single address within it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nacogdoches,_Texas"
+    },
+    {
+      "order": 2,
+      "place": "chihuahua-city",
+      "displayName": "Chihuahua City",
+      "country": "MX",
+      "lat": 28.6353,
+      "lng": -106.0889,
+      "reference": "Middle chapters",
+      "certainty": "exact",
+      "summary": "In the capital of Chihuahua the gang led by John Joel Glanton takes a contract from the state authorities, who pay a bounty for the scalps of Apache raiders. The arrangement is drawn from the historical scalp bounties of the late 1840s. What begins as a paid campaign against one enemy soon widens into indiscriminate killing, and the gang is driven out of the same city that hired it.",
+      "note": "The city is named explicitly; the coordinates mark the historic centre around the Plaza de Armas, where the governor's palace and cathedral stand.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Joel_Glanton"
+    },
+    {
+      "order": 3,
+      "place": "santa-rita-del-cobre",
+      "displayName": "Santa Rita del Cobre",
+      "country": "MX",
+      "lat": 32.8036,
+      "lng": -108.0608,
+      "reference": "Middle chapters",
+      "certainty": "exact",
+      "summary": "Riding through the mountains of what is now southwestern New Mexico, the gang reaches the abandoned copper mining settlement of Santa Rita del Cobre. The town's real history matches the book: opened early in the nineteenth century, its Spanish and Mexican workings were cut off by Apache raids in the 1830s and its people fled south, most killed on the road. Here the gang encounters stranded California-bound emigrants.",
+      "note": "McCarthy names the copper mines of Santa Rita del Cobre; the coordinates mark the historical Santa Rita site in Grant County, New Mexico, later swallowed by the Chino open-pit mine.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Rita,_New_Mexico"
+    },
+    {
+      "order": 4,
+      "place": "yuma-crossing-colorado",
+      "displayName": "The Yuma crossing of the Colorado",
+      "country": "MX",
+      "lat": 32.728,
+      "lng": -114.6151,
+      "reference": "Late chapters",
+      "certainty": "exact",
+      "summary": "Where the gold-rush road crossed the Colorado River at Yuma, the gang seizes control of the ferry that carried emigrants over the water and turns it to robbery and murder. This mirrors the real Glanton party's takeover of the crossing in 1850. The episode ends in a dawn attack by the Quechan people whose ferry the gang had usurped, and the killing of Glanton, a massacre the historical record also records.",
+      "note": "The ferry crossing at the Colorado is explicit; the coordinates mark the historic ferry landing at Yuma Crossing, where the gold-rush route forded the river below the site of Fort Yuma.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yuma_Crossing"
+    },
+    {
+      "order": 5,
+      "place": "fort-griffin-texas",
+      "displayName": "Fort Griffin, Texas",
+      "country": "MX",
+      "lat": 32.9196,
+      "lng": -99.2292,
+      "reference": "Final chapter",
+      "certainty": "exact",
+      "summary": "The book closes years later at Fort Griffin on the Texas plains, a rough buffalo-hunting settlement that grew up beside a frontier army post. Here, in a saloon, the grown survivor of the gang meets Judge Holden a final time. McCarthy leaves the ending deliberately unresolved; the setting is a real place whose brief, violent heyday came in the 1870s.",
+      "note": "The closing scenes are set at Fort Griffin; the coordinates mark the Fort Griffin site in Shackelford County, Texas, and the lawless town of the same name that grew below it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fort_Griffin"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "three-trapped-tigers",
+  "title": "Three Trapped Tigers",
+  "author": "Guillermo Cabrera Infante",
+  "year": 1967,
+  "description": "A pun-drunk, nocturnal portrait of Havana in 1958, the last months before the revolution, following a handful of night owls, a photographer, a writer, an actor, a bongo player, through the cabarets and bars until dawn. Cabrera Infante maps the real nightlife: the open-air Tropicana cabaret, the neon strip of La Rampa in Vedado, the seawall of the Malecón where the friends drive and talk, and the older boulevard of the Prado. Over it all towers the doomed, magnificent singer La Estrella.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tropicana-cabaret",
+      "displayName": "The Tropicana cabaret",
+      "country": "CU",
+      "lat": 23.1015,
+      "lng": -82.431,
+      "reference": "Prologue",
+      "certainty": "exact",
+      "summary": "Under the great trees of the Tropicana, the MC's showman patter, half English, half Spanish, launches the whole book on its wave of wordplay and night. The cabaret is the glittering surface of 1958 Havana, tourist dollars and mulatta showgirls, the doomed good time the revolution is about to end.",
+      "note": "The book opens with the bilingual master of ceremonies at the Tropicana, the real open-air cabaret in the Marianao district of Havana, still famous for its shows under the stars.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tropicana_Club"
+    },
+    {
+      "order": 2,
+      "place": "la-rampa-vedado",
+      "displayName": "La Rampa (Calle 23), Vedado",
+      "country": "CU",
+      "lat": 23.14,
+      "lng": -82.383,
+      "reference": "The night chapters",
+      "certainty": "exact",
+      "summary": "Along La Rampa the actor Cué and his friends cruise the bright strip of bars and clubs, trading jokes, memories and impersonations. Cabrera Infante turns the real neon geography of Vedado into a stage for a Havana that exists most fully after dark and in language.",
+      "note": "La Rampa, the sloping stretch of Calle 23 in the Vedado district, was the real neon heart of Havana nightlife, lined with clubs, cafés and cinemas the characters drift through.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vedado"
+    },
+    {
+      "order": 3,
+      "place": "malecon-night-drives",
+      "displayName": "The Malecón (the night drives)",
+      "country": "CU",
+      "lat": 23.145,
+      "lng": -82.36,
+      "reference": "The night chapters",
+      "certainty": "exact",
+      "summary": "On the long curve of the Malecón, the writer Silvestre and the actor Cué drive back and forth through the night in a torrent of talk about film, women, language and time. The seawall, with the dark sea beyond it, is where the book's endless conversation runs freest, the city dreaming aloud.",
+      "note": "The Malecón, Havana's real seafront drive along the wall against the Atlantic, is where the friends cruise and talk through the small hours; it recurs as the book's open-air stage.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malec%C3%B3n,_Havana"
+    },
+    {
+      "order": 4,
+      "place": "la-estrella-club",
+      "displayName": "La Estrella's club",
+      "country": "CU",
+      "lat": 23.138,
+      "lng": -82.372,
+      "reference": "The night chapters",
+      "certainty": "approximate",
+      "summary": "La Estrella, huge, ugly and magnificent, sings boleros a cappella and silences every room, the one pure voice in a book made of chatter and mimicry. Códac's worship of her, and her squalid decline and death, give the nocturnal comedy its tragic ground note.",
+      "note": "The immense Black singer La Estrella performs without accompaniment in the small bars and clubs of the Vedado and Centro night; the specific club is invented and sited in that real nightlife district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Three_Trapped_Tigers"
+    },
+    {
+      "order": 5,
+      "place": "prado-centro-habana",
+      "displayName": "The Prado (Centro Habana)",
+      "country": "CU",
+      "lat": 23.138,
+      "lng": -82.359,
+      "reference": "The night chapters",
+      "certainty": "exact",
+      "summary": "The grand old Prado, with its lions and its worn marble benches, carries the memory of an earlier Havana beneath the neon of Vedado. Through the photographer Códac's eyes, the whole doomed city is caught in the amber of one endless 1958 night, just before everything changes.",
+      "note": "The Paseo del Prado, the real tree-lined promenade between Centro Habana and the old city, belongs to the older nightlife the book also roams; sited on that historic boulevard.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paseo_del_Prado_(Havana)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

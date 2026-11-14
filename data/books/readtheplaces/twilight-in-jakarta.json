@@ -1,0 +1,80 @@
+{
+  "id": "twilight-in-jakarta",
+  "title": "Twilight in Jakarta",
+  "author": "Mochtar Lubis",
+  "year": 1963,
+  "description": "Lubis's angry panorama of Jakarta in the mid-1950s cuts between the classes of the young republic's capital, from the garbage collectors of the kampungs to the corrupt politicians and businessmen growing rich on graft. The real city organises it: the crowded poor quarters around Senen, the leafy elite villas of Menteng, the smuggling docks of Tanjung Priok, the old commercial town of Kota, and the government centre at Merdeka Square where the rot begins.",
+  "route": [
+    {
+      "order": 1,
+      "place": "senen-kampung",
+      "displayName": "The kampung (Senen)",
+      "country": "ID",
+      "lat": -6.175,
+      "lng": 106.845,
+      "reference": "The kampung chapters",
+      "certainty": "approximate",
+      "summary": "Saimun, a migrant from the villages, hauls the city's rubbish and lives hand to mouth in a kampung, one of the countless poor on whose labour and misery the capital runs. Lubis grounds his indictment of the republic's corruption in the daily reality of people like him, who pay for the rich men's graft.",
+      "note": "The urban poor of the novel live in the crowded kampungs of central Jakarta around Senen, a real district; the specific alleys are sited in that quarter of the working city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Senen"
+    },
+    {
+      "order": 2,
+      "place": "menteng-elite",
+      "displayName": "Menteng (the elite)",
+      "country": "ID",
+      "lat": -6.195,
+      "lng": 106.83,
+      "reference": "The Menteng chapters",
+      "certainty": "exact",
+      "summary": "In his comfortable Menteng villa the politician-businessman Raden Kaslan spins the import licences and kickbacks that make him rich while the republic's ideals decay. The gulf between these shaded avenues and the kampungs a few miles off is the moral distance the whole book measures.",
+      "note": "The politicians and profiteers of the book live in the leafy villas of Menteng, the real elite residential district of Jakarta laid out in colonial times.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Menteng"
+    },
+    {
+      "order": 3,
+      "place": "tanjung-priok-port",
+      "displayName": "Tanjung Priok (the port)",
+      "country": "ID",
+      "lat": -6.105,
+      "lng": 106.88,
+      "reference": "The trade chapters",
+      "certainty": "exact",
+      "summary": "Raden Kaslan's Westernised, dissolute son Suryono is drawn into the family's schemes around the port's licences and contraband, chasing money and women with equal aimlessness. The harbour, gateway of the graft, shows how the young republic's commerce has been captured by a corrupt few.",
+      "note": "The docks of Tanjung Priok, Jakarta's real main port, are where the import rackets and smuggling that enrich the elite pass through; sited at the working harbour north of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tanjung_Priok"
+    },
+    {
+      "order": 4,
+      "place": "kota-old-town",
+      "displayName": "Kota (the old town)",
+      "country": "ID",
+      "lat": -6.135,
+      "lng": 106.813,
+      "reference": "The city chapters",
+      "certainty": "exact",
+      "summary": "Through the offices and nightspots of the city moves Dahlia, Suryono's married lover, one of the many caught up in the capital's cynical exchange of sex, money and influence. Lubis uses her affair to show corruption reaching into private life, the whole city trading in favours.",
+      "note": "The old commercial town of Kota, the former colonial Batavia, is the business heart of the city where much of its trade and intrigue plays out; the real district anchors the novel's urban world.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jakarta_Old_Town"
+    },
+    {
+      "order": 5,
+      "place": "merdeka-square-politics",
+      "displayName": "Merdeka Square (the politics)",
+      "country": "ID",
+      "lat": -6.17,
+      "lng": 106.827,
+      "reference": "The republic chapters",
+      "certainty": "exact",
+      "summary": "Around the great square and the ministries, the parties bargain and betray, and an election looms in which the corruption reaches its height before a reckoning falls. Lubis ends with a kind of judgement on the men who sold the revolution's promise, the twilight of the title closing over the whole city.",
+      "note": "The government ministries and party politics of the young republic centre on Medan Merdeka, the great square at the heart of Jakarta; the real square anchors the novel's picture of political rot.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Merdeka_Square,_Jakarta"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

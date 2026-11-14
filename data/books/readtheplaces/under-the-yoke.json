@@ -1,0 +1,80 @@
+{
+  "id": "under-the-yoke",
+  "title": "Under the Yoke",
+  "author": "Ivan Vazov",
+  "year": 1894,
+  "description": "Bulgaria's national novel, set in the year of the April Uprising of 1876 against Ottoman rule, follows the escaped revolutionary Boycho Ognyanov as he returns to a small town in the Rose Valley below the Balkan Mountains and helps rouse it to a doomed rebellion. Vazov drew his town of Byala Cherkva from his own Sopot: the streets and houses of the town, the school and the monastery, the neighbouring town of Klisura burned in the rising, and the Sredna Gora mountains where the revolt is crushed.",
+  "route": [
+    {
+      "order": 1,
+      "place": "byala-cherkva-town",
+      "displayName": "Byala Cherkva (Sopot)",
+      "country": "BG",
+      "lat": 42.65,
+      "lng": 24.75,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The escaped revolutionary Ivan Kralich, under the name Boycho Ognyanov, slips back into his home town and, after saving a girl from Turkish assailants, becomes the secret heart of its revolutionary circle. The ordinary streets and courtyards of the Rose Valley town are where a whole community is drawn, house by house, toward rebellion.",
+      "note": "The town of Byala Cherkva is drawn from Vazov's own birthplace of Sopot, in the Rose Valley below the Balkan range; sited at Sopot, the real town the novel fictionalises.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sopot,_Bulgaria"
+    },
+    {
+      "order": 2,
+      "place": "the-school-rada",
+      "displayName": "The school (Rada)",
+      "country": "BG",
+      "lat": 42.651,
+      "lng": 24.752,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "At the school, the shy teacher Rada and the disguised Ognyanov fall in love, their tenderness set against the gathering storm. The tie between them, and the danger it runs as the conspiracy grows, gives the national drama its intimate, human centre.",
+      "note": "Rada, the gentle orphan schoolteacher Ognyanov loves, teaches at the town's girls' school; the specific school is sited within the real town of Sopot.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Under_the_Yoke"
+    },
+    {
+      "order": 3,
+      "place": "markos-house",
+      "displayName": "Chorbadji Marko's house",
+      "country": "BG",
+      "lat": 42.649,
+      "lng": 24.748,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "Marko, the cautious, decent patriarch, opens the book worrying over his children and ends it swept, like the whole town, into the cause he first mistrusted. Vazov uses his household to show a whole society, prudent and settled, gradually catching the fever of freedom.",
+      "note": "The respected householder Chorbadji Marko presides over a large family in the town; his house, a fixture of the community, is sited in the real Sopot the novel maps.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Under_the_Yoke"
+    },
+    {
+      "order": 4,
+      "place": "klisura-uprising",
+      "displayName": "Klisura (the uprising)",
+      "country": "BG",
+      "lat": 42.68,
+      "lng": 24.44,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "When the April Uprising finally erupts, the reckless Doctor Sokolov and the other rebels throw themselves into the defence of Klisura, only for the town to be overrun and put to the torch. The gap between the rebels' passionate hopes and their hopeless preparation turns exaltation into massacre.",
+      "note": "The rising breaks out and the neighbouring town of Klisura, a real town in the Sredna Gora, is defended and then burned by the Ottoman forces; the novel follows the revolt to this actual place.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/April_Uprising_of_1876"
+    },
+    {
+      "order": 5,
+      "place": "sredna-gora-last-stand",
+      "displayName": "The Sredna Gora (the last stand)",
+      "country": "BG",
+      "lat": 42.63,
+      "lng": 24.35,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "As the revolt collapses and the reprisals begin, Ognyanov and the last rebels are hunted through the Sredna Gora, and he dies at the mill with Rada and Sokolov, guns in hand. Vazov ends on the crushed rising, but writes it as the birth-agony of the nation that would soon throw off the yoke for good.",
+      "note": "The rebellion is crushed across the Sredna Gora, the real mountain range that was the heart of the April Uprising; the novel's fugitives and their deaths are set in these hills.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sredna_Gora"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "life-and-fate",
+  "title": "Life and Fate",
+  "author": "Vasily Grossman",
+  "year": 1980,
+  "description": "Grossman's vast novel turns on the Battle of Stalingrad in 1942–43 and braids it with the two great terrors of the century, the Nazi camps and Stalin's own. The city on the Volga is the fixed centre: the ruined streets, the encircled strongpoint the novel calls House 6/1, and the height of Mamayev Kurgan fought over yard by yard. Beyond it the book reaches to the Berdichev ghetto, where the physicist Shtrum's mother writes her last letter, and to the Lubyanka in Moscow, so that the war and the two tyrannies are held in one frame.",
+  "route": [
+    {
+      "order": 1,
+      "place": "stalingrad-volga",
+      "displayName": "Stalingrad (the city on the Volga)",
+      "country": "RU",
+      "lat": 48.7071,
+      "lng": 44.517,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Across the Volga and into the burning city come the reinforcements and the commissars, Krymov among them, an old Bolshevik who still believes and will be broken for it. Grossman, who reported the real battle for Red Star, renders the crossings, the cellars and the rubble with the authority of a witness.",
+      "note": "The novel's battle is the real defence of Stalingrad, now Volgograd, along the west bank of the Volga; the ruined city and its river crossings are the fixed centre of the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
+    },
+    {
+      "order": 2,
+      "place": "house-6-1",
+      "displayName": "House 6/1 (the encircled strongpoint)",
+      "country": "RU",
+      "lat": 48.716,
+      "lng": 44.534,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "In the surrounded ruin of House 6/1, Grekov's men fight on their own terms, a pocket of rough freedom that alarms the commissars almost as much as the Germans. Grossman makes the building a small republic of the free, and the state's unease at it is the moral heart of the book.",
+      "note": "The cut-off apartment building the novel calls House 6/1, held by a band of soldiers under Grekov, is drawn from Pavlov's House, the real Stalingrad strongpoint defended for weeks; sited in the central city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pavlov%27s_House"
+    },
+    {
+      "order": 3,
+      "place": "mamayev-kurgan",
+      "displayName": "Mamayev Kurgan",
+      "country": "RU",
+      "lat": 48.742,
+      "lng": 44.537,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "The height over the city is soaked in men, taken and retaken until the slope itself seems made of iron and bone. From positions like these the counter-offensive is prepared that will encircle the German Sixth Army, turning the war and the century.",
+      "note": "Mamayev Kurgan, the real hill dominating Stalingrad, changed hands repeatedly in the fighting and commands the city and the Volga; it is among the battle's most contested ground.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mamayev_Kurgan"
+    },
+    {
+      "order": 4,
+      "place": "berdichev-ghetto",
+      "displayName": "The Berdichev ghetto",
+      "country": "RU",
+      "lat": 49.899,
+      "lng": 28.598,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The physicist Shtrum's mother writes from a Ukrainian ghetto in the days before the Germans kill its Jews, a letter Grossman based on the fate of his own mother at Berdichev. It is the book's unbearable centre, and it sets the Nazi murder of the Jews beside the Soviet terror without ever equating them.",
+      "note": "Anna Semyonovna's last letter is written from the ghetto of Berdichev in Ukraine, the real town where Grossman's own mother was murdered with the Jews in 1941; sited there, far outside the Stalingrad setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berdychiv"
+    },
+    {
+      "order": 5,
+      "place": "lubyanka-moscow",
+      "displayName": "The Lubyanka, Moscow",
+      "country": "RU",
+      "lat": 55.7605,
+      "lng": 37.628,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "While the physicist Shtrum makes a breakthrough and is then hounded for his Jewishness and his independence, the machinery of the Lubyanka grinds on interrogating and breaking men like Krymov. Grossman's great argument is that Stalingrad was won by the very freedom the state could not tolerate.",
+      "note": "The Lubyanka in Moscow, the real headquarters and prison of the Soviet security service, stands in the novel for the state terror that runs parallel to the war; sited in Moscow, outside the Stalingrad setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lubyanka_Building"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

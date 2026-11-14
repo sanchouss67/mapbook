@@ -1,0 +1,80 @@
+{
+  "id": "101-reykjavik",
+  "title": "101 Reykjavík",
+  "author": "Hallgrímur Helgason",
+  "year": 1996,
+  "description": "Hlynur Björn, a thirtyish layabout who still lives with his mother, drifts through the bars, screens and hangovers of downtown Reykjavík, his aimless world upended when his mother's lover moves in. Helgason maps the real 101 postal district that gives the book its name: the flat in the old centre, the shopping and bar street of Laugavegur, the downtown pubs of the weekend rúntur, and the little lake of Tjörnin at the city's heart.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-flat-101",
+      "displayName": "The flat (101)",
+      "country": "IS",
+      "lat": 64.144,
+      "lng": -21.94,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "From the sofa of his mother's flat, thirty and going nowhere, Hlynur narrates his life of television, internet porn, unemployment cheques and hangovers in a stream of bleak, deadpan wit. The cramped central flat, and his refusal to leave it or grow up, is the still centre from which his aimless downtown world radiates.",
+      "note": "Hlynur lives with his mother in a flat in the 101 postal district, the old central quarter of Reykjavík that gives the book its title; the flat is invented and sited in that real neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
+    },
+    {
+      "order": 2,
+      "place": "laugavegur",
+      "displayName": "Laugavegur",
+      "country": "IS",
+      "lat": 64.146,
+      "lng": -21.935,
+      "reference": "The daytime chapters",
+      "certainty": "exact",
+      "summary": "Down Laugavegur, past its shops and cafés, Hlynur shuffles through the thin Reykjavík daylight, dodging his on-again girlfriend Hófí and the demands of an adult life he can't face. The street, the city's busy spine, throws his own inertia into relief against everyone else's forward motion.",
+      "note": "Laugavegur, the real main shopping and bar street of downtown Reykjavík, is the artery of Hlynur's few daylight ventures out of the flat.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Laugavegur_(Reykjav%C3%ADk)"
+    },
+    {
+      "order": 3,
+      "place": "the-downtown-bars",
+      "displayName": "The downtown bars",
+      "country": "IS",
+      "lat": 64.145,
+      "lng": -21.938,
+      "reference": "The nighttime chapters",
+      "certainty": "approximate",
+      "summary": "In the packed downtown bars, drinking, prowling and trading wisecracks, Hlynur comes as close as he ever does to being alive. Helgason renders the Reykjavík nightlife, its ritual weekend excess and its sudden intimacies, as both his hero's element and the trap that keeps him a permanent adolescent.",
+      "note": "Hlynur's real life is nocturnal, in the downtown bars of central Reykjavík such as the famous Kaffibarinn; the bars are sited in the real 101 nightlife district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/101_Reykjav%C3%ADk"
+    },
+    {
+      "order": 4,
+      "place": "tjornin-pond",
+      "displayName": "Tjörnin (the pond)",
+      "country": "IS",
+      "lat": 64.144,
+      "lng": -21.942,
+      "reference": "The city chapters",
+      "certainty": "exact",
+      "summary": "By the little pond at the city's centre, Hlynur's world tilts when his mother reveals she loves a woman, the flamenco-dancing Lóla, and the two lovers set up a life that leaves him more adrift than ever. The everyday landmark of Tjörnin measures the small, closed circle of a downtown Reykjavík where everyone, sooner or later, knows everyone.",
+      "note": "Tjörnin, the small lake in the heart of Reykjavík by the city hall, is a real central feature of the town across which the characters' lives circle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tj%C3%B6rnin"
+    },
+    {
+      "order": 5,
+      "place": "the-runtur",
+      "displayName": "The rúntur (the nightlife)",
+      "country": "IS",
+      "lat": 64.147,
+      "lng": -21.94,
+      "reference": "The weekend chapters",
+      "certainty": "approximate",
+      "summary": "It is on the endless weekend rúntur, drink and dark and blurred encounters, that Hlynur sleeps with Lóla, his mother's lover, tangling the household past unpicking. Helgason ends his hero much where he began, on the sofa, older but no wiser, the beautiful ordinary chaos of downtown Reykjavík carrying on around him.",
+      "note": "The weekend rúntur, the downtown bar-crawl round the central streets, is a real Reykjavík ritual; sited on the club streets of the 101 district the book haunts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/101_Reykjav%C3%ADk"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

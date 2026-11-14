@@ -1,0 +1,93 @@
+{
+  "id": "memoirs-of-hadrian",
+  "title": "Memoirs of Hadrian",
+  "author": "Marguerite Yourcenar",
+  "year": 1951,
+  "description": "An ageing emperor writes to his heir, taking the measure of a life spent building. The map holds the monuments Hadrian left standing in Rome: the Pantheon he rebuilt and the great drum of his own mausoleum by the Tiber. It reaches east to his villa at Tibur and, on his memory's longer excursions, to the Athens he adorned and the Nile where Antinous drowned.",
+  "route": [
+    {
+      "order": 1,
+      "place": "pantheon",
+      "displayName": "The Pantheon",
+      "country": "IT",
+      "lat": 41.898609,
+      "lng": 12.476873,
+      "reference": "The rebuilding of Rome under Hadrian",
+      "certainty": "exact",
+      "summary": "Among the works the emperor counts as his own is the great round temple to all the gods, which he raised again from Agrippa's ruined original and left crowned with its open eye to the sky. It still stands, close to whole, in the heart of the old city.",
+      "note": "The Pantheon is a named, still-standing monument; Hadrian rebuilt it early in his reign and kept his predecessor Agrippa's name on the front. These are the coordinates of the building on the Piazza della Rotonda.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+      "order": 2,
+      "place": "temple-of-venus-and-roma",
+      "displayName": "Temple of Venus and Roma",
+      "country": "IT",
+      "lat": 41.891411,
+      "lng": 12.488472,
+      "reference": "The rebuilding of Rome under Hadrian",
+      "certainty": "exact",
+      "summary": "The emperor, an amateur architect proud of his own hand, sets the largest temple in the city on the ridge between the Forum and the amphitheatre, its two shrines built back to back for the goddess of the city and the goddess of love. Its brick vaults survive on the Via Sacra.",
+      "note": "A named monument on the Velian Hill above the Forum, its ruins still visible beside the Colosseum. Hadrian drew the plans himself; these are the coordinates of the surviving platform.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma"
+    },
+    {
+      "order": 3,
+      "place": "mausoleum-castel-santangelo",
+      "displayName": "Hadrian's Mausoleum (Castel Sant'Angelo)",
+      "country": "IT",
+      "lat": 41.903065,
+      "lng": 12.466276,
+      "reference": "Hadrian's tomb by the Tiber",
+      "certainty": "exact",
+      "summary": "Looking toward his own death, the emperor thinks of the drum-shaped tomb he has ordered raised on the far bank of the river, where his ashes and those of his line will lie. Popes later turned it into a fortress; it endures above the Tiber as Castel Sant'Angelo.",
+      "note": "The Mausoleum of Hadrian, the cylindrical tomb he built for himself by the Tiber, still stands as Castel Sant'Angelo. These are the coordinates of the monument.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mausoleum_of_Hadrian"
+    },
+    {
+      "order": 4,
+      "place": "villa-adriana-tivoli",
+      "displayName": "Villa Adriana, Tivoli",
+      "country": "IT",
+      "lat": 41.942802,
+      "lng": 12.774399,
+      "reference": "The retreat at Tibur",
+      "certainty": "exact",
+      "summary": "In the country east of the city the emperor lays out a vast private estate, reworking in stone and water the places that marked his travels through the empire. Much of the long reflection belongs to this retreat; its pools, halls and colonnades still stand as ruins at Tivoli.",
+      "note": "The named villa at Tibur, modern Tivoli, some twenty-eight kilometres east of Rome and outside the map's Rome bounding box; a UNESCO World Heritage site whose ruins survive. These are the coordinates of the archaeological complex.",
+      "sourceUrl": "https://whc.unesco.org/en/list/907/"
+    },
+    {
+      "order": 5,
+      "place": "olympieion-athens",
+      "displayName": "Temple of Olympian Zeus, Athens",
+      "country": "IT",
+      "lat": 37.969296,
+      "lng": 23.732992,
+      "reference": "Hadrian in Greece",
+      "certainty": "exact",
+      "summary": "The emperor, a lover of Greece who counts Athens a second home, completes the colossal temple that generations of Athenians had left unfinished, and rebuilds much of the city around it. A cluster of its columns still stands below the Acropolis.",
+      "note": "A named monument in Athens, far outside the Rome setting. Begun centuries earlier and finished under Hadrian, who dedicated it in 132 AD; its surviving columns stand near the Acropolis. Coordinates of the site.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Athens"
+    },
+    {
+      "order": 6,
+      "place": "antinoopolis-nile",
+      "displayName": "Antinoöpolis, on the Nile",
+      "country": "IT",
+      "lat": 27.8167,
+      "lng": 30.8833,
+      "reference": "The death of Antinous in Egypt",
+      "certainty": "exact",
+      "summary": "The grief that shadows the whole account belongs to Egypt, where the young Bithynian who travelled with the emperor drowns in the river. On the bank near the place, the emperor founds a city in his name and has him made a god. The ruins lie at el-Sheikh Ibada.",
+      "note": "The Roman city Hadrian founded on the east bank of the Nile, at modern el-Sheikh Ibada, far outside the Rome setting. It marks the reach where his companion Antinous drowned in 130 AD. Coordinates of the ancient site.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antino%C3%B6polis"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

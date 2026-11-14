@@ -1,0 +1,93 @@
+{
+  "id": "the-wind-up-bird-chronicle",
+  "title": "The Wind-Up Bird Chronicle",
+  "author": "Haruki Murakami",
+  "year": 1994,
+  "description": "Murakami's Tokyo is the quiet western suburb of Setagaya: a house at the end of a blind alley, a dry well in an empty lot, a small shopping street where an unemployed man goes looking first for a cat and then for a wife who has walked out of his life. From this stillness the book opens onto the west-side plaza at Shinjuku and, in memory, onto a war in Manchuria far outside the city. The map holds the suburban core and reaches east to Shinjuku.",
+  "route": [
+    {
+      "order": 1,
+      "place": "okada-house-setagaya",
+      "displayName": "Toru's house at the end of the alley",
+      "country": "JP",
+      "lat": 35.6466,
+      "lng": 139.6533,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The story begins in a rented house in a still residential suburb, where a man who has just quit his job is boiling spaghetti when the telephone rings. The house sits at the end of a closed-off lane, the kind of dead-end alley common in the older streets of Setagaya, the western Tokyo ward where the author was living when he wrote the book.",
+      "note": "The novel keeps the house and its neighbourhood unnamed, but the quiet western suburb it describes is Setagaya, where Murakami himself lived; this marks a representative point at the ward centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Setagaya"
+    },
+    {
+      "order": 2,
+      "place": "the-back-alley",
+      "displayName": "The alley behind the houses",
+      "country": "JP",
+      "lat": 35.6474,
+      "lng": 139.6548,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "A narrow passage runs behind the row of houses, walled at both ends so it leads nowhere, and it becomes the route the narrator walks in search of the missing cat. It is where he first meets the teenage girl from up the street who watches the empty lot with him.",
+      "note": "The passage is a fictional feature of the neighbourhood and is not a named street; this marks a nearby point within Setagaya as a stand-in.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+    },
+    {
+      "order": 3,
+      "place": "abandoned-house-dry-well",
+      "displayName": "The abandoned house and the dry well",
+      "country": "JP",
+      "lat": 35.6455,
+      "lng": 139.6512,
+      "reference": "Book One, chapter on the empty house",
+      "certainty": "approximate",
+      "summary": "Along the alley stands a boarded-up house with an unlucky history and, in its overgrown yard, a well gone dry. The narrator climbs down into it to sit alone in the dark, and the shaft becomes the book's central passage between the ordinary world and something stranger.",
+      "note": "The vacant house with its dry well is invented for the novel; there is no fixed real site, so this marks a representative point within the same Setagaya neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+    },
+    {
+      "order": 4,
+      "place": "local-shopping-street",
+      "displayName": "The neighbourhood shopping street",
+      "country": "JP",
+      "lat": 35.648,
+      "lng": 139.65,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The narrator's errands take him to the small covered shopping street near the house, where he does the daily marketing and where the cleaner's and the record shop stand in for the ordinary life he is slowly losing hold of. It reads as one of the neighbourhood shotengai that thread through Setagaya.",
+      "note": "The local shotengai is not named in the text; this marks a representative point on the Setagaya shopping streets the narrator would use.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Setagaya"
+    },
+    {
+      "order": 5,
+      "place": "shinjuku-west-plaza",
+      "displayName": "The west-side plaza at Shinjuku",
+      "country": "JP",
+      "lat": 35.6905,
+      "lng": 139.6979,
+      "reference": "Book Two",
+      "certainty": "exact",
+      "summary": "Drawn out of the suburb, the narrator takes to sitting on a bench in the wide plaza on the west side of Shinjuku Station, doing nothing but watching the faces of the people who pass. The scene sets the emptied stillness of his home life against the churn of central Tokyo.",
+      "note": "Shinjuku is named in the novel; this marks the broad plaza outside the west exit of Shinjuku Station where the narrator sits and watches the crowds.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+    },
+    {
+      "order": 6,
+      "place": "nomonhan-khalkhin-gol",
+      "displayName": "The Nomonhan battlefield, Manchuria border",
+      "country": "JP",
+      "lat": 47.7248,
+      "lng": 118.5873,
+      "reference": "Book One, Lieutenant Mamiya's account",
+      "certainty": "exact",
+      "summary": "In a long flashback an old soldier tells of the undeclared 1939 border war between Japan and the Soviet Union on the plains of Nomonhan, and of a man skinned alive and another left to die at the bottom of a Mongolian well. This wartime layer, set on the Manchurian frontier and in the puppet capital of Hsin-king, runs beneath the suburban present of the book.",
+      "note": "The novel names Nomonhan and the wider Manchurian campaign; this marks the Khalkhin Gol battlefield on the Mongolia-Manchuria frontier, far outside the Tokyo setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battles_of_Khalkhin_Gol"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

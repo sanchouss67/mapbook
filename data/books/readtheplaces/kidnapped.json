@@ -1,0 +1,89 @@
+{
+  "id": "kidnapped",
+  "title": "Kidnapped",
+  "author": "Robert Louis Stevenson",
+  "year": 1886,
+  "description": "David Balfour's road runs the width of Scotland in the year after the '45: from the House of Shaws by Cramond, out to the brig at Queensferry, wrecked on the reefs off Erraid by Mull, then east on foot through Appin and across the deserts of Rannoch back to Edinburgh. Almost every place is real and named, tied to the true Appin Murder of 1752; the bbox spans the whole crossing, Edinburgh west to Erraid.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-house-of-shaws-cramond",
+      "displayName": "The House of Shaws, near Cramond",
+      "country": "GB",
+      "lat": 55.9789,
+      "lng": -3.2985,
+      "reference": "The Shaws, June 1751",
+      "certainty": "approximate",
+      "summary": "David walks out to claim the estate of his fathers and finds a countryside that flinches at its name. The ruinous tower and its miser laird, his uncle Ebenezer, are the trap that starts the book; Stevenson set the fiction down in the true farmland of Cramond parish.",
+      "note": "The House of Shaws is Stevenson's invention, but he plants it in the real parish of Cramond, west of Edinburgh, where David asks his way to it. No such house stood there; the pin marks Cramond village, the named neighbourhood.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    },
+    {
+      "order": 2,
+      "place": "the-covenant-at-queensferry",
+      "displayName": "The brig Covenant, at Queensferry",
+      "country": "GB",
+      "lat": 55.9903,
+      "lng": -3.3844,
+      "reference": "Queensferry, June 1751",
+      "certainty": "exact",
+      "summary": "At the Hawes Inn by the Queen's Ferry, Uncle Ebenezer and Captain Hoseason lure David aboard the Covenant, where he is knocked down and carried off to be sold into the plantations. The inn still stands under the Forth bridges; the anchorage is the narrows David looks out over here.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    },
+    {
+      "order": 3,
+      "place": "the-torran-rocks-off-erraid",
+      "displayName": "The Torran Rocks, off Erraid",
+      "country": "GB",
+      "lat": 56.2931,
+      "lng": -6.3667,
+      "reference": "The wreck, off Mull",
+      "certainty": "exact",
+      "summary": "The Covenant, trying to thread the reefs at the tail of Mull, strikes and breaks up on the Torran Rocks. David is thrown into the sea and washed onto Erraid, the tidal islet off the Ross of Mull where Stevenson's own family had built a shore station for the Dhu Heartach lighthouse.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    },
+    {
+      "order": 4,
+      "place": "the-wood-of-lettermore-appin",
+      "displayName": "The wood of Lettermore, Appin",
+      "country": "GB",
+      "lat": 56.6852,
+      "lng": -5.2159,
+      "reference": "Appin, the Appin Murder",
+      "certainty": "exact",
+      "summary": "In the birchwood above Loch Linnhe, David sees Colin Roy Campbell, the Red Fox, shot dead by a hidden marksman: the real Appin Murder of 1752, for which James Stewart of the Glens was hanged. A cairn on the old road through Lettermore still marks the spot.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    },
+    {
+      "order": 5,
+      "place": "the-head-of-loch-rannoch",
+      "displayName": "The head of Loch Rannoch",
+      "country": "GB",
+      "lat": 56.677,
+      "lng": -4.446,
+      "reference": "The flight in the heather",
+      "certainty": "exact",
+      "summary": "Fleeing the redcoats after the murder, David and Alan travel by night through the great wastes of Rannoch, coming to the west head of Loch Rannoch where the loch gives out onto the open moor. The pin sits at Bridge of Gaur, the western foot of the loch below Rannoch Moor.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    },
+    {
+      "order": 6,
+      "place": "the-british-linen-company-edinburgh",
+      "displayName": "The British Linen Company's bank, Edinburgh",
+      "country": "GB",
+      "lat": 55.9478,
+      "lng": -3.1955,
+      "reference": "Edinburgh, journey's end",
+      "certainty": "approximate",
+      "summary": "David comes off the moor at last into the roar of Edinburgh, parts from Alan on the hill above the town, and drifts down through the Old Town to the bank that will make good his inheritance. The book ends on its threshold, his fortune and his story turned right way up.",
+      "note": "The British Linen Company was a real Edinburgh bank, founded in 1746, and David walks in by the West Kirk and the Grassmarket. Its exact 1751 premises are not recorded, so the pin sits in the Old Town on the route the text describes rather than on a known door.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/421"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "on-the-road",
+  "title": "On the Road",
+  "author": "Jack Kerouac",
+  "year": 1957,
+  "description": "The book that turned a continent into a route. A young writer and his restless friend cross and recross the United States by car, bus and thumb, from New York out to Denver, on to San Francisco and the Bay, down to New Orleans, and finally in a headlong plunge south to Mexico City. The map follows that coast-to-coast spine and the last leg over the border.",
+  "route": [
+    {
+      "order": 1,
+      "place": "new-york-departure",
+      "displayName": "New York",
+      "country": "US",
+      "lat": 40.7484,
+      "lng": -73.9857,
+      "reference": "Part One, chapter 1",
+      "certainty": "exact",
+      "summary": "The story begins in New York, where the narrator is drifting after an illness and a broken marriage until a live-wire friend from the West sets his mind on the road. Every long trip in the book starts or ends here, the city he keeps returning to before striking out again.",
+      "note": "Kerouac names New York plainly; the narrator lives with an aunt across the river in New Jersey and treats Manhattan as his home base. The point marks midtown Manhattan as the eastern hub of the journeys, not a single named address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Road"
+    },
+    {
+      "order": 2,
+      "place": "denver-crossroads",
+      "displayName": "Denver",
+      "country": "US",
+      "lat": 39.7392,
+      "lng": -104.9847,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Denver is the great middle of the book, the place where the two friends' circles collide and the parties never quite stop. Hitching and busing out from the East, the narrator lands here first, among old crowds and new schemes, before pressing on to the coast.",
+      "note": "Denver is named throughout and is the friend's home town; the point marks the city centre rather than any one bar or rooming house.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Road"
+    },
+    {
+      "order": 3,
+      "place": "san-francisco-bay",
+      "displayName": "San Francisco",
+      "country": "US",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "San Francisco is the far western wall the continent runs into, reached after a hard haul across the plains and the mountains. Broke and hungry by the water, the narrator works and wanders the Bay before the pull of the East and the road turns him around again.",
+      "note": "San Francisco and the Bay are named directly; the point marks the city as the western end of the crossing, with specific rooms and jobs left unlocated.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Road"
+    },
+    {
+      "order": 4,
+      "place": "algiers-new-orleans",
+      "displayName": "Algiers, across the river from New Orleans",
+      "country": "US",
+      "lat": 29.9532,
+      "lng": -90.0532,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "On the long winter drive south and east, the travellers stop at a friend's house in Algiers, the old neighbourhood on the far bank of the Mississippi from New Orleans, crossing back over on the ferry into the city itself. It is the Gulf-coast pause before the group swings west once more.",
+      "note": "New Orleans and the friend's house in Algiers across the Mississippi are named; the specific house is not locatable, so the point marks Algiers Point, the historic west-bank neighbourhood reached by ferry.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Road"
+    },
+    {
+      "order": 5,
+      "place": "mexico-city-end-of-the-road",
+      "displayName": "Mexico City",
+      "country": "US",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "reference": "Part Four",
+      "certainty": "exact",
+      "summary": "The final great trip runs the length of Mexico to its capital, the farthest the road ever carries the narrator. Mexico City is the end of the line, where fever, wonder and a friend's departure leave him alone at the bottom of the continent, the journey's real terminus.",
+      "note": "Mexico City is named as the destination of the plunge south; the point marks the city centre, with the fever-dream lodgings left unlocated.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_the_Road"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "the-age-of-innocence",
+  "title": "The Age of Innocence",
+  "author": "Edith Wharton",
+  "year": 1920,
+  "description": "Gilded Age Manhattan, where an address is a verdict. Wharton is exact about which streets are respectable and which are not: the shabby old opera house on Fourteenth Street, the chocolate-coloured brownstones, and the bold new houses creeping up towards the Park. Half of these buildings are gone.",
+  "route": [
+    {
+      "order": 1,
+      "place": "academy-of-music",
+      "displayName": "The Academy of Music, Fourteenth Street",
+      "country": "US",
+      "lat": 40.7345,
+      "lng": -73.9872,
+      "reference": "Book 1, ch. 1",
+      "certainty": "exact",
+      "summary": "The novel opens at the opera, and old New York is content with its \"shabby red and gold boxes\" rather than the costly new house being talked of \"above the Forties.\" It is here, in the Mingott box, that Newland Archer first sees the Countess Olenska. The real Academy stood on the northeast corner of East Fourteenth Street and Irving Place from 1854 until it was demolished in 1926.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    },
+    {
+      "order": 2,
+      "place": "mrs-manson-mingotts-house",
+      "displayName": "Mrs Manson Mingott's house, near the Park",
+      "country": "US",
+      "lat": 40.7643,
+      "lng": -73.973,
+      "reference": "Book 1, ch. 1",
+      "certainty": "approximate",
+      "summary": "The Matriarch of the clan, and the one place in old New York where Ellen Olenska is taken in. Mrs Mingott built uptown before anyone else dared, in cream stone when the city wore brown, and \"throned\" there among her pre-Revolutionary furniture. The house is fiction; the audacity of building near the Park in the 1870s was real.",
+      "note": "The Mingott house is Wharton's invention, but she sites it precisely: a pale cream-coloured house built \"above Thirty-fourth Street\" in a still-empty district hard by Central Park, years before fashion followed. The pin marks that bold move uptown, near the southern edge of the Park off Fifth Avenue.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    },
+    {
+      "order": 3,
+      "place": "wellands-house-east-thirty-ninth",
+      "displayName": "The Wellands' new house, East Thirty-ninth Street",
+      "country": "US",
+      "lat": 40.7492,
+      "lng": -73.9785,
+      "reference": "Book 1, ch. 9",
+      "certainty": "approximate",
+      "summary": "Archer's fate as a married man, pictured before it happens: the greenish-yellow house on a street thought too far uptown, in protest against the brownstone that \"coated New York like a cold chocolate sauce.\" Wharton's single sentence is the best portrait we have of the look of respectable Gilded Age Manhattan.",
+      "note": "Wharton names the street but not the number: Mr Welland has his eye on \"a newly built house in East Thirty-ninth Street,\" thought remote. The pin marks the block, east of Fifth Avenue between Madison and Park, where the married Archers are expected to settle.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    },
+    {
+      "order": 4,
+      "place": "boston-common",
+      "displayName": "Boston Common",
+      "country": "US",
+      "lat": 42.3551,
+      "lng": -71.0659,
+      "reference": "Book 2, ch. 23",
+      "certainty": "exact",
+      "summary": "The one time the lovers are alone and free of New York's watching eyes. Archer travels to Boston on a pretext, misses Ellen at the Parker House, and comes upon her sitting on the Common. The city's public green, laid out in 1634, still runs down to the streets by the hotel where she is staying.",
+      "note": "A deliberate excursion out of New York. Archer follows Ellen to Boston and, failing to find her at the Parker House, crosses the Common and finds her on a bench under a tree. Some 300 km northeast of the book's Manhattan setting, so it is flagged as an excursion.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    },
+    {
+      "order": 5,
+      "place": "metropolitan-museum-of-art",
+      "displayName": "The Metropolitan Museum, in the Park",
+      "country": "US",
+      "lat": 40.7794,
+      "lng": -73.9634,
+      "reference": "Book 2, ch. 31",
+      "certainty": "exact",
+      "summary": "Archer and Ellen keep a stolen appointment among the Cesnola antiquities, in a museum still so new he can say \"some day, I suppose, it will be a great Museum.\" It was: the red-brick pavilion of 1880 grew into the Fifth Avenue institution, but Wharton pins the scene to the raw beginning.",
+      "note": "Archer names it plainly, \"the Art Museum--in the Park,\" and the passage describes the Museum's new red-brick building in Central Park, opened in 1880. The pin marks that building, the core of today's Metropolitan Museum on Fifth Avenue at Eighty-second Street.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    },
+    {
+      "order": 6,
+      "place": "les-invalides-paris",
+      "displayName": "A square near the Invalides, Paris",
+      "country": "US",
+      "lat": 48.8561,
+      "lng": 2.3128,
+      "reference": "Book 2, ch. 34",
+      "certainty": "approximate",
+      "summary": "The end of the book. An older Archer, a widower, comes to Paris with his son and sits on a bench below Ellen's window under the golden light off the dome of the Invalides, then chooses not to go up. Half a lifetime after the opera box, the two are a few storeys apart and never meet again.",
+      "note": "The final chapter jumps nearly thirty years and crosses the Atlantic to Paris. Wharton places Ellen's flat in \"a square near one of the avenues radiating from the Invalides\" but names no exact street; the pin marks the Invalides itself, the landmark she orients everything by. Flagged as an excursion beyond the New York setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/541"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

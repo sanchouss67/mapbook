@@ -1,0 +1,80 @@
+{
+  "id": "obasan",
+  "title": "Obasan",
+  "author": "Joy Kogawa",
+  "year": 1981,
+  "description": "A schoolteacher, Naomi Nakane, pieces together the wartime uprooting of her Japanese-Canadian family: torn from their Vancouver home in 1942, interned in the interior British Columbia ghost town of Slocan, then forced onto the Alberta beet farms, while her mother, trapped in Japan, is lost to the Nagasaki bomb. Kogawa maps the real geography of the internment: the seized coastal home, the mountain camp, the prairie exile, and the silence her aunt Obasan keeps over it all.",
+  "route": [
+    {
+      "order": 1,
+      "place": "vancouver-home",
+      "displayName": "The Vancouver home",
+      "country": "CA",
+      "lat": 49.21,
+      "lng": -123.13,
+      "reference": "The early chapters",
+      "certainty": "exact",
+      "summary": "In their comfortable Vancouver house Naomi's early childhood is warm and secure, her gentle mother at its centre, before the war tears it all apart. Kogawa sets the lost paradise of the family's coastal life, the ordinary happiness whose destruction the rest of the book so quietly and devastatingly records.",
+      "note": "Naomi's family lives in the Marpole district of Vancouver before the war, the real coastal city from which Japanese Canadians were removed; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japanese_Canadians"
+    },
+    {
+      "order": 2,
+      "place": "the-uprooting",
+      "displayName": "The uprooting",
+      "country": "CA",
+      "lat": 49.28,
+      "lng": -123.04,
+      "reference": "The removal chapters",
+      "certainty": "exact",
+      "summary": "In 1942 the government brands the family enemy aliens, confiscates their home, boat and belongings, and orders them inland, the injustice Aunt Emily documents in furious detail. Kogawa lays out the bureaucratic machinery of dispossession, the papers and notices by which a community was stripped of everything and scattered.",
+      "note": "After Pearl Harbor, Japanese Canadians were assembled and processed, many through Hastings Park in Vancouver, before removal; the seizure of homes and boats is the real historical event, sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Internment_of_Japanese_Canadians"
+    },
+    {
+      "order": 3,
+      "place": "slocan",
+      "displayName": "Slocan (the internment)",
+      "country": "CA",
+      "lat": 49.77,
+      "lng": -117.47,
+      "reference": "The Slocan chapters",
+      "certainty": "exact",
+      "summary": "In the mountain ghost town of Slocan the family makes a life in a decrepit shack, Obasan holding them together through cold and want with her endless patient silence. Kogawa renders the internment not as spectacle but through a child's eyes, the strangeness and small mercies of the camp shadowing the wrong being done to them all.",
+      "note": "The family is interned at Slocan, a real ghost town in the interior of British Columbia used as a Japanese-Canadian internment camp; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Slocan,_British_Columbia"
+    },
+    {
+      "order": 4,
+      "place": "the-alberta-farm",
+      "displayName": "The Alberta beet farm",
+      "country": "CA",
+      "lat": 49.72,
+      "lng": -112.62,
+      "reference": "The Alberta chapters",
+      "certainty": "exact",
+      "summary": "Barred from returning to the coast, the family is sent to toil on a southern Alberta beet farm, living in a hut on the bald, freezing prairie. Kogawa shows how the injustice did not end with the war but continued in this second exile, the dispersal meant to break the community for good.",
+      "note": "After the war the family is forced east to labour on the sugar-beet farms of southern Alberta around Coaldale, part of the real dispersal policy; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Coaldale,_Alberta"
+    },
+    {
+      "order": 5,
+      "place": "nagasaki",
+      "displayName": "Nagasaki (the mother's fate)",
+      "country": "CA",
+      "lat": 32.75,
+      "lng": 129.87,
+      "reference": "The revelation",
+      "certainty": "approximate",
+      "summary": "The silence at the book's heart is finally broken with the truth of the mother, stranded in Japan and disfigured by the Nagasaki bomb, whose fate the family kept from the children for decades. Kogawa binds the Canadian injustice to the war's furthest horror, and lets Naomi, at last, grieve and begin to speak.",
+      "note": "Naomi's mother, visiting Japan when the war broke out, was in Nagasaki and maimed by the atomic bomb; her fate, long hidden from the children, is set in the real city, far outside the Canadian setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "texaco",
+  "title": "Texaco",
+  "author": "Patrick Chamoiseau",
+  "year": 1992,
+  "description": "Marie-Sophie Laborieux tells an urban planner sent to raze her shantytown the whole 150-year history of her family and of Texaco, the improvised quarter she founded on company land above Fort-de-France, from slavery through emancipation to the modern city. Chamoiseau maps the real Martinique: the tin-and-timber quarter of Texaco clinging to the hillside, the city of Fort-de-France below, the plantations of the enslaved past, and old Saint-Pierre before Mont Pelée destroyed it in 1902.",
+  "route": [
+    {
+      "order": 1,
+      "place": "texaco-quarter",
+      "displayName": "Texaco (the quarter)",
+      "country": "MQ",
+      "lat": 14.61,
+      "lng": -61.06,
+      "reference": "The framing narrative",
+      "certainty": "exact",
+      "summary": "On the steep ground above the city, on land belonging to the oil company, Marie-Sophie Laborieux and the poor build Texaco out of crates, tin and salvage, a whole living quarter conjured from nothing. When a planner comes to condemn it, she answers his bulldozers with the entire history of how it came to be, and wins it a reprieve.",
+      "note": "Texaco is a real hillside quarter of Fort-de-France, named for the oil depot on whose land it grew; Marie-Sophie founds and defends the shantytown there, and it gives the novel its name.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fort-de-France"
+    },
+    {
+      "order": 2,
+      "place": "fort-de-france-city",
+      "displayName": "Fort-de-France (the city)",
+      "country": "MQ",
+      "lat": 14.604,
+      "lng": -61.073,
+      "reference": "The framing narrative",
+      "certainty": "exact",
+      "summary": "The urban planner, the Christ as the quarter's people call him, is sent from the official city to demolish Texaco, and instead is converted by Marie-Sophie's storytelling into its ally. Through him Chamoiseau stages the confrontation between the planned, French, concrete city and the creole life that grows wild in its cracks.",
+      "note": "Fort-de-France, the real capital of Martinique, is the city below whose margins Texaco clings and whose authorities seek to clear it; sited in the historic centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "the-plantations",
+      "displayName": "The plantations",
+      "country": "MQ",
+      "lat": 14.57,
+      "lng": -61.04,
+      "reference": "The nineteenth-century chapters",
+      "certainty": "approximate",
+      "summary": "Marie-Sophie's father Esternome is born into slavery on a plantation, wins his freedom, and after emancipation drifts toward the towns in search of a foothold in a world that has no place for the freed. His long journey from the plantation to the city is the deep root of Texaco, the whole Martinican passage from slavery to the modern quarter.",
+      "note": "The story reaches back to the sugar plantations of the béké planters where Marie-Sophie's father Esternome was born a slave; the estates are drawn from the real plantation country of Martinique and sited in the island's interior.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Martinique"
+    },
+    {
+      "order": 4,
+      "place": "saint-pierre",
+      "displayName": "Saint-Pierre",
+      "country": "MQ",
+      "lat": 14.744,
+      "lng": -61.176,
+      "reference": "The 1902 chapters",
+      "certainty": "exact",
+      "summary": "Esternome's love Ninon lives in Saint-Pierre, the glittering first capital, when Mont Pelée erupts in 1902 and wipes the whole city and its thirty thousand people from the earth in minutes. The catastrophe, real and total, ends one Martinique and helps make Fort-de-France the island's centre, and Texaco its shadow.",
+      "note": "Old Saint-Pierre, the real first city of Martinique, is destroyed by the eruption of Mont Pelée in 1902; the catastrophe falls on Esternome's beloved Ninon and marks a great turning of the island's history, sited to the north of Fort-de-France.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pel%C3%A9e"
+    },
+    {
+      "order": 5,
+      "place": "texaco-the-fight",
+      "displayName": "Texaco (the fight)",
+      "country": "MQ",
+      "lat": 14.611,
+      "lng": -61.06,
+      "reference": "The present-day frame",
+      "certainty": "exact",
+      "summary": "The whole history told, the quarter of Texaco stands as the living proof of a people's refusal to be cleared away, its improvised streets a creole answer to the concrete city. Chamoiseau ends on the survival of Texaco, a triumph of the word and of memory over the bulldozer, the shantytown written into the island's history for good.",
+      "note": "The novel returns to Texaco and the fight to save it from demolition; sited in the same real Fort-de-France quarter where the framing story is set.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Texaco_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

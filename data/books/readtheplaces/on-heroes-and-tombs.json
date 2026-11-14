@@ -1,0 +1,80 @@
+{
+  "id": "on-heroes-and-tombs",
+  "title": "On Heroes and Tombs",
+  "author": "Ernesto Sábato",
+  "year": 1961,
+  "description": "Sábato's Buenos Aires is a haunted southern city: a bench in Parque Lezama where a shy student meets a woman who cannot be saved, a crumbling family mansion in old Barracas, and the paranoid tunnels imagined beneath the streets in the Report on the Blind. The novel keeps the porteño south at its centre, then breaks north for the historical retreat of Lavalle's beaten army.",
+  "route": [
+    {
+      "order": 1,
+      "place": "parque-lezama",
+      "displayName": "Parque Lezama",
+      "country": "AR",
+      "lat": -34.6265,
+      "lng": -58.3698,
+      "reference": "Part I",
+      "certainty": "exact",
+      "summary": "The book opens on a bench here, where a lonely student first meets the restless young woman who will draw him into her family's ruin. Sábato uses the park, on the slope of the old southern city, as the threshold to the whole story.",
+      "note": "The park is named in the novel and is a real public park on the edge of San Telmo, above Barracas.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lezama_Park"
+    },
+    {
+      "order": 2,
+      "place": "olmos-mansion-barracas",
+      "displayName": "The Olmos mansion, Barracas",
+      "country": "AR",
+      "lat": -34.642,
+      "lng": -58.3805,
+      "reference": "Part II",
+      "certainty": "approximate",
+      "summary": "The woman belongs to a decayed patrician family living in a crumbling colonial house in Barracas, a southern barrio left behind by the city's move north. The mansion, with its shut rooms and its mad, bedridden relatives, becomes the story's dark centre. Sábato draws it from the real world of grand old porteño houses that outlived their fortunes.",
+      "note": "The mansion is a fictional house the novel places in Barracas; there is no single confirmed address, so this marks a representative point in the old barrio the book evokes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Barracas,_Buenos_Aires"
+    },
+    {
+      "order": 3,
+      "place": "plaza-de-mayo",
+      "displayName": "Plaza de Mayo",
+      "country": "AR",
+      "lat": -34.6084,
+      "lng": -58.3724,
+      "reference": "Part III",
+      "certainty": "exact",
+      "summary": "The narrative moves into the busy centre of Buenos Aires, the plaza and streets around the old cathedral and government house. For one obsessed character the ordinary crowd is a mask: he becomes convinced a secret sect controls the city, and the daylight square is where his surveillance of the blind begins.",
+      "note": "The plaza is the real civic heart of central Buenos Aires, named in the novel's wanderings through the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plaza_de_Mayo"
+    },
+    {
+      "order": 4,
+      "place": "underworld-of-the-blind",
+      "displayName": "The tunnels beneath the city",
+      "country": "AR",
+      "lat": -34.6094,
+      "lng": -58.3925,
+      "reference": "Part III",
+      "certainty": "approximate",
+      "summary": "The novel's most famous section is a feverish confession that descends from cellars and sewers into an imagined labyrinth beneath the city, a private hell ruled by the blind. The underworld is a vision, not a real address, but it is rooted in the basements and drains of central Buenos Aires.",
+      "note": "The subterranean world is imagined, not a mapped place; this marks a representative point in central Buenos Aires, near the Congreso, where the paranoid descent is set.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/On_Heroes_and_Tombs"
+    },
+    {
+      "order": 5,
+      "place": "lavalle-retreat-jujuy",
+      "displayName": "General Lavalle's retreat, San Salvador de Jujuy",
+      "country": "AR",
+      "lat": -24.1858,
+      "lng": -65.2995,
+      "reference": "Part IV",
+      "certainty": "approximate",
+      "summary": "Threaded through the modern story is a historical strand: the 1841 flight of General Lavalle's defeated unitarian army through the far north, and the loyal soldiers who carried his corpse toward Bolivia to keep it from his enemies. Sábato ties the family's fate to this doomed retreat, closing the book far from the porteño south.",
+      "note": "A deliberate excursion far north of the Buenos Aires setting. The novel sets its historical thread around the 1841 retreat and death of General Lavalle; this marks San Salvador de Jujuy, where he was killed and from where his men carried his body toward the border.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Juan_Lavalle"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

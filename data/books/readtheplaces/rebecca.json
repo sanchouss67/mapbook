@@ -1,0 +1,80 @@
+{
+  "id": "rebecca",
+  "title": "Rebecca",
+  "author": "Daphne du Maurier",
+  "year": 1938,
+  "description": "The Cornish coast near Fowey, where du Maurier set Manderley, the great house on the cliffs above the sea. She modelled it on Menabilly, the real estate she later leased and lived in, with its cove and ruined boathouse below at Polridmouth. The map runs from the house down to the drowning cove and along to the harbour town, with a distant opening at Monte Carlo.",
+  "route": [
+    {
+      "order": 1,
+      "place": "monte-carlo-hotel",
+      "displayName": "Monte Carlo",
+      "country": "GB",
+      "lat": 43.7397,
+      "lng": 7.4273,
+      "reference": "Chapters 2-6",
+      "certainty": "exact",
+      "summary": "Before Cornwall, the book opens on the Riviera. A shy young woman, companion to a rich and tiresome American, meets the widowed Maxim de Winter at a Monte Carlo hotel. He proposes within weeks, and she leaves as his wife, bound for his house in England.",
+      "note": "Monte Carlo is a real place and is named in the novel, but it sits far from the Cornish setting; marked outsideSetting and sited at the centre of the resort, as the hotel where the narrator meets Maxim is not a real address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Monte_Carlo"
+    },
+    {
+      "order": 2,
+      "place": "manderley-menabilly",
+      "displayName": "Manderley (Menabilly)",
+      "country": "GB",
+      "lat": 50.3298,
+      "lng": -4.6705,
+      "reference": "Chapter 7 onward",
+      "certainty": "approximate",
+      "summary": "The new Mrs de Winter arrives at her husband's great house on the Cornish cliffs and finds it haunted by the memory of Rebecca, the first wife, kept alive by the housekeeper. Manderley exists only in the book, but its rhododendrons, drive and setting come straight from Menabilly, the house du Maurier knew and would one day live in.",
+      "note": "Manderley is an invented house, but du Maurier modelled it on Menabilly, the real estate near Fowey that she loved and later leased for many years. Sited at Menabilly House.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Menabilly"
+    },
+    {
+      "order": 3,
+      "place": "polridmouth-cove-boathouse",
+      "displayName": "Polridmouth Cove and the boathouse",
+      "country": "GB",
+      "lat": 50.3227,
+      "lng": -4.6659,
+      "reference": "Chapters 10-11",
+      "certainty": "exact",
+      "summary": "Below the house, a small shingle cove holds a shuttered cottage and a boathouse the narrator is warned away from. It was here that Rebecca kept her boat, and here that the truth of her death begins to surface. The real cove is Polridmouth, a short walk down from Menabilly, its ruined boathouse still there.",
+      "note": "Polridmouth is a real cove just below Menabilly, with the remains of an old boathouse; du Maurier put the novel's cove and boat here, though she gave them no place name in the text.",
+      "sourceUrl": "https://www.visitcornwall.com/things-to-do/beaches/polridmouth-cove-beach"
+    },
+    {
+      "order": 4,
+      "place": "fowey-town",
+      "displayName": "Fowey",
+      "country": "GB",
+      "lat": 50.3361,
+      "lng": -4.6383,
+      "reference": "Chapters 20-24",
+      "certainty": "exact",
+      "summary": "The nearest town to Manderley, where the inquest is held and where Maxim faces questions about how Rebecca really died. The book calls it Kerrith, but the harbour, the estuary and the streets belong to Fowey, the Cornish town where du Maurier lived and set much of her work.",
+      "note": "Fowey is a real harbour town and du Maurier's home ground; it is the town the novel's unnamed Kerrith is drawn from, sited at the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fowey"
+    },
+    {
+      "order": 5,
+      "place": "gribbin-head-coast",
+      "displayName": "The coast below Manderley",
+      "country": "GB",
+      "lat": 50.3178,
+      "lng": -4.6741,
+      "reference": "Chapter 11",
+      "certainty": "approximate",
+      "summary": "The sea is everywhere in the book: a rising fog, a ship run aground on the rocks, divers sent down to the wreck who find something else instead. The coast around Gribbin Head, the headland beside the cove, stands for the shore that hides and then gives up Rebecca's secret.",
+      "note": "The novel does not name the headland; this marks Gribbin Head, the point of the Menabilly coast beside Polridmouth, as a representative stretch of the shore and sea the book keeps returning to.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gribbin_Head"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

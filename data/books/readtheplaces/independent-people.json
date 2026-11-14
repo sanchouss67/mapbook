@@ -1,0 +1,80 @@
+{
+  "id": "independent-people",
+  "title": "Independent People",
+  "author": "Halldór Laxness",
+  "year": 1935,
+  "description": "A sheep farmer's war of attrition with the land itself, set on a haunted croft on the open moor. The farm is invented, so the map anchors it in the countryside Laxness knew as a boy, the Mosfellsdalur valley and the Mosfellsheiði heath east of Reykjavík, and runs out to the capital and the coastal market town that pull his family away from the moor.",
+  "route": [
+    {
+      "order": 1,
+      "place": "summerhouses-croft",
+      "displayName": "Summerhouses (Sumarhús)",
+      "country": "IS",
+      "lat": 64.1797,
+      "lng": -21.5328,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "After eighteen years as a hired hand, Bjartur buys a poor croft on the heath and renames it Summerhouses, staking everything on owing no man anything. Local belief holds the ground cursed by an old witch. The farm is invented; Laxness drew its moor from the sheep-farming dales of the Icelandic interior he grew up among.",
+      "note": "Summerhouses is a fictional croft on an unnamed moor, so no real coordinate exists for it. This sites it on the moorland at the head of Mosfellsdalur, the highland countryside Laxness knew from boyhood, as a representative point near Helgufoss.",
+      "sourceUrl": "https://www.visiticeland.com/article/halldor-laxness/"
+    },
+    {
+      "order": 2,
+      "place": "mosfellsdalur-parish",
+      "displayName": "Mosfell church, Mosfellsdalur",
+      "country": "IS",
+      "lat": 64.1855,
+      "lng": -21.6202,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "Below the heath lies the settled parish, with its church, its better farms and the neighbours whose good opinion Bjartur refuses to court. The green Mosfellsdalur valley, with its old church at Mosfell, is the lived-in dale Laxness knew; his boyhood farm Laxnes lay a few hundred metres off, and he is buried in the churchyard.",
+      "note": "The novel's parish and dale are unnamed and fictional. This marks Mosfellskirkja in Mosfellsdalur, the real valley where Laxness spent his childhood and is buried, as the countryside behind the book's settled farms.",
+      "sourceUrl": "https://nat.is/mosfell-church/"
+    },
+    {
+      "order": 3,
+      "place": "mosfellsheidi-moor",
+      "displayName": "The heath, Mosfellsheiði",
+      "country": "IS",
+      "lat": 64.1437,
+      "lng": -21.4583,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "So much of the book is walking: Bjartur out on the open heath after a lost ewe, driving sheep, fording rivers, once carried off on the back of a reindeer across a flooded moor. Mosfellsheiði, the broad basalt plateau east of the dale, stands for the highland that both feeds his flock and nearly kills him.",
+      "note": "The novel's moor is unnamed. This marks Mosfellsheiði, the real heath between the dale and the interior, as a representative stretch of the open highland Bjartur crosses on foot in every weather.",
+      "sourceUrl": "https://mapcarta.com/19174446"
+    },
+    {
+      "order": 4,
+      "place": "market-town-fjord",
+      "displayName": "The market town",
+      "country": "IS",
+      "lat": 64.533,
+      "lng": -21.917,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "Independence has limits: Bjartur still has to sell wool and lambs and take on debt at the store. The long trek to the coastal market town, and the shift from the old merchant to the farmers' co-operative, drives the money side of the book. Borgarnes stands in for that regional trading town on its fjord.",
+      "note": "The trading town where Bjartur deals with the merchant and the co-op is unnamed and fictional. This marks Borgarnes, a real regional trading town on the west coast, as a representative example of the market town a highland farmer would walk to.",
+      "sourceUrl": "https://www.britannica.com/topic/Independent-People"
+    },
+    {
+      "order": 5,
+      "place": "reykjavik-capital",
+      "displayName": "Reykjavík",
+      "country": "IS",
+      "lat": 64.1472,
+      "lng": -21.9398,
+      "reference": "Book Two",
+      "certainty": "exact",
+      "summary": "The capital pulls at the family from the far side of the heath. Bjartur makes the journey down to Reykjavík, and the town, with its wartime trade, its wages and its politics, becomes the modern world encroaching on the self-sufficient croft. It is the one large place the book names outright.",
+      "note": "Reykjavík is named in the novel. This marks Austurvöllur, the historic heart of the old town, as a representative point in the growing capital.",
+      "sourceUrl": "https://www.britannica.com/topic/Independent-People"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

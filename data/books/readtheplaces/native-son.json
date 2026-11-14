@@ -1,0 +1,80 @@
+{
+  "id": "native-son",
+  "title": "Native Son",
+  "author": "Richard Wright",
+  "year": 1940,
+  "description": "In 1930s Chicago, a young Black man crosses the hard color line from the crowded South Side Black Belt into a rich white household in Hyde Park, and one panicked night sets the machinery of the city against him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "black-belt-kitchenette",
+      "displayName": "The Black Belt kitchenette",
+      "country": "US",
+      "lat": 41.809,
+      "lng": -87.618,
+      "reference": "Book 1 (Fear)",
+      "certainty": "approximate",
+      "summary": "Bigger wakes here, kills a rat, and quarrels with his mother in a single crowded room that stands for the whole hemmed-in life of the Black Belt. The novel opens by making that confinement physical. It is the pressure he carries north across the color line.",
+      "note": "The Thomas family's one-room kitchenette is fictional but set squarely in the South Side Black Belt, the strip of Bronzeville where Chicago's Black population was confined by restrictive covenants. Sited in Bronzeville, the district the novel describes; the exact building is invented.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bronzeville,_Chicago"
+    },
+    {
+      "order": 2,
+      "place": "dalton-mansion-kenwood",
+      "displayName": "The Dalton mansion, Kenwood",
+      "country": "US",
+      "lat": 41.811,
+      "lng": -87.604,
+      "reference": "Book 1 (Fear)",
+      "certainty": "approximate",
+      "summary": "Bigger is hired as chauffeur to the rich, blind Mrs. Dalton and drives their daughter Mary out for the night. Back in her bedroom, terrified of being found by her mother, he smothers Mary and burns her body in the furnace. A few blocks from the kitchenette, a whole different world becomes a death trap.",
+      "note": "The Daltons' house is placed by the text in the wealthy white district just east of the Black Belt, in the Hyde Park-Kenwood area along a boulevard of mansions. Sited on Drexel Boulevard in Kenwood as the kind of address the novel describes; the specific house is fictional.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kenwood,_Chicago"
+    },
+    {
+      "order": 3,
+      "place": "abandoned-south-side-building",
+      "displayName": "The abandoned South Side building",
+      "country": "US",
+      "lat": 41.798,
+      "lng": -87.625,
+      "reference": "Book 2 (Flight)",
+      "certainty": "approximate",
+      "summary": "With the city's police sweeping the Black Belt block by block, Bigger flees through the gutted, unheated buildings of the South Side. The cold vacant rooms mirror how completely the city has cast him out. The net tightens across these frozen streets.",
+      "note": "As the manhunt spreads, Bigger hides in the empty, snow-filled tenements of the South Side that the novel describes but does not pin to an address. Sited in the derelict-building belt of the South Side where the flight takes place.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Native_Son"
+    },
+    {
+      "order": 4,
+      "place": "rooftop-capture",
+      "displayName": "The rooftop capture",
+      "country": "US",
+      "lat": 41.801,
+      "lng": -87.626,
+      "reference": "Book 2 (Flight)",
+      "certainty": "approximate",
+      "summary": "Cornered on a snowy roof beside a water tank, Bigger is blasted down with a fire hose and dragged off in front of a mob. The city literally freezes and pins him against the sky. His flight ends where he can climb no higher.",
+      "note": "The final chase ends on a South Side rooftop water tank, described in the text but not fixed to a real building. Sited among the tenement rooftops of the South Side where the capture is set.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Native_Son"
+    },
+    {
+      "order": 5,
+      "place": "cook-county-criminal-court",
+      "displayName": "The Cook County Criminal Court",
+      "country": "US",
+      "lat": 41.8445,
+      "lng": -87.6945,
+      "reference": "Book 3 (Fate)",
+      "certainty": "approximate",
+      "summary": "In the courtroom Bigger's lawyer Max argues that the city and the color line made him before it condemned him. The trial turns a private terror into a public verdict on the whole society. Here the book delivers its final judgment on Chicago as much as on Bigger.",
+      "note": "The trial fills the final book but the courthouse is not named; in 1940 Chicago's felony trials were held at the Cook County Criminal Court Building at 26th Street and California Avenue. Sited there, the real venue for a case like Bigger's.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Native_Son"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

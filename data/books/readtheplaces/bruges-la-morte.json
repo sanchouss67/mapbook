@@ -1,0 +1,80 @@
+{
+  "id": "bruges-la-morte",
+  "title": "Bruges-la-Morte",
+  "author": "Georges Rodenbach",
+  "year": 1892,
+  "description": "A widower, Hugues Viane, comes to Bruges to mourn his dead wife, keeping a plait of her hair as a relic, until he grows obsessed with a dancer who is her living double, and the silent 'dead city' becomes the mirror of his grief. Rodenbach makes the real Bruges a character: the still canals and their reflections, the great churches and their bells, the hushed enclosure of the Béguinage, and the belfry above the market square where the Procession of the Holy Blood ends the book in murder.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hugues-house-quay",
+      "displayName": "Hugues's house on the quay",
+      "country": "BE",
+      "lat": 51.2075,
+      "lng": 3.227,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "In rooms preserved exactly as his wife left them, with her portraits everywhere and her severed plait of golden hair laid in a casket like a relic, Hugues lives entirely in the past. The house on the still canal is a reliquary of grief, the whole book's obsession made into a set of rooms.",
+      "note": "Hugues keeps his shrine-like house on one of the quiet canal quays of Bruges, such as the Quai du Rosaire; the specific house is invented and sited on the real waterside.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bruges"
+    },
+    {
+      "order": 2,
+      "place": "bruges-canals",
+      "displayName": "The canals (the dead city)",
+      "country": "BE",
+      "lat": 51.206,
+      "lng": 3.228,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "Hugues walks the quays at dusk, and the dead water of the canals gives him back his own mourning, the town and the widower each the mirror of the other. Bruges-la-Morte was among the first novels illustrated with photographs, and these still, grey waters are what they show.",
+      "note": "The silent canals of Bruges, their grey water mirroring the sky and the old façades, are the novel's central image; Rodenbach's famous photographs of the real canals were printed with the first edition.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bruges"
+    },
+    {
+      "order": 3,
+      "place": "church-of-our-lady",
+      "displayName": "The Church of Our Lady",
+      "country": "BE",
+      "lat": 51.2043,
+      "lng": 3.224,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "The tolling of the Bruges bells and the piety embodied in the pious old servant Barbe surround Hugues with reminders of death and duty. The churches make the whole town a kind of vast tomb, and sharpen the guilt of his living passion for the dancer against his dead wife's memory.",
+      "note": "The great churches of Bruges and their perpetual bells, above all the Church of Our Lady with its towering spire, pervade the novel; they are real and central to the city's devout, funereal atmosphere.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Our_Lady,_Bruges"
+    },
+    {
+      "order": 4,
+      "place": "begijnhof",
+      "displayName": "The Béguinage",
+      "country": "BE",
+      "lat": 51.201,
+      "lng": 3.223,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "The hushed courts of the Béguinage, with their bowed, silent women, offer Hugues an image of the renunciation he cannot manage, torn between mourning and desire. The enclosure is the pure form of the dead city, a place where life has been given over entirely to grief and prayer.",
+      "note": "The Béguinage of Bruges, the real walled enclosure of the Beguines, appears as an emblem of withdrawal and mortification; its silence and white-clad women haunt the book's mood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Begijnhof,_Bruges"
+    },
+    {
+      "order": 5,
+      "place": "belfry-markt-procession",
+      "displayName": "The belfry and the Markt (the Procession)",
+      "country": "BE",
+      "lat": 51.2085,
+      "lng": 3.2247,
+      "reference": "Chapter 15",
+      "certainty": "exact",
+      "summary": "As the Procession of the Holy Blood passes below the belfry, the dancer Jane, mocking the relic of the dead wife's hair, provokes Hugues past endurance, and he strangles her with that very plait. The sacred pageant and the private murder collide in the market square, grief curdled at last into death.",
+      "note": "The climax comes during the Procession of the Holy Blood, which winds through the Markt below the great Belfry of Bruges; both the belfry and the annual procession are real fixtures of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belfry_of_Bruges"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "leaves-of-the-banyan-tree",
+  "title": "Leaves of the Banyan Tree",
+  "author": "Albert Wendt",
+  "year": 1979,
+  "description": "Across three generations of the Tauilopepe family in the Samoan village of Sapepe, Wendt traces the corrosion of communal life by ambition and money, as the ruthless Tauilopepe rises by clearing the bush for cash crops, his son rebels, and the old order of chiefs and church gives way. The book is rooted in a real Samoa: the village and its meeting-ground, the mission church that reshaped island life, the plantations carved from the forest, and the colonial town of Apia to which the young are drawn and lost.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-village-sapepe",
+      "displayName": "The village of Sapepe",
+      "country": "WS",
+      "lat": -13.92,
+      "lng": -171.85,
+      "reference": "Book 1",
+      "certainty": "approximate",
+      "summary": "In the village of Sapepe, bound by the fa'a Samoa of chiefs, families and shared land, the ambitious Tauilopepe begins his rise to wealth and power. Wendt opens on the communal village world in order to chart, generation by generation, how money and individual greed eat away the ties that hold it together.",
+      "note": "The saga is set in the village of Sapepe, drawn from the real villages of Samoa; the settlement is sited on the island of Upolu the novel evokes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Samoa"
+    },
+    {
+      "order": 2,
+      "place": "the-mission-church",
+      "displayName": "The mission church",
+      "country": "WS",
+      "lat": -13.921,
+      "lng": -171.852,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "The church and its pastor stand at the moral centre of the village, the imported religion now woven into the fabric of Samoan authority and respectability. Wendt shows how faith, status and money entangle, the church both a source of order and a lever the ambitious learn to pull.",
+      "note": "The village church and its pastor embody the Christianity that reshaped Samoan life; the mission churches are real to Samoa, and the church is sited at the heart of the village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Religion_in_Samoa"
+    },
+    {
+      "order": 3,
+      "place": "the-plantations",
+      "displayName": "The plantations",
+      "country": "WS",
+      "lat": -13.9,
+      "lng": -171.87,
+      "reference": "Book 2",
+      "certainty": "approximate",
+      "summary": "By felling the ancestral bush and planting it with cash crops, Tauilopepe grows rich and powerful, remaking the land and the village in the image of his ambition. The cleared plantations, wealth wrung from ground that once belonged to everyone, are the visible mark of the individualism corroding the communal world.",
+      "note": "Tauilopepe clears the bush above the village for cash-crop plantations; the plantations are drawn from the real cocoa and copra estates carved out of the Samoan forest and sited in that hinterland.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Wendt"
+    },
+    {
+      "order": 4,
+      "place": "apia-the-town",
+      "displayName": "Apia (the town)",
+      "country": "WS",
+      "lat": -13.833,
+      "lng": -171.77,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "In the traders' town of Apia, Tauilopepe's rebellious son Pepe sinks into a life of drink, theft and defiance, refusing his father's world of respectability and gain. The colonial town, with its money, its vices and its rootlessness, is where the village's children go to be lost, and where Pepe's doomed revolt against his father plays out.",
+      "note": "Apia, the real colonial capital and port of Samoa, is the town to which the young are drawn; sited on the north coast of Upolu, a short way from the village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apia"
+    },
+    {
+      "order": 5,
+      "place": "the-malae",
+      "displayName": "The malae (the village order)",
+      "country": "WS",
+      "lat": -13.919,
+      "lng": -171.848,
+      "reference": "Book 3",
+      "certainty": "approximate",
+      "summary": "On the malae, where the fono of chiefs debates and the old order of rank and obligation is enacted, the traditional world tries to hold against the changes money has brought. Through the family's women, like Lalaga, and the coming of the third generation, Wendt weighs what has been gained and what irretrievably lost as the leaves of the great banyan fall.",
+      "note": "The malae, the open ceremonial ground at the centre of a Samoan village where the chiefs meet in council, is a real feature of Samoan settlements; sited at the heart of the village of the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malae"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

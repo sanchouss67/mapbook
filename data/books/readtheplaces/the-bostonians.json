@@ -1,0 +1,91 @@
+{
+  "id": "the-bostonians",
+  "title": "The Bostonians",
+  "author": "Henry James",
+  "year": 1886,
+  "description": "A novel of reform-era Boston, mapped to real ground. Olive Chancellor's house stands on the water side of Charles Street, on the flat of Beacon Hill, looking over the new-made Back Bay; the reformer Miss Birdseye holds her meeting out in the South End; Verena crosses to Cambridge and the great Memorial Hall at Harvard; and the climax comes at the Music Hall, the concert hall where she is to give her big address. Summer takes them to \"Marmion\" on the southern cape, James's name for the real village of Marion, Massachusetts. A run of scenes moves the fight to New York.",
+  "route": [
+    {
+      "order": 1,
+      "place": "charles-street-beacon-hill-olives-house",
+      "displayName": "Charles Street, Beacon Hill: Olive's house",
+      "country": "US",
+      "lat": 42.3583,
+      "lng": -71.0706,
+      "reference": "Ch. III",
+      "certainty": "approximate",
+      "summary": "The novel's fixed interior. Basil Ransom, the poor Mississippi cousin, comes to call and reads Olive's wealth off her Charles Street drawing-room, its books and watercolours and \"organised privacy,\" while the reddened light dies over the Back Bay embankment. An address on the water side of the Hill is a statement of exactly how rich and how cultivated a Bostonian is, and James makes it one.",
+      "note": "Olive Chancellor's house is invented, but James sites it exactly: on the water side of Charles Street, the flat street at the foot of Beacon Hill, so that her back windows look west over the newly filled Back Bay. Charles Street and that view are real; the pin marks the water side of Charles Street on the Hill.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    },
+    {
+      "order": 2,
+      "place": "south-end-miss-birdseyes-meeting",
+      "displayName": "The South End: Miss Birdseye's meeting",
+      "country": "US",
+      "lat": 42.3411,
+      "lng": -71.0762,
+      "reference": "Ch. III",
+      "certainty": "approximate",
+      "summary": "The reformers' Boston, a coach-ride down from the Hill. In the old abolitionist Miss Birdseye's parlour Olive and Ransom first hear Verena Tarrant speak, and both are struck: Olive wants to capture the girl for the cause, Ransom to carry her off from it. The whole plot starts in the South End.",
+      "note": "Miss Birdseye's rooms are fiction, but the district is named and real: she lives out in the South End, the flat grid of bow-front row houses south of the old city, a considerable hackney-coach ride from Beacon Hill. The pin marks the South End.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    },
+    {
+      "order": 3,
+      "place": "harvard-memorial-hall",
+      "displayName": "Harvard: Memorial Hall",
+      "country": "US",
+      "lat": 42.3766,
+      "lng": -71.1146,
+      "reference": "Ch. XXV",
+      "certainty": "exact",
+      "summary": "Verena shows Ransom over Harvard and hesitates at the door of Memorial Hall, the buttressed pile raised to the university's Union dead, since he fought for the South. Inside, before the white ranked tablets naming the student-soldiers, the ex-Confederate feels only the old fighting-time and a plain respect. The real hall still stands in its grassy triangle at the north edge of Harvard Yard.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    },
+    {
+      "order": 4,
+      "place": "central-park-new-york",
+      "displayName": "Central Park, New York",
+      "country": "US",
+      "lat": 40.7678,
+      "lng": -73.9718,
+      "reference": "Ch. XXXIII",
+      "certainty": "exact",
+      "summary": "The fight moves to New York. While Olive thinks her safe at Mrs. Burrage's, Verena slips off on the elevated with Ransom for a stolen hour among the swans, the zoo, the Ramble and the Maze. The whole afternoon is a quiet defection: Ransom is winning her away from Olive and the platform, one walk at a time.",
+      "note": "New York, not Boston: a deliberate excursion outside the book's Massachusetts setting. Verena is in the city on the cause's business when Ransom carries her off for an afternoon in the real Central Park; the pin marks its zoological garden, which the text names.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    },
+    {
+      "order": 5,
+      "place": "marmion-marion-cape-cod",
+      "displayName": "Marmion (Marion), Cape Cod",
+      "country": "US",
+      "lat": 41.7003,
+      "lng": -70.7625,
+      "reference": "Ch. XXXV",
+      "certainty": "approximate",
+      "summary": "Olive rents a cottage down the coast for the summer and shuts Verena up in it, hoping distance will finish Ransom off. It does the opposite: he follows, takes rooms in the village, and turns the drowsy \"Marmion\" into the ground where he besieges her \"cottage fortress\" and wins. James's holiday village is the real Marion, softened and renamed.",
+      "note": "\"Marmion\" is James's invented name for a real place: the sleepy shore village he calls the Italy of Massachusetts is drawn from Marion, on Buzzards Bay near the base of Cape Cod, where James himself had summered. The pin marks Marion.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    },
+    {
+      "order": 6,
+      "place": "music-hall-the-climax",
+      "displayName": "The Music Hall: the climax",
+      "country": "US",
+      "lat": 42.3557,
+      "lng": -71.0616,
+      "reference": "Ch. XXXVIII",
+      "certainty": "exact",
+      "summary": "The book drives to a single evening at the Boston Music Hall, where Verena is to give her big address, \"A Woman's Reason,\" and launch her career. Ransom, who has sworn to \"squelch\" it, comes for her backstage as the packed house waits. She leaves on his arm in tears, the address never given. The real hall still stands off Tremont Street as the Orpheum Theatre.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/19717"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "the-elegance-of-the-hedgehog",
+  "title": "The Elegance of the Hedgehog",
+  "author": "Muriel Barbery",
+  "year": 2006,
+  "description": "Almost the whole novel is held inside one grand bourgeois apartment building on the Left Bank, at 7 rue de Grenelle. A concierge who hides her learning, a wealthy set of tenants, and a girl planning her own disappearance share its lodge, stairwell and flats, with a café and the surrounding streets of the 7th arrondissement just beyond the door.",
+  "route": [
+    {
+      "order": 1,
+      "place": "seven-rue-de-grenelle",
+      "displayName": "7 rue de Grenelle",
+      "country": "FR",
+      "lat": 48.8525729,
+      "lng": 2.3294406,
+      "reference": "Setting, throughout",
+      "certainty": "exact",
+      "summary": "Everything turns on this one address: an elegant Left Bank apartment house of eight grand flats, a courtyard and a private garden, with a concierge's lodge by the entrance. The building is the whole world of the book, and every other point here is a room or a doorstep within a few metres of it.",
+      "note": "The novel names the address, 7 rue de Grenelle, as the hôtel particulier that holds nearly all its scenes. The real number 7 sits at the eastern, Saint-Germain end of the street, on the 6th and 7th arrondissement line rather than deep in the 7th; the coordinates mark that real doorway.",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+    },
+    {
+      "order": 2,
+      "place": "concierge-lodge",
+      "displayName": "Renée's concierge lodge",
+      "country": "FR",
+      "lat": 48.852545,
+      "lng": 2.329405,
+      "reference": "Renée's journal, throughout",
+      "certainty": "approximate",
+      "summary": "The concierge lives and works in a small lodge just inside the door, playing the dull caretaker the tenants expect while secretly reading philosophy, watching art films and keeping a hidden inner room of books. Most of her half of the novel is thought and observation from this cramped, deliberately unremarkable space.",
+      "note": "The lodge is a real fixture of such a building but has no separate address; it is sited with a small offset at the ground-floor entrance of 7 rue de Grenelle, where a Paris concierge's quarters would sit.",
+      "sourceUrl": "https://parisimpressions.com/en/boeken/the-concierge-at-rue-de-grenelle-7/"
+    },
+    {
+      "order": 3,
+      "place": "josse-family-flat",
+      "displayName": "The Josse family flat",
+      "country": "FR",
+      "lat": 48.852615,
+      "lng": 2.329475,
+      "reference": "Paloma's journal, throughout",
+      "certainty": "approximate",
+      "summary": "Twelve-year-old Paloma, the youngest daughter of a well-off political family, narrates from their apartment in the same building. Sharp, disenchanted and quietly planning to end her life on her thirteenth birthday, she fills notebooks with private observations while watching the adults around her.",
+      "note": "One of the building's grand apartments, home to the Josse family; the exact floor is not fixed as a public location, so it is placed with a small upward-and-inward offset within 7 rue de Grenelle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog"
+    },
+    {
+      "order": 4,
+      "place": "kakuro-ozu-flat",
+      "displayName": "Kakuro Ozu's flat",
+      "country": "FR",
+      "lat": 48.852595,
+      "lng": 2.329375,
+      "reference": "Renée's journal, later chapters",
+      "certainty": "approximate",
+      "summary": "A cultured Japanese gentleman moves into a vacated flat and, unlike the other tenants, sees through the concierge's disguise. Their friendship, built over tea and shared taste, is the warm centre of the novel's second half, and much of it unfolds behind his door in the same house.",
+      "note": "The newly arrived tenant's apartment is another of the building's flats; its floor is not a public location, so it is sited with a small offset within 7 rue de Grenelle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog"
+    },
+    {
+      "order": 5,
+      "place": "left-bank-cafe",
+      "displayName": "A café off Saint-Germain",
+      "country": "FR",
+      "lat": 48.8541444,
+      "lng": 2.3326307,
+      "reference": "Various chapters",
+      "certainty": "approximate",
+      "summary": "Now and then the characters step out of the building into the surrounding streets, to a café table and the small errands of the neighbourhood. The quarter around Saint-Germain-des-Prés, a short walk from the door, stands in for these brief openings onto the wider city.",
+      "note": "The novel's excursions to a nearby café and the shops of the quarter are not tied to a named establishment; this marks the Café de Flore on boulevard Saint-Germain as a representative point a short walk from the building.",
+      "sourceUrl": "https://www.thebooktrail.com/book-trails/the-elegance-of-the-hedgehog/"
+    },
+    {
+      "order": 6,
+      "place": "rue-de-grenelle-fountain",
+      "displayName": "Rue de Grenelle in the 7th",
+      "country": "FR",
+      "lat": 48.8546899,
+      "lng": 2.3251122,
+      "reference": "Setting, the named street",
+      "certainty": "exact",
+      "summary": "The address the whole book leans on is a real Paris street, running west from Saint-Germain into the heart of the 7th arrondissement. This point sits a little way along it, at the 18th-century Fountain of the Four Seasons, to fix the elegant quarter the novel keeps just outside its front door.",
+      "note": "The street the novel names, rue de Grenelle, is real and runs on into the 7th arrondissement; this marks the Fontaine des Quatre-Saisons, its best-known landmark, as a fixed point along the named street. The book does not mention the fountain itself.",
+      "sourceUrl": "https://fr.wikipedia.org/wiki/Rue_de_Grenelle"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

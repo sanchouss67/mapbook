@@ -1,0 +1,80 @@
+{
+  "id": "the-pickwick-papers",
+  "title": "The Pickwick Papers",
+  "author": "Charles Dickens",
+  "year": 1836,
+  "description": "A genial gentleman and his club ramble out of Regency London by coach across southern England, tumbling through inns, elections, cricket matches and lawsuits, until misplaced chivalry lands the good Mr Pickwick in a debtors' prison.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rochester-bull-inn",
+      "displayName": "The Bull Inn, Rochester",
+      "country": "GB",
+      "lat": 51.3897,
+      "lng": 0.5045,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "On the club's first journey out of town the travellers reach the old cathedral city of Rochester and lodge at its chief coaching inn. Here the smooth-talking stranger Mr Jingle borrows Mr Winkle's coat for the charity ball and provokes a near-duel. The Bull sets the pattern for the whole book: a good inn, a fine dinner, and a scrape born of misunderstanding.",
+      "note": "The Pickwickians put up at the Bull at Rochester on their first excursion; sited at the real coaching inn on Rochester High Street, later the Royal Victoria and Bull Hotel. Marked outside the setting box as an excursion into Kent.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+    },
+    {
+      "order": 2,
+      "place": "ipswich-great-white-horse",
+      "displayName": "The Great White Horse, Ipswich",
+      "country": "GB",
+      "lat": 52.0586,
+      "lng": 1.1567,
+      "reference": "Chapter 22",
+      "certainty": "exact",
+      "summary": "Pursuing Jingle to Suffolk, Mr Pickwick stops at a rambling old inn and loses his way among its corridors at bedtime. He blunders into the wrong room and the wrong bed, occupied by a middle-aged lady in yellow curl-papers, and the mortifying mix-up nearly costs him a breach-of-promise suit of its own. It is the book's most famous comedy of an inn's confusing geography.",
+      "note": "The novel names the Great White Horse at Ipswich; sited at the real inn on Tavern Street. Marked outside the setting box as an excursion into Suffolk.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+    },
+    {
+      "order": 3,
+      "place": "bath-pump-room",
+      "displayName": "The Pump Room, Bath",
+      "country": "GB",
+      "lat": 51.3813,
+      "lng": -2.3597,
+      "reference": "Chapter 35-36",
+      "certainty": "exact",
+      "summary": "Advised that the waters will do him good, Mr Pickwick joins the fashionable crowd at Bath, drinking his daily glass under the master of ceremonies' eye. Below stairs Sam Weller falls in with the town's self-important footmen and their genteel airs, and the club nearly loses a member to a moonlit elopement. Bath gives Dickens his set-piece on Regency snobbery at play.",
+      "note": "The party takes the waters at Bath; sited at the real Grand Pump Room beside the Roman Baths. Marked outside the setting box as an excursion into Somerset.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+    },
+    {
+      "order": 4,
+      "place": "george-and-vulture-city",
+      "displayName": "The George and Vulture, City of London",
+      "country": "GB",
+      "lat": 51.5133,
+      "lng": -0.0873,
+      "reference": "Chapter 26",
+      "certainty": "exact",
+      "summary": "When in town Mr Pickwick and Sam Weller lodge at an old City tavern tucked in a court off Lombard Street. It is here that Mrs Bardell's lawyers serve him over the pretended promise of marriage, and here the loyal Sam plots the club's affairs over dinner. The George and Vulture is Pickwick's fixed London address, the still point of all the rambling.",
+      "note": "Dickens names the George and Vulture as Mr Pickwick's London lodging; sited at the real chophouse in Castle Court off Lombard Street in the City.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+    },
+    {
+      "order": 5,
+      "place": "fleet-prison-london",
+      "displayName": "The Fleet Prison",
+      "country": "GB",
+      "lat": 51.515,
+      "lng": -0.105,
+      "reference": "Chapter 40-45",
+      "certainty": "exact",
+      "summary": "Rather than pay the damages awarded against him in the Bardell suit he believes unjust, Mr Pickwick chooses prison, and enters the squalid world of the Fleet's debtors. Among the ruined and the desperate his comic geniality darkens into real compassion, and only Sam's devotion and a stroke of mercy bring him out. The prison is where the book's laughter turns, briefly, to conscience.",
+      "note": "Mr Pickwick is committed to the Fleet, London's debtors' prison; sited at the real prison's location off Farringdon Street, demolished in the mid-19th century.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Pickwick_Papers"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

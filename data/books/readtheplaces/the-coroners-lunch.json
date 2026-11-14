@@ -1,0 +1,80 @@
+{
+  "id": "the-coroners-lunch",
+  "title": "The Coroner's Lunch",
+  "author": "Colin Cotterill",
+  "year": 2004,
+  "description": "Cotterill's Vientiane belongs to the first year of the Lao People's Democratic Republic, a shabby, watchful riverside capital where the new order runs on rumour and shortage. Dr Siri Paiboun, drafted at seventy-two into the job of national coroner, works out of a broken-down morgue at Mahosot Hospital and carries his cases from the ministries and the Mekong quay to the That Luang stupa, and once far north to the Hmong highlands of the Plain of Jars.",
+  "route": [
+    {
+      "order": 1,
+      "place": "mahosot-hospital-morgue",
+      "displayName": "The morgue at Mahosot Hospital",
+      "country": "LA",
+      "lat": 17.9599,
+      "lng": 102.6121,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The book runs out of a run-down morgue at Mahosot Hospital, where the reluctant coroner and his two assistants make do with failing equipment and no proper training. The bodies that start the plot, a Party official's wife and three drowned men, all pass across these tables. The hospital is real and still stands by the river; the state morgue of the story is Cotterill's invention set inside it.",
+      "note": "Mahosot Hospital is a real hospital on Quai Fa Ngum by the Mekong in Vientiane; this marks the hospital grounds, where the novel's fictional national morgue is housed.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mahosot_Hospital"
+    },
+    {
+      "order": 2,
+      "place": "mekong-waterfront-quai-fa-ngum",
+      "displayName": "The Mekong waterfront, Quai Fa Ngum",
+      "country": "LA",
+      "lat": 17.962,
+      "lng": 102.6046,
+      "reference": "Chapters 1-2",
+      "certainty": "exact",
+      "summary": "The Mekong is the edge of Siri's world: the far bank is Thailand, and the river carries both bodies and the constant fear of who might slip across it. Much of the early investigation plays out along the Vientiane embankment, where drowned men are pulled ashore and the coroner walks home past the water in the evenings.",
+      "note": "The Mekong riverfront and its Fa Ngum quay in Vientiane are real; this marks a representative point on the embankment that the hospital and central city look onto.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vientiane"
+    },
+    {
+      "order": 3,
+      "place": "government-ministries-lane-xang",
+      "displayName": "The government ministries, Lane Xang Avenue",
+      "country": "LA",
+      "lat": 17.9686,
+      "lng": 102.6169,
+      "reference": "Chapters 3-5",
+      "certainty": "exact",
+      "summary": "Siri is summoned repeatedly to the offices of the new republic, where senior Party men lean on him to sign the findings they want and to leave the awkward ones alone. The ministries of the story cluster along the grand avenue that runs inland from the river to the Patuxai arch, the administrative heart of the young People's Democratic Republic.",
+      "note": "Lane Xang Avenue and its Patuxai monument are the real ceremonial and government spine of Vientiane; this marks that quarter, where the novel's ministries and Party offices sit rather than a single named building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Patuxai"
+    },
+    {
+      "order": 4,
+      "place": "pha-that-luang",
+      "displayName": "That Luang stupa",
+      "country": "LA",
+      "lat": 17.9757,
+      "lng": 102.6331,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "The great gilded stupa, the country's chief religious monument, stands over Vientiane as a reminder of the old faith the new government would rather forget. Siri, a lifelong Communist who keeps finding himself pulled toward the spirit world, moves through its grounds as the case turns from politics toward something harder to explain.",
+      "note": "Pha That Luang is the real golden stupa and national symbol of Laos, on the northeastern edge of Vientiane; the coordinates mark the monument itself.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pha_That_Luang"
+    },
+    {
+      "order": 5,
+      "place": "plain-of-jars-xieng-khouang",
+      "displayName": "The Plain of Jars, Xieng Khouang",
+      "country": "LA",
+      "lat": 19.4306,
+      "lng": 103.1533,
+      "reference": "Chapters 10-13",
+      "certainty": "exact",
+      "summary": "The investigation takes Siri north to the Hmong highlands around the Plain of Jars, a country of stone jars, war craters and villages still uneasy with the new regime. Here the case opens onto old scores, buried secrets and the shamanism that shadows the whole book, far from the ministries of the capital.",
+      "note": "The Plain of Jars in Xieng Khouang province is a real megalithic landscape near Phonsavan, about 250 km northeast of Vientiane; this marks Jar Site 1, Thong Hai Hin. It sits well outside the Vientiane setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

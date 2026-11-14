@@ -1,0 +1,80 @@
+{
+  "id": "jude-the-obscure",
+  "title": "Jude the Obscure",
+  "author": "Thomas Hardy",
+  "year": 1895,
+  "description": "The stonemason Jude Fawley dreams of the university, but poverty, class and a doomed love for his free-thinking cousin Sue Bridehead break every hope, in Hardy's bleakest and most controversial novel. It maps his Wessex, drawn from real country: the village of his boyhood, the closed golden city of Christminster that will not have him, and the cathedral towns where he and Sue try and fail to live outside the rules.",
+  "route": [
+    {
+      "order": 1,
+      "place": "marygreen",
+      "displayName": "Marygreen",
+      "country": "GB",
+      "lat": 51.55,
+      "lng": -1.42,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the village of Marygreen, the orphan boy Jude teaches himself Latin and Greek at his work, fixing his whole soul on the distant, glowing towers of Christminster and a scholar's life. Hardy opens on the poor boy's hunger for learning, the aspiration that class and chance will spend the rest of the book crushing.",
+      "note": "Jude's boyhood village of Marygreen is drawn from Fawley in Berkshire, from which Hardy took the character's surname; sited in that region of his Wessex.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fawley,_Berkshire"
+    },
+    {
+      "order": 2,
+      "place": "christminster",
+      "displayName": "Christminster",
+      "country": "GB",
+      "lat": 51.752,
+      "lng": -1.257,
+      "reference": "The Christminster chapters",
+      "certainty": "approximate",
+      "summary": "Jude reaches Christminster at last, only to find the university a closed world that will never admit a stonemason, however learned, advising him to stay in his own trade. Hardy makes the golden city of spires the emblem of a class system that dangles knowledge before the poor and bars the door, the central wound of Jude's life.",
+      "note": "Christminster, the university city that rejects the working-class Jude, is Hardy's version of Oxford; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oxford"
+    },
+    {
+      "order": 3,
+      "place": "melchester",
+      "displayName": "Melchester",
+      "country": "GB",
+      "lat": 51.07,
+      "lng": -1.8,
+      "reference": "The Melchester chapters",
+      "certainty": "approximate",
+      "summary": "At Melchester, Jude falls in love with his clever, unconventional cousin Sue Bridehead, whose horror of marriage and the church mirrors his own defeated idealism. Hardy sets against the closed university a second impossible aspiration, a free union of two like minds, which respectable society will punish as savagely as it punished his hunger for learning.",
+      "note": "Melchester, where Sue Bridehead trains as a teacher and she and Jude fall in love, is Hardy's Salisbury; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Salisbury"
+    },
+    {
+      "order": 4,
+      "place": "shaston",
+      "displayName": "Shaston",
+      "country": "GB",
+      "lat": 51.006,
+      "lng": -2.2,
+      "reference": "The Shaston chapters",
+      "certainty": "approximate",
+      "summary": "At hilltop Shaston, Sue endures her miserable marriage to the older schoolmaster Phillotson before fleeing to Jude, both of them tangled in weddings and divorces that satisfy no one. Hardy charts the couple's doomed attempt to live by their own lights, their unmarried union and drifting poverty drawing the scorn that will destroy them.",
+      "note": "Shaston, where Sue is unhappily married to the schoolmaster Phillotson before leaving him for Jude, is Hardy's Shaftesbury in Dorset; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shaftesbury"
+    },
+    {
+      "order": 5,
+      "place": "christminster-again",
+      "displayName": "Christminster again",
+      "country": "GB",
+      "lat": 51.75,
+      "lng": -1.26,
+      "reference": "The final chapters",
+      "certainty": "approximate",
+      "summary": "Back in Christminster, poverty and shame drive the couple's strange child to kill the others and himself, done because we are too menny, and the catastrophe breaks Sue back to the church and Jude toward his lonely death. Hardy ends in almost unbearable bleakness, the city of Jude's dreams the scene of his ruin, an indictment of a society that had no place for either his mind or his love.",
+      "note": "The couple return to Christminster, where the horrific death of the children and Jude's own end take place; sited at Hardy's Oxford.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jude_the_Obscure"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

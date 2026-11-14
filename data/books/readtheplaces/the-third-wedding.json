@@ -1,0 +1,80 @@
+{
+  "id": "the-third-wedding",
+  "title": "The Third Wedding",
+  "author": "Costas Taktsis",
+  "year": 1962,
+  "description": "In a torrent of gossip, grievance and love, two Athenian women, Nina and the indomitable Ekavi, tell the tangled story of their families across the middle of the twentieth century, through marriages, the German Occupation and the Civil War. The real city is their whole world: the middle-class neighbourhoods of Kypseli and Patissia where the households rise and fall, old Plaka beneath the Acropolis, and the central squares where the famine and the fighting come.",
+  "route": [
+    {
+      "order": 1,
+      "place": "ninas-neighbourhood",
+      "displayName": "Nina's neighbourhood (Kypseli)",
+      "country": "GR",
+      "lat": 37.995,
+      "lng": 23.735,
+      "reference": "Nina's chapters",
+      "certainty": "approximate",
+      "summary": "From her apartment in the crowded, respectable neighbourhoods, Nina pours out the story of her marriages, her disappointments and her furious, loving friendship with Ekavi. Taktsis makes the ordinary Athenian household, its balconies, kitchens and quarrels, the stage for a whole society's passions.",
+      "note": "The households of the two women are set in the middle-class Athens neighbourhoods such as Kypseli; the specific houses are invented and sited in those real districts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kypseli,_Athens"
+    },
+    {
+      "order": 2,
+      "place": "ekavis-household",
+      "displayName": "Ekavi's household (Patissia)",
+      "country": "GR",
+      "lat": 38,
+      "lng": 23.73,
+      "reference": "Ekavi's chapters",
+      "certainty": "approximate",
+      "summary": "The formidable Ekavi, thrice-married and endlessly resilient, rules her household through poverty, betrayals and the deaths of children with a ferocious life-force. Her voice, alternating with Nina's, gives the book its double vision of the same tangled events, and its unforgettable portrait of a woman who survives everything.",
+      "note": "Ekavi's household, the second centre of the book, is set in the Athens districts around Patissia; the house is invented and sited in that real part of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Patissia"
+    },
+    {
+      "order": 3,
+      "place": "plaka-old-athens",
+      "displayName": "Plaka (old Athens)",
+      "country": "GR",
+      "lat": 37.972,
+      "lng": 23.728,
+      "reference": "The city chapters",
+      "certainty": "exact",
+      "summary": "Through the old streets of Plaka and the city beyond move the men of the story, among them Ekavi's difficult son Theodoros, whose marriage into Nina's family binds the two women for good. The ancient quarter under the rock of the Acropolis roots the domestic drama in the long, layered life of Athens.",
+      "note": "The old quarter of Plaka beneath the Acropolis, a real district of Athens, belongs to the older city the families move through; sited in that historic neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plaka"
+    },
+    {
+      "order": 4,
+      "place": "occupation-athens",
+      "displayName": "Occupation Athens (the famine)",
+      "country": "GR",
+      "lat": 37.983,
+      "lng": 23.727,
+      "reference": "The Occupation chapters",
+      "certainty": "exact",
+      "summary": "During the Occupation the city starves, and the women scheme and scavenge to keep their children alive through the winter of the great famine. Taktsis threads the huge public catastrophe through the small private lives, the daughter Maria and the others growing up amid hunger, black-market bargains and death.",
+      "note": "The German Occupation of 1941–44 and the terrible Athens famine of that winter fall on the families; the real occupied city, where thousands starved, is the setting of the book's darkest chapters.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Famine_(Greece)"
+    },
+    {
+      "order": 5,
+      "place": "civil-war-athens",
+      "displayName": "Civil War Athens (Syntagma)",
+      "country": "GR",
+      "lat": 37.975,
+      "lng": 23.735,
+      "reference": "The Civil War chapters",
+      "certainty": "exact",
+      "summary": "As Liberation turns straight into the street battles of December 1944 and the Civil War, politics divides families and neighbours and the shooting comes to the central squares. Taktsis ends his double history with the women older and battered but unbroken, the wild continuity of family life carrying on through every public catastrophe.",
+      "note": "The fighting of the Dekemvriana in December 1944 and the Civil War that followed tore through central Athens around Syntagma Square; the real events reach the families in the book's later chapters.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dekemvriana"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

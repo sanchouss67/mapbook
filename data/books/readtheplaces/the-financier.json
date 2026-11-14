@@ -1,0 +1,90 @@
+{
+  "id": "the-financier",
+  "title": "The Financier",
+  "author": "Theodore Dreiser",
+  "year": 1912,
+  "description": "Philadelphia and the making of a financier. Dreiser builds Frank Cowperwood's rise and ruin out of the real ledgers of the city: the banks and brokerages of Third Street, the trading floor of the exchange, the municipal offices in Independence Hall he corrupts, and the great gray penitentiary on Fairmount where he is jailed. It brings Philadelphia into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "third-street-banking-district",
+      "displayName": "Third Street, the banking district",
+      "country": "US",
+      "lat": 39.9503,
+      "lng": -75.1465,
+      "reference": "Third Street, Philadelphia",
+      "certainty": "exact",
+      "summary": "Third Street is where Cowperwood learns his trade and later runs his own brokerage. Dreiser names the real banks that clustered along it—Drexel, the Third and First National—the block that was, as he says, the heart of the financial district and the ground on which the whole novel is built.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    },
+    {
+      "order": 2,
+      "place": "the-exchange-trading-floor",
+      "displayName": "The exchange, at Third and Walnut",
+      "country": "US",
+      "lat": 39.9473,
+      "lng": -75.146,
+      "reference": "The exchange, Philadelphia",
+      "certainty": "approximate",
+      "summary": "The trading floor where Cowperwood buys a seat and makes his name. Seats sold for two thousand dollars each; the settlement clerks cried the day's transactions in a ring at the closing gong. It is the machine whose rhythm Cowperwood learns to play better than anyone.",
+      "note": "Dreiser writes of trading 'on 'change' without naming the building. In this period Philadelphia's brokers met at the Merchants' Exchange at Third and Walnut Streets, the historic exchange a block from the Third Street firms, and the pin marks it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    },
+    {
+      "order": 3,
+      "place": "girard-avenue-butler-home",
+      "displayName": "Girard Avenue, the Butler house",
+      "country": "US",
+      "lat": 39.9707,
+      "lng": -75.1568,
+      "reference": "Girard Avenue, Philadelphia",
+      "certainty": "approximate",
+      "summary": "The contractor Edward Butler has moved his family up to fashionable Girard Avenue, and his red-gold-haired daughter Aileen is the reason it matters to the plot. Cowperwood builds his own house on the same street, beyond the Butlers', and the affair that begins between the two homes is what finally ruins him.",
+      "note": "Girard Avenue is real and named in the book; Dreiser places the Butlers 'near the twelve hundreds' without a house number, so the pin marks the 1200 block. Cowperwood builds his own mansion nearby, beyond the Butlers'.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    },
+    {
+      "order": 4,
+      "place": "independence-hall-quarter-sessions",
+      "displayName": "Independence Hall, the seat of the city",
+      "country": "US",
+      "lat": 39.9489,
+      "lng": -75.15,
+      "reference": "Independence Hall, Philadelphia",
+      "certainty": "exact",
+      "summary": "The old State House holds the offices of the mayor and the city treasurer as well as the Court of Quarter Sessions, so the municipal-finance world Cowperwood corrupts and the court that convicts him share one red-brick building. Dreiser notes the mammoth new city hall at Broad and Market was then still rising.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    },
+    {
+      "order": 5,
+      "place": "chicago-fire-panic-third-street",
+      "displayName": "The Chicago-fire panic, Third Street",
+      "country": "US",
+      "lat": 39.9488,
+      "lng": -75.1468,
+      "reference": "The panic of 1871",
+      "certainty": "exact",
+      "summary": "The real Chicago fire reaches Cowperwood as a market. As the banks along Third Street call their loans to raise cash, the stampede catches him overextended in city loan, and the panic that ruins him is set going by a fire a thousand miles away.",
+      "note": "The fire is a real event of October 1871; the panic it triggered is felt on the real Third Street, where the pin sits among the banks whose called loans ruin Cowperwood.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    },
+    {
+      "order": 6,
+      "place": "eastern-state-penitentiary",
+      "displayName": "Eastern State Penitentiary",
+      "country": "US",
+      "lat": 39.9684,
+      "lng": -75.1727,
+      "reference": "The penitentiary, Fairmount",
+      "certainty": "exact",
+      "summary": "The real prison on Fairmount, now a museum, is where the financier's rise ends. Dreiser describes its thirty-five-foot walls and seven radiating corridors almost to the acre. He calls it the Eastern District Penitentiary; the place is the Eastern State Penitentiary, at Fairmount Avenue and Twenty-second Street.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1840"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

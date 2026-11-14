@@ -1,0 +1,80 @@
+{
+  "id": "the-devils-dance",
+  "title": "The Devils' Dance",
+  "author": "Hamid Ismailov",
+  "year": 2016,
+  "description": "Two Uzbekistans held in one mind. In 1938 the writer Abdulla Qodiriy is taken to the NKVD prison in Tashkent during Stalin's terror, and in his cell he builds, sentence by sentence, an unwritten novel about the last khans of Kokand and the poet-queen Nodira. The map runs from the old city of Tashkent down some two hundred and thirty kilometres to the Ferghana Valley, where the nineteenth-century strand plays out in Kokand, Margilan and Ferghana.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tashkent-old-city",
+      "displayName": "The old city of Tashkent",
+      "country": "UZ",
+      "lat": 41.32667,
+      "lng": 69.235,
+      "reference": "The 1938 strand",
+      "certainty": "exact",
+      "summary": "The frame of the novel opens in the old town of Tashkent, the warren of mud-brick mahallas and bazaars around Chorsu where the writer at its centre had his life before the terror. From here he is taken away, and the whole nineteenth-century story he carries in his head belongs to a man who began in this city.",
+      "note": "The old city of Tashkent, where Qodiriy lived and was arrested, is real and named; sited at Chorsu, the historic heart of the eski shahar, as a representative point for the labyrinth of mahalla lanes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chorsu_Bazaar"
+    },
+    {
+      "order": 2,
+      "place": "tashkent-nkvd-prison",
+      "displayName": "The NKVD prison, Tashkent",
+      "country": "UZ",
+      "lat": 41.314,
+      "lng": 69.2295,
+      "reference": "The 1938 strand",
+      "certainty": "approximate",
+      "summary": "Most of the frame narrative unfolds inside a crowded prison cell in Tashkent, where the writer is held during the purges of 1938. Unable to set anything on paper, he composes his last novel in his head, cellmate by cellmate, while interrogations grind on around him. The terror was real: he was shot that October.",
+      "note": "The prison is real but the specific cell is not documented for the map; sited representatively in the old city of Tashkent, close to Tashtyurma, the tsarist-era jail the Soviet security services used during the terror.",
+      "sourceUrl": "https://www.rferl.org/a/uzbekistan-prison-turned-into-park/29124138.html"
+    },
+    {
+      "order": 3,
+      "place": "kokand-khudayar-khan-palace",
+      "displayName": "Khudayar Khan's palace, Kokand",
+      "country": "UZ",
+      "lat": 40.5388,
+      "lng": 70.9377,
+      "reference": "The Kokand strand",
+      "certainty": "exact",
+      "summary": "The novel inside the novel is the court of the last khans of Kokand, the seat of the khanate that ruled the Ferghana Valley until Russia annexed it in the 1870s. The surviving palace of Khudayar Khan, the ruler who lost the khanate, anchors this world of poets, intrigue and the poet-queen Nodira, played out as the Great Game closes in.",
+      "note": "The palace of Khudayar Khan in Kokand is real and standing; its coordinates are well documented.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palace_of_Khud%C3%A1y%C3%A1r_Kh%C3%A1n"
+    },
+    {
+      "order": 4,
+      "place": "margilan-silk-city",
+      "displayName": "Margilan",
+      "country": "UZ",
+      "lat": 40.4695,
+      "lng": 71.7195,
+      "reference": "The Kokand strand",
+      "certainty": "exact",
+      "summary": "The Ferghana strand moves among the old silk towns of the valley, and Margilan is the most famous of them, a caravan and weaving centre for a thousand years. Places like it give the nineteenth-century story its texture: bazaars, silk, and the settled towns that the khanate lived on and that Russia set out to swallow.",
+      "note": "Margilan is a real city of the Ferghana Valley; sited at the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Margilan"
+    },
+    {
+      "order": 5,
+      "place": "ferghana-valley",
+      "displayName": "Ferghana",
+      "country": "UZ",
+      "lat": 40.3842,
+      "lng": 71.7843,
+      "reference": "The Kokand strand",
+      "certainty": "exact",
+      "summary": "The whole nineteenth-century story sits in the Ferghana Valley, the fertile bowl ringed by mountains where the Kokand khanate rose and fell. The point marks the valley that ties the historical strand together, the ground the khans fought over and that Russian and British agents watched as the Great Game reached Central Asia.",
+      "note": "The city and valley of Ferghana are real; sited at the centre of the modern city, which stands for the wider valley the historical strand ranges across.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fergana"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

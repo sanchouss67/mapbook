@@ -1,0 +1,80 @@
+{
+  "id": "the-yellow-rain",
+  "title": "The Yellow Rain",
+  "author": "Julio Llamazares",
+  "year": 1988,
+  "description": "Andrés, the last living inhabitant of Ainielle, a real village high in the Aragonese Pyrenees abandoned by everyone else, keeps a final vigil alone among the ruins with his memories and his dead. Llamazares maps the dying village exactly: Andrés's house, the empty homes of the departed, the silent mill and fields, the cemetery he tends, and the mountain path down to the next village that he can no longer bring himself to take, as the yellow rain of falling poplar leaves buries it all.",
+  "route": [
+    {
+      "order": 1,
+      "place": "andres-house",
+      "displayName": "Ainielle (Andrés's house)",
+      "country": "ES",
+      "lat": 42.55,
+      "lng": -0.25,
+      "reference": "The vigil",
+      "certainty": "exact",
+      "summary": "Alone in his house in the deserted village, the last man in Ainielle keeps company only with his memories and the ghosts of the dead, waiting for his own end. Llamazares gives the whole novel over to his interior monologue, a meditation on solitude, memory and death as slow and encroaching as the mountain snow.",
+      "note": "Andrés lives out his last days in his house in Ainielle, a real abandoned village in the Aragonese Pyrenees; his home is the centre of the book's long solitary vigil.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ainielle"
+    },
+    {
+      "order": 2,
+      "place": "the-empty-houses",
+      "displayName": "The empty houses",
+      "country": "ES",
+      "lat": 42.551,
+      "lng": -0.252,
+      "reference": "The departed",
+      "certainty": "exact",
+      "summary": "One by one the families of Ainielle emigrated to the cities or died, leaving their houses to rot, until only Andrés remained. He walks among the ruined homes of the departed, each holding its own vanished life, the whole village a slow catalogue of a rural Spain emptying out and dying.",
+      "note": "The empty, collapsing houses of the neighbours who left or died fill the abandoned village of Ainielle; sited among its real ruins.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rural_flight"
+    },
+    {
+      "order": 3,
+      "place": "the-mill-fields",
+      "displayName": "The mill and fields",
+      "country": "ES",
+      "lat": 42.548,
+      "lng": -0.248,
+      "reference": "The lost world",
+      "certainty": "approximate",
+      "summary": "The overgrown fields and the stopped mill remember a whole way of life that has died with the village, the labour that once tied people to this hard mountain land. Andrés's own children left for the city and one died young, and the empty fields hold the grief of a generation gone and a countryside forsaken.",
+      "note": "The silent mill and the abandoned fields around the village mark the ended agrarian life; sited in the real Ainielle countryside, the specific mill the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Julio_Llamazares"
+    },
+    {
+      "order": 4,
+      "place": "the-cemetery",
+      "displayName": "The cemetery",
+      "country": "ES",
+      "lat": 42.552,
+      "lng": -0.253,
+      "reference": "The dead",
+      "certainty": "approximate",
+      "summary": "In the little cemetery Andrés keeps the graves of his wife Sabina, who hanged herself in grief, and of the generations before, the dead more present to him now than the living ever were. As the boundary between memory and haunting dissolves, the graveyard becomes the true centre of a village that is now almost all dead.",
+      "note": "Andrés tends the village cemetery where his wife Sabina and the other dead of Ainielle lie; the graveyard is sited in the real village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Julio_Llamazares"
+    },
+    {
+      "order": 5,
+      "place": "the-mountain-path",
+      "displayName": "The mountain path",
+      "country": "ES",
+      "lat": 42.545,
+      "lng": -0.24,
+      "reference": "The end",
+      "certainty": "exact",
+      "summary": "The path down the mountain to the living world is always there, and Andrés never takes it, choosing to die in the ruins rather than abandon them as everyone else did. Llamazares closes with the yellow rain of leaves and then the snow covering the village and the last man, the whole book a quiet elegy for a world allowed to vanish.",
+      "note": "The path over the mountains to the next village, Berbusa, is the real way out that Andrés can no longer bring himself to take; sited on the slopes above Ainielle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Julio_Llamazares"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

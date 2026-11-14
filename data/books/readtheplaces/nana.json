@@ -1,0 +1,80 @@
+{
+  "id": "nana",
+  "title": "Nana",
+  "author": "Émile Zola",
+  "year": 1880,
+  "description": "In the pleasure-loving Paris of the late Second Empire, a music-hall actress turned courtesan rises from the boulevard theatres to a mansion of her own, ruining a string of wealthy men on her way.",
+  "route": [
+    {
+      "order": 1,
+      "place": "theatre-des-varietes",
+      "displayName": "Théâtre des Variétés, Passage des Panoramas",
+      "country": "FR",
+      "lat": 48.8713,
+      "lng": 2.3419,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "At the Théâtre des Variétés, the unknown Nana walks on as Venus and, though she can barely act or sing, conquers the whole house with her body alone. The boulevard theatre and the shabby-glamorous Passage des Panoramas beside it are the launch pad of her career. From this stage her power over the men of Paris begins.",
+      "note": "The novel opens at the Théâtre des Variétés on the Boulevard Montmartre, beside the Passage des Panoramas, where Nana makes her sensational stage debut. The theatre is real and named; the pin marks it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(novel)"
+    },
+    {
+      "order": 2,
+      "place": "bois-de-boulogne",
+      "displayName": "The Bois de Boulogne",
+      "country": "FR",
+      "lat": 48.862,
+      "lng": 2.25,
+      "reference": "Chapter 8",
+      "certainty": "exact",
+      "summary": "The Bois de Boulogne is where Nana shows herself off to Paris, driving through the park in a fine carriage among the very society women she outshines. The daily parade of the fashionable world is exactly the arena where a courtesan's status is measured and displayed. Her triumph here is public proof of how far she has climbed.",
+      "note": "Nana parades in her carriage among fashionable Paris in the Bois de Boulogne, the great park on the western edge of the city. It is named in the novel; the pin marks the park's central drives.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "hotel-avenue-de-villiers",
+      "displayName": "Nana's mansion, avenue de Villiers",
+      "country": "FR",
+      "lat": 48.883,
+      "lng": 2.305,
+      "reference": "Chapter 10",
+      "certainty": "approximate",
+      "summary": "Nana's mansion on the avenue de Villiers is the golden trap where she devours fortunes, and Count Muffat, the pious chamberlain who abandons everything for her, is ruined inside its gilded rooms. The house swallows the wealth of a whole procession of men. Zola makes it an emblem of the appetite eating away at the Empire's ruling class.",
+      "note": "At the height of her power Nana keeps a lavish private mansion on the avenue de Villiers, in the smart 17th arrondissement. The house is fictional but the avenue is named and real; the pin marks the avenue de Villiers.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "longchamp-racecourse",
+      "displayName": "Longchamp, the Grand Prix de Paris",
+      "country": "FR",
+      "lat": 48.857,
+      "lng": 2.228,
+      "reference": "Chapter 11",
+      "certainty": "exact",
+      "summary": "At Longchamp on the day of the Grand Prix, a filly named Nana wins the great race, and the crowd's roar for the horse becomes a roar for the woman. Zola stages the whole glittering, feverish society of the Empire around the track. The coincidence of names turns the courtesan's triumph into a piece of public theatre.",
+      "note": "The famous racing chapter unfolds at the Longchamp hippodrome in the Bois de Boulogne on the day of the Grand Prix de Paris. The racecourse is real and named; the pin marks the Hippodrome de Longchamp.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "grand-hotel-capucines",
+      "displayName": "The Grand Hôtel, Boulevard des Capucines",
+      "country": "FR",
+      "lat": 48.8703,
+      "lng": 2.3313,
+      "reference": "Chapter 14",
+      "certainty": "exact",
+      "summary": "Nana dies alone and disfigured by smallpox in a room at the Grand Hôtel, while outside on the boulevard the crowds shout for the war that will topple the Empire. Zola ties her ruined beauty to the doomed regime she embodied. The glamorous body that dazzled Paris rots away just as the Second Empire marches to its own catastrophe.",
+      "note": "The novel ends with Nana dying of smallpox in a room at the Grand Hôtel on the Boulevard des Capucines, near the Opéra, as the crowds below cry out for war in July 1870. The hotel is real and named; the pin marks it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nana_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

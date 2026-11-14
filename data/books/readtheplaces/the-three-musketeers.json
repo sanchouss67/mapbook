@@ -1,0 +1,80 @@
+{
+  "id": "the-three-musketeers",
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "year": 1844,
+  "description": "The young Gascon d'Artagnan comes to Paris to join the King's Musketeers and falls in with Athos, Porthos and Aramis, plunging into the intrigues of Louis XIII's court, Cardinal Richelieu, and the deadly Milady de Winter. Dumas ranges across a real seventeenth-century geography: the Musketeers' Paris and the Louvre, the dash to London to save the Queen's honour, the siege of La Rochelle, and the convent where Milady meets her end.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-musketeers-paris",
+      "displayName": "The Musketeers' Paris",
+      "country": "FR",
+      "lat": 48.86,
+      "lng": 2.34,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "The hot-headed young Gascon d'Artagnan reaches Paris and, within a day, has arranged to duel Athos, Porthos and Aramis, only to fight beside them instead against the Cardinal's guards. Dumas plants his hero in the swaggering, sword-quick world of the Musketeers, where friendship is sealed in a shared brawl and the motto is all for one.",
+      "note": "d'Artagnan arrives in the real Paris of Louis XIII to seek out M. de Tréville, captain of the King's Musketeers; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Musketeers_of_the_Guard"
+    },
+    {
+      "order": 2,
+      "place": "the-louvre",
+      "displayName": "The Louvre",
+      "country": "FR",
+      "lat": 48.861,
+      "lng": 2.337,
+      "reference": "The court chapters",
+      "certainty": "exact",
+      "summary": "At the Louvre the intrigues turn on the Queen's honour and the Cardinal's endless designs, as Richelieu plots to expose Anne's gift of diamond studs to the Duke of Buckingham. Dumas sets his adventure against the real court of Louis XIII, where a length of ribbon can topple a queen and only the Musketeers stand between her and ruin.",
+      "note": "The Louvre, the real royal palace, is the seat of Louis XIII, Queen Anne and the scheming Cardinal Richelieu; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Louvre_Palace"
+    },
+    {
+      "order": 3,
+      "place": "london-diamond-studs",
+      "displayName": "London",
+      "country": "FR",
+      "lat": 51.51,
+      "lng": -0.12,
+      "reference": "The London ride",
+      "certainty": "exact",
+      "summary": "To save the Queen, d'Artagnan races across France and the Channel to London, losing his companions to Milady's traps along the way, and brings the diamond studs back in the nick of time. Dumas turns the errand into the book's most famous set-piece, a breathless dash the length of two kingdoms to undo a single afternoon's intrigue.",
+      "note": "d'Artagnan rides to London to recover the Queen's diamond studs from the Duke of Buckingham; sited in the real city, far outside the Paris setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham"
+    },
+    {
+      "order": 4,
+      "place": "la-rochelle",
+      "displayName": "The siege of La Rochelle",
+      "country": "FR",
+      "lat": 46.16,
+      "lng": -1.15,
+      "reference": "The siege chapters",
+      "certainty": "exact",
+      "summary": "At the siege of La Rochelle the four friends coolly take breakfast on an exposed bastion to lay their plans against Milady, holding it against a company of the enemy for a wager. Dumas folds his heroes into the real war against the Huguenots, and makes the bastion Saint-Gervais the stage for their nerviest, most characteristic exploit.",
+      "note": "The real 1627-28 siege of the Huguenot city of La Rochelle, where the Musketeers go to war, is a historical event; sited there, far outside the Paris setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_La_Rochelle"
+    },
+    {
+      "order": 5,
+      "place": "betherne-convent",
+      "displayName": "The convent at Béthune",
+      "country": "FR",
+      "lat": 50.53,
+      "lng": 2.64,
+      "reference": "The final chapters",
+      "certainty": "approximate",
+      "summary": "The deadly Milady de Winter poisons d'Artagnan's beloved Constance in a convent near Béthune, and the Musketeers at last run her down and, in a night-time tribunal on the river, see her executed. Dumas ends on the reckoning with his great villainess, the men who live by the sword handing her, for once, to a colder justice than their own.",
+      "note": "Milady's poisoning of Constance and her own execution take place at a convent near Béthune in the north of France; drawn from that real town and sited there, outside the Paris setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/B%C3%A9thune"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

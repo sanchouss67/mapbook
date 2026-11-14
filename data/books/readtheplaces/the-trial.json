@@ -1,0 +1,80 @@
+{
+  "id": "the-trial",
+  "title": "The Trial",
+  "author": "Franz Kafka",
+  "year": 1925,
+  "description": "A bank clerk is arrested one morning for a crime never named, and spends a year being drawn deeper into a court that meets in attics and back rooms across an unnamed city built from Kafka's Prague.",
+  "route": [
+    {
+      "order": 1,
+      "place": "prague-lodging-house-old-town",
+      "displayName": "The lodging house where K. is arrested",
+      "country": "CZ",
+      "lat": 50.088,
+      "lng": 14.425,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "On the morning of his thirtieth birthday, Josef K. is arrested in his own bedroom by two warders who eat his breakfast and will not say what he is charged with. The ordinary rented room, with the neighbours watching from across the courtyard, is where the whole machinery quietly begins.",
+      "note": "The city in the novel is never named; it is drawn from Kafka's Prague, where he lived and worked. Frau Grubach's boarding house is fictional and given no address; sited here in the Old Town, the dense quarter of rented rooms and shared landings that Kafka knew.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial"
+    },
+    {
+      "order": 2,
+      "place": "prague-the-bank",
+      "displayName": "The Bank where K. is chief clerk",
+      "country": "CZ",
+      "lat": 50.083,
+      "lng": 14.427,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "K. holds a senior post at a bank, and clings to it as proof that he is a serious, respectable man. As the case spreads, the office stops being a refuge: he finds the warders being flogged in a lumber room off his own corridor, the trial leaking into the one place he thought was solid.",
+      "note": "The Bank is unnamed and fictional. Kafka worked for an insurance institute in central Prague, and the novel's Bank has the same feel of a large office in the commercial heart of the city; anchored here in the New Town business district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial"
+    },
+    {
+      "order": 3,
+      "place": "prague-court-tenement-suburb",
+      "displayName": "The court in a tenement attic",
+      "country": "CZ",
+      "lat": 50.0879,
+      "lng": 14.4499,
+      "reference": "Chapter 3",
+      "certainty": "approximate",
+      "summary": "Summoned without a time, K. searches a poor suburb and finds the court sitting in an attic reached through a family's flat, the air thick and the public benches full. The law here has no marble and no dignity; it lives in the top rooms of a slum, which is the joke and the horror at once.",
+      "note": "The court convenes in an attic of a shabby tenement in a poor suburb. No real address is given; anchored to Zizkov, the working-class Prague district of exactly such crowded apartment blocks, as the kind of place Kafka had in mind.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial"
+    },
+    {
+      "order": 4,
+      "place": "prague-cathedral-st-vitus",
+      "displayName": "The cathedral and the priest's parable",
+      "country": "CZ",
+      "lat": 50.0909,
+      "lng": 14.4009,
+      "reference": "Chapter 9",
+      "certainty": "approximate",
+      "summary": "Sent to show a foreign client the sights, K. waits alone in a vast, darkening cathedral until a chaplain calls him by name from the pulpit. There he hears the parable of the man who waits his whole life at a door of the Law that was meant only for him, and was always about to close.",
+      "note": "The cathedral is unnamed. As the great cathedral of Kafka's Prague, St Vitus inside the Castle is the natural real-world model for the empty, darkening church where K. meets the prison chaplain; anchored to it here.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial"
+    },
+    {
+      "order": 5,
+      "place": "prague-quarry-execution",
+      "displayName": "The quarry on the city's edge",
+      "country": "CZ",
+      "lat": 50.083,
+      "lng": 14.388,
+      "reference": "Chapter 10",
+      "certainty": "approximate",
+      "summary": "On the eve of his thirty-first birthday two men in frock coats collect K. and walk him out to a quarry at the city's edge. He offers no fight; the book closes with him dying, as he thinks, like a dog, and the shame of it outliving him.",
+      "note": "The execution is set in a small stone quarry beyond the last houses. Prague had working quarries on its western slopes below Strahov; this point stands for that edge-of-town waste ground where the novel ends.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Trial"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

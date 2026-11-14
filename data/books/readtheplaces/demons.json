@@ -1,0 +1,80 @@
+{
+  "id": "demons",
+  "title": "Demons",
+  "author": "Fyodor Dostoevsky",
+  "year": 1872,
+  "description": "A conspiracy of nihilists tears through an unnamed Russian provincial town over a few feverish weeks around 1870, from the governor's drawing rooms to a country estate and a murder in the park.",
+  "route": [
+    {
+      "order": 1,
+      "place": "skvoreshniki-estate",
+      "displayName": "Skvoreshniki, the Stavrogin estate",
+      "country": "RU",
+      "lat": 56.885,
+      "lng": 35.855,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "Skvoreshniki is the Stavrogin family seat, the estate Varvara Petrovna keeps and to which her son Nikolai returns from abroad. It is the calm, ordered ground against which the town's disorder plays out, and by the end the park around the house becomes the scene of the conspiracy's worst act. Everything in the novel seems to circle back to this place.",
+      "note": "Skvoreshniki is Varvara Petrovna's fictional country house just outside the unnamed provincial town. The town is never named and is drawn from the provincial Russia Dostoevsky knew; we use Tver, a real city on the old Moscow–Petersburg road, as the representative real model. The pin sits on Tver's semi-rural northern edge, the kind of ground where a gentry estate above the river would have stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+    },
+    {
+      "order": 2,
+      "place": "governors-town-centre",
+      "displayName": "The governor's town centre",
+      "country": "RU",
+      "lat": 56.859,
+      "lng": 35.9078,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "The town centre is where Pyotr Verkhovensky works his charm and mischief, ingratiating himself with the new governor and his wife and steering the town toward a public humiliation. The literary matinee and ball he helps organise collapse into farce and then arson. It is the stage on which he shows how easily respectable society can be pushed off balance.",
+      "note": "The provincial capital, its governor's residence and the hall where the disastrous fête is held, is unnamed in the novel and modelled on provincial Russia generally. We site it on the historic central square of Tver, our representative real town, where the governor's offices and assembly rooms of such a city stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+    },
+    {
+      "order": 3,
+      "place": "volga-riverbank",
+      "displayName": "The riverbank at the edge of town",
+      "country": "RU",
+      "lat": 56.8632,
+      "lng": 35.902,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "The river's edge is the town's threshold, the place people cross to reach the poorer quarters and where night errands and secret meetings happen out of sight. Stavrogin moves through these outskirts on his strange nocturnal visits, drawn to the parts of town where his cold reputation counts for nothing. The water marks the boundary between the respectable centre and everything the conspirators exploit.",
+      "note": "The town's river and embankment are unnamed backdrop in the novel. We place the pin on the Volga embankment at Tver, our representative real model; a provincial town of this kind sat on a navigable river exactly like this one.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+    },
+    {
+      "order": 4,
+      "place": "suburban-street-filippov-house",
+      "displayName": "A suburban street, the conspirators' lodgings",
+      "country": "RU",
+      "lat": 56.851,
+      "lng": 35.926,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "A modest house on a suburban street holds the two men whose fates Pyotr means to use: the engineer obsessed with his own will and the former radical who has broken with the group. It is here that the small revolutionary cell meets and here that Pyotr plots the killing meant to bind them all in blood. The ordinary street makes the cold-bloodedness worse.",
+      "note": "The back street where Kirillov and Shatov lodge in the same house is fictional and unnamed as a real address. We site it on a quieter residential street on the town's edge, using Tver as the representative real model, away from the central square.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+    },
+    {
+      "order": 5,
+      "place": "high-road-to-petersburg",
+      "displayName": "The high road out of town",
+      "country": "RU",
+      "lat": 56.905,
+      "lng": 35.83,
+      "reference": "Part 3",
+      "certainty": "approximate",
+      "summary": "Old Stepan Verkhovensky, the liberal idealist of an earlier generation whose fine talk helped seed all this, finally flees the town on foot along the open road. Sick and out of his depth, he wanders the highway and takes shelter at a wayside inn, where he reckons at last with what his ideas have grown into. His pilgrimage away from the town is the novel's quiet, aching counterweight to its violence.",
+      "note": "Stepan Verkhovensky's final wandering takes him out along the great highway, unnamed but plainly the main post road. We place the pin on the historic Moscow–Saint Petersburg road as it leaves Tver, our representative real town, which sat squarely on that route.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

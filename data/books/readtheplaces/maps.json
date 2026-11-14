@@ -1,0 +1,80 @@
+{
+  "id": "maps",
+  "title": "Maps",
+  "author": "Nuruddin Farah",
+  "year": 1986,
+  "description": "Farah's Somalia is a country arguing with its own map. An orphan boy is raised by a woman in the Ogaden, the Somali-speaking region held by Ethiopia, during the 1977 war for it; he is then sent south to the capital to grow up among relatives who debate blood, nation and belonging. The map stretches across the Horn, from the Shebelle valley around Kallafo to the ocean at Mogadishu, roughly eight hundred kilometres apart.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kallafo-ogaden",
+      "displayName": "Kallafo (Qallaafo), the Ogaden",
+      "country": "SO",
+      "lat": 5.5889,
+      "lng": 44.2056,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The boy is born and raised here after his parents are gone, brought up by a woman who is not his mother in a frontier town of the Ogaden. The place matters because it is Somali in speech and Ethiopian on the map, the exact contradiction the novel keeps circling.",
+      "note": "Kallafo (Qallaafo, today spelled Kelafo) is a real town on the Shebelle in the Ogaden, the Somali-speaking region of eastern Ethiopia that Somalia disputed and briefly held in the 1977 war; coordinates mark the town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kelafo"
+    },
+    {
+      "order": 2,
+      "place": "shebelle-river-kallafo",
+      "displayName": "The Shebelle river at Kallafo",
+      "country": "SO",
+      "lat": 5.58,
+      "lng": 44.19,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The river gives the childhood landscape its seasons of flood and drought and its farming life along the banks. It is also a thread that ties the inland Ogaden to the coast, since the same Shebelle bends south toward Somalia before it dies in the sand near the ocean.",
+      "note": "The Shebelle is a real river that runs through Kallafo in the Ogaden of Ethiopia, the disputed Somali region; the point marks the river as it passes the town, not a scene named to the metre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shebelle_River"
+    },
+    {
+      "order": 3,
+      "place": "family-compound-kallafo",
+      "displayName": "The family compound near Kallafo",
+      "country": "SO",
+      "lat": 5.592,
+      "lng": 44.215,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The daily world of the small boy is a single household on the town's edge, where the woman raising him is the whole of his early life. We place it as a representative point beside Kallafo rather than a surveyed plot, since the novel keeps the home intimate rather than mapped.",
+      "note": "The household is not tied to a mapped address; this marks a representative point at the edge of Kallafo, which lies in the Ogaden of Ethiopia, the disputed Somali region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kelafo"
+    },
+    {
+      "order": 4,
+      "place": "mogadishu-capital",
+      "displayName": "Mogadishu, the Somali capital",
+      "country": "SO",
+      "lat": 2.0371,
+      "lng": 45.3438,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The boy is sent roughly eight hundred kilometres south to the capital, to live with an uncle and aunt and to be schooled into adulthood. The city is where his questions turn political: what a Somali is, what the nation's borders mean, and whether a map can hold a people the frontier has split.",
+      "note": "Mogadishu, the coastal capital of Somalia on the Indian Ocean, is named in the novel; coordinates mark the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mogadishu"
+    },
+    {
+      "order": 5,
+      "place": "hamar-weyne-old-town",
+      "displayName": "Hamar Weyne, the old town of Mogadishu",
+      "country": "SO",
+      "lat": 2.027,
+      "lng": 45.334,
+      "reference": "Part Three",
+      "certainty": "approximate",
+      "summary": "Adulthood arrives in the older seaward part of the capital, among the coral-stone lanes near the ocean where his relatives' life is set. We anchor the household in Hamar Weyne, Mogadishu's ancient quarter, as a stand-in for the family home the novel never pins to a street.",
+      "note": "The uncle's household is not given a mapped address; this marks Hamar Weyne, the historic coastal quarter of Mogadishu, as a representative point for the boy's city life.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hamar_Weyne"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

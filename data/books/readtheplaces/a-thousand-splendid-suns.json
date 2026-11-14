@@ -1,0 +1,80 @@
+{
+  "id": "a-thousand-splendid-suns",
+  "title": "A Thousand Splendid Suns",
+  "author": "Khaled Hosseini",
+  "year": 2007,
+  "description": "Thirty years of Afghan history seen through two women married to the same brutal man in Kabul. Mariam grows up outside Herat and is married off to the shoemaker Rasheed; years later the educated Laila, orphaned when a rocket destroys her family's house, becomes his second wife, and the two women's alliance carries the book. The city is real and specific: Rasheed's house in the Deh-Mazang district, the dry-riverbed market called Titanic City, and the Ghazi Stadium where the Taliban hold their executions.",
+  "route": [
+    {
+      "order": 1,
+      "place": "herat-gul-daman",
+      "displayName": "Herat and Gul Daman",
+      "country": "AF",
+      "lat": 34.352,
+      "lng": 62.204,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "Mariam is a harami, an illegitimate child, raised apart from her wealthy father Jalil, who owns a cinema in Herat and visits once a week. When she walks into the city to claim him and is turned away, and her mother dies, she is married off at fifteen to Rasheed and sent east to Kabul, out of this world for good.",
+      "note": "Mariam grows up in a hillside hut, a kolba, near the village of Gul Daman outside the real city of Herat in western Afghanistan; the hut is invented and sited in the country outside the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Herat"
+    },
+    {
+      "order": 2,
+      "place": "rasheed-house-deh-mazang",
+      "displayName": "Rasheed's house, Deh-Mazang",
+      "country": "AF",
+      "lat": 34.515,
+      "lng": 69.155,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "The shoemaker's narrow house in Deh-Mazang is the whole world of the novel's middle, where Mariam and later Laila endure Rasheed's cruelty behind shuttered windows. It is here their wary alliance forms, two co-wives who become, against everything, a family of their own making.",
+      "note": "Rasheed's house, where both wives live, is placed in Deh-Mazang, a real district of west-central Kabul; the specific house is invented and sited in that neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+    },
+    {
+      "order": 3,
+      "place": "lailas-street-kabul",
+      "displayName": "Laila and Tariq's street, Kabul",
+      "country": "AF",
+      "lat": 34.517,
+      "lng": 69.16,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Before the war closes in, Laila and the one-legged boy Tariq grow up together on this street, and their childhood love is the thread that will finally pull Laila out of Rasheed's house. A rocket destroys her family home and kills her parents, orphaning her into Rasheed's reach.",
+      "note": "Laila grows up on a Kabul street near Rasheed's, next door to her childhood love Tariq; the houses are invented and sited in the same west Kabul neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+    },
+    {
+      "order": 4,
+      "place": "titanic-city-market",
+      "displayName": "Titanic City (the Kabul River market)",
+      "country": "AF",
+      "lat": 34.5175,
+      "lng": 69.175,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "In the Taliban years the dried-up Kabul River becomes a teeming bazaar, Titanic City, where everything sinking and forbidden can still be bought. The women's few outings into the city under the burqa run through streets like these, watched and policed at every turn.",
+      "note": "During the drought the dry bed of the Kabul River filled with a sprawling market that Kabulis nicknamed Titanic City; sited along the real riverbed running through the centre of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+    },
+    {
+      "order": 5,
+      "place": "ghazi-stadium",
+      "displayName": "Ghazi Stadium",
+      "country": "AF",
+      "lat": 34.5228,
+      "lng": 69.2,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "After Mariam kills Rasheed to save Laila's life, she is convicted and executed before a crowd in Ghazi Stadium, the football ground the Taliban turned into a place of public death. Her sacrifice buys Laila and the children a future, and the book's title finally belongs to her.",
+      "note": "Ghazi Stadium in Kabul, a real sports ground, was used by the Taliban for public punishments and executions; it is where Mariam is put to death near the end of the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ghazi_Stadium"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

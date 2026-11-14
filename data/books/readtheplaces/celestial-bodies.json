@@ -1,0 +1,80 @@
+{
+  "id": "celestial-bodies",
+  "title": "Celestial Bodies",
+  "author": "Jokha Alharthi",
+  "year": 2010,
+  "description": "Through three sisters of the village of al-Awafi in the interior of Oman, Alharthi traces a country moving in a single lifetime from a slave-owning, date-farming past into oil modernity. The world of the book is the interior: the village and its date plantations and irrigation channels, the desert around it, and the merchant households; beyond it lie the capital Muscat, where the new Oman is made, and Zanzibar, from which the enslaved were once carried across the sea.",
+  "route": [
+    {
+      "order": 1,
+      "place": "al-awafi-village",
+      "displayName": "Al-Awafi (the village)",
+      "country": "OM",
+      "lat": 22.93,
+      "lng": 57.53,
+      "reference": "The village chapters",
+      "certainty": "approximate",
+      "summary": "In al-Awafi the eldest sister Mayya sews at her machine and, without a word, marries the merchant's son Abdallah, one of the countless quiet accommodations the book anatomises. The village, with its houses, its gossip and its rigid order of family and rank, is the small world through which a whole nation's transformation is felt.",
+      "note": "The village of al-Awafi is invented but drawn from the interior of Oman around Nizwa; it is the home of the three sisters and the fixed centre of the novel, sited in that real inland region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nizwa"
+    },
+    {
+      "order": 2,
+      "place": "date-plantations-falaj",
+      "displayName": "The date plantations and the falaj",
+      "country": "OM",
+      "lat": 22.95,
+      "lng": 57.55,
+      "reference": "The village chapters",
+      "certainty": "approximate",
+      "summary": "Among the date palms fed by the ancient falaj channels, the old agrarian rhythms hold even as they begin to pass, and the sister Khawla waits years for the cousin she loves. The plantations, worked in living memory by the enslaved, carry the weight of the past the book keeps unearthing.",
+      "note": "The date plantations and the falaj irrigation channels that water them are the agrarian base of village life; sited among the real palm groves of interior Oman.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aflaj_Irrigation_Systems_of_Oman"
+    },
+    {
+      "order": 3,
+      "place": "muscat-modernity",
+      "displayName": "Muscat (the new Oman)",
+      "country": "OM",
+      "lat": 23.59,
+      "lng": 58.41,
+      "reference": "The Muscat chapters",
+      "certainty": "exact",
+      "summary": "In Muscat, Abdallah builds a business and a modern household, and his children grow up into a country utterly unlike the one he was born to. His anguished, sleepless narration, circling his father, his marriage and the slave Zarifa who raised him, ties the coastal new world back to the village and its buried history.",
+      "note": "Muscat, the real capital on the coast, is where the modern, oil-era Oman is made; sited on the Gulf of Oman, a long journey from the interior village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muscat"
+    },
+    {
+      "order": 4,
+      "place": "zanzibar-slave-past",
+      "displayName": "Zanzibar (the slave past)",
+      "country": "OM",
+      "lat": -6.16,
+      "lng": 39.2,
+      "reference": "The past",
+      "certainty": "exact",
+      "summary": "The slave woman Zarifa, who raised Abdallah with more love than his own family gave, embodies the servitude on which the old order rested, its roots reaching to Zanzibar and the East African trade. Alharthi makes Oman reckon with a past of slavery still within living memory, the human cost beneath the date wealth.",
+      "note": "Oman's historical empire and slave trade reached across the sea to Zanzibar, from which the enslaved were carried; the real island, once an Omani domain, is the origin of the book's buried history of slavery, far outside the village setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Zanzibar"
+    },
+    {
+      "order": 5,
+      "place": "al-awafi-changing",
+      "displayName": "Al-Awafi (the world changing)",
+      "country": "OM",
+      "lat": 22.92,
+      "lng": 57.52,
+      "reference": "The later chapters",
+      "certainty": "approximate",
+      "summary": "By the book's end the village has been transformed almost past recognition, its hierarchies loosened, its young drawn to Muscat and the wider world, its women reaching for lives their mothers could not imagine. Alharthi closes on al-Awafi as a place holding both the wounds of the old order and the uncertain freedoms of the new.",
+      "note": "The novel returns to al-Awafi to show the old order dissolving, slavery formally ended and the young leaving for the city; sited in the same interior village that anchors the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Celestial_Bodies"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

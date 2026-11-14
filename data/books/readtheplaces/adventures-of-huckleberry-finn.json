@@ -1,0 +1,80 @@
+{
+  "id": "adventures-of-huckleberry-finn",
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "year": 1884,
+  "description": "A boy and a runaway man ride a raft down the 1840s Mississippi, starting from a sleepy Missouri river town and drifting far south past the confluence they mean to reach and can't.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hannibal-st-petersburg",
+      "displayName": "St. Petersburg, the town on the bluff",
+      "country": "US",
+      "lat": 39.7084,
+      "lng": -91.3585,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "Here Huck lives under the Widow Douglas's roof, being sivilized against his will, when his drunk father turns up to claim him and the money. The town is the whole tame world he is about to run from. Everything downriver is measured against this starting bluff.",
+      "note": "The novel's \"St. Petersburg\" is Twain's own boyhood Hannibal, Missouri, the river town he grew up in and drew on repeatedly. The Widow Douglas's house and the town are fictionalized, but the place is unmistakably Hannibal on its bluff above the Mississippi.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+    },
+    {
+      "order": 2,
+      "place": "jacksons-island",
+      "displayName": "Jackson's Island",
+      "country": "US",
+      "lat": 39.685,
+      "lng": -91.32,
+      "reference": "Ch. 8",
+      "certainty": "approximate",
+      "summary": "Huck fakes his own death and hides on the island, where he stumbles on Jim, who has run off rather than be sold south. Two fugitives find each other in the timber and decide to travel together. The raft journey begins from this sandbar.",
+      "note": "The wooded island a few miles below the town is not given a real name, but Twain modeled it on the island then lying in the Mississippi just downstream of Hannibal (long since reshaped by the river). Sited here, in the channel below the bluff.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "order": 3,
+      "place": "cairo-illinois-confluence",
+      "displayName": "Cairo, the mouth of the Ohio",
+      "country": "US",
+      "lat": 37.0053,
+      "lng": -89.1812,
+      "reference": "Ch. 15",
+      "certainty": "exact",
+      "summary": "Cairo is the whole plan: reach the Ohio and steam up it toward freedom. In the fog Huck and Jim drift past the town without seeing it, carried on down into slave country instead. Missing this point is the raft's quiet tragedy.",
+      "note": "Cairo, Illinois sits at the real confluence of the Ohio and the Mississippi. The novel names it directly as the turn Jim needs to reach the free states up the Ohio.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cairo,_Illinois"
+    },
+    {
+      "order": 4,
+      "place": "grangerford-feud-lower-river",
+      "displayName": "Grangerford country, the lower river",
+      "country": "US",
+      "lat": 34.5295,
+      "lng": -90.5915,
+      "reference": "Ch. 17-18",
+      "certainty": "approximate",
+      "summary": "Separated from Jim, Huck is taken in by the genteel Grangerfords, whose long feud with the Shepherdsons ends in a riverbank bloodbath. It is his first close look at how respectable people kill. He slips back to the raft and Jim, shaken.",
+      "note": "Far below the missed confluence, well outside the home setting, where a steamboat splits the raft and Huck comes ashore among the feuding Grangerfords. Twain drew the feud from real border-river vendettas such as the Darnell-Watson quarrel; sited on the lower Mississippi near Helena, Arkansas as a representative reach of that country.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "order": 5,
+      "place": "phelps-farm-arkansas",
+      "displayName": "The Phelps farm, Pikesville",
+      "country": "US",
+      "lat": 33.949,
+      "lng": -91.034,
+      "reference": "Ch. 32-42",
+      "certainty": "approximate",
+      "summary": "Jim is sold and held at the Phelps farm, where Huck is mistaken for their nephew Tom Sawyer, who then arrives and spins the freeing of Jim into an absurd game. The moral weight of the raft dissolves into farce this far south. It is the journey's furthest and lowest point.",
+      "note": "The Phelps plantation is placed by the text far down in the deep-south river country, a small cotton farm near the fictional \"Pikesville.\" Sited on the lower Mississippi in southern Arkansas, near the vanished river town of Napoleon, as the kind of place the text describes; well outside the home setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

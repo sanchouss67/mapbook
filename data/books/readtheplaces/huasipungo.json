@@ -1,0 +1,93 @@
+{
+  "id": "huasipungo",
+  "title": "Huasipungo",
+  "author": "Jorge Icaza",
+  "year": 1934,
+  "description": "Icaza's Ecuador is the Andean sierra above and around Quito, where a landowner in debt turns his highland estate over to a foreign oil company and drives the Quechua families tied to it to build a road through mountain and swamp. The map runs from the capital out into the highland countryside toward the eastern cordillera, the range that falls away to the Amazon.",
+  "route": [
+    {
+      "order": 1,
+      "place": "quito-the-capital",
+      "displayName": "Quito, the capital",
+      "country": "EC",
+      "lat": -0.2202,
+      "lng": -78.5123,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "The story begins with a landowner cornered by debt in the city. To save himself he agrees to hand his mountain estate to a foreign company that wants the land, and to clear and drain it first with unpaid indigenous labour. Quito is the seat of the creditors, the Church and the officials who make the scheme possible while never leaving the capital.",
+      "note": "The novel's landowner belongs to the world of the capital; sited at the historic centre of Quito, on the Plaza Grande.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huasipungo"
+    },
+    {
+      "order": 2,
+      "place": "sierra-near-cayambe",
+      "displayName": "The highland sierra near Cayambe",
+      "country": "EC",
+      "lat": 0.04084,
+      "lng": -78.14524,
+      "reference": "Early chapters",
+      "certainty": "exact",
+      "summary": "The landowner brings his family up from the city into the cold highland country to take charge of the estate. The Andean sierra around towns like Cayambe is the world the book maps: páramo grassland, small farms and Quechua-speaking villages living under the hacienda system that Icaza set out to expose.",
+      "note": "Icaza sets the estate in the highland countryside north-east of Quito without naming a town; Cayambe, a real sierra market town at the foot of its volcano, anchors that region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Icaza"
+    },
+    {
+      "order": 3,
+      "place": "cuchitambo-hacienda",
+      "displayName": "The Cuchitambo estate",
+      "country": "EC",
+      "lat": -0.05,
+      "lng": -78.19,
+      "reference": "Central chapters",
+      "certainty": "approximate",
+      "summary": "The estate is the engine of the book. Its owner, the priest and an overseer run the land and the people on it as their property, extracting labour, rents and obedience. This is where a young worker and his family live and where the daily cruelties of the hacienda system play out, on ground that is real highland sierra even though the named estate is Icaza's invention.",
+      "note": "Cuchitambo is a fictional hacienda. It has no fixed real location; this marks a representative point in the real Andean sierra between Quito and the eastern cordillera where such an estate would have stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huasipungo"
+    },
+    {
+      "order": 4,
+      "place": "the-huasipungo-plots",
+      "displayName": "The huasipungo plots",
+      "country": "EC",
+      "lat": -0.062,
+      "lng": -78.205,
+      "reference": "Central chapters",
+      "certainty": "approximate",
+      "summary": "A huasipungo is the strip of estate land a worker is allowed to farm in return for near-endless labour, and the title turns on it. The families are tied to these plots and to the debts that come with them, so that leaving is impossible. When the owner later moves to take the plots back, the loss of this thin margin of survival is what finally pushes the workers past endurance.",
+      "note": "The huasipungo is a fictional feature of Cuchitambo, not a mappable site. This marks the estate margins where the workers' scraps of land would lie, in the real sierra.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huasipungo"
+    },
+    {
+      "order": 5,
+      "place": "road-to-eastern-cordillera",
+      "displayName": "The road toward the eastern cordillera",
+      "country": "EC",
+      "lat": -0.3772,
+      "lng": -78.1408,
+      "reference": "Later chapters",
+      "certainty": "exact",
+      "summary": "To ready the land for the foreign company, the workers are marched out to cut a road through mountain and swamp. Men die in the mud and the cold, and the work continues over their bodies. The route heads for the eastern cordillera, the range where the sierra breaks and falls toward the Amazon lowlands the company wants to reach.",
+      "note": "The forced road drives east toward the oil frontier without a named endpoint; Papallacta, a real village on the pass from the highlands down to the Amazon, marks that direction.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huasipungo"
+    },
+    {
+      "order": 6,
+      "place": "cuchitambo-uprising",
+      "displayName": "The uprising at the estate",
+      "country": "EC",
+      "lat": -0.05,
+      "lng": -78.19,
+      "reference": "Closing chapters",
+      "certainty": "approximate",
+      "summary": "Pushed past the limit by hunger, forced labour and the threat to their plots, the workers rise against the estate. Soldiers are sent up from the capital and the revolt is put down with overwhelming force, leaving the community broken. Icaza ends on this massacre as an indictment, not a resolution.",
+      "note": "The final revolt happens at the fictional Cuchitambo estate; sited at the same representative point in the real sierra as the hacienda.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huasipungo"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

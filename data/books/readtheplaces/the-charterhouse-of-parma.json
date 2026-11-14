@@ -1,0 +1,93 @@
+{
+  "id": "the-charterhouse-of-parma",
+  "title": "The Charterhouse of Parma",
+  "author": "Stendhal",
+  "year": 1839,
+  "description": "A young nobleman crosses Napoleonic Europe and the intrigues of a tiny Italian court. The map runs across northern Italy: Milan under the French, the family castle on Lake Como, and the little despotic state of Parma with its citadel prison, where the story ends in a monastery. One scene falls far outside the setting, at Waterloo in Belgium, where the hero wanders the battle without ever grasping it.",
+  "route": [
+    {
+      "order": 1,
+      "place": "milan-under-napoleon",
+      "displayName": "Milan under Napoleon",
+      "country": "IT",
+      "lat": 45.4642,
+      "lng": 9.19,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The book opens as the French army enters Milan and wakes the sleepy Lombard city to a new age. Fabrizio del Dongo is born into this excitement, a boy raised on the legend of Napoleon while his reactionary father sulks in the family palace. The Cisalpine enthusiasm of these years sets the whole restless course of his life.",
+      "note": "The novel opens in Milan, named directly; the coordinates mark the historic centre of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    },
+    {
+      "order": 2,
+      "place": "grianta-lake-como",
+      "displayName": "Grianta on Lake Como",
+      "country": "IT",
+      "lat": 45.98,
+      "lng": 9.25,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "Fabrizio grows up at the family castle of Grianta on Lake Como, among the terraced gardens and the great water under the mountains. The lake is the idyll he keeps returning to in memory, a place of chestnut woods and astronomy on the tower with the abbe. Its calm is the opposite of the court that will later trap him.",
+      "note": "The del Dongo castle at Grianta is invented, but Stendhal sets it on the real western shore of Lake Como; the coordinates mark the lakeside near Griante, the village that lends the fictional estate its name and view.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    },
+    {
+      "order": 3,
+      "place": "waterloo",
+      "displayName": "Waterloo",
+      "country": "IT",
+      "lat": 50.6805,
+      "lng": 4.4123,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "Chasing his hero-worship, Fabrizio crosses into Belgium and blunders onto the field of Waterloo, where he wanders through smoke and mud without ever understanding the battle around him. He is robbed, briefly arrested, and swept along by soldiers, and only long afterward wonders whether he was really at a battle at all. It is one of literature's most famous accounts of war seen from the inside and grasped not at all.",
+      "note": "Stendhal names the battlefield of Waterloo directly; the coordinates mark the field south of Brussels in Belgium. It lies far outside the Italian setting, so it is flagged as such.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    },
+    {
+      "order": 4,
+      "place": "parma-and-the-court",
+      "displayName": "Parma and the court",
+      "country": "IT",
+      "lat": 44.8015,
+      "lng": 10.3279,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "The story settles into Parma, a small despotic state where every favour and fear runs through the prince's court. Here the Duchess Sanseverina and the shrewd Count Mosca manoeuvre to advance and protect Fabrizio, trading on charm, patronage, and the ruler's vanity. Stendhal's Parma is a miniature of Restoration Italy, all whispered intrigue behind a polite facade.",
+      "note": "The court intrigues unfold in Parma, named throughout; the coordinates mark the historic centre of the city, where the ducal palace stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    },
+    {
+      "order": 5,
+      "place": "farnese-tower-citadel",
+      "displayName": "The Farnese Tower, the citadel of Parma",
+      "country": "IT",
+      "lat": 44.7933,
+      "lng": 10.3311,
+      "reference": "Chapter 15",
+      "certainty": "approximate",
+      "summary": "Fabrizio is imprisoned high in the Farnese Tower, a cell above the citadel of Parma with a wide view over the plain. Instead of despair he finds happiness there, falling in love with Clelia Conti, the governor's daughter, whom he glimpses and signals across the parapets and the aviary below. The prison that should end him becomes the strange centre of his life.",
+      "note": "The towering Farnese prison is Stendhal's invention, but it stands within the citadel of Parma; the coordinates mark the real Cittadella di Parma, the pentagonal Farnese fortress on which the fictional tower is inferred.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    },
+    {
+      "order": 6,
+      "place": "the-charterhouse",
+      "displayName": "The Charterhouse",
+      "country": "IT",
+      "lat": 44.8025,
+      "lng": 10.3667,
+      "reference": "Chapter 28",
+      "certainty": "approximate",
+      "summary": "Worn down by loss after the deaths of Clelia and their child, Fabrizio withdraws from the world to the Charterhouse of Parma, the monastery that gives the book its name. He lives there only a short time before he dies, and the great cast of schemers is scattered soon after. The retreat closes a life that never found rest in the world's intrigues.",
+      "note": "The Charterhouse to which Fabrizio retires is named only at the close and never sited precisely; the coordinates mark the real Certosa di Parma on the outskirts of the city, the monastery that gives the novel its title.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

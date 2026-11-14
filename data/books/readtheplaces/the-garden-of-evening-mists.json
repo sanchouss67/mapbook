@@ -1,0 +1,93 @@
+{
+  "id": "the-garden-of-evening-mists",
+  "title": "The Garden of Evening Mists",
+  "author": "Tan Twan Eng",
+  "year": 2012,
+  "description": "The Cameron Highlands are Malaysia's cool tea country, a hill station of mist, jungle and terraced estates high in Pahang. A survivor of a wartime Japanese camp comes here to build a garden for her dead sister and instead apprentices to a Japanese gardener, while the Malayan Emergency simmers in the surrounding forest. The map runs from the town of Tanah Rata out across the tea slopes to the mossy summit forest, with the frame narrator's Kuala Lumpur far below.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tanah-rata-hill-station",
+      "displayName": "Tanah Rata",
+      "country": "MY",
+      "lat": 4.4707,
+      "lng": 101.3777,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Tanah Rata is the small hill-station town at the heart of the Cameron Highlands, the place travellers pass through on the way up into the tea country. The narrator, a former camp prisoner turned lawyer, arrives in this cool, mist-wrapped upland to pursue the idea of a garden and finds the war has followed her here.",
+      "note": "Tan Twan Eng names Tanah Rata; sited at the town centre of the main Cameron Highlands settlement.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tanah_Rata"
+    },
+    {
+      "order": 2,
+      "place": "yugiri-aritomo-garden",
+      "displayName": "Yugiri, Aritomo's garden",
+      "country": "MY",
+      "lat": 4.4555,
+      "lng": 101.39,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "Yugiri, the Garden of Evening Mists, is the Japanese garden the narrator comes to learn as apprentice to its maker, a gardener once employed by the Emperor of Japan. The garden is fictional but rooted in the real geography of the highlands, tucked among jungle and tea slopes near Tanah Rata, and it becomes the ground on which the whole novel of memory and forgiveness is built.",
+      "note": "Yugiri, the Japanese garden where the narrator apprentices, is invented. It is set in the highlands near Tanah Rata, beside a fictional tea estate; sited at a representative wooded point in that upland, not a mapped address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Garden_of_Evening_Mists"
+    },
+    {
+      "order": 3,
+      "place": "boh-sungei-palas-tea-estate",
+      "displayName": "Boh tea estate, Sungei Palas",
+      "country": "MY",
+      "lat": 4.5196,
+      "lng": 101.4161,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Much of the story unfolds against the terraced green of a highland tea estate, run in the book by an Afrikaner planter who befriends the narrator. The real tea country that landscape is drawn from is Boh, whose Sungei Palas plantation still combs the ridges above Brinchang with its neat rows of tea.",
+      "note": "The novel's tea plantation is fictional, but the terraced tea country it draws on is real; sited at the Boh Sungei Palas estate, the working plantation that defines the Cameron Highlands landscape.",
+      "sourceUrl": "https://bohtea.com/visit-our-tea-gardens/sungei-palas-tea-garden/"
+    },
+    {
+      "order": 4,
+      "place": "brinchang-highland-town",
+      "displayName": "Brinchang",
+      "country": "MY",
+      "lat": 4.4977,
+      "lng": 101.3906,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "Brinchang is the other main town of the Cameron Highlands, just north of Tanah Rata, the market and waypoint of the settled highland the characters cross between garden, estate and jungle. It grounds the everyday upland life that the war and the Emergency keep intruding on.",
+      "note": "Brinchang is not the fixed stage of a named scene; it is the second town of the Cameron Highlands and stands here for the settled upland the characters move through. Sited at the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cameron_Highlands"
+    },
+    {
+      "order": 5,
+      "place": "mossy-forest-gunung-brinchang",
+      "displayName": "The mossy forest, Gunung Brinchang",
+      "country": "MY",
+      "lat": 4.5239,
+      "lng": 101.3819,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "Around the tea and the gardens presses the highland rainforest, and through it moves the Malayan Emergency: the guerrilla war between the colonial state and communist insurgents that shadows the whole book. The mossy cloud forest on Gunung Brinchang, the highest reachable point of the range, stands for that dense, dripping jungle where the fighting hid.",
+      "note": "The novel's highland jungle, where the Malayan Emergency's communist insurgents hide, is unnamed. Sited at the mossy summit forest of Gunung Brinchang as a representative point for that surrounding rainforest.",
+      "sourceUrl": "https://www.malaysia.travel/explore/mossy-forest-cameron-highlands"
+    },
+    {
+      "order": 6,
+      "place": "kuala-lumpur-frame",
+      "displayName": "Kuala Lumpur",
+      "country": "MY",
+      "lat": 3.139,
+      "lng": 101.6869,
+      "reference": "Part One and Part Three",
+      "certainty": "exact",
+      "summary": "The novel is framed by the narrator's later life in Kuala Lumpur, where she has become a Supreme Court judge and, facing an illness that is erasing her memory, sets down the story of the highlands before she loses it. The capital, far below the hills, is where the remembering happens.",
+      "note": "Kuala Lumpur lies far outside the Cameron Highlands, so this is marked as a deliberate excursion; sited at the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

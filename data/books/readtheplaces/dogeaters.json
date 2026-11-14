@@ -1,0 +1,80 @@
+{
+  "id": "dogeaters",
+  "title": "Dogeaters",
+  "author": "Jessica Hagedorn",
+  "year": 1990,
+  "description": "Hagedorn's Manila is a city told in fragments: the air-conditioned movie palaces and department stores of the downtown Avenue, the perfumed nightclubs of Ermita, the vast slums of Tondo, and the guarded gates of Malacanang, all held together by radio soaps, imported films and the daily violence of the Marcos years. The map runs across the old heart of the city, from the river districts of Binondo and Santa Cruz south to Ermita and east to the presidential palace.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rizal-avenue-movie-houses",
+      "displayName": "The movie houses of the Avenue",
+      "country": "PH",
+      "lat": 14.6045,
+      "lng": 120.982,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The novel opens with the young narrator and her cousin at the pictures, an American melodrama flickering in a cooled, gilded hall. Those palaces stood along Rizal Avenue, the downtown thoroughfare Manilenos called the Avenida, whose picture houses defined the city's imported dream life in the 1950s.",
+      "note": "Rizal Avenue, the Avenida, is named and real; its grand cinemas clustered in the Santa Cruz stretch. The exact theatre is not fixed here, so this marks a representative point along the avenue's old movie-palace row.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rizal_Avenue"
+    },
+    {
+      "order": 2,
+      "place": "escolta-department-stores",
+      "displayName": "Escolta",
+      "country": "PH",
+      "lat": 14.59638,
+      "lng": 120.97753,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The narrator's Manila is also a city of shopping and display, the smart downtown where old money and new appetite meet. Escolta, the colonial commercial street in Binondo just north of the river, was the city's premier address for department stores and cafes, the setting for that world of imported goods and status.",
+      "note": "Escolta is a named, real street in Binondo; coordinates mark the historic commercial stretch by the Pasig.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q15216775"
+    },
+    {
+      "order": 3,
+      "place": "ermita-nightclubs",
+      "displayName": "The nightclubs of Ermita",
+      "country": "PH",
+      "lat": 14.5868,
+      "lng": 120.9808,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "Night in the novel belongs to hostesses, hustlers and foreign visitors moving through smoky clubs and hotel bars. Ermita, along Mabini Street south of the old walled city, was Manila's nightlife district in these years, the natural ground for those neon-lit scenes.",
+      "note": "The novel's bars and clubs are not tied to one named address; Ermita and its Mabini Street strip were Manila's nightlife quarter in the Marcos era, so this marks that district as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ermita"
+    },
+    {
+      "order": 4,
+      "place": "tondo-slums",
+      "displayName": "Tondo",
+      "country": "PH",
+      "lat": 14.617,
+      "lng": 120.967,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Against the palaces and clubs the novel sets the other Manila, the crowded poverty from which some of its characters climb and to which the city keeps returning. Tondo, in the northwest by the port, was the largest and most densely packed of the city's districts, shorthand for the slums the dictatorship's glamour tried to hide.",
+      "note": "Tondo is a named, real district of Manila; coordinates mark the district centre in the city's northwest.",
+      "sourceUrl": "https://latitude.to/articles-by-country/ph/philippines/8228/tondo-manila"
+    },
+    {
+      "order": 5,
+      "place": "malacanang-palace",
+      "displayName": "Malacanang Palace",
+      "country": "PH",
+      "lat": 14.59396,
+      "lng": 120.99435,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "At the top of the novel's world sits the presidential palace, source of the favours, the fear and the violence that reach every other place on this map. Malacanang stands on the north bank of the Pasig in San Miguel, the seat of the Marcos-era power the book anatomises.",
+      "note": "Malacanang, the presidential palace, is a named, real building on the Pasig in San Miguel; coordinates mark the palace itself.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q942688"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

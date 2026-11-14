@@ -1,0 +1,93 @@
+{
+  "id": "madame-bovary",
+  "title": "Madame Bovary",
+  "author": "Gustave Flaubert",
+  "year": 1856,
+  "description": "Emma's world is the invented village of Yonville-l'Abbaye, drawn from the real Ry east of Rouen, and Tostes (now Tôtes) to the north, where Charles first practises. Her escapes are to a real Rouen: the cathedral, and the closed cab that scandalised France, circling the city with its blinds down. That drive can be walked.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tostes-charles-first-practice",
+      "displayName": "Tostes (Tôtes)",
+      "country": "FR",
+      "lat": 49.6794,
+      "lng": 1.0478,
+      "reference": "Part One, Tostes",
+      "certainty": "approximate",
+      "summary": "Charles takes over the dead doctor's practice at Tostes and brings Emma here after their wedding. Her boredom in this small Norman town, and the ball at Vaubyessard that shows her a grander life, is what drives the couple to leave for Yonville.",
+      "note": "\"Tostes\" is Flaubert's older spelling of the real village of Tôtes, on the high road between Rouen and Dieppe, where he settles Charles's first medical practice. The commune still exists under the modern spelling.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+      "order": 2,
+      "place": "yonville-labbaye-ry",
+      "displayName": "Yonville-l'Abbaye (Ry)",
+      "country": "FR",
+      "lat": 49.4719,
+      "lng": 1.3444,
+      "reference": "Part Two, Yonville",
+      "certainty": "approximate",
+      "summary": "The Bovarys move to Yonville hoping the change will settle Emma. It is here that she meets Léon at the inn, takes Rodolphe as a lover, and runs up the debts that will ruin her. Flaubert drew the dull one-street town from Ry, a few miles east of Rouen.",
+      "note": "Yonville-l'Abbaye is Flaubert's invention, but readers have long identified it with the real village of Ry, east of Rouen, whose single long street, church, and inn match his description. The pin marks Ry.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+      "order": 3,
+      "place": "les-comices-agricultural-show",
+      "displayName": "The agricultural show, Yonville (Ry)",
+      "country": "FR",
+      "lat": 49.4713,
+      "lng": 1.3455,
+      "reference": "Part Two, the show",
+      "certainty": "approximate",
+      "summary": "At the agricultural show Rodolphe murmurs seductions to Emma while, below the window, officials bawl out prizes for manure and livestock. Flaubert cuts between the two, the bathos of the counter-jumping and the swelling romance, in the novel's most famous set-piece.",
+      "note": "The Comices agricole is staged in the square before the church and town hall of Yonville, Flaubert's Ry. The pin marks Ry's church square. The event and its speeches are invented; the setting is the real village.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+      "order": 4,
+      "place": "rouen-cathedral",
+      "displayName": "Rouen Cathedral",
+      "country": "FR",
+      "lat": 49.4402,
+      "lng": 1.095,
+      "reference": "Part Three, Rouen",
+      "certainty": "exact",
+      "summary": "Léon waits for Emma at the cathedral, meaning to hand her a letter breaking things off. A zealous verger insists on showing them the tombs and the spire until Léon, exasperated, drags her out to a waiting cab, and the affair begins in earnest.",
+      "note": "The great cathedral of Rouen is named in the text (the porch of Notre Dame) and still stands exactly as described.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+      "order": 5,
+      "place": "the-closed-cab-rouen",
+      "displayName": "The closed cab, before the statue of Pierre Corneille",
+      "country": "FR",
+      "lat": 49.4392,
+      "lng": 1.0968,
+      "reference": "Part Three, the cab",
+      "certainty": "exact",
+      "summary": "Emma and Léon consummate the affair inside a hired cab with the blinds down, ordering the bewildered coachman to drive on and on through Rouen. The scene, its meaning left to the reader, was among the passages cited when Flaubert was tried for offending public morals.",
+      "note": "The route is traced through named, real Rouen streets and bridges; the pin marks the statue of Pierre Corneille on the quay by the Seine, where the cab first halts.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+      "order": 6,
+      "place": "cote-sainte-catherine-road-to-rouen",
+      "displayName": "The Côte Sainte-Catherine, above Rouen",
+      "country": "FR",
+      "lat": 49.4338,
+      "lng": 1.1101,
+      "reference": "Part Three, the road to Rouen",
+      "certainty": "approximate",
+      "summary": "Every Thursday Emma rides the Hirondelle to Rouen and to Léon. As the coach crests the Saint-Catherine hills the whole city opens below her like an amphitheatre, and the sight swells her passion. This is the road along which her affair, and her ruin, travels.",
+      "note": "The Hirondelle descends into Rouen from the east along the Saint-Catherine hills, named in the same passage. The pin marks the Côte Sainte-Catherine panorama, the classic viewpoint over the city that matches Flaubert's description.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2413"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

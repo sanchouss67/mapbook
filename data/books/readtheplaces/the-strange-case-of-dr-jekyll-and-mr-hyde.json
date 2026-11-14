@@ -1,0 +1,80 @@
+{
+  "id": "the-strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "year": 1886,
+  "description": "Stevenson keeps the geography deliberately shadowy, but the districts are real. Hyde's sinister side-door opens on a by-street near Soho; the same building is Dr Jekyll's handsome house around the corner in a West End square; Dr Lanyon holds court in Cavendish Square, the citadel of medicine; Hyde keeps rooms in Soho; and Sir Danvers Carew is beaten to death by night in a lane near the river at Westminster. The named districts are exact; the exact doors are composite, which is what the labels are for.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hydes-door-by-street",
+      "displayName": "The by-street and Hyde's door (near Soho)",
+      "country": "GB",
+      "lat": 51.5128,
+      "lng": -0.136,
+      "reference": "Story of the Door",
+      "certainty": "approximate",
+      "summary": "The novella opens here. Enfield tells Utterson how he once saw a small man trample a child at this door, then walk in and fetch a cheque signed by a respectable name to buy off the crowd. The door is the ugly back way into the story, and, it turns out, into Dr Jekyll's own house.",
+      "note": "Stevenson never names the by-street. He sets it in a thriving quarter of shops close to Soho, its clean shop-fronts broken by the blistered side-door through which Hyde comes and goes. The pin marks the Soho fringe, between Golden Square and Soho Square, where such a street would run.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/43"
+    },
+    {
+      "order": 2,
+      "place": "cavendish-square-lanyon",
+      "displayName": "Cavendish Square: Dr Lanyon",
+      "country": "GB",
+      "lat": 51.5165,
+      "lng": -0.145,
+      "reference": "Search for Mr Hyde",
+      "certainty": "exact",
+      "summary": "Troubled by Jekyll's will, which leaves everything to Hyde, Utterson walks to Cavendish Square to sound out Lanyon, the friend Jekyll fell out with over 'unscientific balderdash'. Lanyon has never heard of Hyde, and it is Lanyon who will later be shocked to death by what he sees.",
+      "note": "Cavendish Square is named outright as the home of Dr Lanyon, 'that citadel of medicine'. The exact house is composite, so the pin marks the real West End square.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/43"
+    },
+    {
+      "order": 3,
+      "place": "jekylls-house-square",
+      "displayName": "Dr Jekyll's house",
+      "country": "GB",
+      "lat": 51.5117,
+      "lng": -0.1372,
+      "reference": "Search for Mr Hyde",
+      "certainty": "approximate",
+      "summary": "The whole novella is an argument about a floor plan: this handsome house on the square and the squalid door two streets away are the front and back of one building. Poole the butler admits Utterson to a hall warmed like a country house, but the master is not at home.",
+      "note": "Jekyll's front door opens on an unnamed square of once-grand houses 'round the corner from the by-street', the respectable face of the same building as Hyde's door. The pin marks Golden Square, a real handsome Soho square that fits Stevenson's description.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/43"
+    },
+    {
+      "order": 4,
+      "place": "carew-murder-by-the-river",
+      "displayName": "By the river: the Carew murder",
+      "country": "GB",
+      "lat": 51.494,
+      "lng": -0.124,
+      "reference": "The Carew Murder Case",
+      "certainty": "approximate",
+      "summary": "From her window a maid watches the aged Sir Danvers Carew stop to speak with a small man, who suddenly clubs him to the ground and tramples him to death. She recognises Mr Hyde. The broken half of the murder weapon ties the crime back to Jekyll, and the hunt for Hyde begins.",
+      "note": "Stevenson places the killing in a moonlit lane overlooked by a maid's window in a house 'not far from the river'. He names no street, but the riverside quarter is Westminster; the pin marks the Millbank embankment of the Thames.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/43"
+    },
+    {
+      "order": 5,
+      "place": "soho-hydes-rooms",
+      "displayName": "Soho: Hyde's rooms",
+      "country": "GB",
+      "lat": 51.5153,
+      "lng": -0.1322,
+      "reference": "The Carew Murder Case",
+      "certainty": "exact",
+      "summary": "The morning after the Carew murder, Utterson rides with the police through a brown fog to Hyde's rooms in Soho. They find them ransacked and abandoned: burnt papers on the hearth, the butt of a green cheque book, and the other half of the broken cane. Hyde has fled, and Jekyll's money is behind it all.",
+      "note": "Soho is named as the quarter of Hyde's lodgings, tracked down by the police the morning after the murder. The exact street is not given, so the pin marks Soho Square, at the heart of the district Stevenson names.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/43"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

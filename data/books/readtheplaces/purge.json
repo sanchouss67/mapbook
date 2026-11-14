@@ -1,0 +1,93 @@
+{
+  "id": "purge",
+  "title": "Purge",
+  "author": "Sofi Oksanen",
+  "year": 2008,
+  "description": "A farmhouse in rural western Estonia, the woods around it, and the country town beyond, held across the decades from the deportations of the 1940s to the first free summer of 1992. From this Laanemaa yard the story pulls east to Tallinn and, in the trafficking chapters, out of the country altogether.",
+  "route": [
+    {
+      "order": 1,
+      "place": "aliide-farmhouse-laanemaa",
+      "displayName": "Aliide's farmhouse, western Estonia",
+      "country": "EE",
+      "lat": 58.9167,
+      "lng": 23.75,
+      "reference": "Framing narrative, 1992",
+      "certainty": "approximate",
+      "summary": "The book opens and closes here, at an old woman's farmhouse in a village in rural western Estonia, where in the summer of 1992 a battered young stranger collapses in the yard. The house holds the whole story: the two women's lives, the family's deportations, and the secrets kept under its floor. The village is invented, but the setting is the Laanemaa countryside.",
+      "note": "The novel sets the farm in an unnamed village in western Estonia and never gives it a map reference; this marks a representative point at the centre of rural Laanemaa, the region the book draws on.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Purge_(novel)"
+    },
+    {
+      "order": 2,
+      "place": "haapsalu-town",
+      "displayName": "Haapsalu, the county town",
+      "country": "EE",
+      "lat": 58.9431,
+      "lng": 23.5414,
+      "reference": "Western Estonia setting",
+      "certainty": "exact",
+      "summary": "Beyond the farm lies the small world of the district: the county town where errands are run, papers are stamped and news arrives. Haapsalu, a quiet resort and railway town on the west coast, is the real centre of the Laanemaa the novel inhabits, close enough to the farmhouse to stand for that outside world.",
+      "note": "The book is anchored in western Estonia (Laanemaa) rather than a single named street; Haapsalu, the historic county town on the coast, marks the nearest real urban centre to the farm.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Haapsalu"
+    },
+    {
+      "order": 3,
+      "place": "forest-brothers-woods",
+      "displayName": "The woods of the Forest Brothers",
+      "country": "EE",
+      "lat": 58.95,
+      "lng": 23.86,
+      "reference": "1940s-1950s chapters",
+      "certainty": "approximate",
+      "summary": "In the years after the Soviet reoccupation, men hide out in the forest rather than be deported or conscripted, fed and sheltered in secret by the families left on the farms. The novel's woods are the anonymous Estonian countryside where the armed resistance known as the Forest Brothers held out, and where one man is kept hidden for years.",
+      "note": "The hiding places are unnamed woodland near the farm; this marks a representative stretch of the Laanemaa forest a short way inland from the farmhouse point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Forest_Brothers"
+    },
+    {
+      "order": 4,
+      "place": "tallinn",
+      "displayName": "Tallinn",
+      "country": "EE",
+      "lat": 59.437,
+      "lng": 24.7535,
+      "reference": "Tallinn chapters",
+      "certainty": "exact",
+      "summary": "The capital is where the wider history is decided and where the trafficked young woman's road into Estonia runs. As the Soviet Union falls away in 1991 and 1992, Tallinn stands for the country the farm belongs to: newly free, still bruised, and the point from which the outside world reaches the western farmhouse.",
+      "note": "Tallinn is named in the novel; this marks the historic centre of the Estonian capital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Purge_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "vladivostok",
+      "displayName": "Vladivostok",
+      "country": "EE",
+      "lat": 43.1056,
+      "lng": 131.8735,
+      "reference": "Trafficking chapters",
+      "certainty": "exact",
+      "summary": "The young woman who turns up in the farm's yard has come an enormous distance. Her home is Vladivostok, the Russian port on the Pacific, where a false promise of work abroad begins the ordeal that ends in a western Estonian village. The book handles this material soberly, tracing how the collapse of the Soviet world fed a trade in people.",
+      "note": "The novel names Vladivostok as the young woman's home city; this marks the Russian Pacific port. It lies far outside the book's Estonian setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Purge_(novel)"
+    },
+    {
+      "order": 6,
+      "place": "berlin",
+      "displayName": "Berlin",
+      "country": "EE",
+      "lat": 52.52,
+      "lng": 13.405,
+      "reference": "Trafficking chapters",
+      "certainty": "approximate",
+      "summary": "The route out of the former Soviet Union runs west into Germany, where the young woman is held and exploited before she flees back east toward Estonia. Berlin stands for this stretch of the journey, the far end of a chain that reaches all the way back to a farmhouse yard in Laanemaa. The subject is treated with restraint, not sensation.",
+      "note": "The trafficking route runs west into Germany; Berlin marks that leg of it and lies well outside the book's Estonian setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Purge_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

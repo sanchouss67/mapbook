@@ -1,0 +1,93 @@
+{
+  "id": "abyssinian-chronicles",
+  "title": "Abyssinian Chronicles",
+  "author": "Moses Isegawa",
+  "year": 2000,
+  "description": "Isegawa's Uganda runs from a Catholic childhood in the Buganda countryside south of the capital, through the boarding seminary, and into Kampala itself: the seven hills, the markets and the slums, and the fear of the Amin and Obote years. The map holds to the real Ugandan geography the novel walks, before its narrator finally leaves for the Netherlands.",
+  "route": [
+    {
+      "order": 1,
+      "place": "buganda-countryside-mpigi",
+      "displayName": "The village in the Buganda countryside",
+      "country": "UG",
+      "lat": 0.2283,
+      "lng": 32.3199,
+      "reference": "Opening chapters, the village childhood",
+      "certainty": "approximate",
+      "summary": "The narrator's early life plays out in a Catholic peasant household in the banana-growing country south of the capital, under a harsh mother and the wider upheaval of Idi Amin's Uganda. The setting is invented, but it belongs to rural Buganda, the green district country around towns like Mpigi.",
+      "note": "The narrator's childhood village is fictional and unnamed on any map. It reads as rural Buganda in the hills southwest of Kampala, so this marks Mpigi, a Central Region town in that countryside, as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mpigi"
+    },
+    {
+      "order": 2,
+      "place": "katigondo-national-major-seminary",
+      "displayName": "The seminary, Katigondo",
+      "country": "UG",
+      "lat": -0.22722,
+      "lng": 31.73528,
+      "reference": "The seminary chapters",
+      "certainty": "approximate",
+      "summary": "Sent away to a Catholic boarding seminary, the narrator trades the village for cassocks, discipline and the small tyrannies of institutional life, a world he observes with a cold eye. Uganda's seminaries of that kind sat in the Buganda countryside; Katigondo, above Villa Maria, is the region's long-established national seminary.",
+      "note": "The boarding seminary the narrator is sent to is not tied to a named institution. This marks Katigondo National Major Seminary, near Villa Maria in the Masaka country south of Kampala, as a representative real Catholic seminary of the region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Katigondo_National_Major_Seminary"
+    },
+    {
+      "order": 3,
+      "place": "namirembe-hill-kampala",
+      "displayName": "Namirembe Hill, Kampala",
+      "country": "UG",
+      "lat": 0.315,
+      "lng": 32.55971,
+      "reference": "The Kampala chapters",
+      "certainty": "approximate",
+      "summary": "In the city the narrator climbs into the sprawl of Kampala built across its hills, a landscape of churches, mansions and slums rising and falling with the streets. Namirembe, crowned by its old Anglican cathedral, is one of the historic hills that give the capital its shape.",
+      "note": "The novel evokes Kampala's hills without pinning the narrator to one address. Namirembe, the cathedral hill west of the centre, stands here as a representative point among the capital's seven hills.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Namirembe_Hill"
+    },
+    {
+      "order": 4,
+      "place": "mengo-lubiri-kampala",
+      "displayName": "Mengo and the Lubiri",
+      "country": "UG",
+      "lat": 0.301667,
+      "lng": 32.566111,
+      "reference": "The Kampala chapters",
+      "certainty": "approximate",
+      "summary": "Buganda's monarchy and its uneasy place in independent Uganda run underneath the narrator's story. Mengo Hill holds the Lubiri, the walled palace of the Kabaka, whose grounds also served as a barracks and prison during the years of military rule the novel records.",
+      "note": "The novel's Buganda politics have no single mapped scene, so this marks Mengo Hill and the Lubiri, the Kabaka's palace just south of the city centre, as the heart of the kingdom the book keeps in view.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lubiri"
+    },
+    {
+      "order": 5,
+      "place": "st-balikuddembe-owino-market",
+      "displayName": "St Balikuddembe (Owino) Market",
+      "country": "UG",
+      "lat": 0.310157,
+      "lng": 32.572772,
+      "reference": "The Kampala chapters",
+      "certainty": "approximate",
+      "summary": "Downtown Kampala is where the narrator hustles, trades and survives amid crowds, scarcity and the ever-present danger of the Amin and Obote years. Owino Market, the huge open bazaar beside the old taxi park, is the kind of packed commercial ground that anchors that side of the city.",
+      "note": "The teeming downtown markets of the narrator's Kampala are not fixed to one stall. This marks St Balikuddembe, better known as Owino, the largest of the central-city markets, as a representative point.",
+      "sourceUrl": "https://www.openstreetmap.org/way/161834654"
+    },
+    {
+      "order": 6,
+      "place": "amsterdam-emigration",
+      "displayName": "Amsterdam",
+      "country": "UG",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "reference": "Closing chapters, the Netherlands",
+      "certainty": "exact",
+      "summary": "The chronicle ends with departure: the narrator leaves Uganda for the Netherlands, exchanging the heat and violence of home for the cold canals and strangeness of a new country. Amsterdam is where the book sets him down, a world away from the Buganda hills where it began.",
+      "note": "The novel closes with the narrator's emigration to the Netherlands. Amsterdam lies far outside the Ugandan setting and is marked here only as the book's endpoint.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses_Isegawa"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

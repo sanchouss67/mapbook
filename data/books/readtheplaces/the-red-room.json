@@ -1,0 +1,93 @@
+{
+  "id": "the-red-room",
+  "title": "The Red Room",
+  "author": "August Strindberg",
+  "year": 1879,
+  "description": "A young idealist quits a government sinecure to make his own way, and the novel follows him through the newspaper offices, publishers, theatres and bureaus of the capital, sharpening into satire as it goes. The map opens on the heights of Södermalm looking north over the water, crosses to the old-town islands where the officials sit, and comes to rest in the Red Room at Berns, the salon where the young bohemians drink and argue.",
+  "route": [
+    {
+      "order": 1,
+      "place": "mosebacke-terrace",
+      "displayName": "Mosebacke terrace, Södermalm",
+      "country": "SE",
+      "lat": 59.3175,
+      "lng": 18.0713,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The book begins on a spring evening on the high ground of Södermalm, with the whole city spread out below to the north, spires and rooftops catching the last light across the water. It is a wide, hopeful opening view, set just before the story turns down into the offices and quarrels of the streets beneath it.",
+      "note": "The novel opens on the Mosebacke heights on the northern edge of Södermalm; the coordinates mark the terrace and square above the cliff, where the view north over the city and water is still open today.",
+      "sourceUrl": "https://latitude.to/satellite-map/se/sweden/120905/mosebacke"
+    },
+    {
+      "order": 2,
+      "place": "riddarholmen-offices",
+      "displayName": "Riddarholmen / the old town offices",
+      "country": "SE",
+      "lat": 59.3217,
+      "lng": 18.0578,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The story sends its young hero out of a dozing government bureau in the old town, one of the slow salary offices on the state islands where clerks pass papers and little happens. His decision to leave it and live by his pen sets the whole novel in motion and gives Strindberg his first target for satire.",
+      "note": "Riddarholmen is the real old-town islet of state offices and archives; the salaried-officials bureau the hero walks out of is Strindberg's satirical invention, sited here on the government island of central Stockholm where such offices clustered.",
+      "sourceUrl": "https://latitude.to/articles-by-country/se/sweden/47939/riddarholmen"
+    },
+    {
+      "order": 3,
+      "place": "gamla-stan-press",
+      "displayName": "Stortorget, Gamla Stan",
+      "country": "SE",
+      "lat": 59.325,
+      "lng": 18.0708,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "Trying to live by writing, the hero drifts into the newspaper and publishing trade packed into the old town, a world of shabby editors, unpaid contributors and papers that trim their opinions to their advertisers. Strindberg, who had worked in journalism himself, turns the whole press into a subject of sharp, disillusioned comedy.",
+      "note": "The newspaper and publishing world the hero falls in with is drawn from real Stockholm titles but the specific paper is fictional; sited at Stortorget, the oldest square of the old town, as a representative point for the cramped press quarter of the islands.",
+      "sourceUrl": "https://latitude.to/articles-by-country/se/sweden/8740/gamla-stan"
+    },
+    {
+      "order": 4,
+      "place": "kungstradgarden-promenade",
+      "displayName": "Kungsträdgården",
+      "country": "SE",
+      "lat": 59.3254,
+      "lng": 18.0695,
+      "reference": "Chapter 9",
+      "certainty": "approximate",
+      "summary": "Between the bureaus and the tavern, the novel moves through the fashionable centre of the city, the promenades and theatres where reputations are made and cut. The painter and his fellow bohemians pass through this world too, hungry and unpaid but still watching the well-dressed crowd that will not buy their work.",
+      "note": "Kungsträdgården is the real central promenade and theatre district of the period; no single scene fixes it, so it stands here for the fashionable strolling ground where the book's artists and idlers are seen about town.",
+      "sourceUrl": "https://latitude.to/articles-by-country/se/sweden/50334/kungstradgarden"
+    },
+    {
+      "order": 5,
+      "place": "berzelii-park",
+      "displayName": "Berzelii Park",
+      "country": "SE",
+      "lat": 59.3262,
+      "lng": 18.0715,
+      "reference": "Chapter 10",
+      "certainty": "exact",
+      "summary": "The green square of Berzelii Park sits just outside the great salon of Berns, and the young men cross it on their way in to eat and drink on credit. It marks the threshold of the book's most famous setting, the fashionable pleasure-house whose inner room the artists have made their own.",
+      "note": "Berzelii Park is the real green square in front of Berns; the coordinates mark the park that the salon opens onto, the approach to the Red Room the bohemians frequent.",
+      "sourceUrl": "https://latitude.to/articles-by-country/se/sweden/158635/berzelii-park"
+    },
+    {
+      "order": 6,
+      "place": "red-room-berns",
+      "displayName": "The Red Room at Berns Salonger",
+      "country": "SE",
+      "lat": 59.3322,
+      "lng": 18.0739,
+      "reference": "Chapter 10",
+      "certainty": "exact",
+      "summary": "The heart of the book is a small red-walled inner room at Berns, where the young painters, writers and would-be reformers gather to drink, argue and dream of the careers they cannot afford. Strindberg made this real corner of the city the emblem of a whole generation of bohemians, and the restaurant kept the name.",
+      "note": "Berns Salonger is a real restaurant and salon by Berzelii Park; its inner red room, the setting the novel is named for, is still called the Röda Rummet today. Coordinates from the Berns salonger building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berns_salonger"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

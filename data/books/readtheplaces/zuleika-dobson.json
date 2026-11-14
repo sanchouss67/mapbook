@@ -1,0 +1,93 @@
+{
+  "id": "zuleika-dobson",
+  "title": "Zuleika Dobson",
+  "author": "Max Beerbohm",
+  "year": 1911,
+  "description": "Oxford in one fatal summer term. A conjuror of dazzling beauty arrives to stay with her grandfather, the head of a college Beerbohm invents but sets in a city he keeps exact, and every undergraduate falls hopelessly in love. The map runs from the colleges of the High to the Sheldonian and Broad Street, then down through Christ Church Meadow to the Isis, where the young men drown themselves during Eights Week. It brings Oxford into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "judas-college",
+      "displayName": "Judas College (the Oxford colleges)",
+      "country": "GB",
+      "lat": 51.7505,
+      "lng": -1.2517,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "Zuleika arrives to stay with her grandfather, the Warden of Judas, and the college dinner that first night sets the catastrophe going: the Duke of Dorset and the whole undergraduate body fall for her at once. Beerbohm keeps the city precise while inventing the college, so Judas stands in for the gated quadrangles and hall dinners of the real Oxford colleges.",
+      "note": "Judas College is Beerbohm's invention, the college whose Warden is Zuleika's grandfather and where she lodges. There is no Judas at Oxford, so this marks a representative point among the old riverside colleges off the High, near Merton and Christ Church, the milieu the fictional college belongs to.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zuleika_Dobson"
+    },
+    {
+      "order": 2,
+      "place": "sheldonian-emperors-heads",
+      "displayName": "The Sheldonian and the Emperors' heads",
+      "country": "GB",
+      "lat": 51.7543,
+      "lng": -1.255,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "As Zuleika drives into Oxford, the carved heads that guard the Sheldonian break out in a cold sweat, an omen of the ruin she brings. The busts are a genuine Oxford landmark, and it is Beerbohm's book that made everyone call them the Caesars or Emperors; here the city's own stone recoils at her arrival.",
+      "note": "The row of stone busts outside the Sheldonian Theatre on Broad Street is real; it was Beerbohm's novel that fixed the popular name 'the Emperors' on them. The coordinates mark the Sheldonian.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sheldonian_Theatre"
+    },
+    {
+      "order": 3,
+      "place": "broad-street-bodleian",
+      "displayName": "Broad Street and the Bodleian",
+      "country": "GB",
+      "lat": 51.75389,
+      "lng": -1.25444,
+      "reference": "Chapter 7",
+      "certainty": "exact",
+      "summary": "The wide thoroughfare of Broad Street and the great library beside it stand for the learned, ceremonious Oxford that Zuleika's spell overturns. Along here the enamoured undergraduates parade and the Duke of Dorset wrestles with the humiliation of his passion, the institutions of study helpless against her.",
+      "note": "Broad Street and the Bodleian Library are named landmarks of the Oxford the novel moves through; the coordinates mark the Old Schools Quadrangle of the Bodleian, just off Broad Street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bodleian_Library"
+    },
+    {
+      "order": 4,
+      "place": "randolph-hotel",
+      "displayName": "The Randolph Hotel",
+      "country": "GB",
+      "lat": 51.7551,
+      "lng": -1.2596,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The Randolph is the city's one hotel of real luxury, the natural stage for a celebrity conjuror's arrival from London and the salons of Europe. It marks the glittering outside world that Zuleika brings with her, so out of place among the ancient quadrangles; long after the novel, the hotel commissioned paintings of her story for its walls.",
+      "note": "The Randolph is Oxford's grand Victorian hotel on Beaumont Street, opposite the Ashmolean. It is not fixed as a scene in the novel; it stands here for the world of metropolitan glamour Zuleika carries into a university town, and the hotel later hung a series of paintings illustrating the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Randolph_Hotel,_Oxford"
+    },
+    {
+      "order": 5,
+      "place": "the-high-street",
+      "displayName": "The High Street",
+      "country": "GB",
+      "lat": 51.7519,
+      "lng": -1.2525,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "The High, the long curve of a street that threads the colleges, is where the undergraduates throng and the Duke of Dorset walks out his lovesickness in full public view. It is the ceremonial spine of the university, and Beerbohm crowds it with the young men who will shortly follow Zuleika to the river.",
+      "note": "The High, Oxford's curving main street lined with colleges, is a named part of the novel's Oxford; the coordinates mark a central point on the High between the colleges.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/High_Street,_Oxford"
+    },
+    {
+      "order": 6,
+      "place": "isis-eights-drowning",
+      "displayName": "The Isis: the drowning at the Eights",
+      "country": "GB",
+      "lat": 51.7421,
+      "lng": -1.2497,
+      "reference": "Chapter 20",
+      "certainty": "exact",
+      "summary": "During the Eights Week races the whole undergraduate body throws itself into the river and drowns for love of Zuleika, the college barges and boathouses lining the bank as helpless witnesses. The Isis is the working stretch of the Thames below Christ Church Meadow where Oxford still rows its bumps; Beerbohm turns the summer regatta into a mass suicide.",
+      "note": "The climax is set on the Isis, the Thames at Oxford, during the Eights Week bumps races; the coordinates mark the line of college boathouses below Christ Church Meadow where the barges once moored and the crews launch.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Isis"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

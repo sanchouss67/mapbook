@@ -1,0 +1,80 @@
+{
+  "id": "one-day-of-life",
+  "title": "One Day of Life",
+  "author": "Manlio Argueta",
+  "year": 1980,
+  "description": "The rural north of El Salvador on the eve of the civil war, seen across a single day from a peasant farming family in the hills of Chalatenango. The map runs from the dirt roads and cornfields of a poor hamlet out to the departmental town, and up into the highland country toward the Honduran border where the National Guard, the army and the first guerrillas collide.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-hamlet-of-lupe",
+      "displayName": "The farming hamlet",
+      "country": "SV",
+      "lat": 14.105,
+      "lng": -88.98,
+      "reference": "Opening, morning",
+      "certainty": "approximate",
+      "summary": "The day begins before light in a cluster of dirt-floored houses among the cornfields, where an elderly peasant woman starts her chores and waits on news of the men. The hamlet is Argueta's invention, but its poverty, its maize plots and its footpaths belong to the real subsistence country of northern Chalatenango.",
+      "note": "The novel's hamlet is a composite of the poor farming settlements of Chalatenango and is not a named, findable place; this marks a representative point in the rural hills north of Chalatenango town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chalatenango_Department"
+    },
+    {
+      "order": 2,
+      "place": "the-family-store",
+      "displayName": "The village store and chapel",
+      "country": "SV",
+      "lat": 14.101,
+      "lng": -88.977,
+      "reference": "Morning",
+      "certainty": "approximate",
+      "summary": "The small general store and the modest chapel are the hamlet's shared ground, where neighbours gather, gossip carries and a lay catechist has been teaching people to read the Bible and question their conditions. Argueta ties this church work to the base communities that spread through the Salvadoran countryside in the 1970s and drew the suspicion of the security forces.",
+      "note": "The little store and the chapel are fictional fixtures of the invented hamlet; sited beside the hamlet point, they stand for the kind of general store and rural chapel found across the department.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Liberation_theology"
+    },
+    {
+      "order": 3,
+      "place": "chalatenango-town",
+      "displayName": "Chalatenango, the departmental town",
+      "country": "SV",
+      "lat": 14.0333,
+      "lng": -88.9333,
+      "reference": "Midday",
+      "certainty": "exact",
+      "summary": "The road out of the hills leads to Chalatenango, the departmental capital and the seat of its authority, with its market, its offices and its National Guard post. For the family it is where officialdom lives and where a summons or an errand can turn dangerous, the town against which the hamlet measures its distance and its fear.",
+      "note": "Chalatenango town is a real place and the seat of the department the novel names; this marks the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chalatenango"
+    },
+    {
+      "order": 4,
+      "place": "la-palma-highland-border",
+      "displayName": "Highland country toward the Honduran border",
+      "country": "SV",
+      "lat": 14.2537,
+      "lng": -89.1703,
+      "reference": "Afternoon",
+      "certainty": "exact",
+      "summary": "Northward the land rises into cool pine highlands near the Honduran frontier, the broken country where army patrols hunted suspected guerrillas and, within a couple of years of the novel, would drive whole villages toward the border. La Palma anchors this upland zone; the wider region became one of the hardest-fought fronts of the war that followed.",
+      "note": "La Palma is a real mountain town in northern Chalatenango, near the frontier zone the novel evokes; this marks the town, standing in for the surrounding highland border country.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/La_Palma,_Chalatenango"
+    },
+    {
+      "order": 5,
+      "place": "aguilares-road",
+      "displayName": "Aguilares on the road south",
+      "country": "SV",
+      "lat": 13.9572,
+      "lng": -89.1897,
+      "reference": "Dusk",
+      "certainty": "exact",
+      "summary": "Below the Chalatenango hills, on the northern highway, Aguilares was a real focus of the repression the novel dramatises: a district of church-led peasant organising where the army occupied the town and where the priest Rutilio Grande was assassinated in 1977. It marks how the terror in the fictional hamlet mirrors documented events in the surrounding country.",
+      "note": "Aguilares is a real town just south of the department on the northern highway; a documented centre of church organising and army repression in the 1970s, it grounds the political violence the novel treats.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aguilares,_El_Salvador"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

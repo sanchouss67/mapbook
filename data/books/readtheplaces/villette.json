@@ -1,0 +1,93 @@
+{
+  "id": "villette",
+  "title": "Villette",
+  "author": "Charlotte Brontë",
+  "year": 1853,
+  "description": "Brussels, thinly disguised as Villette in the kingdom of Labassecour. Brontë mapped her own two years teaching at the Pensionnat Heger on the Rue d'Isabelle into it: the boarding school, the old Flemish streets, the park across the way, the cathedral where she once made confession. It brings Belgium into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "st-pauls-london",
+      "displayName": "St Paul's and the City of London",
+      "country": "BE",
+      "lat": 51.5138,
+      "lng": -0.0983,
+      "reference": "London, before the crossing",
+      "certainty": "exact",
+      "summary": "Alone and newly freed, Lucy climbs the dome of St Paul's and walks the Strand and Cornhill, drinking in the City before she takes ship for the Continent. It is the last English ground under her feet, and the one place in the opening she names outright.",
+      "note": "St Paul's and the City are real and named in the text, but they lie some 320 km northwest of Villette, so the opening is flagged as an excursion before the book's Brussels setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    },
+    {
+      "order": 2,
+      "place": "boue-marine-ostend",
+      "displayName": "Boue-Marine (Ostend): the landing port",
+      "country": "BE",
+      "lat": 51.2155,
+      "lng": 2.927,
+      "reference": "The crossing to Labassecour",
+      "certainty": "approximate",
+      "summary": "Lucy sails from London to the continental port of Boue-Marine, knowing no further than its name, before the diligence carries her inland to Villette. Brontë drew the sea-crossing straight from her own 1842 voyage to Belgium.",
+      "note": "Boue-Marine is Brontë's invented name for the Belgian packet port. It is usually identified with Ostend, the North Sea harbour Brontë herself landed at from England (some readers argue for Antwerp). Either way it sits on the coast, well outside the Brussels setting, so it is flagged as an excursion.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    },
+    {
+      "order": 3,
+      "place": "villette-old-town",
+      "displayName": "Villette (Brussels): the old town",
+      "country": "BE",
+      "lat": 50.84667,
+      "lng": 4.3525,
+      "reference": "Arrival in Villette",
+      "certainty": "approximate",
+      "summary": "Lucy learns that the great capital she is bound for is Villette, chief city of the kingdom of Labassecour. Both are Brontë's transparent masks: Villette is Brussels, Labassecour is Belgium, mapped from the two years she spent there.",
+      "note": "Villette is Brontë's fictional name for Brussels, capital of 'Labassecour' (Belgium). The pin marks the Grand-Place, the heart of the old Flemish town Lucy walks into; the city is drawn from the Brussels Brontë knew, not a place literally called Villette.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    },
+    {
+      "order": 4,
+      "place": "rue-fossette-pensionnat",
+      "displayName": "Villette (Brussels): Madame Beck's pensionnat",
+      "country": "BE",
+      "lat": 50.84361,
+      "lng": 4.35972,
+      "reference": "The Rue Fossette",
+      "certainty": "approximate",
+      "summary": "Lucy teaches, watches and is watched inside Madame Beck's pensionnat, its walled garden the one green refuge in a town of stone. Brontë built it from the Pensionnat Heger and its old fruit-tree garden, down to the tradition that the house had once been a convent.",
+      "note": "Madame Beck's boarding school on the Rue Fossette is drawn from the real Pensionnat Heger on the Rue d'Isabelle, where Brontë taught in 1842-43. The street and school are gone; the Palais des Beaux-Arts (BOZAR) and Rue Baron Horta now cover the site, where a Brontë Society plaque hangs. The pin marks that site.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    },
+    {
+      "order": 5,
+      "place": "cathedral-confession",
+      "displayName": "The cathedral: Lucy's confession",
+      "country": "BE",
+      "lat": 50.84778,
+      "lng": 4.36028,
+      "reference": "The old church",
+      "certainty": "approximate",
+      "summary": "Feverish and alone in the long vacation, Lucy is drawn into a Catholic church and, against all her Protestant instinct, kneels at the confessional. Brontë lived the scene herself: it is the one episode in the book she is known to have taken almost unaltered from her own Brussels life.",
+      "note": "The 'old solemn church' where the Protestant Lucy makes confession is unnamed in the novel, but the scene is drawn from Brontë's own confession at the Cathedral of St Michael and St Gudula in Brussels in 1843, which she recounted in a letter to Emily. The pin marks the cathedral.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    },
+    {
+      "order": 6,
+      "place": "the-park-midnight-fete",
+      "displayName": "The park: the midnight fête",
+      "country": "BE",
+      "lat": 50.84444,
+      "lng": 4.36389,
+      "reference": "The illuminated park",
+      "certainty": "approximate",
+      "summary": "Drugged into wakefulness, Lucy wanders out to the night festival that fills the illuminated park, and there watches the whole cast of the book move through the crowd, M. Paul among them, in the long delirious scene that decides his fate and hers. The park is the real Parc de Bruxelles, across the road from the school.",
+      "note": "The 'park of Villette' where the midnight festival blazes is Brontë's rendering of the Parc de Bruxelles, the royal park a few minutes' walk from the Pensionnat Heger. The pin marks that park.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/9182"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

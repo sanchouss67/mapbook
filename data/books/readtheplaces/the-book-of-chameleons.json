@@ -1,0 +1,80 @@
+{
+  "id": "the-book-of-chameleons",
+  "title": "The Book of Chameleons",
+  "author": "José Eduardo Agualusa",
+  "year": 2004,
+  "description": "In a crumbling house in Luanda, Félix Ventura makes his living selling invented pasts and distinguished genealogies to Angola's new bourgeoisie, watched over by the narrator, a gecko on the wall who was once a man. When a stranger buys a whole new identity, the fabricated past collides with the real, violent history of the civil war. Agualusa sets his sly, dreamlike novel in the real Luanda: the decaying villa, the city of the newly powerful, and the buried wartime crimes that surface through the lies.",
+  "route": [
+    {
+      "order": 1,
+      "place": "felixs-house",
+      "displayName": "Félix Ventura's house",
+      "country": "AO",
+      "lat": -8.812,
+      "lng": 13.232,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In his book-lined, decaying house in Luanda, the albino Félix Ventura receives the clients for whom he invents distinguished ancestries and glorious pasts. The villa, with the gecko Eulálio watching from the wall, is the still stage on which the whole sly comedy of manufactured memory plays out.",
+      "note": "Almost the whole novel unfolds in Félix Ventura's crumbling house in Luanda; the villa is drawn from the decaying colonial houses of the city and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Luanda"
+    },
+    {
+      "order": 2,
+      "place": "the-city-of-new-pasts",
+      "displayName": "The city of new pasts",
+      "country": "AO",
+      "lat": -8.808,
+      "lng": 13.234,
+      "reference": "The Luanda chapters",
+      "certainty": "exact",
+      "summary": "Beyond the house lies the Luanda of the new elite, the ministers and businessmen who can afford to buy themselves a nobler history now that the old one is best forgotten. Through the gecko's ironic eye, Agualusa turns the whole postwar city into a place remaking its own past, where invention and forgetting are the price of respectability.",
+      "note": "Félix's clients are drawn from Luanda's newly powerful, the ministers, generals and businessmen of postwar Angola; the city of the new bourgeoisie is the real Luanda.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angolan_Civil_War"
+    },
+    {
+      "order": 3,
+      "place": "the-bought-past",
+      "displayName": "The bought past",
+      "country": "AO",
+      "lat": -8.815,
+      "lng": 13.23,
+      "reference": "The José Buchmann chapters",
+      "certainty": "approximate",
+      "summary": "A mysterious foreigner buys a whole new self and becomes José Buchmann, a photographer with a fabricated family and homeland he then travels to seek out. As the invented past takes on a life of its own, the novel asks how far a person is simply the story they tell, a question that turns steadily darker.",
+      "note": "A stranger commissions a complete new identity, becoming the photographer José Buchmann and setting out to inhabit the invented life; the enterprise is sited in Félix's Luanda world.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Book_of_Chameleons"
+    },
+    {
+      "order": 4,
+      "place": "the-buried-crime",
+      "displayName": "The buried crime",
+      "country": "AO",
+      "lat": -8.805,
+      "lng": 13.236,
+      "reference": "The later chapters",
+      "certainty": "approximate",
+      "summary": "As the photographer Ângela Lúcia enters Félix's life and Buchmann tracks down the man in his manufactured story, a real crime from the war years rises to the surface. Beneath the playful fictions Agualusa sets a country's unhealed violence, the murders and betrayals that no amount of bought respectability can erase.",
+      "note": "The real, violent history of the civil war surfaces through the photographer Ângela Lúcia and a killing that the invented pasts cannot cover; sited in the Luanda of the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Book_of_Chameleons"
+    },
+    {
+      "order": 5,
+      "place": "the-geckos-dreams",
+      "displayName": "The gecko's dreams",
+      "country": "AO",
+      "lat": -8.811,
+      "lng": 13.231,
+      "reference": "The ending",
+      "certainty": "approximate",
+      "summary": "Between the comings and goings of the house, the gecko Eulálio dreams of the man he once was, until his story and Félix's quietly converge. Agualusa closes on reincarnation, forgiveness and the strange consolations of a life remembered, giving his fable of lies a tender, unexpected heart.",
+      "note": "The gecko narrator Eulálio, a soul reborn, dreams of his former human life between the events of the house; his dreaming is sited at Félix's Luanda villa.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Book_of_Chameleons"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "death-comes-for-the-archbishop",
+  "title": "Death Comes for the Archbishop",
+  "author": "Willa Cather",
+  "year": 1927,
+  "description": "Archbishop Latour's New Mexico Territory of the 1850s, from the plaza and the cathedral he raises at Santa Fé, out to the sky-city of Ácoma on its mesa, up to rebel Taos and down through Albuquerque. Cather names the real pueblos, towns and missions; the bbox spans northern New Mexico from Ácoma and Albuquerque up to Taos.",
+  "route": [
+    {
+      "order": 1,
+      "place": "santa-fe-the-capital",
+      "displayName": "Santa Fe, the capital",
+      "country": "US",
+      "lat": 35.687,
+      "lng": -105.9378,
+      "reference": "Book 1: Santa Fé",
+      "certainty": "exact",
+      "summary": "Latour and Vaillant ride down at sundown to their new seat, an adobe town gathered around a green plaza and an old church, ringed by the red hills. Cather draws the real capital of New Mexico Territory, the plaza and streets still there, where the historical Archbishop Lamy governed his diocese.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    },
+    {
+      "order": 2,
+      "place": "the-mesa-country-toward-acoma",
+      "displayName": "The mesa country toward Ácoma",
+      "country": "US",
+      "lat": 34.96,
+      "lng": -107.48,
+      "reference": "Book 3: The mesa country",
+      "certainty": "approximate",
+      "summary": "Riding west with his Pecos guide Jacinto, Latour meets the mesa country for the first time, the sandstone tables standing like cathedrals across an unfinished land. This is the real high-desert plain of west-central New Mexico between Laguna and Ácoma pueblos.",
+      "note": "The passage marks the desert crossing between two real pueblos, Laguna and Ácoma, without fixing a spot. The pin sits on the plain roughly midway between them, where the mesas rise from the sand.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    },
+    {
+      "order": 3,
+      "place": "acoma-the-sky-city",
+      "displayName": "Ácoma, the Sky City",
+      "country": "US",
+      "lat": 34.896282,
+      "lng": -107.582932,
+      "reference": "Book 3: The Mass at Ácoma",
+      "certainty": "exact",
+      "summary": "Jacinto points out the Sky City, the pueblo of white squares on top of a naked rock hundreds of feet in the air, where the Ácoma ran to be safe from Navajo and Apache. Cather's mesa-top town is the real Acoma Pueblo, one of the oldest continuously inhabited settlements in North America, where Latour says Mass.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    },
+    {
+      "order": 4,
+      "place": "taos-and-padre-martinez",
+      "displayName": "Taos and Padre Martínez",
+      "country": "US",
+      "lat": 36.359,
+      "lng": -105.6091,
+      "reference": "Book 5: Padre Martínez",
+      "certainty": "exact",
+      "summary": "On his first visit to Taos, Latour rides in beside the formidable Padre Antonio José Martínez, the native priest who ruled the parish and had a hand in the 1847 revolt. Los Ranchos de Taos is real; its San Francisco de Asís mission church still stands on the plaza the crowd fills here.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    },
+    {
+      "order": 5,
+      "place": "albuquerque",
+      "displayName": "Albuquerque",
+      "country": "US",
+      "lat": 35.0967,
+      "lng": -106.67,
+      "reference": "Book 5: Albuquerque",
+      "certainty": "exact",
+      "summary": "Father Vaillant, posted to Albuquerque, the richest parish after Santa Fé, is called in by Latour to hold the see while the Bishop travels to Rome. His reluctance to leave \"my dear Albuquerque\" marks the old town on the Rio Grande, whose plaza and San Felipe de Neri church survive as Old Town today.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    },
+    {
+      "order": 6,
+      "place": "the-cathedral-at-santa-fe",
+      "displayName": "The cathedral at Santa Fe",
+      "country": "US",
+      "lat": 35.6865,
+      "lng": -105.9363,
+      "reference": "Book 9: The cathedral",
+      "certainty": "exact",
+      "summary": "The Midi-Romanesque cathedral of golden stone is Latour's one worldly ambition, raised against the carnelian hills at the close of his life. It stands: the Cathedral Basilica of St. Francis of Assisi in Santa Fe, built by Cather's model, the historical Archbishop Jean-Baptiste Lamy.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/69730"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the-beach",
+  "title": "The Beach",
+  "author": "Alex Garland",
+  "year": 1996,
+  "description": "A young backpacker's Thailand: the traveller ghetto of the Khao San Road, then the long haul south to the party islands of the Gulf, and finally a rumoured paradise hidden in a marine park. The map runs from central Bangkok down to Surat Thani and out across the archipelago of Ko Samui, Ko Pha Ngan and Ang Thong, where the secret beach is imagined.",
+  "route": [
+    {
+      "order": 1,
+      "place": "khao-san-road-bangkok",
+      "displayName": "Khao San Road, Bangkok",
+      "country": "TH",
+      "lat": 13.75889,
+      "lng": 100.49722,
+      "reference": "Opening chapters, Bangkok",
+      "certainty": "exact",
+      "summary": "The novel opens in Bangkok's backpacker heart, the Khao San Road, a strip of cheap guesthouses, bars and travel touts. Here the narrator takes a room, meets a wild-eyed neighbour and comes into possession of a hand-drawn map to a secret island beach. It is a real street, long the first stop for budget travellers arriving in Thailand.",
+      "note": "Garland names the Khao San Road; this marks the real backpacker street in the Banglamphu district of central Bangkok.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khaosan_Road"
+    },
+    {
+      "order": 2,
+      "place": "surat-thani",
+      "displayName": "Surat Thani",
+      "country": "TH",
+      "lat": 9.1401,
+      "lng": 99.3331,
+      "reference": "The journey south to the islands",
+      "certainty": "approximate",
+      "summary": "Leaving Bangkok, the narrator and his companions ride south through the night toward the coast, where boats cross to the Gulf islands. Surat Thani is the mainland town and ferry port that funnels backpackers out to Samui and its neighbours, the practical hinge between the capital and the archipelago.",
+      "note": "The book sends the travellers south by overnight coach and then boat to the islands; Surat Thani is the mainland railhead and ferry gateway for that route, marked here at the provincial town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Surat_Thani"
+    },
+    {
+      "order": 3,
+      "place": "ko-samui",
+      "displayName": "Ko Samui",
+      "country": "TH",
+      "lat": 9.512,
+      "lng": 100.0136,
+      "reference": "Arrival in the Gulf islands",
+      "certainty": "exact",
+      "summary": "The first island stop is Ko Samui, the largest and most developed of the Gulf group, all resorts, dive shops and traveller traffic. For the narrator it is a way-station on the road to something less spoiled, the busy, commercial version of paradise that the secret beach is meant to escape.",
+      "note": "Garland names Ko Samui; this marks the real island in the Gulf of Thailand, sited at its centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Samui"
+    },
+    {
+      "order": 4,
+      "place": "haad-rin-ko-pha-ngan",
+      "displayName": "Haad Rin, Ko Pha Ngan",
+      "country": "TH",
+      "lat": 9.6764,
+      "lng": 100.0682,
+      "reference": "Ko Pha Ngan",
+      "certainty": "exact",
+      "summary": "Ko Pha Ngan, the next island north, is the raucous rave capital of the Gulf, its Haad Rin beach famous for the all-night full moon parties. In the novel it stands for exactly the crowded, chemical scene the narrator wants to leave behind, the last outpost of mass tourism before the leap to the hidden beach.",
+      "note": "Garland names Ko Pha Ngan; Haad Rin, the beach at the island's southern tip and home of the full moon parties, is marked as its most representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ko_Pha-ngan"
+    },
+    {
+      "order": 5,
+      "place": "ang-thong-secret-beach",
+      "displayName": "The secret beach, Ang Thong",
+      "country": "TH",
+      "lat": 9.6565,
+      "lng": 99.666,
+      "reference": "The hidden beach",
+      "certainty": "approximate",
+      "summary": "The paradise the map promises is a beach on a hidden island, its lagoon sealed behind cliffs and guarded by a secret community. The island itself is invented, but its landscape is drawn from the Ang Thong marine park west of Samui, a cluster of steep limestone islets pierced by caves and emerald inland lakes. Reaching it in the book means a boat to a nearer island and then a long swim across open water.",
+      "note": "The secret island and its lagoon are fictional. Garland has said the beach was inspired by the Ang Thong marine park, a real archipelago of limestone islands with hidden inland lagoons; this marks the centre of that park.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mu_Ko_Ang_Thong_National_Park"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

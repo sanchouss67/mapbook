@@ -1,0 +1,80 @@
+{
+  "id": "the-prime-of-miss-jean-brodie",
+  "title": "The Prime of Miss Jean Brodie",
+  "author": "Muriel Spark",
+  "year": 1961,
+  "description": "In 1930s Edinburgh, the charismatic and dangerous schoolteacher Jean Brodie grooms her chosen set of six girls in art, romance and her own admiration for Mussolini, until one of them betrays her. Spark's city is her own: the genteel girls' school of the south side, the walk Brodie leads through the poverty of the Old Town, the Links and Meadows where the set parades, and the village of Cramond on the Forth where the music master lives.",
+  "route": [
+    {
+      "order": 1,
+      "place": "marcia-blaine-school",
+      "displayName": "Marcia Blaine School",
+      "country": "GB",
+      "lat": 55.9375,
+      "lng": -3.2,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "At the Marcia Blaine School, Miss Brodie takes her chosen ten-year-olds out of the ordinary curriculum and into her own: her love affairs, her holidays in Italy, her admiration for the fascist leaders. The Brodie set is formed here, six girls marked out to be, she tells them, the crème de la crème.",
+      "note": "The girls' school where Brodie teaches, Marcia Blaine, is invented but drawn from James Gillespie's High School for Girls, which Spark attended; sited in the Bruntsfield area of the south side where such schools stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+    },
+    {
+      "order": 2,
+      "place": "old-town-walk",
+      "displayName": "The Old Town (the walk)",
+      "country": "GB",
+      "lat": 55.948,
+      "lng": -3.193,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "The crocodile of girls follows Brodie out of the genteel south side into the crowded poverty of the Old Town, an outing that shows Sandy a whole city her sheltered life has hidden. The contrast between Brodie's romantic self-image and the real Edinburgh around her begins, for Sandy, the slow work of seeing through her.",
+      "note": "Brodie leads the girls on a walk through the poor closes and streets of Edinburgh's Old Town, the real medieval quarter along the Royal Mile and down toward the Grassmarket.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Old_Town,_Edinburgh"
+    },
+    {
+      "order": 3,
+      "place": "bruntsfield-links-meadows",
+      "displayName": "Bruntsfield Links and the Meadows",
+      "country": "GB",
+      "lat": 55.94,
+      "lng": -3.197,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "On the Links and the Meadows the girls rehearse Brodie's romances and prophecies, and the watchful Sandy Stranger begins to measure her teacher against reality. Sandy's mix of devotion and suspicion, worked out on these ordinary greens, will end in the betrayal that brings Brodie down.",
+      "note": "The set walks and talks across Bruntsfield Links and the Meadows, the real open greens of Edinburgh's south side beside the school.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bruntsfield_Links"
+    },
+    {
+      "order": 4,
+      "place": "teddy-lloyd-studio",
+      "displayName": "Teddy Lloyd's studio",
+      "country": "GB",
+      "lat": 55.952,
+      "lng": -3.205,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "Brodie loves the one-armed painter Teddy Lloyd but gives him up, steering the girls toward him in her place, so that every portrait he paints of them comes out looking like her. When Sandy has an affair with Lloyd, she takes from him not love but the key to destroying Brodie.",
+      "note": "The married art master Teddy Lloyd, whom Brodie loves and renounces, paints in a studio in the city; the studio is invented and sited in central Edinburgh.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Prime_of_Miss_Jean_Brodie"
+    },
+    {
+      "order": 5,
+      "place": "cramond-lowther",
+      "displayName": "Cramond (Gordon Lowther's house)",
+      "country": "GB",
+      "lat": 55.977,
+      "lng": -3.299,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "Out at Cramond, by the shore of the Forth, Brodie half-settles into an affair with the mild bachelor music master Lowther, a substitute for the painter she truly wants. The seaside village is where her romantic myth of herself is quietly, comically deflated even as she keeps performing it for the girls.",
+      "note": "The music master Gordon Lowther, whom Brodie takes up instead of Lloyd, has a house at Cramond, the real village on the Firth of Forth at the north-western edge of Edinburgh.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cramond"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "the-odyssey",
+  "title": "The Odyssey",
+  "author": "Homer",
+  "description": "A soldier ten years gone from the Trojan war spends ten more years fighting the sea to reach one small Ionian island; the poem's fixed point is real Ithaca, but the wanderings that fill it belong to a mythic Mediterranean whose stops scholars have argued over for centuries.",
+  "route": [
+    {
+      "order": 1,
+      "place": "ithaca-home-of-odysseus",
+      "displayName": "Ithaca, Odysseus's home",
+      "country": "GR",
+      "lat": 38.4008,
+      "lng": 20.7136,
+      "reference": "Books 13-24",
+      "certainty": "exact",
+      "summary": "Everything in the poem bends toward this one small island: the kingdom Odysseus is trying to reach, the household where Penelope holds off the suitors, the shore where he finally lands disguised as a beggar. It is the only certainly real place in his long route home, and the poem's whole idea of home is built on it.",
+      "note": "Ithaca is named directly and is a real Ionian island; the poem describes a rugged, goat-grazed place fit for no chariots. The pin marks the modern island of Ithaki, whose identity with Homer's Ithaca is the traditional and majority view, though a minority argues for neighbouring Kefalonia.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ithaca"
+    },
+    {
+      "order": 2,
+      "place": "troy-hisarlik",
+      "displayName": "Troy (Hisarlik), where the war ended",
+      "country": "GR",
+      "lat": 39.9575,
+      "lng": 26.2389,
+      "reference": "Books 1-4",
+      "certainty": "approximate",
+      "summary": "The ten-year siege is finished when the poem begins, and Odysseus sets out from here for home. Troy is the wound the whole journey is trying to heal: the place he left, the victory that cost him a decade more at sea. Its likely site is the ruin-mound of Hisarlik on the Turkish coast facing the Dardanelles.",
+      "note": "The poem opens after Troy has fallen; the war is backstory, not a scene we visit. Troy is most widely identified with the mound of Hisarlik in northwest Turkey, excavated since Schliemann, but the identification remains debated. Marked outsideSetting: it lies far east of Ithaca and off the map's frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hisarlik"
+    },
+    {
+      "order": 3,
+      "place": "lotus-eaters-djerba",
+      "displayName": "Land of the Lotus-eaters (Djerba)",
+      "country": "GR",
+      "lat": 33.8075,
+      "lng": 10.85,
+      "reference": "Book 9",
+      "certainty": "approximate",
+      "summary": "Blown off course, Odysseus's crew eat the lotus and lose all wish to go home, and he has to drag them back to the ships by force. It is the first of the temptations that threaten to end the voyage by simply making the men forget it. Ancient writers already tied the episode to the island of Djerba in the Gulf of Gabes.",
+      "note": "A mythic stop with no fixed location; a very old tradition, going back to ancient geographers, places the Lotus-eaters on Djerba off the Tunisian coast. We mark it disputed and outsideSetting: this is a traditional identification of an invented place, not a site the poem names on a real map.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lotus-eaters"
+    },
+    {
+      "order": 4,
+      "place": "scylla-charybdis-messina",
+      "displayName": "Scylla and Charybdis (Strait of Messina)",
+      "country": "GR",
+      "lat": 38.25,
+      "lng": 15.6333,
+      "reference": "Book 12",
+      "certainty": "approximate",
+      "summary": "Warned that he must pass between a six-headed cliff-monster and a ship-swallowing whirlpool, Odysseus steers closer to Scylla and loses six men rather than lose the whole crew to Charybdis. It is the poem's starkest lesson in choosing the smaller disaster. The tradition sites the passage at the narrows of Messina.",
+      "note": "The two monsters flanking a narrow strait have long been identified with the Strait of Messina between Sicily and Calabria, where a rock and a whirlpool face each other. This is a traditional identification of a mythic hazard; marked disputed and outsideSetting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Scylla"
+    },
+    {
+      "order": 5,
+      "place": "ogygia-gozo",
+      "displayName": "Calypso's Ogygia (Gozo)",
+      "country": "GR",
+      "lat": 36.0443,
+      "lng": 14.2401,
+      "reference": "Books 5, 7",
+      "certainty": "approximate",
+      "summary": "Held for seven years by the nymph Calypso, offered immortality if he will stay, Odysseus still sits on the shore weeping to go home; the poem finds him here at its true beginning. His refusal of a deathless life on the island is the choice the whole epic turns on. Tradition places Ogygia at Gozo, north of Malta.",
+      "note": "Ogygia, the island where the nymph Calypso keeps Odysseus for seven years, is an invented navel-of-the-sea with no certain location; a long-standing tradition identifies it with Gozo in the Maltese archipelago. Marked disputed and outsideSetting as a traditional identification of a mythic isle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ogygia"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

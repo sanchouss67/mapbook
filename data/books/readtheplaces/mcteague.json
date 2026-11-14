@@ -1,0 +1,92 @@
+{
+  "id": "mcteague",
+  "title": "McTeague",
+  "author": "Frank Norris",
+  "year": 1899,
+  "description": "Polk Street, block by block, above a dental parlour. Norris pins his people to specific corners of the 1890s city and the flats of the East Bay, most of it erased by the 1906 earthquake a few years after he wrote it. The story then flees south and east, out of the setting entirely, to end in Death Valley.",
+  "route": [
+    {
+      "order": 1,
+      "place": "car-conductors-coffee-joint-polk-street",
+      "displayName": "The car conductors' coffee-joint, Polk Street",
+      "country": "US",
+      "lat": 37.7887,
+      "lng": -122.42,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "The book opens on McTeague's Sunday routine: the heavy dinner at the car conductors' coffee-joint, the beer, the nap in the operating chair. Norris fixes his dentist to the block before anything happens, and it is here, over these meals with Marcus, that Trina first enters the story.",
+      "note": "Polk Street is named throughout; the coffee-joint itself is a working-class fixture Norris invents on the block. The pin marks Polk Street in the residence quarter, near Bush, where its small tradespeople and car men ate.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    },
+    {
+      "order": 2,
+      "place": "mcteague-dental-parlors-polk-street",
+      "displayName": "McTeague's “Dental Parlors,” Polk Street",
+      "country": "US",
+      "lat": 37.7915,
+      "lng": -122.4204,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "The corner bay window over the branch post-office is the spine of the book. McTeague works, eats, and sleeps in the one room, dreaming of the giant gilded tooth he will hang outside it. Losing the licence to practise here is the blow that starts the long slide toward the desert.",
+      "note": "Polk Street is explicit, but the exact corner is not. Norris puts the single-room parlour on the second floor over a branch post-office; the pin marks Polk Street near Sacramento, a representative corner of the accommodation street he describes.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    },
+    {
+      "order": 3,
+      "place": "sieppe-house-b-street-station-oakland",
+      "displayName": "The Sieppe house, foot of B Street, Oakland",
+      "country": "US",
+      "lat": 37.806,
+      "lng": -122.2977,
+      "reference": "Ch. 5",
+      "certainty": "approximate",
+      "summary": "Trina's family live across the bay at the foot of B Street, past the salt flats at the edge of Oakland. McTeague crosses on the ferry to court her here, and from this house the whole Sieppe clan is later scattered, freeing Trina to marry back in the city.",
+      "note": "Norris names B Street station and the edge of Oakland across the bay, with salt flats between the shed and the first houses. The exact lot is not fixed; the pin marks the West Oakland waterfront where the little lettered-street station stood.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    },
+    {
+      "order": 4,
+      "place": "the-orpheum-theatre",
+      "displayName": "The Orpheum",
+      "country": "US",
+      "lat": 37.7859,
+      "lng": -122.408,
+      "reference": "Ch. 6",
+      "certainty": "exact",
+      "summary": "Marcus tells McTeague to take Trina to the variety show at the Orpheum, the vaudeville house whose original theatre opened on O'Farrell Street in 1887. The awkward theatre party, with Mrs. Sieppe in tow, is the courtship's high point, the polite outing before the marriage and everything that follows it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    },
+    {
+      "order": 5,
+      "place": "the-marriage-photographers-rooms-polk-street",
+      "displayName": "The wedding, the photographer's rooms on Polk Street",
+      "country": "US",
+      "lat": 37.7911,
+      "lng": -122.4203,
+      "reference": "Ch. 9",
+      "certainty": "approximate",
+      "summary": "The pair marry in the rented photographer's rooms on Polk Street, a few doors from the parlour, the flat Trina fills with her Noah's-ark carvings and, soon, her gold. The lottery winnings that make the wedding possible are the same money she will hoard and McTeague will kill for.",
+      "note": "The rented photographer's rooms are on Polk Street, next to the parlour, but no exact address is given. The pin marks Polk Street near the dental parlour where the couple set up house.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    },
+    {
+      "order": 6,
+      "place": "death-valley-the-final-showdown",
+      "displayName": "The heart of Death Valley",
+      "country": "US",
+      "lat": 36.4614,
+      "lng": -116.8656,
+      "reference": "Ch. 22",
+      "certainty": "exact",
+      "summary": "The flight from the law ends on the alkali floor of Death Valley, where Marcus tracks McTeague down. Their mule and the last water are shot away, the old hatred flares, and the fight leaves McTeague handcuffed to a dead man in the desert with the canary chittering in its gilt cage. The novel's real ending, and its farthest point from Polk Street.",
+      "note": "Death Valley is real and named, some 500 km southeast of San Francisco, so it is flagged as an excursion far beyond the book's setting. The pin marks the valley floor near Furnace Creek.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/165"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cannery-row",
+  "title": "Cannery Row",
+  "author": "John Steinbeck",
+  "year": 1945,
+  "description": "A few hundred yards of the Monterey waterfront during the Depression, when the street was a run of sardine canneries, flophouses and grocery stores between the bay and the hill. Steinbeck maps his real neighbours onto invented names: Doc's Western Biological is Ed Ricketts's Pacific Biological Laboratories, still standing on the street now named Cannery Row; Lee Chong's grocery, the Palace Flophouse and Dora's Bear Flag are drawn from the shops and houses of ill repute that really lined it. The tide pools where Doc collects run out to the tip of the peninsula at Point Pinos.",
+  "route": [
+    {
+      "order": 1,
+      "place": "cannery-row-street",
+      "displayName": "Cannery Row (Ocean View Avenue)",
+      "country": "US",
+      "lat": 36.6162,
+      "lng": -121.9008,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The opening pans the length of the street at dawn: the canneries, the whistles that call the shifts, the tin and rust and the gathered life of the place. It is the frame for everything that follows, a poem and a stink and a habit, as the narrator has it.",
+      "note": "The street of the title is the real waterfront strip of sardine canneries in Monterey, then Ocean View Avenue and renamed Cannery Row in 1958 after the book; the whole novel takes place along it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+    },
+    {
+      "order": 2,
+      "place": "lee-chongs-grocery",
+      "displayName": "Lee Chong's Grocery",
+      "country": "US",
+      "lat": 36.6167,
+      "lng": -121.9004,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The grocery that stocks everything from fatback to fireworks and quietly extends credit to the whole street. When Lee Chong takes an abandoned fish-meal shack in payment of a debt, and Mack and the boys move into it, the shop becomes the pivot of the neighbourhood's economy.",
+      "note": "Lee Chong's crowded grocery is invented but placed on the Row itself, one of the small stores that really lined the street; sited among the canneries at the heart of the neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "bear-flag-restaurant",
+      "displayName": "The Bear Flag Restaurant",
+      "country": "US",
+      "lat": 36.6158,
+      "lng": -121.9012,
+      "reference": "Chapter 3",
+      "certainty": "approximate",
+      "summary": "Dora's establishment runs on strict decorum and outsized charity, paying more than its share of the street's debts and doctor's bills. In hard times the girls sit up with the sick and the poor, and the Bear Flag becomes one of the two moral centres of the book, the other being Doc's lab across the way.",
+      "note": "Dora Flood's Bear Flag is a brothel under a genteel name; it is invented, but drawn from the real houses of ill repute on the Row, such as Flora Woods's Lone Star Cafe. Sited on the street among the canneries.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "palace-flophouse",
+      "displayName": "The Palace Flophouse and Grill",
+      "country": "US",
+      "lat": 36.6172,
+      "lng": -121.8998,
+      "reference": "Chapter 5",
+      "certainty": "approximate",
+      "summary": "Mack and the boys take over an old shack Lee Chong owns and christen it the Palace Flophouse and Grill, furnishing it by degrees with a stove, chairs and a rug won or scavenged from the street. Their long, well-meant scheme to throw a party for Doc is launched from here.",
+      "note": "The former fish-meal storehouse that Mack and the boys turn into a home is invented; the novel places it up the hill behind the canneries. Sited on the slope just inland of the Row.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "western-biological",
+      "displayName": "Western Biological Laboratory (Doc's lab)",
+      "country": "US",
+      "lat": 36.6176,
+      "lng": -121.9013,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "The marine supply house where Doc collects, preserves and ships the animals of the tide pools, and plays records late into the night. It is the gravitational centre of the street, the place everyone drifts toward, and the destination of the party the boys keep trying to give him.",
+      "note": "Doc's Western Biological is Ed Ricketts's Pacific Biological Laboratories at 800 Cannery Row, the building still standing on the street; Doc is closely modelled on Ricketts, Steinbeck's friend and collaborator.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pacific_Biological_Laboratories"
+    },
+    {
+      "order": 6,
+      "place": "great-tide-pool-point-pinos",
+      "displayName": "The Great Tide Pool, Point Pinos",
+      "country": "US",
+      "lat": 36.6385,
+      "lng": -121.933,
+      "reference": "Chapter 18",
+      "certainty": "approximate",
+      "summary": "Doc walks out to the rich tide pools at the peninsula's tip to gather starfish and small animals, and it is here, among the anemones and crabs, that he finds the body of a drowned girl, one of the book's few still, dark notes amid the comedy of the street.",
+      "note": "Doc collects in the tide pools out at the tip of the Monterey Peninsula; the Great Tide Pool lies near Point Pinos in Pacific Grove. Sited at the point, a short way west of the Row.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannery_Row_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

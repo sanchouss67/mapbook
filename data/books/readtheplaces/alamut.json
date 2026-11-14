@@ -1,0 +1,80 @@
+{
+  "id": "alamut",
+  "title": "Alamut",
+  "author": "Vladimir Bartol",
+  "year": 1938,
+  "description": "In eleventh-century Persia, Hasan-i Sabbah, the Old Man of the Mountain, builds the sect of the Assassins at the fortress of Alamut, and makes his young fedayeen die on command by convincing them, through a hidden garden of drugged pleasures, that he can send them to paradise and back. Bartol sets it at the real crag of Alamut in the Alborz mountains: the fortress itself, the secret gardens behind it, the training grounds of the fedayeen, and the roads down which the assassins are sent against the great men of the age.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-fortress",
+      "displayName": "The fortress of Alamut",
+      "country": "IR",
+      "lat": 36.442,
+      "lng": 50.583,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "From the eyrie of Alamut, all but impregnable on its rock, the cold, brilliant Hasan-i Sabbah directs a sect that will make murder a weapon of statecraft across the Islamic world. The fortress, cut off among the peaks, is the laboratory in which he tests his terrible maxim, that nothing is true and everything is permitted.",
+      "note": "The action centres on the fortress of Alamut, the real crag-top castle in the Alborz mountains of northern Persia from which Hasan-i Sabbah ran the historical order of the Assassins.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alamut_Castle"
+    },
+    {
+      "order": 2,
+      "place": "the-secret-gardens",
+      "displayName": "The secret gardens",
+      "country": "IR",
+      "lat": 36.444,
+      "lng": 50.585,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "In lush gardens hidden behind the fortress, girls like Halima are kept to play the houris of paradise, so that a young man drugged with hashish and brought here for a night believes he has truly visited heaven. The false paradise, and the innocent girls trapped in it, is the beautiful, monstrous machinery at the centre of Hasan's deception.",
+      "note": "Behind the fortress Hasan builds hidden gardens of pleasure, his fabricated 'paradise'; the gardens are drawn from the legend of Alamut and sited at the real fortress.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alamut_(Bartol_novel)"
+    },
+    {
+      "order": 3,
+      "place": "the-training-grounds",
+      "displayName": "The training grounds",
+      "country": "IR",
+      "lat": 36.441,
+      "lng": 50.582,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Among the fedayeen trained to kill and die on command is the idealistic ibn Tahir, drilled in devotion until he will plunge a dagger into a great man and welcome his own death as the road back to paradise. Through his eyes the reader sees how faith, cunningly manipulated, can be forged into the most absolute of weapons.",
+      "note": "Within the fortress the young fedayeen are trained in arms, doctrine and blind obedience; the training grounds are sited within the real Alamut, the exact courts the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Order_of_Assassins"
+    },
+    {
+      "order": 4,
+      "place": "the-garden-women",
+      "displayName": "The garden women (Miriam)",
+      "country": "IR",
+      "lat": 36.443,
+      "lng": 50.586,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Miriam, clever and wounded, manages the garden women for Hasan while seeing through the whole cruel illusion she serves, and comes to embody the human cost of his experiment. Her tragedy, and the fates of the girls used to counterfeit heaven, weigh Bartol's fable of power against the lives it consumes.",
+      "note": "The gardens are overseen by Miriam, Hasan's most trusted and disillusioned confidante; the women's quarters are sited at the real fortress, the specific rooms the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alamut_(Bartol_novel)"
+    },
+    {
+      "order": 5,
+      "place": "the-mission",
+      "displayName": "The mission (Isfahan)",
+      "country": "IR",
+      "lat": 32.65,
+      "lng": 51.67,
+      "reference": "Part 3",
+      "certainty": "approximate",
+      "summary": "Sent down from the mountain, ibn Tahir carries out the sect's most famous killing, the assassination of the powerful vizier Nizam al-Mulk, only to learn afterwards how thoroughly he was deceived. The mission reaches out from Alamut into the wider Persian world, and Bartol turns the historical dagger into a parable of ideology, terror and the manufacture of martyrs.",
+      "note": "The trained assassins are sent out to kill the great men of the age, above all the vizier Nizam al-Mulk; the missions take them to cities such as Isfahan, sited far to the south of Alamut.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nizam_al-Mulk"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

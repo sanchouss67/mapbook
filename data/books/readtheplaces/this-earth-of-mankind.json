@@ -1,0 +1,93 @@
+{
+  "id": "this-earth-of-mankind",
+  "title": "This Earth of Mankind",
+  "author": "Pramoedya Ananta Toer",
+  "year": 1980,
+  "description": "Colonial Surabaya at the turn of the twentieth century, the largest port of the Dutch East Indies and a city ruled by a strict ladder of race and law. A gifted Javanese student at the elite Dutch H.B.S. is pulled south to Wonokromo, into the household of a formidable concubine who runs a European farm, and finally into the colonial courts. The map runs from the old town on the Kalimas down through Wonokromo to the sugar country of East Java.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hbs-surabaya",
+      "displayName": "The H.B.S., Surabaya",
+      "country": "ID",
+      "lat": -7.2509,
+      "lng": 112.7491,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "The narrator is one of a handful of native students admitted to the Hogere Burgerschool, the Dutch-language school built for European and elite children. His schooling sets him apart from other Javanese and is the hinge on which the whole story of colonial hierarchy turns.",
+      "note": "The novel names the H.B.S., the elite Dutch secondary school. Its surviving building on Jalan Wijaya Kusuma dates to 1923; in the story's period the school stood nearer the old Kadipaten quarter, so this marks the enduring H.B.S. site in the north-east of the city.",
+      "sourceUrl": "https://repository.unair.ac.id/27199/"
+    },
+    {
+      "order": 2,
+      "place": "surabaya-old-town",
+      "displayName": "The colonial city, Surabaya",
+      "country": "ID",
+      "lat": -7.2367,
+      "lng": 112.7383,
+      "reference": "Early chapters",
+      "certainty": "exact",
+      "summary": "Surabaya is the world the narrator moves through: a busy Dutch port town of trading houses, offices and a rigid order that ranks Europeans, foreign Asians and natives in that fixed sequence. The old town around the Kalimas and the Red Bridge was its commercial centre.",
+      "note": "Surabaya is named throughout. This marks the old European town on the Kalimas at the Red Bridge, the commercial and administrative heart of the colonial city.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q7355016"
+    },
+    {
+      "order": 3,
+      "place": "wonokromo",
+      "displayName": "Wonokromo",
+      "country": "ID",
+      "lat": -7.293,
+      "lng": 112.7364,
+      "reference": "Early chapters",
+      "certainty": "exact",
+      "summary": "South of the city proper lies Wonokromo, in the story a half-rural district on the edge of the sugar country. A schoolfriend takes the narrator there on a visit that changes his life, into a European-style farm run by a Javanese woman.",
+      "note": "Wonokromo is named as the location of the household the narrator is drawn into. This marks the district, then a semi-rural town on the southern edge of Surabaya.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q3298334"
+    },
+    {
+      "order": 4,
+      "place": "boerderij-buitenzorg",
+      "displayName": "Nyai Ontosoroh's estate, Boerderij Buitenzorg",
+      "country": "ID",
+      "lat": -7.305,
+      "lng": 112.738,
+      "reference": "Middle chapters",
+      "certainty": "approximate",
+      "summary": "The heart of the book is a country house and dairy farm named Boerderij Buitenzorg, held by a Dutchman but run in fact by his native concubine, a woman of iron competence and her sharp-witted daughter. The narrator is taken in, falls in love, and comes up against the law that gives a native woman no standing over her own family.",
+      "note": "Boerderij Buitenzorg is a fictional estate. The novel places it at Wonokromo, so this sites it just south of the district centre, on the then-rural farmland at the edge of the city.",
+      "sourceUrl": "https://id.wikipedia.org/wiki/Bumi_Manusia_(film)"
+    },
+    {
+      "order": 5,
+      "place": "tulangan-sugar-country",
+      "displayName": "The sugar country, Tulangan",
+      "country": "ID",
+      "lat": -7.4742,
+      "lng": 112.6492,
+      "reference": "Middle chapters",
+      "certainty": "approximate",
+      "summary": "The wealth behind the estate comes from sugar, the cash crop that drove the colonial economy of East Java. The plantations and mills of the flat country south of Surabaya, around Tulangan and Sidoarjo, stand behind the family's money and its ruin.",
+      "note": "The novel ties the household's fortune to a Dutch sugar enterprise in the country south of Surabaya; secondary sources place it at Tulangan in Sidoarjo, so this marks that town as a representative point in the East Java sugar belt.",
+      "sourceUrl": "https://id.wikipedia.org/wiki/Bumi_Manusia_(film)"
+    },
+    {
+      "order": 6,
+      "place": "raad-van-justitie",
+      "displayName": "The colonial courts",
+      "country": "ID",
+      "lat": -7.2458,
+      "lng": 112.7378,
+      "reference": "Closing chapters",
+      "certainty": "approximate",
+      "summary": "The story ends in a court of colonial law, where European legal authority overrides every claim the native characters can make and takes from them what they love. Surabaya's high court, the Raad van Justitie, sat in the old administrative quarter on the site now occupied by the Heroes Monument.",
+      "note": "The novel does not name the courthouse. This marks the site of Surabaya's Raad van Justitie, the colonial high court, whose 1891 building stood where the Heroes Monument now stands.",
+      "sourceUrl": "https://begandring.com/gedung-pengadilan-tinggi/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

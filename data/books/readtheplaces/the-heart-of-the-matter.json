@@ -1,0 +1,93 @@
+{
+  "id": "the-heart-of-the-matter",
+  "title": "The Heart of the Matter",
+  "author": "Graham Greene",
+  "year": 1948,
+  "description": "A West African coastal colony in the middle of the Second World War, lightly fictionalised but unmistakably wartime Freetown, where Greene himself served in intelligence. A deputy police commissioner moves between the harbour and its anchored convoys, the waterfront wharf and the police station, the hillside bungalows above the town and the Catholic church, until private failure and Catholic conscience close in. The map runs across the Freetown peninsula, with one excursion inland to the border district.",
+  "route": [
+    {
+      "order": 1,
+      "place": "freetown-harbour",
+      "displayName": "The harbour of Freetown",
+      "country": "SL",
+      "lat": 8.4891,
+      "lng": -13.2048,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "The story opens on a colonial port at war, its wide estuary filled with anchored ships waiting to join convoys north. The deputy police commissioner boards the arriving vessels to search for diamonds and contraband, work that first draws him toward the compromises that undo him. The setting is wartime Freetown in all but name.",
+      "note": "The colony is never named, but its wartime harbour crowded with convoys is drawn directly from Freetown, where Greene served; this marks the deep-water anchorage now the Queen Elizabeth II Quay.",
+      "sourceUrl": "https://www.searates.com/port/freetown_sl"
+    },
+    {
+      "order": 2,
+      "place": "government-wharf",
+      "displayName": "The wharf on the waterfront",
+      "country": "SL",
+      "lat": 8.4901,
+      "lng": -13.2321,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "The town meets the sea at a crowded landing of warehouses, bonded stores and rats, where cargoes are checked and rumours trade as freely as goods. The policeman's rounds bring him among the traders and clerks of the waterfront, the ground on which small corruptions grow. It maps to Freetown's old Government Wharf.",
+      "note": "The book's bonded wharf and steaming waterfront read as central Freetown's landing, sited here at the historic Government Wharf below the Cotton Tree; the colony itself is a lightly fictionalised Freetown.",
+      "sourceUrl": "https://commonwealthwalkway.info/the-walks/freetown-commonwealth-walkway/"
+    },
+    {
+      "order": 3,
+      "place": "police-station",
+      "displayName": "The police station in the town",
+      "country": "SL",
+      "lat": 8.4858,
+      "lng": -13.2337,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The commissioner's daily life turns on a hot, understaffed police station where he keeps the town's small order and is quietly passed over for the top job. The slight sets his wife longing to leave and pushes him into the debt that traps him. Greene places it in the colonial capital's centre, matching Freetown's own police headquarters.",
+      "note": "The novel gives no address for the station; this marks central Freetown near the law courts and Cotton Tree, where the colonial police headquarters stood, in a colony that is lightly fictionalised Freetown.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Freetown"
+    },
+    {
+      "order": 4,
+      "place": "scobie-bungalow-hill-station",
+      "displayName": "Scobie's bungalow above the town",
+      "country": "SL",
+      "lat": 8.4867,
+      "lng": -13.2339,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "Home is a modest bungalow on the heights above the town, where the marriage frays through the long rains and the wife finally sails for South Africa. Left alone, the husband drifts into an affair and deeper into his private crisis. The European hill quarter reads as Freetown's Hill Station, the malaria-driven enclave of imported bungalows overlooking the port.",
+      "note": "The bungalow is unnamed; the hillside European quarters it evokes match Hill Station, the colonial enclave of prefabricated bungalows above Freetown, in a colony that is lightly fictionalised Freetown.",
+      "sourceUrl": "https://transnationalarchitecture.group/2023/01/11/hill-station-colonial-period-housing-in-freetown-sierra-leone/"
+    },
+    {
+      "order": 5,
+      "place": "catholic-church",
+      "displayName": "The Catholic church",
+      "country": "SL",
+      "lat": 8.4922,
+      "lng": -13.2333,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "The deepest drama is a Catholic one, played out at Mass and in the confessional, where the hero believes his adultery and his refusal to give it up cut him off from grace. His decision to take communion in a state of sin becomes the novel's moral crux. The town's Catholic church stands in for Freetown's Sacred Heart Cathedral.",
+      "note": "The church is unnamed; this marks Sacred Heart Cathedral, the Catholic seat in central Freetown that stood in Greene's time, in a colony that is lightly fictionalised Freetown.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sacred_Heart_Cathedral,_Freetown"
+    },
+    {
+      "order": 6,
+      "place": "pende-border-district",
+      "displayName": "The border district of Pende",
+      "country": "SL",
+      "lat": 8.1,
+      "lng": -10.7,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "One journey takes the policeman far inland to a remote border post, where a district officer has killed himself and a boy is carried out of French territory after a wreck. The scene of failure and of a rescued child feeds directly into the tragedy waiting back in the town. The invented Pende evokes Sierra Leone's eastern frontier around Pendembu.",
+      "note": "Pende and Bamba are invented names for a French-border district reached upcountry; Greene drew on the eastern frontier of Sierra Leone, so this marks Pendembu in Kailahun near the border as a representative point. Set outside the Freetown setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pendembu"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

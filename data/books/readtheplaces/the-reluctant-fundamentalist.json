@@ -1,0 +1,93 @@
+{
+  "id": "the-reluctant-fundamentalist",
+  "title": "The Reluctant Fundamentalist",
+  "author": "Mohsin Hamid",
+  "year": 2007,
+  "description": "A single evening in Lahore frames the whole book: a Pakistani man buttonholes an uneasy American at a cafe in the Old Anarkali bazaar and talks him through his life over tea and a long dinner, the two of them drifting out toward the Mall as the light goes. His memories carry the story abroad, to Princeton, Manhattan, Manila and Valparaiso, but the ground under the telling stays fixed in Lahore. The map holds the old bazaar quarter and the colonial spine of the Mall, with the outside chapters pinned where they belong.",
+  "route": [
+    {
+      "order": 1,
+      "place": "old-anarkali-cafe",
+      "displayName": "The cafe in Old Anarkali",
+      "country": "PK",
+      "lat": 31.5667,
+      "lng": 74.3097,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The whole novel is one man's monologue, delivered across a single evening to a nervous American stranger at a bazaar cafe. Old Anarkali is one of the oldest surviving market quarters in South Asia, a warren of food stalls and shopfronts just off the colonial Mall; the narrator makes it the stage for a story he controls entirely.",
+      "note": "The book sets the frame in a cafe in the Old Anarkali bazaar of Lahore, which it names, but does not identify a real establishment; this marks the heart of the old bazaar as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anarkali_Bazaar"
+    },
+    {
+      "order": 2,
+      "place": "princeton-university",
+      "displayName": "Princeton University",
+      "country": "PK",
+      "lat": 40.3439,
+      "lng": -74.6551,
+      "reference": "Chapters 1-2",
+      "certainty": "exact",
+      "summary": "The narrator's American life begins here, as a scholarship undergraduate who works hard to belong and graduates near the top of his class. Princeton is where he is first recruited toward the world of finance, and where the confidence that later curdles is manufactured. An excursion outside Lahore.",
+      "note": "Princeton is named in the text as the university the narrator attends on scholarship; this marks the main campus.",
+      "sourceUrl": "https://latitude.to/articles-by-country/us/united-states/390/princeton-university"
+    },
+    {
+      "order": 3,
+      "place": "manhattan-underwood-samson",
+      "displayName": "Manhattan",
+      "country": "PK",
+      "lat": 40.7549,
+      "lng": -73.984,
+      "reference": "Chapters 2-4",
+      "certainty": "exact",
+      "summary": "After Princeton the narrator joins a hard-driving valuation firm in Manhattan and falls for a grieving young New Yorker. This is the city where he feels most fully American, and where, after the attacks of September 2001, he begins to feel watched and set apart. An excursion outside Lahore.",
+      "note": "Manhattan is named as the setting for the narrator's job and love affair; the elite valuation firm he works for is invented, so this marks midtown Manhattan as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Reluctant_Fundamentalist"
+    },
+    {
+      "order": 4,
+      "place": "manila-makati",
+      "displayName": "Manila",
+      "country": "PK",
+      "lat": 14.5566,
+      "lng": 121.0234,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "On his first foreign posting the narrator values a business in Manila and is unsettled by how the city outpaces his own, and by catching himself trying to pass as more American than he is. It is here, on a hotel television, that he watches the twin towers fall, and notices an unexpected flicker of his own reaction. An excursion outside Lahore.",
+      "note": "Manila is named as the site of the narrator's first overseas assignment; this marks the Makati financial district, the city's corporate core.",
+      "sourceUrl": "https://www.latlong.net/place/makati-metro-manila-philippines-8328.html"
+    },
+    {
+      "order": 5,
+      "place": "valparaiso-chile",
+      "displayName": "Valparaiso",
+      "country": "PK",
+      "lat": -33.0472,
+      "lng": -71.6127,
+      "reference": "Chapters 9-11",
+      "certainty": "exact",
+      "summary": "Sent to value a publishing house in the Chilean port of Valparaiso, the narrator meets its old head, whose questions about loyalty and service push him to abandon the job and the identity he built in America. He walks away from the assignment here, and turns toward home. An excursion outside Lahore.",
+      "note": "Valparaiso is named as the site of the narrator's final assignment; this marks the Chilean port city.",
+      "sourceUrl": "https://latitude.to/map/cl/chile/cities/valparaiso"
+    },
+    {
+      "order": 6,
+      "place": "the-mall-lahore",
+      "displayName": "The Mall",
+      "country": "PK",
+      "lat": 31.5452,
+      "lng": 74.3495,
+      "reference": "Chapter 12",
+      "certainty": "exact",
+      "summary": "As the dinner finishes the two men leave the bazaar and walk out along the Mall, the grand tree-lined avenue the British laid through the city, back toward the American's hotel. The evening's uneasy courtesy tightens into something closer to threat, and the book ends on the street without settling who, if anyone, is the danger. Back on Lahore ground where the telling began.",
+      "note": "The narrator and the American walk out of the bazaar toward the Mall as the evening ends; the Mall is named, and this marks a representative point on the colonial avenue.",
+      "sourceUrl": "https://trek.zone/en/pakistan/places/411809/mall-road-lahore"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

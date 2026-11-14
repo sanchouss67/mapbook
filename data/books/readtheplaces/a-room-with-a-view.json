@@ -1,0 +1,93 @@
+{
+  "id": "a-room-with-a-view",
+  "title": "A Room with a View",
+  "author": "E. M. Forster",
+  "year": 1908,
+  "description": "A young Englishwoman on the Grand Tour is unsettled by Florence and by a fellow guest at her pension, and the feeling follows her home. Part One maps the real city: a pension on the Arno embankment, the church of Santa Croce, the Piazza della Signoria where she faints, and the violet-covered slopes at Fiesole. Part Two moves to the Surrey hills near Dorking, mapped as scenes outside the setting.",
+  "route": [
+    {
+      "order": 1,
+      "place": "pension-bertolini-lungarno",
+      "displayName": "The Pension Bertolini, on the Lungarno",
+      "country": "IT",
+      "lat": 43.7676,
+      "lng": 11.2597,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The novel opens at an English pension on the river, where the heroine is given a room facing a courtyard rather than the Arno she was promised. A fellow guest offers to swap so she can have her view, and the small act of kindness starts everything. Forster set the fictional pension on the embankment he knew from his own stay near Santa Croce.",
+      "note": "The Pension Bertolini is invented, but Forster drew it from the Pensione Simi at 2 Lungarno delle Grazie, where he stayed with his mother in 1901; sited on that stretch of the Arno embankment.",
+      "sourceUrl": "https://www.walksinrome.com/italy-florence-a-literary-tour.html"
+    },
+    {
+      "order": 2,
+      "place": "santa-croce",
+      "displayName": "Santa Croce",
+      "country": "IT",
+      "lat": 43.7686,
+      "lng": 11.2622,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "Left without her guidebook, the heroine wanders the Franciscan church of Santa Croce and falls in with the same guest from the pension and his outspoken father. The famous chapel of frescoes becomes the stage for a first, awkward conversation that unsettles her sense of what is proper.",
+      "note": "Forster names the church of Santa Croce as the setting of the chapter; sited at the basilica on the Piazza di Santa Croce.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Croce,_Florence"
+    },
+    {
+      "order": 3,
+      "place": "piazza-della-signoria",
+      "displayName": "Piazza della Signoria",
+      "country": "IT",
+      "lat": 43.7696,
+      "lng": 11.256,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "Crossing the great civic square alone, the heroine witnesses a sudden, violent death between two men and faints, and the young man from the pension is there to catch her. The shock in the Piazza della Signoria breaks through her careful composure and binds the two of them together.",
+      "note": "Forster names the Piazza della Signoria as the scene of the fainting; sited at the square before the Palazzo Vecchio.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Piazza_della_Signoria"
+    },
+    {
+      "order": 4,
+      "place": "fiesole-hillside",
+      "displayName": "The hillside at Fiesole",
+      "country": "IT",
+      "lat": 43.8067,
+      "lng": 11.2931,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "A party of English visitors drives up into the hills at Fiesole for an afternoon in the open air. Wandering onto a terrace of violets, the heroine comes upon the young man again, and he kisses her before her chaperone appears. It is the moment the trip has been building toward, and the one she spends the rest of the book denying.",
+      "note": "Forster names Fiesole as the destination of the carriage excursion; sited at the hill town above Florence, whose slopes carry the scene's violets.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fiesole"
+    },
+    {
+      "order": 5,
+      "place": "piazzale-michelangelo",
+      "displayName": "Piazzale Michelangelo",
+      "country": "IT",
+      "lat": 43.7625,
+      "lng": 11.2649,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The whole of Part One turns on the idea of a view: the river, the domes and the hills the heroine longs to look out over. The panoramic terrace of the Piazzale Michelangelo, laid out above the south bank in the 1860s, offers the postcard prospect of Florence that the title keeps circling back to.",
+      "note": "The novel prizes the view over Florence but does not name this terrace; the panoramic Piazzale Michelangelo stands in for the city's celebrated outlook that gives the book its title.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Piazzale_Michelangelo"
+    },
+    {
+      "order": 6,
+      "place": "summer-street-windy-corner",
+      "displayName": "Summer Street and Windy Corner, Surrey",
+      "country": "IT",
+      "lat": 51.1862,
+      "lng": -0.4101,
+      "reference": "Chapter 8",
+      "certainty": "approximate",
+      "summary": "Part Two moves home to the Weald, to a village called Summer Street and the heroine's family house on a windy ridge. When the young man from Florence turns up as a neighbour, the emotions she thought she had left in Italy return. The country stands in for the real Surrey hills around Holmbury St Mary, a landscape Forster knew well.",
+      "note": "Summer Street and the house called Windy Corner are invented, but the village is generally identified with Holmbury St Mary in the Surrey hills near Dorking, where Forster had family ties; sited at that village. Outside the Florence setting by design.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Holmbury_St_Mary"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

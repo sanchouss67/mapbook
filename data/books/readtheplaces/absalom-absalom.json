@@ -1,0 +1,80 @@
+{
+  "id": "absalom-absalom",
+  "title": "Absalom, Absalom!",
+  "author": "William Faulkner",
+  "year": 1936,
+  "description": "Faulkner's Yoknapatawpha County is drawn from the real Lafayette County, Mississippi, and its county seat, Jefferson, from Oxford, the town where Faulkner lived and is buried. This novel maps the rise and ruin of Thomas Sutpen: his plantation twelve miles out in the county, the town that watched him, and the graves he left. Much of the story is told and retold decades later, some of it from a cold room at Harvard, so the map runs from the courthouse square out into the county and once far north to Cambridge.",
+  "route": [
+    {
+      "order": 1,
+      "place": "jefferson-courthouse-square",
+      "displayName": "The courthouse square, Jefferson",
+      "country": "US",
+      "lat": 34.3664,
+      "lng": -89.5188,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The town of Jefferson is the still point the novel keeps returning to: the county seat where Sutpen first rides in as a stranger, buys his land, and later marries into a respectable family. Decades on it is where an ageing Rosa Coldfield summons young Quentin Compson to hear the story out. Oxford's courthouse square, with the county courthouse at its heart, is the ground Faulkner renamed Jefferson.",
+      "note": "Faulkner's Jefferson is fictional, but he built it openly on Oxford, Mississippi; this marks the real Lafayette County Courthouse at the centre of the Oxford square, the model for the county seat that watches the whole story.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lafayette_County_Courthouse_(Mississippi)"
+    },
+    {
+      "order": 2,
+      "place": "rosa-coldfield-house",
+      "displayName": "Miss Rosa Coldfield's house, Jefferson",
+      "country": "US",
+      "lat": 34.3648,
+      "lng": -89.5205,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The book opens in a hot, shuttered parlour in town on a September afternoon in 1909, where Rosa Coldfield, decades a spinster, has called Quentin to listen. Her telling of Thomas Sutpen, the man who nearly married her, is where the layered narration begins. The house stands in Jefferson, the county-seat town Faulkner modelled on Oxford.",
+      "note": "The Coldfield house is fictional and Faulkner gives no real address; this marks a representative point in the old residential blocks just off the Oxford square, the kind of in-town lot the novel imagines it on.",
+      "sourceUrl": "https://faulkner.iath.virginia.edu/"
+    },
+    {
+      "order": 3,
+      "place": "compson-house-jefferson",
+      "displayName": "The Compson house, Jefferson",
+      "country": "US",
+      "lat": 34.3612,
+      "lng": -89.5238,
+      "reference": "Chapters 2-4",
+      "certainty": "approximate",
+      "summary": "On the gallery of his own family's home that same evening, Quentin hears the story again from his father, who adds what the town and Quentin's grandfather knew of Sutpen. The Compson house, a family Faulkner carried across several books, sits at the edge of Jefferson and becomes the second vantage from which Sutpen's history is pieced together.",
+      "note": "The Compson place is fictional; this marks a representative point on the town's southern edge, the position the novels give the family's decaying homestead near Jefferson, modelled on Oxford.",
+      "sourceUrl": "https://faulkner.iath.virginia.edu/"
+    },
+    {
+      "order": 4,
+      "place": "sutpens-hundred",
+      "displayName": "Sutpen's Hundred",
+      "country": "US",
+      "lat": 34.5,
+      "lng": -89.66,
+      "reference": "Chapters 2, 5-8",
+      "certainty": "approximate",
+      "summary": "The hundred square miles Sutpen wrests from the wilderness, builds a great house on, and drives toward a dynasty is the engine of the whole book. Twelve miles out from the courthouse, it is where the mansion rises, the family unravels, and the design finally burns. The plantation is invented, but Faulkner set it in the real county spread west and north of Oxford.",
+      "note": "Sutpen's Hundred is wholly fictional; the novel places it about twelve miles from the courthouse, out in the county. This marks a representative rural point that distance northwest of the Oxford square, inside the real Lafayette County that Faulkner renamed Yoknapatawpha.",
+      "sourceUrl": "https://faulkner.iath.virginia.edu/"
+    },
+    {
+      "order": 5,
+      "place": "harvard-dorm-cambridge",
+      "displayName": "Quentin and Shreve's room, Harvard",
+      "country": "US",
+      "lat": 42.3744,
+      "lng": -71.1163,
+      "reference": "Chapters 6-9",
+      "certainty": "approximate",
+      "summary": "In January 1910, far north in a cold Harvard dormitory, Quentin and his Canadian roommate Shreve take the story apart and rebuild it between them, imagining their way into the lives of Sutpen's children. The novel's deepest reckoning with the South happens hundreds of miles outside it, in a New England room, which is why this waypoint sits so far from all the others.",
+      "note": "Faulkner names Harvard but no specific building; this marks Harvard Yard in Cambridge, where the freshman rooms stand, and is flagged outsideSetting because it lies far from the Mississippi setting.",
+      "sourceUrl": "https://faulkner.iath.virginia.edu/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

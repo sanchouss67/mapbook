@@ -1,0 +1,93 @@
+{
+  "id": "the-bridge-on-the-drina",
+  "title": "The Bridge on the Drina",
+  "author": "Ivo Andrić",
+  "year": 1945,
+  "description": "Andrić watches four centuries of a small Bosnian town pass across one Ottoman bridge. The Mehmed Paša Sokolović Bridge, thrown over the Drina in 1577, is the fixed point: the town gathers on its central terrace, the market grows from its foot, and empires rise and recede around it until the bridge itself is broken in the First World War. The map holds the bridge, the river, and the streets of Višegrad around them.",
+  "route": [
+    {
+      "order": 1,
+      "place": "sokolovic-bridge",
+      "displayName": "The Mehmed Paša Sokolović Bridge",
+      "country": "BA",
+      "lat": 43.776,
+      "lng": 19.286,
+      "reference": "Chapters I-II",
+      "certainty": "exact",
+      "summary": "Everything in the book turns on this crossing. A grand vizier born nearby orders a bridge of pale stone thrown over the Drina, eleven arches long, and for centuries it carries the road to Istanbul and the life of the town on its back. Andrić opens by explaining how it came to be built and why it mattered.",
+      "note": "The bridge is the novel's subject and is real and named: the Ottoman crossing of the Drina at Višegrad, built to 1577 and a UNESCO World Heritage site since 2007.",
+      "sourceUrl": "https://whc.unesco.org/en/list/1260/"
+    },
+    {
+      "order": 2,
+      "place": "the-kapia",
+      "displayName": "The kapia, the bridge's central terrace",
+      "country": "BA",
+      "lat": 43.776,
+      "lng": 19.2858,
+      "reference": "Chapter II onward",
+      "certainty": "exact",
+      "summary": "Halfway across, the bridge widens into a raised terrace with stone seats on either side. This is where the town does its living: gossip and courtship, coffee and quarrels, deals struck and news carried, and in the darkest chapters, public punishment. Generations sit in the same spot while the empires around them change.",
+      "note": "The kapia is a real feature of the bridge, the widened terrace with stone benches at the middle of the span; the novel makes it the heart of the town.",
+      "sourceUrl": "https://whc.unesco.org/en/list/1260/"
+    },
+    {
+      "order": 3,
+      "place": "the-carsija",
+      "displayName": "The čaršija, the market of Višegrad",
+      "country": "BA",
+      "lat": 43.78,
+      "lng": 19.2905,
+      "reference": "Chapters III-VIII",
+      "certainty": "exact",
+      "summary": "The town's bazaar runs inland from the foot of the bridge, a line of shops and stalls where merchants, craftsmen and travellers meet. Fortunes are made and lost here across the centuries, and the market's moods, its fires and its rumours, mirror the fate of the town as a whole.",
+      "note": "The market of Višegrad is real and begins at the bridgehead; this marks the old čaršija between the bridge and the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vi%C5%A1egrad"
+    },
+    {
+      "order": 4,
+      "place": "the-caravanserai",
+      "displayName": "The caravanserai, the stone han by the bridge",
+      "country": "BA",
+      "lat": 43.777,
+      "lng": 19.2874,
+      "reference": "Chapters III-IX",
+      "certainty": "approximate",
+      "summary": "The same endowment that raised the bridge built a great stone inn beside it to shelter travellers and their animals. For a while it stands as a sign of the town's importance on the road to Istanbul; then, as trade and empire shift, it is left to decay, one of the book's quiet measures of time passing.",
+      "note": "The vizier's endowment built a caravanserai beside the bridge; the original stood by the town-side bridgehead and later fell to ruin, so this marks that approximate site. A stone caravanserai has since been rebuilt in the nearby Andrićgrad complex.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andri%C4%87grad"
+    },
+    {
+      "order": 5,
+      "place": "the-drina",
+      "displayName": "The Drina beneath the bridge",
+      "country": "BA",
+      "lat": 43.7749,
+      "lng": 19.2851,
+      "reference": "Chapters I, VI and onward",
+      "certainty": "exact",
+      "summary": "The green, fast river the bridge was built to master is a character in its own right. It reflects the arches in calm weather and rises in terrible floods that drown the low town, and the people read their fortunes in its level. Just downstream the Rzav joins it on the promontory where the modern stone town now stands.",
+      "note": "The Drina is a real river and is named throughout; this marks its channel at the bridge, just below the town, near where the Rzav joins it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rzav_(Drina)"
+    },
+    {
+      "order": 6,
+      "place": "okoliste-hillside",
+      "displayName": "The hillside above the town, Okolište",
+      "country": "BA",
+      "lat": 43.7885,
+      "lng": 19.301,
+      "reference": "Chapters XXIII-XXIV",
+      "certainty": "approximate",
+      "summary": "In the final chapters the war reaches Višegrad from the heights above the town. Artillery is dug into the surrounding hills, homes on the slopes are emptied, and shells fall on the crossing that had stood for three and a half centuries until one of its arches is blown apart. The bridge that opened the book is broken as it closes.",
+      "note": "Okolište is a real hamlet on the slope above Višegrad and is named in the novel; the exact point on the hillside is approximate.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bridge_on_the_Drina"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

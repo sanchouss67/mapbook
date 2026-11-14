@@ -1,0 +1,80 @@
+{
+  "id": "a-farewell-to-arms",
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "year": 1929,
+  "description": "On the Italian front of the First World War, an American ambulance officer serving above Gorizia falls in love with an English nurse, and the two flee the collapse of the army toward neutral Switzerland.",
+  "route": [
+    {
+      "order": 1,
+      "place": "gorizia-isonzo-front",
+      "displayName": "Gorizia and the Isonzo front",
+      "country": "IT",
+      "lat": 45.9403,
+      "lng": 13.6222,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "Frederic runs ambulances above Gorizia, where the war is a matter of shelling, rain, and talk in the mess. Here he meets Catherine and is badly wounded on the Isonzo, the injury that pulls him back from the front and toward her.",
+      "note": "Gorizia is named as the town behind the lines where Frederic is quartered; pinned on the real city on the Isonzo (Soča), the river whose battles frame the opening.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+    },
+    {
+      "order": 2,
+      "place": "milan-american-hospital",
+      "displayName": "The American hospital, Milan",
+      "country": "IT",
+      "lat": 45.4642,
+      "lng": 9.19,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "Sent to Milan to recover, Frederic spends a summer with Catherine that is the novel's one stretch of happiness. The city of hospital rooms, races and cafés is where their love deepens and she becomes pregnant, before duty drags him back to the front.",
+      "note": "Milan is named as the city he is sent to recover in; the American hospital is a fictional institution placed in the real city, sited here in the centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+    },
+    {
+      "order": 3,
+      "place": "caporetto-retreat",
+      "displayName": "The retreat from Caporetto",
+      "country": "IT",
+      "lat": 46.2461,
+      "lng": 13.5789,
+      "reference": "Book 3",
+      "certainty": "exact",
+      "summary": "The Italian line breaks at Caporetto and the army dissolves into a rain-soaked retreat. Caught up in the chaos and nearly shot by his own side's battle police, Frederic makes his separate peace and deserts, ending his war on the spot.",
+      "note": "The novel follows the historic Battle of Caporetto; pinned on the real town of Kobarid (Caporetto) in present-day Slovenia, north of the Gorizia setting and marked outside the bbox as a distinct front.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+    },
+    {
+      "order": 4,
+      "place": "stresa-lake-maggiore",
+      "displayName": "Stresa on Lake Maggiore",
+      "country": "IT",
+      "lat": 45.8853,
+      "lng": 8.5406,
+      "reference": "Book 4",
+      "certainty": "exact",
+      "summary": "A deserter now, Frederic finds Catherine at Stresa, and for a few days the lake offers a fragile refuge from the war. Warned that he is about to be arrested, he decides they must run, and the hotel by the water becomes the launching point of their escape.",
+      "note": "Stresa is named as the lakeside town where Frederic rejoins Catherine; pinned on the real resort on the western shore of Lake Maggiore.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+    },
+    {
+      "order": 5,
+      "place": "montreux-switzerland",
+      "displayName": "Montreux, Switzerland",
+      "country": "IT",
+      "lat": 46.4312,
+      "lng": 6.9107,
+      "reference": "Book 5",
+      "certainty": "exact",
+      "summary": "They row all night into Switzerland and settle above the lake near Montreux, waiting out the winter and the birth. The peace is real but borrowed: the novel's quiet Swiss idyll runs straight into the loss that ends it.",
+      "note": "After rowing up Lake Maggiore into neutral Switzerland, the couple winters near Montreux; pinned on the real town on Lake Geneva, far west of the Italian setting and marked outside the bbox.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

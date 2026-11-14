@@ -1,0 +1,91 @@
+{
+  "id": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "year": 1891,
+  "description": "Mayfair drawing rooms and the opium dens of the docks, a few miles and an entire moral universe apart. Wilde is precise about the geography of respectability: Lord Henry keeps a house in Curzon Street, Dorian one on Grosvenor Square, and the road to ruin runs east to the quays past Blue Gate Fields.",
+  "route": [
+    {
+      "order": 1,
+      "place": "basil-hallwards-studio",
+      "displayName": "Basil Hallward's studio, Mayfair",
+      "country": "GB",
+      "lat": 51.5097,
+      "lng": -0.1458,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The novel opens here, in the rose-heavy studio where Basil Hallward has just finished the portrait and Lord Henry lounges on the divan. It is the last innocent room in the book: everything Dorian becomes is set in motion between these walls.",
+      "note": "Wilde never gives the studio a street. He sets it in the West End world of Lord Henry and the sitters who drift through it, so the pin marks Mayfair, near Berkeley Square, where such a painter's garden studio would have stood.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+      "order": 2,
+      "place": "lord-henrys-house-mayfair",
+      "displayName": "Lord Henry's house, Curzon Street",
+      "country": "GB",
+      "lat": 51.5065,
+      "lng": -0.148,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "Lord Henry's library, all olive-oak panelling and long-fringed Persian rugs, is where his poisonous talk does its slow work on Dorian. Wilde keeps returning the two men here, to the room where influence is dressed up as conversation.",
+      "note": "The text places the house \"in Mayfair\" and elsewhere has Lord Henry receive callers and stroll out from Curzon Street. The pin sits on Curzon Street; the exact house is Wilde's, not a real address.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+      "order": 3,
+      "place": "the-theatre-holborn",
+      "displayName": "Sibyl Vane's theatre, Holborn",
+      "country": "GB",
+      "lat": 51.5176,
+      "lng": -0.1188,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "The shabby playhouse where Dorian first sees Sibyl Vane act, and falls for the girl through her Juliet and her Rosalind. When she loses her art to real love, he abandons her here, and the cruelty is the first mark on the portrait.",
+      "note": "Dorian stumbles on the \"absurd little theatre\" while wandering eastward. The later inquest names Sibyl as \"a young actress recently engaged at the Royal Theatre, Holborn,\" so the pin marks High Holborn, home of the real Holborn theatres of the day.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+      "order": 4,
+      "place": "covent-garden-flower-market",
+      "displayName": "Covent Garden flower market at dawn",
+      "country": "GB",
+      "lat": 51.5124,
+      "lng": -0.1251,
+      "reference": "Chapter 7",
+      "certainty": "exact",
+      "summary": "After the night he breaks with Sibyl, Dorian walks the city until dawn and comes out at the old flower market as the waggons of lilies roll in. A rare clean morning in the book, and the last one before he learns Sibyl is dead.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+      "order": 5,
+      "place": "dorians-house-grosvenor-square",
+      "displayName": "Dorian's house, Grosvenor Square",
+      "country": "GB",
+      "lat": 51.5108,
+      "lng": -0.1523,
+      "reference": "Chapter 12",
+      "certainty": "exact",
+      "summary": "Walking home through the fog, Dorian meets Basil Hallward at this corner near his own house. He takes the painter upstairs to show him the ruined portrait, and the night ends in murder. Wilde pins the respectable address exactly, one street from where the body will lie.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+      "order": 6,
+      "place": "opium-den-by-the-docks",
+      "displayName": "The opium den by the docks",
+      "country": "GB",
+      "lat": 51.5105,
+      "lng": -0.0585,
+      "reference": "Chapter 16",
+      "certainty": "approximate",
+      "summary": "To blot out the murder, Dorian goes east to an opium den by the docks, a long low room that had once been a third-rate dancing-saloon. Here James Vane, Sibyl's brother, finally recognises the man who ruined her, and the reckoning begins.",
+      "note": "Dorian rides east and walks \"in the direction of the quay\" to a den among the wharves; Basil earlier names the district as the \"dreadful places near Blue Gate Fields.\" The pin marks Blue Gate Fields by St George in the East, Shadwell, the notorious dockside slum Wilde is drawing on.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/174"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

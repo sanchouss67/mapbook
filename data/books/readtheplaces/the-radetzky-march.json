@@ -1,0 +1,80 @@
+{
+  "id": "the-radetzky-march",
+  "title": "The Radetzky March",
+  "author": "Joseph Roth",
+  "year": 1932,
+  "description": "Roth's elegy for the Austro-Hungarian Empire follows three generations of the Trotta family, ennobled after the first Trotta saves the young Emperor's life at Solferino, down to the aimless grandson Carl Joseph, an officer posted to a dreary garrison on the empire's eastern edge as it drifts toward 1914. The heart of the book is that Galician frontier near the Russian border, drawn from Roth's own Brody: the border garrison, the shabby town of gambling and debt, and the front where the last Trotta dies, while Solferino and imperial Vienna stand at the empire's other poles.",
+  "route": [
+    {
+      "order": 1,
+      "place": "solferino",
+      "displayName": "Solferino",
+      "country": "UA",
+      "lat": 45.37,
+      "lng": 10.57,
+      "reference": "The opening",
+      "certainty": "exact",
+      "summary": "At Solferino the obscure Lieutenant Trotta saves the Emperor Franz Joseph's life and is ennobled for it, becoming the Hero of Solferino, only to spend his later years appalled at how the schoolbooks turn his real deed into a lie. That founding act, and his disillusion with the empire's self-mythologising, sets the family and the book on their long road to ruin.",
+      "note": "The family's fortunes begin at the real Battle of Solferino in northern Italy in 1859, where an infantry lieutenant named Trotta throws the young Emperor to the ground and takes the bullet meant for him.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Solferino"
+    },
+    {
+      "order": 2,
+      "place": "vienna-the-empire",
+      "displayName": "Vienna (the empire)",
+      "country": "UA",
+      "lat": 48.21,
+      "lng": 16.37,
+      "reference": "The imperial chapters",
+      "certainty": "exact",
+      "summary": "In Vienna the machinery of the old empire turns on, its court, its army and its ancient Emperor, whom Roth renders as a tired, kindly old man carrying a world too heavy for him. The parallel lives of the Emperor and the Trottas, both outlasting their own age, give the book its deep note of imperial exhaustion and coming ruin.",
+      "note": "Vienna, the real imperial capital, is the centre of the world the Trottas serve, and the seat of the aged Emperor Franz Joseph whose long reign and decline mirror the family's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Joseph_I_of_Austria"
+    },
+    {
+      "order": 3,
+      "place": "the-frontier-garrison",
+      "displayName": "The frontier garrison",
+      "country": "UA",
+      "lat": 50.08,
+      "lng": 25.15,
+      "reference": "The frontier chapters",
+      "certainty": "approximate",
+      "summary": "The grandson Carl Joseph, a mediocre cavalry officer weighed down by the family legend, is posted to a bleak garrison on the Galician frontier, at the very edge of the empire and of nowhere. The muddy border district, half-forgotten by Vienna, is where the hollowness beneath the imperial pomp is plainest, and where his slow disintegration unfolds.",
+      "note": "Carl Joseph is posted to a dreary garrison on the empire's eastern edge near the Russian border, drawn from Roth's home town of Brody in Galicia; the garrison is sited in that real frontier region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brody"
+    },
+    {
+      "order": 4,
+      "place": "the-border-town",
+      "displayName": "The border town",
+      "country": "UA",
+      "lat": 50.085,
+      "lng": 25.16,
+      "reference": "The decline chapters",
+      "certainty": "approximate",
+      "summary": "In the border town's casinos and back rooms Carl Joseph sinks into gambling, drink, debt and a doomed affair, and his father the district captain travels out from the imperial heartland to try, uselessly, to save him. The seedy frontier, where officers rot for want of anything to do, is where the family's honour and the empire's dignity quietly dissolve together.",
+      "note": "The shabby frontier town of gambling houses, taverns and debt around the garrison is drawn from the real Galician border towns; sited beside the garrison, the specific establishments the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Radetzky_March"
+    },
+    {
+      "order": 5,
+      "place": "the-eastern-front",
+      "displayName": "The eastern front",
+      "country": "UA",
+      "lat": 50.1,
+      "lng": 25.3,
+      "reference": "1914",
+      "certainty": "exact",
+      "summary": "With the outbreak of the First World War the front reaches the very border where Carl Joseph is stationed, and he is shot dead fetching water for his thirsty men, an unheroic death for the grandson of a hero. His end, and the Emperor's soon after, close the empire and the family together, the Radetzky March playing on over a world already gone.",
+      "note": "When war breaks out in 1914 the fighting comes to the Galician frontier, and Carl Joseph is killed there; the real eastern front of the First World War is where the last Trotta dies.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

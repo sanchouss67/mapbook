@@ -1,0 +1,80 @@
+{
+  "id": "the-adventures-of-huckleberry-finn",
+  "title": "The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "year": 1884,
+  "description": "Fleeing his drunken father, the boy Huckleberry Finn rafts down the Mississippi with Jim, a man escaping slavery, and the great river carries them past feuding families, con men and the whole moral tangle of the antebellum South. Twain maps the real river: Huck's town on the Missouri bank, the island where he meets Jim, the raft drifting ever southward, the shore towns of the Duke and the Dauphin, and the Arkansas farm where the journey ends.",
+  "route": [
+    {
+      "order": 1,
+      "place": "st-petersburg-missouri",
+      "displayName": "St Petersburg, Missouri",
+      "country": "US",
+      "lat": 39.71,
+      "lng": -91.36,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the sleepy river town of St Petersburg, the Widow Douglas tries to civilise Huck while his brutal, drunken father returns to claim him and the money he found. Twain opens in the world of his own Hannibal childhood, the respectable town whose rules and hypocrisies Huck will float away from down the river.",
+      "note": "Huck's town of St Petersburg is drawn from Twain's own Hannibal, Missouri, on the west bank of the Mississippi; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+    },
+    {
+      "order": 2,
+      "place": "jacksons-island",
+      "displayName": "Jackson's Island",
+      "country": "US",
+      "lat": 39.66,
+      "lng": -91.32,
+      "reference": "The island chapters",
+      "certainty": "approximate",
+      "summary": "Faking his own murder to escape his father, Huck hides on Jackson's Island and finds Jim, who has run off rather than be sold down the river, and the two throw in together. On the island Twain binds the boy and the man into the partnership that drives the book, and sets Huck on the collision between what he has been taught and what he comes to feel is right.",
+      "note": "Jackson's Island, where Huck fakes his death and meets the escaping Jim, is a wooded Mississippi island drawn from the real islands near Hannibal; sited in the river there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "order": 3,
+      "place": "the-raft",
+      "displayName": "The raft",
+      "country": "US",
+      "lat": 37,
+      "lng": -91,
+      "reference": "The river chapters",
+      "certainty": "exact",
+      "summary": "On the raft, drifting by night down the vast river, Huck and Jim find a freedom and an ease that the shore never gives them, talking and watching the stars. Twain makes the raft a small floating world of decency in the current of a corrupt society, and it is here Huck decides he would rather go to hell than betray his friend back into slavery.",
+      "note": "The raft drifting down the Mississippi is the book's central location, on the real river; sited mid-stream in the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mississippi_River"
+    },
+    {
+      "order": 4,
+      "place": "the-shore-towns",
+      "displayName": "The shore towns",
+      "country": "US",
+      "lat": 36,
+      "lng": -91.1,
+      "reference": "The middle chapters",
+      "certainty": "approximate",
+      "summary": "Two swindlers calling themselves a duke and a dauphin climb aboard and drag Huck and Jim through a string of frauds in the shabby towns along the banks, from fake revival meetings to a stolen inheritance. Through their cons Twain turns a satiric eye on the gullibility, violence and cruelty of the shore, the human world Huck keeps being forced back into.",
+      "note": "The river towns where the con men the Duke and the Dauphin work their frauds are drawn from the real settlements along the lower Mississippi; sited on the banks of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "order": 5,
+      "place": "the-phelps-farm",
+      "displayName": "The Phelps farm",
+      "country": "US",
+      "lat": 34.5,
+      "lng": -91.2,
+      "reference": "The final chapters",
+      "certainty": "approximate",
+      "summary": "Downriver at the Phelps farm, Jim is captured, and Tom Sawyer turns up to spin the escape into an absurd storybook adventure, though he has known all along that Jim is already legally free. Twain's contested ending drops back into boyish farce, but leaves Huck resolving to light out for the Territory ahead of the civilising that never fit him.",
+      "note": "The Phelps farm in Arkansas, where Jim is held and Tom Sawyer stages his elaborate 'rescue', is drawn from the real plantation country of the lower river; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

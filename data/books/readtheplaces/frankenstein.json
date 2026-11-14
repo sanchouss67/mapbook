@@ -1,0 +1,78 @@
+{
+  "id": "frankenstein",
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "year": 1818,
+  "description": "Victor Frankenstein is a Genevese, and the lake is the fixed centre of the book: his family's house in the city, the campagne at Belrive, and Plainpalais across the water, where the creature kills his brother William. From there the story climbs to the Mer de Glace above Chamonix, the real glacier where Victor meets the creature face to face. The making of the creature at Ingolstadt, the destroyed mate in the Orkneys, and the final chase across the Arctic ice all lie far outside this frame, and are flagged as excursions.",
+  "route": [
+    {
+      "order": 1,
+      "place": "geneva-plainpalais",
+      "displayName": "Geneva and Plainpalais",
+      "country": "CH",
+      "lat": 46.1961,
+      "lng": 6.1418,
+      "reference": "Geneva, the night of the storm",
+      "certainty": "exact",
+      "summary": "Home to a murder. Victor lands at Plainpalais, the open ground across the lake from the old city, to visit the spot where his young brother William was killed. In the storm's glare he sees the creature among the rocks of Mont Salêve and knows at once who the murderer is. Plainpalais and the Salêve still bound Geneva to the south, exactly as Shelley places them.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/84"
+    },
+    {
+      "order": 2,
+      "place": "ingolstadt-the-making",
+      "displayName": "Ingolstadt: the making",
+      "country": "CH",
+      "lat": 48.7665,
+      "lng": 11.4257,
+      "reference": "Ingolstadt, a night in November",
+      "certainty": "approximate",
+      "summary": "In his lodgings at the university of Ingolstadt, on a dreary night of November, Victor infuses the spark of life and recoils from what he has made. Everything that follows across Europe and the Arctic begins in this room. The town is a real one on the Danube; the laboratory is Shelley's invention.",
+      "note": "Ingolstadt, the Bavarian university town where Victor studies, is real and named repeatedly, but Shelley never fixes the house or garret in which he assembles the creature. The pin marks the town, some 400 km northeast of Geneva, and is flagged as an excursion beyond the book's setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/84"
+    },
+    {
+      "order": 3,
+      "place": "mer-de-glace-montanvert",
+      "displayName": "The Mer de Glace, above Chamonix",
+      "country": "CH",
+      "lat": 45.9042,
+      "lng": 6.9205,
+      "reference": "The Mer de Glace, near noon",
+      "certainty": "exact",
+      "summary": "On the sea of ice below Montanvert, with Mont Blanc above, the creature comes bounding over the crevices to meet its maker and demand a hearing. Here it tells its whole story and asks for a mate. The Mer de Glace and the Montenvers viewpoint above Chamonix are real and still visited; Shelley crossed this ground herself in 1816.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/84"
+    },
+    {
+      "order": 4,
+      "place": "the-orkney-islands",
+      "displayName": "The Orkney Islands",
+      "country": "CH",
+      "lat": 59.02,
+      "lng": -3,
+      "reference": "The Orkneys, at his second labour",
+      "certainty": "approximate",
+      "summary": "On a barren rock in the Orkneys, Victor begins to build the female mate the creature has extracted from him, then tears her to pieces as the creature watches at the window. It is the promise broken here that dooms Elizabeth. The Orkneys are real; the island of three huts is a composite.",
+      "note": "Shelley names the Orkneys but sets the work on an unnamed island, 'one of the remotest', with three huts and five inhabitants. The pin marks the Orkney archipelago off the north coast of Scotland; the exact islet is not identifiable. Flagged as an excursion beyond the book's setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/84"
+    },
+    {
+      "order": 5,
+      "place": "the-arctic-ice",
+      "displayName": "The Arctic ice",
+      "country": "CH",
+      "lat": 80,
+      "lng": 40,
+      "reference": "The frozen ocean, the last of the tale",
+      "certainty": "approximate",
+      "summary": "The frame closes here. Walton's expedition, trapped in the ice, takes the dying Victor aboard and hears the whole history; when Victor is dead the creature appears over the body, then leaps to an ice raft and is carried off into the dark. The Arctic is the one horizon the chase never crosses back from.",
+      "note": "Walton's ship is beset in the high Arctic north of Archangel, in open pack ice that Shelley never fixes to a coordinate. The pin marks a plausible point in the frozen ocean above the Russian Arctic; it is an approximation, not a named place. Flagged as an excursion beyond the book's setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/84"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

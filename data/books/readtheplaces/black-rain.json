@@ -1,0 +1,80 @@
+{
+  "id": "black-rain",
+  "title": "Black Rain",
+  "author": "Masuji Ibuse",
+  "year": 1965,
+  "description": "Years after the atomic bombing, Shigematsu Shizuma reconstructs from his diary the days after 6 August 1945 in Hiroshima, as he tries to clear his niece Yasuko, who was caught in the radioactive black rain, of the suspicion of illness that is ruining her marriage prospects. Ibuse maps the real catastrophe: the city on the morning of the bomb, the hypocenter and the ruined streets, the rivers of the Ota delta filled with the dead as the black rain falls, and the quiet country village where the survivors wait, years later, for sickness to declare itself.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hiroshima-morning",
+      "displayName": "Hiroshima (the morning of the bomb)",
+      "country": "JP",
+      "lat": 34.393,
+      "lng": 132.455,
+      "reference": "6 August 1945",
+      "certainty": "exact",
+      "summary": "On an ordinary summer morning, going about his work in the city, Shigematsu sees the blinding flash and is flung down as the bomb destroys Hiroshima in an instant. From his diary of that day and the ones that follow, the novel builds a patient, almost documentary account of the unimaginable made suddenly, terribly real.",
+      "note": "The book reconstructs the morning of 6 August 1945 in Hiroshima, the real city, when the atomic bomb was dropped; Shigematsu was in the city and set it down in the diary the novel draws on.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+      "order": 2,
+      "place": "the-hypocenter",
+      "displayName": "The hypocenter (the ruined city)",
+      "country": "JP",
+      "lat": 34.3955,
+      "lng": 132.4536,
+      "reference": "The aftermath chapters",
+      "certainty": "exact",
+      "summary": "Through the smoking ruin at the heart of the city move the survivors, among them Yasuko, past the dead, the dying and the burned in scenes Ibuse records with unbearable calm. Yasuko's passage through the devastated centre, and her drenching in the black rain, is the event that will shadow the rest of her life.",
+      "note": "The survivors walk through the flattened city near the hypocenter, marked today by the Genbaku Dome and the Aioi Bridge; the real devastated centre is the ground of the book's aftermath.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial"
+    },
+    {
+      "order": 3,
+      "place": "the-rivers-black-rain",
+      "displayName": "The rivers (the black rain)",
+      "country": "JP",
+      "lat": 34.39,
+      "lng": 132.45,
+      "reference": "The aftermath chapters",
+      "certainty": "exact",
+      "summary": "Along the city's rivers the survivors seek water and the corpses drift, and from the black cloud overhead falls the sticky black rain, carrying the invisible poison that will kill for years to come. The rain, marking clothes, skin and water alike, is the book's central image of a contamination no one yet understands.",
+      "note": "The rivers of the Ota delta that thread Hiroshima filled with the dead and the desperate, and over them fell the radioactive black rain that gives the book its title; the real waterways are central to the aftermath.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C5%8Cta_River"
+    },
+    {
+      "order": 4,
+      "place": "the-village-years-later",
+      "displayName": "The village (years later)",
+      "country": "JP",
+      "lat": 34.75,
+      "lng": 133.25,
+      "reference": "The present-day frame",
+      "certainty": "approximate",
+      "summary": "In the quiet village where Shigematsu, his wife Shigeko and Yasuko now live, ordinary life goes on around the constant fear that the radiation sickness will one day appear. The gap between the peaceful countryside and the horror in the diary Shigematsu copies out is the space in which Ibuse measures how the bomb keeps killing long after it fell.",
+      "note": "Years after the bomb the family lives in a country village east of Hiroshima; the village is drawn from the rural districts to which survivors withdrew and sited there, outside the city setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Black_Rain_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "the-countryside-sickness",
+      "displayName": "The countryside (the sickness)",
+      "country": "JP",
+      "lat": 34.74,
+      "lng": 133.26,
+      "reference": "The reckoning chapters",
+      "certainty": "approximate",
+      "summary": "As Shigematsu copies out his diary to prove Yasuko was healthy, the delayed radiation sickness begins after all to take the survivors one by one, and at last touches Yasuko. Ibuse ends not on the flash of the bomb but on this long, quiet dying in the countryside, the black rain's harvest gathered years after the sky cleared.",
+      "note": "The slow onset of radiation sickness is watched for in the countryside around the village, among the survivors and their doctors; sited in the rural districts outside Hiroshima.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hibakusha"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

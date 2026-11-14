@@ -1,0 +1,93 @@
+{
+  "id": "the-white-tiger",
+  "title": "The White Tiger",
+  "author": "Aravind Adiga",
+  "year": 2008,
+  "description": "Adiga splits India in two: the Darkness of the rural Ganges plain, where a servant is born and stays a servant, and the Light of the boomtowns, where money and violence remake a man. The map follows a driver out of a poor Bihar village, past the coal roads of Dhanbad, into the malls and gated colonies of Delhi and Gurgaon, and on to Bangalore, where he becomes his own master.",
+  "route": [
+    {
+      "order": 1,
+      "place": "laxmangarh-village",
+      "displayName": "Laxmangarh, the home village",
+      "country": "IN",
+      "lat": 24.7969,
+      "lng": 85.0039,
+      "reference": "The First Night",
+      "certainty": "approximate",
+      "summary": "The narrator is born into a landless family in a village he calls Laxmangarh, in the poorest stretch of rural Bihar. His father pulls a rickshaw; the boy is taken out of school to work and left with no name of his own beyond Balram. Everything that follows is his escape from this place, which he treats less as a dot on the map than as a whole condition of life.",
+      "note": "Laxmangarh is an invented village, but the narrator places it in the real Gaya district of Bihar, in the impoverished Ganges belt he calls the Darkness. Sited at the city of Gaya as a representative anchor for that countryside.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    },
+    {
+      "order": 2,
+      "place": "ganges-varanasi",
+      "displayName": "The Ganges at Varanasi",
+      "country": "IN",
+      "lat": 25.3176,
+      "lng": 82.9739,
+      "reference": "The First Night",
+      "certainty": "exact",
+      "summary": "A funeral takes the narrator to the sacred river, where the dead are burned at the water's edge. He treats the holy Ganges with open scorn, reading its black mud and half-burnt bodies as a fitting emblem of the Darkness he means to escape rather than a source of grace.",
+      "note": "The narrator names the Ganges and the holy city on its banks. Sited at the Varanasi riverfront, the classic place of cremation on the river.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    },
+    {
+      "order": 3,
+      "place": "dhanbad-coal-town",
+      "displayName": "The coal town of Dhanbad",
+      "country": "IN",
+      "lat": 23.7957,
+      "lng": 86.4304,
+      "reference": "The Second Night",
+      "certainty": "exact",
+      "summary": "Sent to earn money, the young narrator works in a teashop in Dhanbad, the coal-mining town in what is now Jharkhand. Wiping tables and eavesdropping, he studies the drivers and businessmen around him and decides that learning to handle a car is his one way out of the servant class.",
+      "note": "Dhanbad is named in the novel. Sited at the city centre of the coal-mining hub, historically part of the wider Bihar region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    },
+    {
+      "order": 4,
+      "place": "gurgaon-masters-household",
+      "displayName": "The master's world, Gurgaon",
+      "country": "IN",
+      "lat": 28.4595,
+      "lng": 77.0266,
+      "reference": "The Fourth Night",
+      "certainty": "exact",
+      "summary": "Hired as a driver, the narrator follows his employers to a gleaming apartment block in Gurgaon, the mall-and-tower boomtown outside Delhi. He lives below stairs, ferries the family between shopping centres and shady errands, and watches a world of money he serves but cannot enter, a resentment that slowly hardens.",
+      "note": "Gurgaon, the satellite city southwest of Delhi, is named in the novel; the specific apartment tower is invented. Sited at the Gurgaon city centre as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    },
+    {
+      "order": 5,
+      "place": "connaught-place-delhi",
+      "displayName": "Connaught Place, New Delhi",
+      "country": "IN",
+      "lat": 28.6263,
+      "lng": 77.2185,
+      "reference": "The Fifth Night",
+      "certainty": "exact",
+      "summary": "Waiting on his employers, the narrator idles among the traffic and beggars of the capital's grand central circle, watching the gulf between the people in the back seat and the men who drive them. Delhi is where his resentment hardens into a plan, and where the single violent act that frees him takes shape.",
+      "note": "Connaught Place is named among the Delhi landmarks the narrator drives through. Sited at the colonnaded central circle of New Delhi.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    },
+    {
+      "order": 6,
+      "place": "bangalore-entrepreneur",
+      "displayName": "Bangalore, the new master",
+      "country": "IN",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "reference": "The Seventh Night",
+      "certainty": "exact",
+      "summary": "Blood money and a stolen identity carry the narrator south to the technology capital, where he sets up a taxi firm ferrying call-centre workers through the night. He ends the book as one of the entrepreneurs he once served, telling his whole story as a set of night letters written from an office in the city of the future.",
+      "note": "Bangalore is named as the narrator's endpoint. Sited at the city centre of the southern technology capital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Tiger_(Adiga_novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

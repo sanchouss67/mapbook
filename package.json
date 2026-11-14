@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "import:readtheplaces": "node scripts/import-readtheplaces.mjs"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.12",

@@ -1,0 +1,80 @@
+{
+  "id": "waiting",
+  "title": "Waiting",
+  "author": "Ha Jin",
+  "year": 1999,
+  "description": "For eighteen years the army doctor Lin Kong shuttles between his home village, where his dutiful arranged wife Shuyu lives, and the city hospital where he loves the modern nurse Manna Wu, bound by a rule that will not let him divorce until the couple have lived apart for eighteen years. Ha Jin sets his quiet tragedy of thwarted love in a real Manchuria: the northern farm village, the county divorce court, and the army hospital city of the Chinese northeast.",
+  "route": [
+    {
+      "order": 1,
+      "place": "goose-village",
+      "displayName": "Goose Village",
+      "country": "CN",
+      "lat": 45.4,
+      "lng": 127,
+      "reference": "The village chapters",
+      "certainty": "approximate",
+      "summary": "In Goose Village, Lin's plain, bound-footed wife Shuyu keeps his household and raises their daughter with uncomplaining devotion, a woman wholly of the old world. The village, where Lin's arranged marriage ties him to a life and a wife he never chose, is the anchor of duty against which his city longing forever strains.",
+      "note": "Lin Kong's home village, where his arranged wife Shuyu lives, is drawn from the farming villages of rural Manchuria; sited in that region of the Chinese northeast.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Northeast_China"
+    },
+    {
+      "order": 2,
+      "place": "muji-city",
+      "displayName": "Muji City",
+      "country": "CN",
+      "lat": 45.6,
+      "lng": 129.6,
+      "reference": "The city chapters",
+      "certainty": "approximate",
+      "summary": "In the northern city of Muji, Lin lives the disciplined, modern life of an army doctor, worlds away from the village, and it is here his long attachment to the nurse Manna Wu grows. Ha Jin sets the split in Lin's life geographically, the traditional village and the regimented city marking the two halves of a man who fully belongs to neither.",
+      "note": "The army hospital city of Muji is Ha Jin's invention, drawn from the cities of the Manchurian northeast; sited in that region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Waiting_(Ha_Jin_novel)"
+    },
+    {
+      "order": 3,
+      "place": "the-army-hospital",
+      "displayName": "The army hospital",
+      "country": "CN",
+      "lat": 45.61,
+      "lng": 129.61,
+      "reference": "The hospital chapters",
+      "certainty": "approximate",
+      "summary": "At the army hospital, Lin and the loyal, ever-waiting Manna carry on a chaste, closely watched courtship, forbidden by regulation to so much as walk together outside the compound. Ha Jin renders with painful patience the way the army's rules and the era's prudery grind two people's love down to a matter of permits, years and endurance.",
+      "note": "The military hospital where Lin and Manna work, courting under the army's strict rules, is drawn from the People's Liberation Army medical institutions of the era; sited in Muji.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Waiting_(Ha_Jin_novel)"
+    },
+    {
+      "order": 4,
+      "place": "the-divorce-court",
+      "displayName": "The county court",
+      "country": "CN",
+      "lat": 45.45,
+      "lng": 127.2,
+      "reference": "The recurring court chapters",
+      "certainty": "approximate",
+      "summary": "Summer after summer, Lin travels back to the county seat to petition for divorce, and year after year the court, swayed by his brother-in-law and the village, sends him away still married. The ritual of refusal becomes the novel's cruel clock, eighteen years measured out in a single day's futile hearing repeated over and over.",
+      "note": "Each year Lin returns to the county court near his village to seek a divorce and is refused; the court is drawn from the local courts of rural Manchuria and sited near the village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Waiting_(Ha_Jin_novel)"
+    },
+    {
+      "order": 5,
+      "place": "the-marriage-at-last",
+      "displayName": "The marriage at last",
+      "country": "CN",
+      "lat": 45.59,
+      "lng": 129.6,
+      "reference": "The ending",
+      "certainty": "approximate",
+      "summary": "When the eighteen years are up and Lin at last divorces Shuyu to marry Manna, the long-awaited happiness proves hollow, worn thin by exhaustion, doubt and the twins whose birth breaks Manna's health. Ha Jin ends on the bleak irony of a man who finds, having waited a lifetime, that he never truly knew what, or whom, he wanted.",
+      "note": "After eighteen years' separation the divorce is finally granted and Lin marries Manna in the city; sited in Muji of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Waiting_(Ha_Jin_novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

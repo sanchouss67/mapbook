@@ -1,0 +1,80 @@
+{
+  "id": "for-whom-the-bell-tolls",
+  "title": "For Whom the Bell Tolls",
+  "author": "Ernest Hemingway",
+  "year": 1940,
+  "description": "Over four days of the Spanish Civil War, an American demolitions expert joins a band of guerrillas hidden in the pine forests of the Sierra de Guadarrama to blow a bridge behind fascist lines ahead of a Republican offensive.",
+  "route": [
+    {
+      "order": 1,
+      "place": "guadarrama-guerrilla-camp",
+      "displayName": "The guerrilla camp in the pines",
+      "country": "ES",
+      "lat": 40.81,
+      "lng": -3.98,
+      "reference": "Chapters 1–3",
+      "certainty": "approximate",
+      "summary": "Robert Jordan climbs to a band led by the reluctant Pablo and the fierce Pilar, hidden in the pines above the bridge. The cave is the novel's fixed point, where its arguments over courage, betrayal and love play out between raids.",
+      "note": "The camp is a hidden cave and clearing in the pine forests of the Guadarrama; the range is explicit but no exact spot is given, so this pin sits in the real high pinewoods behind the fascist-held side of the range.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+    },
+    {
+      "order": 2,
+      "place": "guadarrama-the-bridge",
+      "displayName": "The bridge over the gorge",
+      "country": "ES",
+      "lat": 40.77,
+      "lng": -4.02,
+      "reference": "Chapters 4–43",
+      "certainty": "approximate",
+      "summary": "The whole story bends toward this steel bridge over a gorge, which Jordan is ordered to blow to stop fascist reinforcements. The mission is doomed from the moment the plan is overtaken by events, and the bridge becomes the measure of every character's nerve and loyalty.",
+      "note": "The bridge Jordan must destroy is invented, but the novel places it on a mountain road in the Guadarrama near the Republican offensive; sited on the real range close to the passes above Segovia, an inspired-by location rather than a named one.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+    },
+    {
+      "order": 3,
+      "place": "puerto-de-navacerrada-lines",
+      "displayName": "The Republican lines at the passes",
+      "country": "ES",
+      "lat": 40.7828,
+      "lng": -4.005,
+      "reference": "Chapters 35–43",
+      "certainty": "approximate",
+      "summary": "Beyond the trees lie the Republican lines whose attack the bridge job is meant to serve. When Jordan learns the fascists already know the offensive is coming, the front's futility hangs over everything: the sacrifice will buy an assault that cannot succeed.",
+      "note": "The offensive Jordan's mission supports comes over the Guadarrama passes held by the Republic; the text names no single point, so this pin marks the real Puerto de Navacerrada area where the front ran through the range.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+    },
+    {
+      "order": 4,
+      "place": "el-escorial",
+      "displayName": "El Escorial",
+      "country": "ES",
+      "lat": 40.5894,
+      "lng": -4.1478,
+      "reference": "Chapters 1–43",
+      "certainty": "exact",
+      "summary": "El Escorial anchors the world below the mountains, the road-and-town country the fighting is meant to control. Naming it fixes the guerrillas' hidden campaign to a real, recognisable stretch of Castile rather than an abstract frontline.",
+      "note": "El Escorial is named as a landmark below the range; pinned on the real town and monastery of San Lorenzo de El Escorial at the southern foot of the Guadarrama.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+    },
+    {
+      "order": 5,
+      "place": "segovia",
+      "displayName": "Segovia",
+      "country": "ES",
+      "lat": 40.9481,
+      "lng": -4.1184,
+      "reference": "Chapters 1–43",
+      "certainty": "exact",
+      "summary": "Segovia lies beyond the range in fascist hands, the source of the troops the blown bridge is meant to delay. It also names María's ordeal: it is from around here that Pilar's band rescued her, giving the mission its private stakes as well as its military ones.",
+      "note": "Segovia is named as the city the fascist reinforcements would come from; pinned on the real city north of the Guadarrama that the bridge road serves.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

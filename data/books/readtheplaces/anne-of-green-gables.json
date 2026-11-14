@@ -1,0 +1,93 @@
+{
+  "id": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "author": "L. M. Montgomery",
+  "year": 1908,
+  "description": "Avonlea is invented, but Montgomery built it from Cavendish on Prince Edward Island, where the farmhouse she had in mind is now the preserved Green Gables Heritage Place, the most visited place on the island. The bbox runs from the north-shore Cavendish landscape south to Charlottetown, the real capital where Anne sits her Queen's exams. The first book here set in Canada.",
+  "route": [
+    {
+      "order": 1,
+      "place": "green-gables-heritage-place",
+      "displayName": "Green Gables (Green Gables Heritage Place)",
+      "country": "CA",
+      "lat": 46.4878,
+      "lng": -63.3821,
+      "reference": "Ch. 1",
+      "certainty": "exact",
+      "summary": "The Cuthbert homestead sits at the far edge of the cleared land, tucked out of sight of the road, exactly where Matthew's shy father put it. Montgomery took the setting from the green-gabled farmhouse she knew at Cavendish; it is now the most visited place on Prince Edward Island.",
+      "note": "The novel's Green Gables stands in fictional Avonlea, but Montgomery drew it from her cousins' farmhouse at Cavendish, now preserved by Parks Canada as Green Gables Heritage Place at 8619 Route 6. The pin is the real house.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+      "order": 2,
+      "place": "bright-river-station",
+      "displayName": "Bright River station (Hunter River)",
+      "country": "CA",
+      "lat": 46.35,
+      "lng": -63.349,
+      "reference": "Ch. 2",
+      "certainty": "approximate",
+      "summary": "Matthew drives in to meet the boy the Cuthberts think they are adopting and finds instead a talkative red-haired girl waiting alone on the platform. The station is Montgomery's Bright River, built from the real branch-line stops of central PEI around Hunter River and Kensington.",
+      "note": "Bright River is invented. The branch-line station where Matthew collects Anne is drawn from the real railway Montgomery knew; the pin marks Hunter River, the village and station on the central PEI line nearest to Cavendish.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+      "order": 3,
+      "place": "white-way-of-delight",
+      "displayName": "The White Way of Delight (the Avenue)",
+      "country": "CA",
+      "lat": 46.483,
+      "lng": -63.41,
+      "reference": "Ch. 2",
+      "certainty": "approximate",
+      "summary": "On the drive home Anne is struck dumb by a stretch of road roofed over with white apple blossom, and instantly gives it a better name. It is the first of the places she renames on Prince Edward Island, turning the plain map of Avonlea into her own.",
+      "note": "In the book this is a real local road that the neighbours call 'the Avenue'; Anne renames it. Montgomery drew it from an apple-blossom lane on the approach to Cavendish. The exact stretch is not fixed in the text, so the pin marks the tree-lined road west of Cavendish.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+      "order": 4,
+      "place": "lake-of-shining-waters",
+      "displayName": "The Lake of Shining Waters (Cavendish Pond)",
+      "country": "CA",
+      "lat": 46.4905,
+      "lng": -63.393,
+      "reference": "Ch. 2",
+      "certainty": "approximate",
+      "summary": "A little further on Anne renames Barry's pond too, and this name sticks with everyone. The lake recurs through the book, from the bridge she crosses coming home to the boat that nearly drowns her playing the Lily Maid. Montgomery built it from the real Cavendish ponds.",
+      "note": "In the book this is Barry's pond, which Anne renames. Montgomery drew the Lake of Shining Waters from the ponds she knew: Cavendish Pond near Green Gables, and Campbell's Pond at Park Corner, which her cousins there also claim. The pin marks the Cavendish pond.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+      "order": 5,
+      "place": "lovers-lane",
+      "displayName": "Lover's Lane (Green Gables trails)",
+      "country": "CA",
+      "lat": 46.4862,
+      "lng": -63.3825,
+      "reference": "Ch. 15",
+      "certainty": "approximate",
+      "summary": "The wooded lane below the orchard is where Anne and Diana walk to and from school, and where Anne can 'think out loud without people calling you crazy'. It is a real path Montgomery loved and returned to all her life; you can still walk it behind the house.",
+      "note": "Anne names Lover's Lane in the novel, but it is one of Montgomery's own favourite Cavendish paths, a real wooded lane behind the farmhouse now preserved as the Lover's Lane / Balsam Hollow trail at Green Gables Heritage Place. The pin marks that trail.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+      "order": 6,
+      "place": "charlottetown-queens-academy",
+      "displayName": "Charlottetown (Queen's Academy)",
+      "country": "CA",
+      "lat": 46.2389,
+      "lng": -63.1292,
+      "reference": "Ch. 35",
+      "certainty": "exact",
+      "summary": "Anne leaves Avonlea for the capital to earn her teacher's licence at Queen's Academy, sweating the same examinations Montgomery sat at Prince of Wales College. Charlottetown, thirty miles south of Cavendish, is the one unambiguously real, named city in Anne's world.",
+      "note": "Charlottetown is the real provincial capital, named in the text. Queen's Academy is Montgomery's stand-in for Prince of Wales College, the real teachers' college in the city where she herself studied.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/45"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

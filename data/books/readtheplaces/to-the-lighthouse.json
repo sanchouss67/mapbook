@@ -1,0 +1,80 @@
+{
+  "id": "to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "year": 1927,
+  "description": "Woolf names the Isle of Skye, but the house, the bay and the lighthouse are drawn entirely from St Ives, Cornwall, where the Stephen family spent childhood summers. The map runs from Talland House, the Woolfs' real holiday home above the town, out across St Ives Bay to Godrevy Lighthouse, the light the children could see from the garden and the one the family in the novel longs to reach.",
+  "route": [
+    {
+      "order": 1,
+      "place": "talland-house-summer-home",
+      "displayName": "The Ramsays' house (Talland House), St Ives",
+      "country": "GB",
+      "lat": 50.2084,
+      "lng": -5.4793,
+      "reference": "The Window",
+      "certainty": "approximate",
+      "summary": "The first part of the novel unfolds almost entirely at a family's rented summer house by the sea, full of guests and children on a late-September evening. Woolf built it from Talland House, the hillside villa above St Ives that the Stephens took each summer until her mother died, its windows opening on the bay.",
+      "note": "The novel places the Ramsays' summer house on the Isle of Skye, but it is drawn from Talland House, the Stephen family's real holiday home in St Ives, where Woolf spent her childhood summers. Sited at the listed house on Talland Road; mapped as the model rather than the fictional island.",
+      "sourceUrl": "https://historicengland.org.uk/listing/the-list/list-entry/1327767"
+    },
+    {
+      "order": 2,
+      "place": "talland-garden-and-bay",
+      "displayName": "The garden and the bay",
+      "country": "GB",
+      "lat": 50.209,
+      "lng": -5.4788,
+      "reference": "The Window",
+      "certainty": "approximate",
+      "summary": "Much of the evening plays out on the lawn and among the flower beds, where a painter sets up her easel and watches the family, and where the distant lighthouse blinks across the water at dusk. The garden is Talland House's own, sloping toward the bay the children knew.",
+      "note": "The novel's terraced garden looking over the water is drawn from the rambling garden of Talland House, which steps down toward St Ives Bay. Sited just above the house; mapped as the real garden behind the fiction.",
+      "sourceUrl": "https://virginiawoolfsociety.org.uk/talland-house-plaque/"
+    },
+    {
+      "order": 3,
+      "place": "st-ives-town",
+      "displayName": "The town of St Ives",
+      "country": "GB",
+      "lat": 50.2115,
+      "lng": -5.4802,
+      "reference": "The Window",
+      "certainty": "approximate",
+      "summary": "Below the house lies a small fishing town whose harbour and boats supply the errands and small society around the family. Woolf drew it from St Ives itself, the Cornish port that spread beneath Talland House and its garden.",
+      "note": "The novel keeps the town offstage as the fishing settlement below the house, drawn from St Ives, the harbour town beneath Talland House. Sited at the town centre and harbour; mapped as the real place behind the fiction.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/St_Ives,_Cornwall"
+    },
+    {
+      "order": 4,
+      "place": "crossing-st-ives-bay",
+      "displayName": "The crossing of the bay",
+      "country": "GB",
+      "lat": 50.225,
+      "lng": -5.44,
+      "reference": "The Lighthouse",
+      "certainty": "approximate",
+      "summary": "Ten years after the opening evening, the surviving family finally makes the long-deferred boat trip out to the lighthouse, the father and two children crossing the water in near silence while the painter finishes her picture ashore. The passage runs across St Ives Bay toward Godrevy.",
+      "note": "The final sail out to the lighthouse crosses open water; the novel fixes no line, so this marks a representative point on St Ives Bay between the town and Godrevy Island, the crossing the fiction transposes to Skye.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/St_Ives_Bay"
+    },
+    {
+      "order": 5,
+      "place": "godrevy-lighthouse",
+      "displayName": "Godrevy Lighthouse",
+      "country": "GB",
+      "lat": 50.2425,
+      "lng": -5.4003,
+      "reference": "The Lighthouse",
+      "certainty": "approximate",
+      "summary": "The lighthouse gives the book its title and its longing, promised to a child in the first part and reached only in the last. It is Godrevy Lighthouse, standing on its island across St Ives Bay, the light Woolf could see flashing from the garden as a girl.",
+      "note": "The lighthouse the family longs to reach is drawn from Godrevy Lighthouse, the real light on Godrevy Island across St Ives Bay, visible from the Talland House garden. The novel moves it to the Isle of Skye; sited at the real tower.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Godrevy_Lighthouse"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the-sun-also-rises",
+  "title": "The Sun Also Rises",
+  "author": "Ernest Hemingway",
+  "year": 1926,
+  "description": "A restless group of expatriates drifts from 1920s Paris to the fiesta of San Fermín in Pamplona, where the bulls, the drink and their tangled loves come to a head before scattering again.",
+  "route": [
+    {
+      "order": 1,
+      "place": "paris-montparnasse",
+      "displayName": "Montparnasse, Paris",
+      "country": "ES",
+      "lat": 48.8422,
+      "lng": 2.322,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "Before Spain there is Paris: the cafés, the drinking, and the aimless circling of Jake, Brett and their friends. Montparnasse establishes the wound at the centre of the book, Jake's longing for Brett and the restlessness that sends them all south.",
+      "note": "The novel opens in the Montparnasse café world Hemingway names directly; sited on the real quarter around the Boulevard du Montparnasse, deliberately outside the Pamplona bbox as the book's starting frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+    },
+    {
+      "order": 2,
+      "place": "burguete-irati-fishing",
+      "displayName": "Burguete and the Irati river",
+      "country": "ES",
+      "lat": 42.9908,
+      "lng": -1.335,
+      "reference": "Chapters 11–12",
+      "certainty": "exact",
+      "summary": "Away from the crowd, Jake and Bill fish the cold Irati and drink wine in the hills above Pamplona. It is the one clean, happy stretch of the book, a male friendship at ease before the fiesta pulls everyone back into jealousy and noise.",
+      "note": "The novel names Burguete and the trout fishing on the Irati; pinned on the real village of Auritz/Burguete in the Navarrese Pyrenees above Pamplona.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+    },
+    {
+      "order": 3,
+      "place": "pamplona-plaza-del-castillo",
+      "displayName": "Plaza del Castillo and the Hotel La Perla",
+      "country": "ES",
+      "lat": 42.8184,
+      "lng": -1.6427,
+      "reference": "Chapters 13–17",
+      "certainty": "exact",
+      "summary": "The Plaza del Castillo is the fiesta's living room, ringed by cafés where the group drinks and quarrels through San Fermín. At the hotel here, the aficionado Montoya keeps his faith in Jake until Brett's pursuit of the young bullfighter breaks it.",
+      "note": "The great central square of Pamplona; the Hotel La Perla on its corner is the real inn tied to Hemingway and to Montoya's hotel in the novel, sited here on the plaza.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+    },
+    {
+      "order": 4,
+      "place": "pamplona-calle-estafeta",
+      "displayName": "Calle Estafeta, the running of the bulls",
+      "country": "ES",
+      "lat": 42.8188,
+      "lng": -1.641,
+      "reference": "Chapter 15",
+      "certainty": "exact",
+      "summary": "Each dawn the bulls run through these streets to the ring, and the danger gives the fiesta its edge. Hemingway's precise attention to the encierro turns spectacle into a test of nerve that quietly judges every man in the group.",
+      "note": "The long straight of Calle Estafeta is the real heart of the encierro route through Pamplona's old town, run each morning of San Fermín.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+    },
+    {
+      "order": 5,
+      "place": "pamplona-plaza-de-toros",
+      "displayName": "Plaza de Toros de Pamplona",
+      "country": "ES",
+      "lat": 42.8159,
+      "lng": -1.6386,
+      "reference": "Chapters 15–18",
+      "certainty": "exact",
+      "summary": "In the ring the book's admiration for grace under pressure finds its clearest form in the young matador Romero. Brett's infatuation with him, watched by the wounded Jake, brings the fiesta's tensions to their breaking point before everyone scatters.",
+      "note": "The real bullring at the end of the encierro route, where the afternoon corridas of San Fermín are held; pinned on the arena on the Paseo Hemingway.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

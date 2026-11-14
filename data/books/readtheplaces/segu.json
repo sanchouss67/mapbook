@@ -1,0 +1,80 @@
+{
+  "id": "segu",
+  "title": "Segu",
+  "author": "Maryse Condé",
+  "year": 1984,
+  "description": "In the Bambara kingdom of Ségou on the Niger, at the turn of the nineteenth century, the noble family of Dousika Traoré is scattered and transformed as Islam, the Atlantic slave trade and European ambition converge on West Africa. Condé's sweeping historical epic is rooted in a real geography: the animist royal city on the great river, the Niger itself, the Muslim learning of the north at Timbuktu, and the slave coast to which one son is carried away.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-royal-city",
+      "displayName": "Ségou (the royal city)",
+      "country": "ML",
+      "lat": 13.44,
+      "lng": -6.27,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "In the earthen-walled city of Ségou, the nobleman Dousika Traoré serves at the Bambara king's court and presides over a great animist household of wives, children and slaves. Condé opens in the confident heart of a pagan African kingdom at its height, unaware of the forces, Islam, the slavers, the Europeans, already gathering to tear it apart.",
+      "note": "Ségou, the real capital of the Bambara kingdom on the Niger, is the seat of the court and the home of the noble Traoré family; sited at the historic city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bamana_Empire"
+    },
+    {
+      "order": 2,
+      "place": "the-niger",
+      "displayName": "The Niger river",
+      "country": "ML",
+      "lat": 13.43,
+      "lng": -6.26,
+      "reference": "The Ségou chapters",
+      "certainty": "exact",
+      "summary": "The Niger sustains Ségou, its fishermen and boatmen, its river-gods and its commerce, the artery of the whole Bambara world. Condé makes the river the emblem of a way of life about to be swept downstream, the old certainties of fetish and ancestor already stirring against the coming of the one God and the white man.",
+      "note": "The Niger, the real great river on which Ségou stands, carries the kingdom's trade, worship and fortunes; sited at the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niger_River"
+    },
+    {
+      "order": 3,
+      "place": "timbuktu",
+      "displayName": "Timbuktu (the north)",
+      "country": "ML",
+      "lat": 16.77,
+      "lng": -3,
+      "reference": "Tiékoro's chapters",
+      "certainty": "exact",
+      "summary": "Dousika's eldest son Tiékoro, seduced by the power and letters of Islam, journeys north to study among the scholars of Timbuktu, breaking with his father's gods. Condé follows the new faith's spread through him, and the anguish it brings, as conversion divides the family and the coming jihad threatens the Bambara order.",
+      "note": "Dousika's son Tiékoro is drawn north to the Muslim learning of Timbuktu, the real city of scholars and Quranic schools; sited there, far outside the Ségou setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Timbuktu"
+    },
+    {
+      "order": 4,
+      "place": "the-slave-coast",
+      "displayName": "The slave coast",
+      "country": "ML",
+      "lat": 6.36,
+      "lng": 2.08,
+      "reference": "Naba's chapters",
+      "certainty": "approximate",
+      "summary": "The son Naba is captured, marched to the coast and sold into the Atlantic trade, his fate carrying the family's story across the ocean to slavery in Brazil. Through him Condé binds the inland kingdom to the vast machinery of the Middle Passage, the same commerce in human beings that will help destroy Ségou reaching out to swallow its children.",
+      "note": "Another son, Naba, is seized and sold into the Atlantic slave trade, carried to the barracoons of the West African coast; the slave coast is sited at Ouidah, far outside the Ségou setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ouidah"
+    },
+    {
+      "order": 5,
+      "place": "the-decline",
+      "displayName": "The decline of Ségou",
+      "country": "ML",
+      "lat": 13.45,
+      "lng": -6.28,
+      "reference": "The later chapters",
+      "certainty": "approximate",
+      "summary": "As Islam advances and the old gods lose their hold, the Traoré family and the Bambara kingdom alike are worn down, the son Siga among those left to watch the world they knew dissolve. Condé ends her first volume with Ségou's confident pagan certainties broken, a whole civilisation caught in the tide of a history it cannot resist.",
+      "note": "The gradual undoing of the Bambara order under the pressure of Islamic jihad and outside forces is set in Ségou itself, drawn from the real nineteenth-century decline of the kingdom.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Toucouleur_Empire"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

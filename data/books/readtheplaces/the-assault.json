@@ -1,0 +1,80 @@
+{
+  "id": "the-assault",
+  "title": "The Assault",
+  "author": "Harry Mulisch",
+  "year": 1982,
+  "description": "A single night on a Haarlem quay in the Hunger Winter of 1945 sets the whole book in motion: a collaborator shot in the dark, a family burned out and killed in reprisal, one boy left alive. The map holds Haarlem, where it happens, against the Amsterdam of the postwar decades, where the surviving child grows into a doctor and slowly learns what that night really was. The two cities sit about twenty kilometres apart across the North Holland flatland.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-quay-haarlem",
+      "displayName": "The quay in Haarlem",
+      "country": "NL",
+      "lat": 52.3785,
+      "lng": 4.644,
+      "reference": "First Episode",
+      "certainty": "approximate",
+      "summary": "The book opens here on a winter evening near the end of the war, with a boy and his family in one of a handful of houses strung along the water. A collaborator is shot in the road nearby, the body ends up before their door, and the German reprisal takes everything but the boy. Every later chapter reaches back to this stretch of quay.",
+      "note": "Mulisch sets the opening on a quay on the edge of Haarlem, a short row of houses beside the water, but gives it no real street name; this marks a representative quayside along the Spaarne, the river that runs through the city where the author grew up.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Assault"
+    },
+    {
+      "order": 2,
+      "place": "grote-markt-haarlem",
+      "displayName": "Grote Markt, Haarlem",
+      "country": "NL",
+      "lat": 52.3755,
+      "lng": 4.6349,
+      "reference": "First Episode",
+      "certainty": "exact",
+      "summary": "The old market square is the heart of the Haarlem the boy is torn out of that night and keeps circling back to across his life. Around the great church and the town hall, the city that the story treats as home stands more or less unchanged, a fixed point against the decades that follow.",
+      "note": "Haarlem is named throughout; the Grote Markt is the historic centre of the city the novel returns to, marked at the square itself.",
+      "sourceUrl": "https://latitude.to/articles-by-country/nl/netherlands/136704/grote-markt-haarlem"
+    },
+    {
+      "order": 3,
+      "place": "amsterdam-the-doctor",
+      "displayName": "Amsterdam",
+      "country": "NL",
+      "lat": 52.374,
+      "lng": 4.8897,
+      "reference": "Second Episode",
+      "certainty": "exact",
+      "summary": "The surviving boy moves to Amsterdam, studies medicine and becomes an anaesthetist, building an ordinary life at a careful distance from what happened. The city is where he tries to leave the quay behind, and where, by chance, its people keep finding him again.",
+      "note": "Amsterdam is named as the city where the grown survivor settles; marked at the central city, roughly twenty kilometres east of Haarlem.",
+      "sourceUrl": "https://latitude.to/map/nl/netherlands/cities/amsterdam"
+    },
+    {
+      "order": 4,
+      "place": "leidseplein-amsterdam",
+      "displayName": "Leidseplein, Amsterdam",
+      "country": "NL",
+      "lat": 52.3638,
+      "lng": 4.8822,
+      "reference": "Third Episode",
+      "certainty": "exact",
+      "summary": "A decade on, an unplanned meeting in the middle of Amsterdam drags the past back to the surface. The man he falls into talking with is bound to the killing on the quay, and for the first time the survivor hears the night described from another side. The city's crowds keep delivering these coincidences.",
+      "note": "Amsterdam is explicit; the Leidseplein marks a representative point in the central nightlife district where the mid-1950s encounter belongs, sited at the square.",
+      "sourceUrl": "https://latitude.to/articles-by-country/nl/netherlands/24132/leidseplein"
+    },
+    {
+      "order": 5,
+      "place": "museumplein-amsterdam",
+      "displayName": "Museumplein, Amsterdam",
+      "country": "NL",
+      "lat": 52.3555,
+      "lng": 4.8785,
+      "reference": "Fifth Episode",
+      "certainty": "exact",
+      "summary": "In the last section a huge demonstration fills central Amsterdam, and in the throng the survivor, now elderly, is handed the final piece of the puzzle he has carried since childhood. The book closes with the whole of that winter night finally accounted for, out among strangers marching for peace.",
+      "note": "Amsterdam is explicit; the closing peace demonstration is set among the city's crowds, marked at the Museumplein, the large open square used for such mass gatherings.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Assault_(1986_film)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

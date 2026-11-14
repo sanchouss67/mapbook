@@ -1,0 +1,92 @@
+{
+  "id": "the-house-of-mirth",
+  "title": "The House of Mirth",
+  "author": "Edith Wharton",
+  "year": 1905,
+  "description": "Lily Bart falls through New York one address at a time. The novel opens in the crowd at Grand Central and follows her down: the bachelor flats of the Benedick, the Trenors' great estate up the Hudson, the marble mansions creeping up Fifth Avenue, and, at the end, a milliner's workroom, a West Side boarding-house, and a bench in Bryant Park. The plot is a map, read downwards.",
+  "route": [
+    {
+      "order": 1,
+      "place": "grand-central-station",
+      "displayName": "Grand Central Station",
+      "country": "US",
+      "lat": 40.7527,
+      "lng": -73.9772,
+      "reference": "Book 1, ch. 1",
+      "certainty": "exact",
+      "summary": "The book opens here, in the crowd. Selden, on his way back to work, catches sight of Lily standing apart from the rush, waiting for a train she has half a mind not to take. It is the first move in a slow fall the rest of the novel maps across the city. The pin marks the terminal on Forty-second Street at Park Avenue; in 1905 this was the older Grand Central Station, rebuilt as the Grand Central Terminal we know a few years after the book appeared.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    },
+    {
+      "order": 2,
+      "place": "the-benedick",
+      "displayName": "The Benedick, Selden's flat",
+      "country": "US",
+      "lat": 40.751,
+      "lng": -73.98,
+      "reference": "Book 1, ch. 1",
+      "certainty": "approximate",
+      "summary": "Lily has just taken tea, alone and unchaperoned, in Selden's rooms at the Benedick. She leaves feeling clever and safe, and on the doorstep runs straight into Simon Rosedale, who happens to own the building and will not forget where he saw her. The whole disaster of the book is folded into this small social misstep on a Georgian porch.",
+      "note": "The Benedick is a fictional bachelor flat-house. Wharton borrows the name from the real Benedick, an 1879 building of bachelor apartments on the east side of Washington Square. She sites her version in midtown, off Fifth Avenue: Lily hunts for a cab \"short of Fifth Avenue\" and finally hails one \"drifting down Madison Avenue,\" so the pin marks a Madison Avenue block between the two.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    },
+    {
+      "order": 3,
+      "place": "bellomont",
+      "displayName": "Bellomont, up the Hudson",
+      "country": "US",
+      "lat": 41.91,
+      "lng": -73.945,
+      "reference": "Book 1, ch. 5",
+      "certainty": "approximate",
+      "summary": "The high point of Lily's fortunes. At the Trenors' house-party she is closest to the rich marriage that would save her, and closest to Selden, who is also a guest. From the terrace above the sunken garden she looks down the sloping pastures to the Hudson and lets herself believe her money troubles are over. The estate is fiction; the river of great houses above Rhinebeck was real.",
+      "note": "Bellomont, the Trenors' country place, is Wharton's invention, but she sites it precisely up the Hudson: guests take the train to Rhinebeck, and from the terrace the river \"widened like a lake\" below the lawns. The pin marks the great-estate country on the river near Rhinebeck, in Dutchess County, that Wharton drew on. It sits well north of the book's Manhattan centre.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    },
+    {
+      "order": 4,
+      "place": "fifth-avenue-mansions",
+      "displayName": "Fifth Avenue, the new mansions",
+      "country": "US",
+      "lat": 40.7644,
+      "lng": -73.9722,
+      "reference": "Book 1, ch. 14",
+      "certainty": "exact",
+      "summary": "A guided tour of new money in stone. Van Alstyne appraises each freshly built house for Selden: the Greiner facade that is \"a complete architectural meal,\" the Brys' Trianon, the Trenors' Corinthian pile. They halt at the Trenors' corner just as Lily is seen leaving Gus Trenor's house alone at night, a sight that will finish her. Wharton uses the parade of Fifth Avenue mansions to stage the ruin.",
+      "note": "Fifth Avenue is named. Walking down it late at night, Selden and Van Alstyne read the new marble mansions of the newly rich like rungs on a social ladder. The pin marks the stretch above the Fifties, near the Park, where the Vanderbilt and Astor houses were rising in Wharton's day.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    },
+    {
+      "order": 5,
+      "place": "west-side-boarding-house",
+      "displayName": "The West Side boarding-house",
+      "country": "US",
+      "lat": 40.7458,
+      "lng": -73.9925,
+      "reference": "Book 2, ch. 11",
+      "certainty": "approximate",
+      "summary": "Near the bottom of the fall. Cut off by her own set, Lily is trimming hats in a milliner's workroom by day and coming home to a hall bedroom with \"blotched wall-paper and shabby paint.\" She chooses the anonymity of the West Side over her cousin's charity. It is on this walk, past the chemist, that she buys the chloral that will end the book.",
+      "note": "Wharton gives no exact address, but the geography is clear: Lily walks \"westward\" to her boarding-house, past a chemist \"at the corner of Sixth Avenue,\" under the shriek of the elevated, on \"a New York street in the last stages of decline from fashion to commerce.\" The pin marks the West Side blocks off the Sixth Avenue Elevated that fit that description.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    },
+    {
+      "order": 6,
+      "place": "bryant-park",
+      "displayName": "Bryant Park",
+      "country": "US",
+      "lat": 40.7536,
+      "lng": -73.9832,
+      "reference": "Book 2, ch. 13",
+      "certainty": "exact",
+      "summary": "Almost the last place Lily goes. Worn out and half-drugged, she sinks onto a bench in the near-deserted park, thinking of the bottle of chloral by her bed and of the fact that there is nothing to go home to. It is here she meets Nettie Struther, whose small warm life throws Lily's ruin into relief before she walks home to her room for the last time.",
+      "note": "Bryant Park is named, and Wharton fixes the approach exactly: Lily reaches \"the corner of Forty-first Street and Fifth Avenue\" and turns in to rest. The pin marks the park at that corner, behind the site where the New York Public Library was then being built.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/284"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

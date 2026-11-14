@@ -1,0 +1,93 @@
+{
+  "id": "paranoia",
+  "title": "Paranoia",
+  "author": "Viktor Martinovich",
+  "year": 2009,
+  "description": "A thinly veiled authoritarian Belarus, watched from every corner. A young writer's affair with the mistress of the state security minister plays out along the vast Stalinist spine of Independence Avenue, across Independence Square, in the shadow of the security headquarters, and by the slow curve of the Svislach. The map runs south to north through the centre of a real, surveilled Minsk.",
+  "route": [
+    {
+      "order": 1,
+      "place": "independence-avenue",
+      "displayName": "Independence Avenue",
+      "country": "BY",
+      "lat": 53.9025,
+      "lng": 27.5614,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "The novel's Minsk is organised around one enormous street, the Stalinist prospekt that the writer walks again and again. Laid out after the war as a parade route, its monumental blocks set the mood of a city built to be looked at, and to look back. This point marks October Square, near the middle of the axis.",
+      "note": "The book names the great avenue running through the city; this marks its central stretch at October Square, on the axis the novel walks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Independence_Avenue_(Minsk)"
+    },
+    {
+      "order": 2,
+      "place": "independence-square",
+      "displayName": "Independence Square",
+      "country": "BY",
+      "lat": 53.8953,
+      "lng": 27.5487,
+      "reference": "Central chapters",
+      "certainty": "exact",
+      "summary": "The largest public space in the city, ringed by government buildings and a Lenin statue, anchors the book's south end. In a state that stages its own power, the empty expanse of the square reads as a place where a citizen is small and watched. Today it sits above an underground shopping centre.",
+      "note": "The vast square at the southern end of the avenue is a real, named place; coordinates mark the open plaza before the Government House.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Independence_Square,_Minsk"
+    },
+    {
+      "order": 3,
+      "place": "kgb-headquarters",
+      "displayName": "The state security headquarters",
+      "country": "BY",
+      "lat": 53.899,
+      "lng": 27.5547,
+      "reference": "Central chapters",
+      "certainty": "exact",
+      "summary": "The feared ministry that shadows the whole story has a real address: the yellow neoclassical block on the main avenue, still the seat of the Belarusian security service, which alone among post-Soviet agencies kept the KGB name. Its presence turns every private act in the novel into something potentially observed.",
+      "note": "The security ministry's building on the avenue is a real, standing landmark; coordinates mark the KGB headquarters at the corner of Kamsamolskaya Street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/State_Security_Committee_of_the_Republic_of_Belarus"
+    },
+    {
+      "order": 4,
+      "place": "avenue-cafe",
+      "displayName": "A café on the avenue",
+      "country": "BY",
+      "lat": 53.898,
+      "lng": 27.558,
+      "reference": "Central chapters",
+      "certainty": "approximate",
+      "summary": "Much of the affair happens in ordinary interior spaces along the main street, the cafés and meeting places where two people try to be private in a city that allows no privacy. The novel does not fix an exact address, so this stands as a representative point on the central avenue.",
+      "note": "The book stages meetings in a central café without a verified address; this marks a representative point on the avenue between Independence Square and the security headquarters.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Independence_Avenue_(Minsk)"
+    },
+    {
+      "order": 5,
+      "place": "avenue-apartment-blocks",
+      "displayName": "The apartment blocks",
+      "country": "BY",
+      "lat": 53.904,
+      "lng": 27.565,
+      "reference": "Central chapters",
+      "certainty": "approximate",
+      "summary": "The lovers' rooms are in the grand residential buildings that face the avenue, apartments whose high ceilings and thick walls were meant for a privileged tenantry. In a surveillance state even these interiors feel porous. The exact flat is not named, so this marks a representative stretch of the monumental blocks.",
+      "note": "The book's residential scenes sit in the monumental flats lining the avenue, without a verified street number; this marks a representative point along the Stalinist blocks north of October Square.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Independence_Avenue_(Minsk)"
+    },
+    {
+      "order": 6,
+      "place": "svislach-river",
+      "displayName": "The Svislach",
+      "country": "BY",
+      "lat": 53.9075,
+      "lng": 27.571,
+      "reference": "Later chapters",
+      "certainty": "exact",
+      "summary": "The slow river that winds through the city gives the book its few open, unguarded moments, the parks and embankments where the writer can walk and think. It crosses the centre from the northwest to the southeast, passing close to the avenue by Gorky Park.",
+      "note": "The river that runs through Minsk is a real, named feature; coordinates mark its central stretch beside Gorky Park, just east of the avenue.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Minsk"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

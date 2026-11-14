@@ -1,0 +1,80 @@
+{
+  "id": "fateless",
+  "title": "Fatelessness",
+  "author": "Imre Kertész",
+  "year": 1975,
+  "description": "In 1944 the fourteen-year-old Budapest Jew György Köves is pulled off a bus, deported, and survives Auschwitz, Buchenwald and the Zeitz labour camp with a bewildered, matter-of-fact detachment, before returning to a city that wants him to forget. Kertész, who lived it, maps the real geography of the catastrophe: the yellow-star house and the assembly points of Budapest, and the camps to the north where a boy learns to take each step of the machinery as, somehow, natural.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-star-house",
+      "displayName": "The yellow-star house",
+      "country": "HU",
+      "lat": 47.5,
+      "lng": 19.05,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "The novel opens as fourteen-year-old György is given a day off school because his father must report to a labour-service camp, and the family, marked by the yellow star, gathers to see him go. Kertész sets the ordinary domestic scene of a Budapest already sealed off and marked for destruction, told in the boy's oddly untroubled, obedient voice.",
+      "note": "György's family lives in one of the real yellow-star houses to which Budapest's Jews were confined in 1944; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yellow-star_houses"
+    },
+    {
+      "order": 2,
+      "place": "the-deportation",
+      "displayName": "The deportation",
+      "country": "HU",
+      "lat": 47.55,
+      "lng": 19.03,
+      "reference": "The round-up chapters",
+      "certainty": "approximate",
+      "summary": "Pulled off his bus at random with other Jews, György is held, sorted and loaded onto a train, all of it unfolding in the same reasonable, step-by-step manner he never thinks to question. In his flat acceptance of each stage, Kertész shows how the vast crime advanced precisely by seeming, to those caught in it, almost normal.",
+      "note": "György is taken off a bus and held with other Budapest Jews at an assembly point before deportation, drawn from the real round-ups and brickyard assembly sites of 1944; sited on the city's edge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Holocaust_in_Hungary"
+    },
+    {
+      "order": 3,
+      "place": "auschwitz",
+      "displayName": "Auschwitz-Birkenau",
+      "country": "HU",
+      "lat": 50.027,
+      "lng": 19.204,
+      "reference": "The Auschwitz chapters",
+      "certainty": "exact",
+      "summary": "At Auschwitz-Birkenau György passes the selection, saved by claiming to be sixteen and fit for work, and takes in the smoking chimneys with the same disbelieving curiosity as everything else. Kertész refuses both melodrama and hindsight, letting the boy meet the death factory as a bewildering new place whose logic he sets himself, absurdly, to understand.",
+      "note": "György is deported first to Auschwitz-Birkenau, the real extermination and concentration camp in occupied Poland; sited there, far outside the Budapest setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+    },
+    {
+      "order": 4,
+      "place": "zeitz",
+      "displayName": "Zeitz labour camp",
+      "country": "HU",
+      "lat": 51.05,
+      "lng": 12.14,
+      "reference": "The Zeitz chapters",
+      "certainty": "exact",
+      "summary": "At the Zeitz labour camp György learns the arts of survival from the seasoned prisoner Bandi Citrom, and clings to routine as hunger, cold and a festering wound wear him down toward death. Here the book measures out, day by day, how a person is reduced to a body, and how even in that reduction a strange will to go on persists.",
+      "note": "György is sent on to the Zeitz labour camp, a real subcamp of Buchenwald in Germany, where he does forced labour and slowly breaks down; sited there, outside the Budapest setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp"
+    },
+    {
+      "order": 5,
+      "place": "the-return",
+      "displayName": "The return",
+      "country": "HU",
+      "lat": 47.498,
+      "lng": 19.055,
+      "reference": "The final chapter",
+      "certainty": "exact",
+      "summary": "Returned to Budapest, György meets neighbours and survivors who urge him to think only of the horror and the future, and finds he cannot, for he remembers even the camps as a stretch of lived, ordinary hours. In his refusal of an assigned 'fate', the boy insists on the stubborn wholeness of his own experience, and the book earns its terrible, quiet title.",
+      "note": "Liberated, György makes his way back to Budapest, the real city, to find his old world altered and unwilling to hear him; sited in the city where the book began.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Budapest"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

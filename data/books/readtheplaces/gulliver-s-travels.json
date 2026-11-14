@@ -1,0 +1,80 @@
+{
+  "id": "gulliver-s-travels",
+  "title": "Gulliver's Travels",
+  "author": "Jonathan Swift",
+  "year": 1726,
+  "description": "Swift's satire sends its narrator to invented islands, but it frames every voyage in a real, ordinary England: a ship's surgeon from Nottinghamshire who trains and settles around the London docks and sails from English ports before the fantastical lands begin.",
+  "route": [
+    {
+      "order": 1,
+      "place": "nottinghamshire-newark",
+      "displayName": "Nottinghamshire (Newark), where he was born",
+      "country": "GB",
+      "lat": 53.0766,
+      "lng": -0.8082,
+      "reference": "Part 1, ch. 1",
+      "certainty": "approximate",
+      "summary": "Gulliver opens his account by placing himself: a third son of a small Nottinghamshire family, sent off to Cambridge and then to a London surgeon. The plainness of this origin is the joke's foundation, a dull English gentleman reporting the impossible in the same flat voice. Newark stands here for the unnamed county town.",
+      "note": "Gulliver states he was born in Nottinghamshire, a real English county, though no town is named. The pin marks Newark-on-Trent, the county's principal market town, as a representative point. Marked outsideSetting: Nottinghamshire lies well north of the London frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nottinghamshire"
+    },
+    {
+      "order": 2,
+      "place": "old-jewry-surgeon-bates",
+      "displayName": "Old Jewry, the surgeon Bates",
+      "country": "GB",
+      "lat": 51.5145,
+      "lng": -0.0917,
+      "reference": "Part 1, ch. 1",
+      "certainty": "approximate",
+      "summary": "Before any voyage, Gulliver learns his trade under the surgeon Bates and sets up a small London practice near the Old Jewry, in the heart of the City. It is the respectable, unremarkable career the sea keeps interrupting. The street is real, one of the old lanes off Cheapside.",
+      "note": "Gulliver is apprenticed to Mr James Bates, a London surgeon, and later takes a house near the Old Jewry, a real street in the City of London. The pin marks Old Jewry; the exact premises are not given.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Old_Jewry"
+    },
+    {
+      "order": 3,
+      "place": "wapping-the-docks",
+      "displayName": "Wapping and the docks",
+      "country": "GB",
+      "lat": 51.5045,
+      "lng": -0.0575,
+      "reference": "Part 1, ch. 1",
+      "certainty": "approximate",
+      "summary": "When his City practice fails, Gulliver goes down to the river among ships' crews and settles a while at Wapping, hoping to fall in with captains who need a surgeon. It is the world of masts and lodging-houses that feeds him onto the voyages. Wapping was then the working waterfront of maritime London.",
+      "note": "Gulliver, short of patients, moves among the seafaring quarter and takes lodgings and work near Wapping, the sailors' district by the river; the text names Wapping. The pin marks it as a representative point in the old riverside docks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wapping"
+    },
+    {
+      "order": 4,
+      "place": "bristol-departure",
+      "displayName": "The port of Bristol",
+      "country": "GB",
+      "lat": 51.4491,
+      "lng": -2.6266,
+      "reference": "Part 2, ch. 1",
+      "certainty": "exact",
+      "summary": "The second voyage puts out from Bristol, England's great western port for the Atlantic trade, before the storm carries the ship to the land of giants. Swift roots the impossible in an exact departure point, the real quays a real ship would leave from. Only the destination is invented; the harbour is not.",
+      "note": "Gulliver sails from Bristol on the voyage that strands him in Brobdingnag; the port is named directly. Marked outsideSetting: Bristol lies far to the west of the London frame. The fantastical land the ship reaches is a satirical invention and is not mapped.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bristol"
+    },
+    {
+      "order": 5,
+      "place": "redriff-rotherhithe",
+      "displayName": "Redriff (Rotherhithe), Gulliver's home",
+      "country": "GB",
+      "lat": 51.501,
+      "lng": -0.0515,
+      "reference": "The frame",
+      "certainty": "approximate",
+      "summary": "Between voyages, and at the end of them, Gulliver comes home to his wife and family at Redriff, the London river-parish now called Rotherhithe. It is the domestic anchor he keeps leaving and, after the last voyage, can barely bear to return to. The place is real; only his changed and misanthropic self is Swift's invention.",
+      "note": "Gulliver says he settled and kept house at Redriff, the archaic name for Rotherhithe, the riverside parish downstream of the Pool of London. The pin marks Rotherhithe; Redriff is its old spelling, so the identification is secure though the exact house is fictional.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rotherhithe"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

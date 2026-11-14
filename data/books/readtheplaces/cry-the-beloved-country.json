@@ -1,0 +1,93 @@
+{
+  "id": "cry-the-beloved-country",
+  "title": "Cry, the Beloved Country",
+  "author": "Alan Paton",
+  "year": 1948,
+  "description": "A Zulu country pastor leaves the green hills above Ixopo in Natal for the vast city on the gold Reef, hunting for a son swallowed by its townships and shanties. The map holds the Johannesburg of the 1940s: black freehold at Sophiatown, the crowding of Alexandra, the shack settlement thrown up overnight at Orlando, the mines that pulled every man there, and the court where the story turns. The rural home that opens and closes the book lies far south in Natal, held on the map as a separate anchor.",
+  "route": [
+    {
+      "order": 1,
+      "place": "ndotsheni-hills-above-ixopo",
+      "displayName": "Ndotsheni, the hills above Ixopo",
+      "country": "ZA",
+      "lat": -30.1531,
+      "lng": 30.0694,
+      "reference": "Book One, chapter 1",
+      "certainty": "approximate",
+      "summary": "The story begins in a poor rural parish in the Natal midlands, where the pastor keeps a shrinking congregation on land that no longer feeds its people. A letter calls him north to the city to look for his sister and his son. Paton frames the district from the lovely road that climbs into the green hills above Ixopo, before the valleys fall away to the dry, red, overgrazed country the young have left.",
+      "note": "Ndotsheni is a fictional village, set in the tribal country in the hills above the real town of Ixopo in Natal, roughly 400 km south of Johannesburg. This marks Ixopo, the named landmark the book opens from, and sits outside the Johannesburg setting on purpose.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ixopo"
+    },
+    {
+      "order": 2,
+      "place": "sophiatown",
+      "displayName": "Sophiatown",
+      "country": "ZA",
+      "lat": -26.1767,
+      "lng": 27.9816,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "Arriving in Johannesburg, the pastor is taken in by a fellow priest in one of the few places where black families could still own their homes. Crowded, poor and alive, this western suburb was a centre of black city life in the 1940s. The search for the lost son starts here, moving out through the addresses where he was last known.",
+      "note": "Sophiatown is named in the novel. This marks the historic freehold suburb west of central Johannesburg, later demolished under apartheid and rebuilt as Triomf before the old name was restored.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophiatown"
+    },
+    {
+      "order": 3,
+      "place": "alexandra",
+      "displayName": "Alexandra",
+      "country": "ZA",
+      "lat": -26.1023,
+      "lng": 28.091,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "The trail leads to the packed township on the northern edge of Johannesburg, reached on foot during a bus boycott the pastor joins in solidarity. Alexandra shows him a poverty deeper than home and a city that runs on the labour of people it will not house decently. The son has already moved on by the time he gets there.",
+      "note": "Alexandra is named in the novel. This marks the township northeast of the city centre, one of the few freehold areas open to black residents at the time.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexandra,_Gauteng"
+    },
+    {
+      "order": 4,
+      "place": "shanty-town-orlando",
+      "displayName": "Shanty Town, Orlando",
+      "country": "ZA",
+      "lat": -26.232,
+      "lng": 27.941,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "The search reaches the shack settlement thrown up overnight on open ground southwest of the city, where families with nowhere else drove stakes and stretched sacking into homes. Paton drew on the real squatter movement at Orlando in the mid-1940s. Here the pastor learns his son has drifted into trouble and reformatory, and the worst of the news comes close.",
+      "note": "The novel names Orlando and its shanty town. This marks Orlando, the oldest part of what became Soweto, southwest of the city, where the postwar squatter camps rose.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Orlando,_Soweto"
+    },
+    {
+      "order": 5,
+      "place": "the-reef-goldmines",
+      "displayName": "The goldmines of the Reef",
+      "country": "ZA",
+      "lat": -26.2344,
+      "lng": 28.0972,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "The gold under the ridge is why the city exists and why the young men keep leaving the land for it. The book keeps circling back to the mines and their headgear and the migrant compounds, the machine that pulls families apart even as it makes fortunes above ground. City Deep is one of the deep mines worked along the Reef in this period.",
+      "note": "The novel returns again to the mines of the Witwatersrand that draw men to the city. This marks City Deep, one of the deep-level gold mines on the Reef beneath southern Johannesburg, as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Witwatersrand"
+    },
+    {
+      "order": 6,
+      "place": "johannesburg-court",
+      "displayName": "The Johannesburg court",
+      "country": "ZA",
+      "lat": -26.2068,
+      "lng": 28.0343,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "The second half turns on a trial after the killing of a white man during a burglary, and the machinery of the law falls hardest on the accused who least expected to face it. Paton, who ran a reformatory, sets the courtroom scenes in the heart of white Johannesburg, where a black defendant stood before a bench and a system built without him.",
+      "note": "The novel does not name the courthouse. This marks the central Johannesburg court precinct at Fox and Ntemi Piliso Streets in Marshalltown, where a case of this period would have been heard, as a representative point.",
+      "sourceUrl": "https://www.theheritageportal.co.za/node/734"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

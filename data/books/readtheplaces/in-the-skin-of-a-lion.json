@@ -1,0 +1,80 @@
+{
+  "id": "in-the-skin-of-a-lion",
+  "title": "In the Skin of a Lion",
+  "author": "Michael Ondaatje",
+  "year": 1987,
+  "description": "Ondaatje's luminous novel gives back the immigrant workers written out of the making of Toronto in the 1910s and 1920s, following Patrick Lewis among the men who built the city's bridges and waterworks. The real Toronto is its stage: the great Bloor Street Viaduct rising over the Don Valley, the immigrant tanning district, the perilous tunnel dug out under Lake Ontario, and the cathedral-like waterworks that R.C. Harris built to purify the city's water.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bloor-street-viaduct",
+      "displayName": "The Bloor Street Viaduct",
+      "country": "CA",
+      "lat": 43.677,
+      "lng": -79.358,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "High on the half-built viaduct, the Macedonian rigger Nicholas Temelcoff swings on his ropes and, in the book's signature image, catches a nun who falls from the bridge in the dark. Ondaatje restores the unnamed immigrant men who built the span to the centre of the city's story.",
+      "note": "The novel's great opening is set on the building of the Prince Edward (Bloor Street) Viaduct over the Don Valley, a real Toronto bridge completed in 1918; the daredevil bridge-worker Temelcoff is drawn from the immigrant labourers who built it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Edward_Viaduct"
+    },
+    {
+      "order": 2,
+      "place": "immigrant-tanneries",
+      "displayName": "The immigrant district and tanneries",
+      "country": "CA",
+      "lat": 43.665,
+      "lng": -79.36,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "Among the tanners, dyers and factory hands of the immigrant east end, Patrick, a Canadian outsider, learns the languages and lives of the people the official city ignores. The dye vats and boarding houses of the district are where the book's radical sympathies and its love stories take root.",
+      "note": "Patrick lives and works among the Macedonian and other immigrant labourers of the city's east-end tanning and factory districts; the tanneries and working-class streets of 1920s Toronto are real, if the specific addresses are the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion"
+    },
+    {
+      "order": 3,
+      "place": "waterworks-tunnel",
+      "displayName": "The waterworks tunnel",
+      "country": "CA",
+      "lat": 43.685,
+      "lng": -79.288,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "Deep under the lake, in the wet dark of the intake tunnel, the diggers labour in danger and near-invisibility to bring the city its clean water. Ondaatje makes the tunnel the book's underworld, where the hidden work that makes a city possible is done by men history forgets.",
+      "note": "Patrick joins the crews digging the water-intake tunnel out under Lake Ontario for the new filtration plant, a real and dangerous work of 1920s Toronto engineering.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/R.C._Harris_Water_Treatment_Plant"
+    },
+    {
+      "order": 4,
+      "place": "rc-harris-plant",
+      "displayName": "The R.C. Harris filtration plant",
+      "country": "CA",
+      "lat": 43.687,
+      "lng": -79.288,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "The book builds to the vast, cathedral-like filtration plant, where the radicalised Patrick, grieving the activist Alice Gull, comes with dynamite to confront the commissioner Harris and the power that raised such beauty on the backs of the unremembered. The palace of clean water becomes the stage for the book's reckoning with who a city belongs to.",
+      "note": "The climax is set at the R.C. Harris Water Treatment Plant, the real art-deco 'palace of purification' on the Toronto lakeshore, named for the commissioner who drove its building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/R.C._Harris_Water_Treatment_Plant"
+    },
+    {
+      "order": 5,
+      "place": "lakeshore-downtown",
+      "displayName": "The lakeshore and downtown",
+      "country": "CA",
+      "lat": 43.645,
+      "lng": -79.38,
+      "reference": "Parts 1 and 3",
+      "certainty": "exact",
+      "summary": "Patrick's search for the disappeared millionaire Ambrose Small draws him to the elusive Clara, and to the glittering downtown world that stands on the labour of the tunnels and bridges. Ondaatje keeps setting the owners' Toronto against the builders', asking whose story the city has agreed to tell.",
+      "note": "The world of the vanished millionaire Ambrose Small and his mistress Clara belongs to the moneyed downtown and lakeshore Toronto that the workers' city is built beneath; sited in the real central city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

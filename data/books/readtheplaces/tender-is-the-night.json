@@ -1,0 +1,80 @@
+{
+  "id": "tender-is-the-night",
+  "title": "Tender Is the Night",
+  "author": "F. Scott Fitzgerald",
+  "year": 1934,
+  "description": "On the French Riviera of the 1920s, a charming young psychiatrist and his beautiful, fragile wife hold court over a golden expatriate set, as his career and their marriage slowly unravel.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hotel-du-cap-eden-roc",
+      "displayName": "Gausse's Hôtel des Étrangers (Hôtel du Cap-Eden-Roc)",
+      "country": "FR",
+      "lat": 43.5525,
+      "lng": 7.122,
+      "reference": "Book 1",
+      "certainty": "approximate",
+      "summary": "The novel opens at Gausse's pink hotel on the Cap, where the Divers reign over a charmed summer crowd. It is the stage for Dick's effortless social magic and the first place the young actress Rosemary falls under the spell of their glittering world.",
+      "note": "Gausse's hotel in the novel is fictional but widely understood to be modelled on the Hôtel du Cap-Eden-Roc, where the Fitzgeralds and their circle summered; pinned on the real hotel at the tip of Cap d'Antibes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+    },
+    {
+      "order": 2,
+      "place": "juan-les-pins-beach",
+      "displayName": "The beach at Juan-les-Pins",
+      "country": "FR",
+      "lat": 43.5686,
+      "lng": 7.105,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "On the hot morning sand, Rosemary first watches the Divers and their friends and longs to belong to them. The beach is where the group's easy glamour is most seductive, and where Rosemary's infatuation with Dick begins.",
+      "note": "The Riviera beach beside the Cap is drawn from Juan-les-Pins, the resort the Divers' set made fashionable; pinned on the real shore of Juan-les-Pins.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+    },
+    {
+      "order": 3,
+      "place": "cannes",
+      "displayName": "Cannes",
+      "country": "FR",
+      "lat": 43.5513,
+      "lng": 7.0128,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "Cannes is the Divers' town for dinners, shopping and late nights, the fuller social world beyond the beach. Its terraces and lights are where the group's brittle gaiety plays out, and where cracks in Nicole's calm first show.",
+      "note": "Cannes is named as the near town of restaurants, the casino and the station along the coast from the Cap; pinned on the real city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+    },
+    {
+      "order": 4,
+      "place": "paris",
+      "displayName": "Paris",
+      "country": "FR",
+      "lat": 48.8656,
+      "lng": 2.3212,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "The set decamps to Paris, where Dick and Rosemary's flirtation deepens and a sudden killing at a hotel breaks the spell of pure pleasure. The city marks the point where the Divers' golden surface starts to crack toward the darkness beneath.",
+      "note": "Paris is named as the city the party moves to for its hotels, restaurants and a shocking incident; pinned on the real city, far north of the Riviera setting and marked outside the bbox.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+    },
+    {
+      "order": 5,
+      "place": "lake-zurich-clinic",
+      "displayName": "The clinic on Lake Zurich",
+      "country": "FR",
+      "lat": 47.32,
+      "lng": 8.59,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "The flashback to Switzerland reveals the marriage's origin: Dick meets Nicole as a young psychiatric patient at a lakeside clinic and becomes both her husband and, in effect, her doctor. Lake Zurich holds the secret that explains the strain slowly pulling the Divers apart.",
+      "note": "The Swiss clinic where Dick treats and marries Nicole sits on the Zürichsee; the exact sanatorium is fictional, so this pin marks the real lakeshore near Zurich, far outside the Riviera bbox.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tender_Is_the_Night"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

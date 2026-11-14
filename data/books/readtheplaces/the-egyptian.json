@@ -1,0 +1,80 @@
+{
+  "id": "the-egyptian",
+  "title": "The Egyptian",
+  "author": "Mika Waltari",
+  "year": 1945,
+  "description": "The physician Sinuhe tells the story of his life across the turbulent reign of the heretic pharaoh Akhenaten in fourteenth-century-BC Egypt. Waltari anchors it in the real ancient geography of the Nile: Thebes with its great temple of Amun, the House of Death across the river where Sinuhe learns his craft, Akhenaten's new sun-city of Akhetaten raised in the desert, the old capital of Memphis, and the far cities of the east to which Sinuhe's wanderings carry him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "thebes-karnak",
+      "displayName": "Thebes and Karnak",
+      "country": "EG",
+      "lat": 25.7188,
+      "lng": 32.657,
+      "reference": "The early and middle books",
+      "certainty": "exact",
+      "summary": "In teeming Thebes, under the shadow of Amun's great temple, Sinuhe practises medicine among rich and poor and loves Merit, the tavern-keeper's daughter, the one steady tenderness of his restless life. The city, priest-ridden and magnificent, is the fixed point against which the coming religious upheaval is measured.",
+      "note": "Sinuhe's Thebes is the real ancient capital of Waset at modern Luxor, dominated by the vast temple of Amun at Karnak; the city is the home he returns to and the tavern where the woman he loves, Merit, works.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thebes,_Egypt"
+    },
+    {
+      "order": 2,
+      "place": "house-of-death",
+      "displayName": "The House of Death, Thebes",
+      "country": "EG",
+      "lat": 25.7402,
+      "lng": 32.6014,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "Ruined young by a woman and by his own folly, Sinuhe is driven to the House of Death among the embalmers on the west bank, and there learns the trade and the disillusion that shadow him ever after. The city of the dead, opposite the city of the living, gives the book its long meditation on mortality.",
+      "note": "Across the river on the Theban west bank, near the royal tombs of the Valley of the Kings, lie the embalmers' workshops, the House of Death, where the disgraced Sinuhe learns the craft that seals bodies for eternity.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+    },
+    {
+      "order": 3,
+      "place": "akhetaten-amarna",
+      "displayName": "Akhetaten (Amarna)",
+      "country": "EG",
+      "lat": 27.645,
+      "lng": 30.896,
+      "reference": "The middle books",
+      "certainty": "exact",
+      "summary": "As royal physician, Sinuhe follows Akhenaten to the gleaming new sun-city of Akhetaten, watching the visionary, ruinous king try to replace all the old gods with a single loving Aten. Waltari makes the doomed capital, abandoned within a generation, the emblem of an idealism too pure for the world it tries to remake.",
+      "note": "The pharaoh Akhenaten raises a wholly new capital, Akhetaten, in the desert at the site of modern Amarna, dedicated to the sun-disc Aten; the real short-lived city is the seat of his religious revolution.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amarna"
+    },
+    {
+      "order": 4,
+      "place": "memphis",
+      "displayName": "Memphis",
+      "country": "EG",
+      "lat": 29.849,
+      "lng": 31.25,
+      "reference": "The later books",
+      "certainty": "exact",
+      "summary": "In Memphis, the old administrative and military capital, the pragmatic soldier Horemheb gathers the strength that will restore the old gods and, in time, make him pharaoh. His cold realism, set against Akhenaten's failed dream, embodies the book's bitter lesson about how the world is actually ruled.",
+      "note": "Memphis, the real ancient capital at the head of the Nile delta, is the northern seat of power and of the army; the hard general Horemheb rises there toward the throne as Akhenaten's kingdom fails.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Memphis,_Egypt"
+    },
+    {
+      "order": 5,
+      "place": "babylon-travels",
+      "displayName": "Babylon (the wanderings)",
+      "country": "EG",
+      "lat": 32.5424,
+      "lng": 44.4208,
+      "reference": "The travel books",
+      "certainty": "exact",
+      "summary": "Sent abroad and driven by curiosity, Sinuhe journeys through Babylon and the other kingdoms of the age, gathering knowledge and disillusion in equal measure. His wanderings widen the book into a survey of the whole ancient world, everywhere finding the same cruelty and the same fragile human decency.",
+      "note": "Sinuhe's travels as a physician carry him east to Babylon and other great cities of the ancient world; Babylon, on the Euphrates, is a real city, far outside the Egyptian setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babylon"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

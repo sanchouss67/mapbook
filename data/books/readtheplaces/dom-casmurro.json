@@ -1,0 +1,80 @@
+{
+  "id": "dom-casmurro",
+  "title": "Dom Casmurro",
+  "author": "Machado de Assis",
+  "year": 1899,
+  "description": "The embittered old Bento Santiago, nicknamed Dom Casmurro, looks back on his boyhood love and marriage to the enigmatic Capitu, and on the jealousy, perhaps groundless, that convinced him she betrayed him with his best friend. Machado sets it in the real Rio of the Second Empire: the childhood house on Matacavalos and the wall between it and Capitu's, the seminary he is promised to, the church at Glória where his life turns, and the Flamengo shore where the sea takes his friend Escobar.",
+  "route": [
+    {
+      "order": 1,
+      "place": "matacavalos-house",
+      "displayName": "The Matacavalos house",
+      "country": "BR",
+      "lat": -22.913,
+      "lng": -43.19,
+      "reference": "The boyhood chapters",
+      "certainty": "approximate",
+      "summary": "In the comfortable, pious house on Matacavalos, the boy Bentinho is destined by his widowed mother's vow for the priesthood, a fate he dreads because he is already in love next door. The house, with its dependents and devotions, is the world the older, jealous Dom Casmurro tries to rebuild and re-read for signs of the betrayal he believes in.",
+      "note": "Bento grows up in a house on the Rua de Matacavalos, a real street of imperial Rio de Janeiro (now the Rua do Riachuelo); the specific house is invented and sited on that street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Rio_de_Janeiro"
+    },
+    {
+      "order": 2,
+      "place": "capitus-house-wall",
+      "displayName": "Capitu's house (the wall)",
+      "country": "BR",
+      "lat": -22.913,
+      "lng": -43.191,
+      "reference": "The young love chapters",
+      "certainty": "approximate",
+      "summary": "Over and through the garden wall, Bentinho and the clever, watchful Capitu conduct the childhood romance that will govern his life, in the book's tender, famous early scenes. Capitu, with her mysterious undertow eyes, is the enigma the whole novel circles: is she the faithful wife or the cunning betrayer the narrator insists she is?",
+      "note": "Capitu lives in the house next door, separated from Bento's only by a wall; the neighbouring house is invented and sited on the same real Matacavalos street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dom_Casmurro"
+    },
+    {
+      "order": 3,
+      "place": "the-seminary",
+      "displayName": "The seminary",
+      "country": "BR",
+      "lat": -22.91,
+      "lng": -43.182,
+      "reference": "The seminary chapters",
+      "certainty": "approximate",
+      "summary": "At the seminary Bento's vocation is a sham he endures for love of Capitu, while the family's oily hanger-on José Dias schemes and flatters on every side. It is through such manoeuvres, and Bento's own longing, that he is at last released from the Church and allowed to marry, though released, perhaps, into a worse bondage.",
+      "note": "Bento is sent to the São José seminary in Rio to fulfil his mother's vow; the seminary is drawn from the real ecclesiastical institutions of the imperial city and sited in the centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dom_Casmurro"
+    },
+    {
+      "order": 4,
+      "place": "gloria-church",
+      "displayName": "Glória (the church)",
+      "country": "BR",
+      "lat": -22.921,
+      "lng": -43.175,
+      "reference": "The marriage chapters",
+      "certainty": "exact",
+      "summary": "Married at last and settled in the elegant districts by the bay, Bento and Capitu have a son, and for a while are happy, until the seed of jealousy the narrator nurses begins to grow. The church of Glória, presiding over the bright harbour city, watches over a domestic happiness the older Dom Casmurro will insist was a lie all along.",
+      "note": "The fashionable neighbourhood of Glória and its landmark hilltop church of Nossa Senhora da Glória do Outeiro are real features of Rio; the married life of Bento and Capitu is sited in that part of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Outeiro_da_Gl%C3%B3ria_Church"
+    },
+    {
+      "order": 5,
+      "place": "flamengo-shore",
+      "displayName": "The Flamengo shore",
+      "country": "BR",
+      "lat": -22.93,
+      "lng": -43.175,
+      "reference": "The jealousy chapters",
+      "certainty": "exact",
+      "summary": "When the vigorous Escobar drowns in the sea at Flamengo, and Bento fancies he sees Capitu weep too much at the funeral, his jealousy hardens into conviction, and he decides their son is Escobar's. Machado leaves it forever uncertain whether any of it is true, and the reader, like Dom Casmurro, is left staring into Capitu's unreadable, undertow eyes.",
+      "note": "Bento's friend Escobar drowns swimming off the shore at Flamengo, the real beach on Guanabara Bay; the death and its aftermath are sited on that coast.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Flamengo,_Rio_de_Janeiro"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

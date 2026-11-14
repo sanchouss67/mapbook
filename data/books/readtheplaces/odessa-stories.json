@@ -1,0 +1,80 @@
+{
+  "id": "odessa-stories",
+  "title": "Odessa Stories",
+  "author": "Isaac Babel",
+  "year": 1931,
+  "description": "Babel's dazzling stories bring to life the Jewish underworld of Odessa in the years around the Revolution, above all the flamboyant gangster king Benya Krik. The real city is their stage: the Moldavanka, the poor Jewish quarter that is the gangsters' realm, the bustling port and its draymen, the taverns where the raids are planned, and the bourgeois centre along Deribasovskaya that the King's men so gorgeously rob.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-moldavanka",
+      "displayName": "The Moldavanka",
+      "country": "UA",
+      "lat": 46.47,
+      "lng": 30.72,
+      "reference": "The Benya Krik stories",
+      "certainty": "exact",
+      "summary": "In the crowded courtyards and carters' yards of the Moldavanka, Benya Krik, the King, rules the Jewish underworld with a swagger, a code and an unerring sense of theatre. Babel makes the slum quarter a place of gorgeous, murderous comedy, its raids and weddings staged like opera.",
+      "note": "The stories' underworld is the Moldavanka, the real poor Jewish quarter of Odessa, the turf of the gangster king Benya Krik and his men.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moldavanka"
+    },
+    {
+      "order": 2,
+      "place": "the-port-draymen",
+      "displayName": "The port (the draymen)",
+      "country": "UA",
+      "lat": 46.495,
+      "lng": 30.75,
+      "reference": "Froim Grach stories",
+      "certainty": "exact",
+      "summary": "The one-eyed old gangster Froim Grach, the brain behind the Moldavanka before Benya's rise, works the port and its trade in stolen goods and protection. The harbour, thronged with carts and cargoes, is the engine of the underworld's wealth and the stage of its older, harder generation.",
+      "note": "The port of Odessa and its carters and draymen are part of the gangster economy of the tales; the real harbour, one of the great ports of the Black Sea, grounds their world of smuggling and haulage.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_of_Odessa"
+    },
+    {
+      "order": 3,
+      "place": "lyubkas-tavern",
+      "displayName": "Lyubka's tavern",
+      "country": "UA",
+      "lat": 46.468,
+      "lng": 30.718,
+      "reference": "Lyubka the Cossack",
+      "certainty": "approximate",
+      "summary": "At Lyubka's rowdy tavern, a place of contraband, wet-nurses and hard bargaining, the appetites and schemes of the quarter come together under the fierce landlady's eye. Babel fills the yard with vivid life, the whole comedy of the Moldavanka in one crowded, quarrelling inn.",
+      "note": "The inn and yard of Lyubka the Cossack, where smugglers, sailors and gangsters drink and deal, is a fixture of the tales; sited among the real courtyards of the Moldavanka.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Odessa_Tales"
+    },
+    {
+      "order": 4,
+      "place": "deribasovskaya-centre",
+      "displayName": "Deribasovskaya (the raids)",
+      "country": "UA",
+      "lat": 46.485,
+      "lng": 30.742,
+      "reference": "The Benya Krik stories",
+      "certainty": "exact",
+      "summary": "Down in the elegant centre, along Deribasovskaya and its shops and offices, Benya Krik stages his robberies with a flair that makes even his victims admire him. The gap between the grand avenues and the slum yards is the charged space across which the King's gorgeous outlawry moves.",
+      "note": "The bourgeois centre of Odessa along Deribasovskaya, the real main street, is the wealthy city the gangsters raid; it grounds the contrast between the Moldavanka and the money it preys on.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Deribasovskaya_Street"
+    },
+    {
+      "order": 5,
+      "place": "the-jewish-quarter-home",
+      "displayName": "The Jewish quarter (the boy's home)",
+      "country": "UA",
+      "lat": 46.472,
+      "lng": 30.725,
+      "reference": "The autobiographical stories",
+      "certainty": "approximate",
+      "summary": "In the childhood stories a bookish Jewish boy comes of age in the same city, amid pogroms, a doting family and a hunger for the wide sunlit life the gangsters seem to embody. Babel sets his tender, terrifying coming-of-age against the same Odessa, the quarter that made both the scholar and the King.",
+      "note": "The autobiographical stories are set in the Jewish quarter where Babel's narrator grows up, near the Moldavanka; sited in that real district of old Odessa.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Odessa_Tales"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

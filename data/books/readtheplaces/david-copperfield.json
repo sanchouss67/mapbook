@@ -1,0 +1,80 @@
+{
+  "id": "david-copperfield",
+  "title": "David Copperfield",
+  "author": "Charles Dickens",
+  "year": 1850,
+  "description": "Dickens's most autobiographical novel follows David Copperfield from a Suffolk childhood through cruelty, child labour and hard-won fortune, across an England he renders with tender exactness. It maps a real country: the village of his birth, the Yarmouth beach where the Peggottys keep their upturned-boat home, the London warehouse of his degradation and the improvident Micawbers, and Canterbury and Dover, where his aunt Betsey Trotwood gives him a second chance.",
+  "route": [
+    {
+      "order": 1,
+      "place": "blunderstone",
+      "displayName": "Blunderstone",
+      "country": "GB",
+      "lat": 52.49,
+      "lng": 1.68,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the Suffolk village of Blunderstone, David's happy early childhood with his gentle mother is destroyed when she marries the cold, cruel Mr Murdstone, who beats the boy and packs him off. Dickens opens on the loss of an Eden, the tenderness of the beginning making all the harshness that follows cut the deeper.",
+      "note": "David's birthplace, Blunderstone, is drawn from the real Suffolk village of Blundeston; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Blundeston"
+    },
+    {
+      "order": 2,
+      "place": "yarmouth",
+      "displayName": "Yarmouth",
+      "country": "GB",
+      "lat": 52.61,
+      "lng": 1.73,
+      "reference": "The Yarmouth chapters",
+      "certainty": "exact",
+      "summary": "On the flat beach at Yarmouth, the fisherman Peggotty keeps house in an upturned boat with Ham and little Em'ly, and David finds there a warmth his own home has lost. Dickens makes the boat-house on the sands one of his most beloved images of homely refuge, the place of the book's kindest hearts and, in time, its bitterest tragedy.",
+      "note": "The Peggottys' home in an upturned boat on the beach at Great Yarmouth, the real Norfolk seaside town, is where David spends his happiest visits; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Yarmouth"
+    },
+    {
+      "order": 3,
+      "place": "london-warehouse",
+      "displayName": "London",
+      "country": "GB",
+      "lat": 51.51,
+      "lng": -0.09,
+      "reference": "The London chapters",
+      "certainty": "exact",
+      "summary": "Sent to drudge at a grimy warehouse by the Thames, the young David lodges with the perpetually insolvent but irrepressible Mr Micawber, forever sure that something will turn up. Dickens poured his own childhood humiliation into these chapters, and set against it the comic, hopeful warmth of Micawber, one of his greatest characters.",
+      "note": "David is put to menial labour at a riverside warehouse in London and lodges with the Micawbers, drawn from Dickens's own boyhood at Warren's blacking factory; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Dickens"
+    },
+    {
+      "order": 4,
+      "place": "canterbury",
+      "displayName": "Canterbury",
+      "country": "GB",
+      "lat": 51.28,
+      "lng": 1.08,
+      "reference": "The Canterbury chapters",
+      "certainty": "exact",
+      "summary": "Fleeing London, David walks to Dover and the fierce, kind aunt Betsey Trotwood, who sends him to school at Canterbury, where he boards with the Wickfields and meets the fawning, venomous clerk Uriah Heep. Dickens turns the story toward hope in the cathedral city, even as Heep's 'umble' plotting winds itself around the good Mr Wickfield.",
+      "note": "David walks to Dover to his aunt Betsey Trotwood and is schooled at Canterbury, lodging with the Wickfields where Uriah Heep schemes; both are real Kent towns and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canterbury"
+    },
+    {
+      "order": 5,
+      "place": "the-storm",
+      "displayName": "The Yarmouth storm",
+      "country": "GB",
+      "lat": 52.6,
+      "lng": 1.74,
+      "reference": "The storm chapter",
+      "certainty": "exact",
+      "summary": "A tremendous storm breaks over Yarmouth, and Ham dies in the surf trying to rescue a shipwrecked man who proves to be Steerforth, the charming friend who seduced and abandoned Em'ly. Dickens brings the strands together on the beach where the book's happiness began, the sea giving and taking in one of his most powerful set-pieces.",
+      "note": "The great storm off Yarmouth, in which Ham drowns trying to save the man who ruined Em'ly, is set on the real Norfolk coast; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/David_Copperfield"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

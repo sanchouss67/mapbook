@@ -1,0 +1,80 @@
+{
+  "id": "the-name-of-the-rose",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "year": 1980,
+  "description": "In 1327 the Franciscan friar William of Baskerville and his young novice Adso arrive at a rich Benedictine abbey in the mountains of northern Italy, where a series of deaths draws them into a labyrinthine library and a deadly secret about a forbidden book. Eco sets his medieval murder mystery at an unnamed monastery in the Ligurian Apennines: the scriptorium where the monks illuminate manuscripts, the great fortress-library of the Aedificium, the church and grounds, and the Inquisition that arrives to twist the search for truth.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-abbey",
+      "displayName": "The abbey",
+      "country": "IT",
+      "lat": 44.4,
+      "lng": 9,
+      "reference": "The first day",
+      "certainty": "approximate",
+      "summary": "William and Adso climb to a great Benedictine abbey perched in the mountains, wealthy, austere and already uneasy, where a young illuminator has just died in suspicious circumstances. Eco builds his whole world within these walls, a self-contained medieval universe of monks, relics, rivalries and rules into which the outsider William brings the disturbing light of reason.",
+      "note": "The wealthy Benedictine abbey is unnamed in the novel, located by Eco in the mountains of northern Italy between Provence and the Ligurian coast; it is sited in that Apennine region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Benedictines"
+    },
+    {
+      "order": 2,
+      "place": "the-scriptorium",
+      "displayName": "The scriptorium",
+      "country": "IT",
+      "lat": 44.401,
+      "lng": 9.001,
+      "reference": "The middle days",
+      "certainty": "approximate",
+      "summary": "In the scriptorium the monks bend over their copying and illumination, and one by one the men who work there begin to die, each death seemingly patterned on the visions of the Apocalypse. As William reads the clues among the desks and inks, the room of learning becomes the scene of a mystery whose solution lies locked above it.",
+      "note": "The scriptorium where the monks copy and illuminate manuscripts, and where several die, is drawn from the writing rooms of medieval abbeys; sited within the abbey.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Scriptorium"
+    },
+    {
+      "order": 3,
+      "place": "the-library",
+      "displayName": "The library (the Aedificium)",
+      "country": "IT",
+      "lat": 44.402,
+      "lng": 9.002,
+      "reference": "The library chapters",
+      "certainty": "approximate",
+      "summary": "At the abbey's heart rises the Aedificium, a labyrinthine library no monk may enter, guarded most fiercely by the blind old Jorge of Burgos. The deaths, William realises, all lead back to a single forbidden book hidden in the maze, and the mystery becomes a duel over whether knowledge, and laughter, should be free or locked away.",
+      "note": "The great fortress-library of the Aedificium, a labyrinth open only to the librarian, is Eco's invention drawn from the libraries of medieval monasteries; sited within the abbey.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Poetics_(Aristotle)"
+    },
+    {
+      "order": 4,
+      "place": "the-church",
+      "displayName": "The church and the tribunal",
+      "country": "IT",
+      "lat": 44.399,
+      "lng": 8.999,
+      "reference": "The Inquisition chapters",
+      "certainty": "approximate",
+      "summary": "When the inquisitor Bernard Gui arrives, the search for a murderer curdles into a heresy trial, and reason gives way to torture and the pyre. Eco sets against William's patient inquiry the terrible certainty of the Inquisition, which cares less for truth than for a confession that fits its fears.",
+      "note": "The abbey church and the hall where the inquisitor Bernard Gui holds his tribunal are drawn from the settings of the medieval Inquisition; sited within the abbey.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bernard_Gui"
+    },
+    {
+      "order": 5,
+      "place": "the-fire",
+      "displayName": "The fire",
+      "country": "IT",
+      "lat": 44.4005,
+      "lng": 9,
+      "reference": "The seventh day",
+      "certainty": "approximate",
+      "summary": "In the final confrontation in the labyrinth, Jorge would rather destroy the forbidden book, and himself, than let it be read, and the toppled lamp sets the whole library ablaze. Eco ends with the abbey burning for days, its treasures lost, and William's grim lesson that even the defence of truth can breed a fatal, murderous certainty.",
+      "note": "The catastrophic fire that consumes the library and the abbey closes the novel; sited within the abbey of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

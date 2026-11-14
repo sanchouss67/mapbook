@@ -1,0 +1,80 @@
+{
+  "id": "the-forty-days-of-musa-dagh",
+  "title": "The Forty Days of Musa Dagh",
+  "author": "Franz Werfel",
+  "year": 1933,
+  "description": "Based on a true episode of the Armenian genocide, Werfel's epic follows the Armenians of seven villages who, rather than submit to deportation in 1915, fortify the mountain of Musa Dagh above the Mediterranean and hold out for forty days until French warships take them off. The real coast of the old Vilayet of Aleppo, now Hatay, grounds it: the villages at the mountain's foot, the fortified plateau of the Damlayik, the sea below from which rescue comes, and the plain toward Antioch where the Ottoman power gathers.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-seven-villages",
+      "displayName": "The seven villages",
+      "country": "TR",
+      "lat": 36.22,
+      "lng": 35.96,
+      "reference": "Book 1",
+      "certainty": "approximate",
+      "summary": "Gabriel Bagradian, an Armenian long settled in Paris, has returned to his family's village below Musa Dagh with his French wife when the deportation orders come. As the villagers grasp that deportation means death, Gabriel, the one man among them with military training, persuades the seven villages to resist rather than march into the desert.",
+      "note": "The Armenians of seven villages at the foot of Musa Dagh, chief among them Yoghonoluk, are the community of the book; the villages are drawn from the real Armenian settlements of the mountain and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Musa_Dagh"
+    },
+    {
+      "order": 2,
+      "place": "the-mountain-defence",
+      "displayName": "Musa Dagh (the defence)",
+      "country": "TR",
+      "lat": 36.2,
+      "lng": 35.93,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "Gabriel lays out trenches and positions on the high plateau of the Damlayik, and the whole population, some five thousand souls with their flocks, climbs the mountain to make its stand. For forty days they beat back assault after assault, Werfel reconstructing the real siege as a last, heroic refusal of a people ordered to walk to their deaths.",
+      "note": "The villagers fortify the plateau of the Damlayik on Musa Dagh, the real mountain rising above the Mediterranean coast, and defend it against Ottoman troops; the mountain is the heart of the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Defense_of_Musa_Dagh"
+    },
+    {
+      "order": 3,
+      "place": "the-plateau-camp",
+      "displayName": "The plateau camp",
+      "country": "TR",
+      "lat": 36.205,
+      "lng": 35.925,
+      "reference": "Book 2",
+      "certainty": "approximate",
+      "summary": "The priest Ter Haigasun holds the little mountain republic together through hunger, quarrels and despair, its council, its altar and its dwindling stores. Werfel makes the camp a whole society under siege, its unity and its fractures, its faith and its fear, the moral centre of the epic.",
+      "note": "On the plateau the villagers build a camp of huts, an improvised town of the besieged; sited on the real heights of Musa Dagh, the exact camp the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Forty_Days_of_Musa_Dagh"
+    },
+    {
+      "order": 4,
+      "place": "the-coast-rescue",
+      "displayName": "The coast (the rescue)",
+      "country": "TR",
+      "lat": 36.21,
+      "lng": 35.9,
+      "reference": "Book 3",
+      "certainty": "exact",
+      "summary": "At the last extremity, with ammunition and food nearly gone, the besieged raise a great banner and light fires on the shore, and French naval vessels answer and evacuate the survivors to safety in Egypt. The sea, which had seemed only a wall at their backs, becomes the road of deliverance, and Gabriel's French wife Juliette part of the world that finally reaches them.",
+      "note": "As the defenders' strength gives out, French warships patrolling the eastern Mediterranean see their signal and take the survivors off the shore below Musa Dagh; the coast is the real one beneath the mountain.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Forty_Days_of_Musa_Dagh"
+    },
+    {
+      "order": 5,
+      "place": "the-plain-stephan",
+      "displayName": "The plain (Stephan)",
+      "country": "TR",
+      "lat": 36.18,
+      "lng": 36,
+      "reference": "Book 3",
+      "certainty": "exact",
+      "summary": "Gabriel's son Stephan, half his father's and half his French mother's, ventures down from the mountain onto the deadly plain and is caught and killed, the future the family hoped for destroyed. Gabriel himself, choosing to remain when the others are saved, dies alone on the mountain, the book closing on the terrible cost of even a victorious resistance.",
+      "note": "The plain below the mountain, toward Antioch, is Ottoman-held ground where the deportations proceed and death waits; sited on the real lowland between Musa Dagh and Antakya.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Forty_Days_of_Musa_Dagh"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

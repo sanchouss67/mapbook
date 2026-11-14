@@ -1,0 +1,80 @@
+{
+  "id": "the-dark-side-of-love",
+  "title": "The Dark Side of Love",
+  "author": "Rafik Schami",
+  "year": 2004,
+  "description": "Schami's vast Damascene saga braids a forbidden love across a blood feud between two clans with a murder mystery and a century of Syrian history. Old Damascus is its heart: the Christian quarter of Bab Touma where the clans live, the ancient Straight Street running through the walled city, the Umayyad Mosque at its centre, and the shadow of the secret police; the feud reaches back to the mountain village of Mala from which both families came.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bab-touma-quarter",
+      "displayName": "Bab Touma (the Christian quarter)",
+      "country": "SY",
+      "lat": 33.513,
+      "lng": 36.316,
+      "reference": "The clan chapters",
+      "certainty": "exact",
+      "summary": "In the courtyards and lanes of Bab Touma, the Mushtak and Shahin clans nurse an ancient feud, and into it are born Farid and Rana, who will love each other across the poisoned line. Schami fills the quarter with a whole world of relatives, priests, tradesmen and gossips, the dense social fabric the lovers must defy.",
+      "note": "The rival Christian clans of the novel live in and around Bab Touma, the real Christian quarter in the old walled city of Damascus; the district anchors the family saga.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bab_Touma"
+    },
+    {
+      "order": 2,
+      "place": "straight-street",
+      "displayName": "The Straight Street",
+      "country": "SY",
+      "lat": 33.51,
+      "lng": 36.315,
+      "reference": "The love story",
+      "certainty": "exact",
+      "summary": "Along the covered length of the Straight Street, past its shops and churches and courtyard houses, Farid and Rana snatch their forbidden meetings in a city where every relative is a spy. The old street, walked for two thousand years, carries their fragile, dangerous love through the heart of Damascus.",
+      "note": "The Straight Street, the Via Recta running through the old city from Bab Sharqi, is a real ancient thoroughfare of Damascus along which the lovers and the city's life move.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Street_Called_Straight"
+    },
+    {
+      "order": 3,
+      "place": "old-city-murder",
+      "displayName": "The old city (the murder)",
+      "country": "SY",
+      "lat": 33.511,
+      "lng": 36.31,
+      "reference": "The frame narrative",
+      "certainty": "exact",
+      "summary": "A dead man is found in the old city, and the patient Inspector Barudi, working against the interference of the secret police, unravels a killing rooted in the clans' long feud. Through his investigation Schami threads a whole century of Syrian politics, coups and repression into the private drama of love and revenge.",
+      "note": "The murder mystery that frames the saga is investigated through the streets of the old city; sited in the real walled Damascus where the body is found and the inspector begins his work.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ancient_City_of_Damascus"
+    },
+    {
+      "order": 4,
+      "place": "mala-village",
+      "displayName": "The village of Mala",
+      "country": "SY",
+      "lat": 33.85,
+      "lng": 36.1,
+      "reference": "The village chapters",
+      "certainty": "approximate",
+      "summary": "In the ancestral village of Mala in the mountains, the origins of the blood feud and of the patriarch Elias Mushtak's harsh pride are laid bare. The hard, honour-bound world of the hill village, carried down into Damascus, is the deep root of the enmity the lovers inherit and try to break.",
+      "note": "The clans trace their feud to the mountain village of Mala north of Damascus; the village is drawn from the real Christian hill villages of the Damascus mountains and sited there, outside the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Dark_Side_of_Love"
+    },
+    {
+      "order": 5,
+      "place": "umayyad-mosque",
+      "displayName": "The Umayyad Mosque",
+      "country": "SY",
+      "lat": 33.512,
+      "lng": 36.306,
+      "reference": "The Damascus chapters",
+      "certainty": "exact",
+      "summary": "Around the vast courtyard of the Umayyad Mosque and the old city that rings it, Schami sets the sweep of twentieth-century Damascus, its faiths, its politics and its cruelties. The mosque stands over the whole saga as the emblem of a city that absorbs empires and feuds alike into its endless, layered life.",
+      "note": "The great Umayyad Mosque at the centre of old Damascus is the ancient heart of the city the whole book inhabits; the real monument anchors its sense of a place layered with millennia.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umayyad_Mosque"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

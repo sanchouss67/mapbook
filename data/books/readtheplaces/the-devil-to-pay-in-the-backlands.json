@@ -1,0 +1,93 @@
+{
+  "id": "the-devil-to-pay-in-the-backlands",
+  "title": "The Devil to Pay in the Backlands",
+  "author": "João Guimarães Rosa",
+  "year": 1956,
+  "description": "Rosa's sertão is the vast dry backland of northern Minas Gerais and western Bahia, threaded by the São Francisco river and lifted into the high open plains the locals call the gerais. The ex-jagunço Riobaldo talks his whole life out in a single unbroken monologue, and its geography is deliberately diffuse: real towns and rivers surface as landmarks in a wandering that loops across hundreds of kilometres. The map runs north from Rosa's own country near Cordisburgo up the river past São Romão and São Francisco to the highland ranges near the Bahia border.",
+  "route": [
+    {
+      "order": 1,
+      "place": "cordisburgo",
+      "displayName": "Cordisburgo",
+      "country": "BR",
+      "lat": -19.1258,
+      "lng": -44.3203,
+      "reference": "Riobaldo's narration (frame)",
+      "certainty": "approximate",
+      "summary": "The whole book is one old man talking, and the talk comes out of country like this. Rosa was born in Cordisburgo, in central Minas, and grew up among the drovers and backland speech he later reworked into Riobaldo's monologue. It is where the storytelling begins, even though the wandering it describes lies further north.",
+      "note": "Cordisburgo does not appear in the novel; it is Rosa's birthplace and the country whose speech and cattle-droving world he carries into the book. It anchors the southern edge of the map as the source of the voice, not as a scene.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cordisburgo"
+    },
+    {
+      "order": 2,
+      "place": "andrequice",
+      "displayName": "Andrequicé",
+      "country": "BR",
+      "lat": -18.2762,
+      "lng": -44.9833,
+      "reference": "Riobaldo's narration (opening pages)",
+      "certainty": "exact",
+      "summary": "Early in the monologue Riobaldo measures the country by real places, and Andrequicé is one of them, weighed against the choice of going the straight overland way or the longer way by the river. The hamlet is bound up with the drover Manuelzão, whom Rosa met nearby in 1952 on the journey that fed the book.",
+      "note": "Andrequicé is named in the novel as a real reference point in the backland; today a district of Três Marias, its exact scene is not fixed, so the coordinate marks the village centre.",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/cultura/noticia/2016-07/apos-60-anos-de-grande-sertao-veredas-distrito-mineiro-respira-guimaraes"
+    },
+    {
+      "order": 3,
+      "place": "rio-sao-francisco",
+      "displayName": "Rio São Francisco",
+      "country": "BR",
+      "lat": -16.15,
+      "lng": -44.92,
+      "reference": "Riobaldo's narration",
+      "certainty": "exact",
+      "summary": "The great river cuts the sertão in two and every crossing in the book is an event, a border between one stretch of danger and the next. Riobaldo's jagunço wars are fought up and down its banks and its tributaries, and the river is the one fixed thing in a landscape the narrator otherwise remembers in loops.",
+      "note": "The São Francisco is the explicit spine of the novel's geography, but the narration crosses it at many points rather than one; the coordinate marks a representative reach of the channel in the sertão between São Romão and São Francisco.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River"
+    },
+    {
+      "order": 4,
+      "place": "sao-romao",
+      "displayName": "São Romão",
+      "country": "BR",
+      "lat": -16.3689,
+      "lng": -45.0722,
+      "reference": "Riobaldo's narration",
+      "certainty": "exact",
+      "summary": "An old river port on the São Francisco, São Romão is one of the named towns that give the wandering its bearings. Places like it, half-forgotten landings on the water, are where the bands resupply, cross, and pass through between the long stretches of open country.",
+      "note": "São Romão is a real town named in the novel, on the left bank of the São Francisco; the coordinate is the town seat, though the narration does not pin a single scene to a street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Rom%C3%A3o"
+    },
+    {
+      "order": 5,
+      "place": "sao-francisco",
+      "displayName": "São Francisco",
+      "country": "BR",
+      "lat": -15.9486,
+      "lng": -44.8644,
+      "reference": "Riobaldo's narration",
+      "certainty": "approximate",
+      "summary": "Further down the river the sertão opens into the drier northern backland, still crossed by ferry from one bank to the other. The town of São Francisco stands for this reach of Rosa's country, the world of ferrymen, cattle and small river ports that the jagunços move through on their way toward the Bahia frontier.",
+      "note": "São Francisco is a real river town in the northern sertão that Rosa knew, and it stands here for the down-river backland of the novel; it is marked inspired_by because the book evokes this stretch of country rather than staging a fixed scene in the town itself.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(Minas_Gerais)"
+    },
+    {
+      "order": 6,
+      "place": "serra-das-araras",
+      "displayName": "Serra das Araras",
+      "country": "BR",
+      "lat": -15.4344,
+      "lng": -45.3559,
+      "reference": "Riobaldo's narration",
+      "certainty": "approximate",
+      "summary": "In the far north the backland rises into the high plains and serras near the Bahia line, where the veredas, the palm-lined springs, break the dry cerrado. The Serra das Araras stands for this upland country of hard marches and crossings that closes the northern end of Riobaldo's wandering.",
+      "note": "The novel's jagunços cross highland ranges in the far sertão toward the Bahia border; the Serra das Araras is a real range of that country, but pinning a single ridge to the narration is inference, so the coordinate marks a representative point on the range near Chapada Gaúcha.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/Parque_Estadual_Serra_das_Araras"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

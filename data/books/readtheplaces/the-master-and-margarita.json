@@ -1,0 +1,93 @@
+{
+  "id": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "author": "Mikhail Bulgakov",
+  "year": 1967,
+  "description": "The Devil comes to atheist Soviet Moscow and turns it inside out. The map runs through the real city Bulgakov wrote from: a bench by Patriarch's Ponds, the writers' club drawn from Herzen House on Tverskoy Boulevard, and the haunted flat modelled on his own rooms on Bolshaya Sadovaya. A second thread, Pontius Pilate's Jerusalem, runs outside the city as a story within the story.",
+  "route": [
+    {
+      "order": 1,
+      "place": "patriarchs-ponds",
+      "displayName": "Patriarch's Ponds",
+      "country": "RU",
+      "lat": 55.7641,
+      "lng": 37.5919,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "On a hot spring evening a magazine editor and a young poet argue about whether God exists, and a courtly foreign stranger joins them to insist the Devil does. He foretells the editor's death in exact detail, and minutes later a tram makes it come true. This quiet park off the Garden Ring is where the novel's Moscow begins.",
+      "note": "Bulgakov names Patriarch's Ponds outright; sited at the small park and pond off the Garden Ring that still carries the name.",
+      "sourceUrl": "https://www.masterandmargarita.eu/en/04mappen/patriarch.html"
+    },
+    {
+      "order": 2,
+      "place": "herods-palace-jerusalem",
+      "displayName": "Herod's Palace, Jerusalem",
+      "country": "RU",
+      "lat": 31.7767,
+      "lng": 35.2276,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "A parallel thread carries the reader to Roman Judaea, where Pontius Pilate questions a wandering preacher named Yeshua and, against his own judgement, sends him to die. These chapters surface throughout the novel as the manuscript the Master has written. The scene belongs to Herod's former palace, the Roman governor's seat in Jerusalem.",
+      "note": "The Pilate chapters are a story within the story, set in Jerusalem rather than Moscow, so this point sits outside the book's setting. Bulgakov places the trial at Herod's palace; the procurator's Jerusalem residence stood at the citadel by the western wall, marked today by the Tower of David.",
+      "sourceUrl": "https://www.masterandmargarita.eu/en/02themas/pilatus.html"
+    },
+    {
+      "order": 3,
+      "place": "griboyedov-house-herzen-house",
+      "displayName": "Griboyedov House (Herzen House)",
+      "country": "RU",
+      "lat": 55.7625,
+      "lng": 37.6022,
+      "reference": "Chapter 5",
+      "certainty": "approximate",
+      "summary": "The literary bureaucracy gathers at a grand mansion housing the writers' union, its cheap restaurant more coveted than any manuscript. News of the editor's death interrupts the dancing. Bulgakov built this satire on the real Herzen House on Tverskoy Boulevard, where Soviet writers' groups kept their offices.",
+      "note": "Griboyedov House, headquarters of the writers' union MASSOLIT, is invented, but it is widely and explicitly modelled on the real Herzen House at 25 Tverskoy Boulevard, home to literary organisations in the 1920s and now the Gorky Literature Institute. Sited there.",
+      "sourceUrl": "https://www.masterandmargarita.eu/en/04mappen/gribojedov.html"
+    },
+    {
+      "order": 4,
+      "place": "bad-apartment-sadovaya",
+      "displayName": "The bad apartment, No. 50, Bolshaya Sadovaya",
+      "country": "RU",
+      "lat": 55.7669,
+      "lng": 37.5929,
+      "reference": "Chapter 7",
+      "certainty": "exact",
+      "summary": "The stranger and his retinue take over a flat whose tenants keep vanishing, and it becomes the base for their haunting of Moscow. Bulgakov set it at an invented address on Sadovaya but built it from the rooms he actually lived in at 10 Bolshaya Sadovaya, flat 50, which is now a museum to him.",
+      "note": "The novel gives the address as flat No. 50, 302-bis Sadovaya. That number is fictional, but it is openly drawn from Bulgakov's own flat No. 50 at 10 Bolshaya Sadovaya, now the Bulgakov Museum. Sited at the museum.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bulgakov_House_(Moscow)"
+    },
+    {
+      "order": 5,
+      "place": "variety-theatre",
+      "displayName": "The Variety Theatre",
+      "country": "RU",
+      "lat": 55.7697,
+      "lng": 37.5936,
+      "reference": "Chapter 12",
+      "certainty": "approximate",
+      "summary": "The stranger stages a black-magic show for a packed Moscow house: money rains from the ceiling, a fashion boutique appears on stage, and a heckler's head is briefly removed. The audience's greed is the real trick. The theatre is invented, but its model was the Music Hall in the round former circus building on Bolshaya Sadovaya, a short walk from the haunted flat.",
+      "note": "The Variety Theatre is fictional. Commentators point to the Moscow Music Hall of the 1920s and 30s, in the former Nikitin circus at 18 Bolshaya Sadovaya, now the Moscow Satire Theatre by Triumfalnaya Square. Sited there.",
+      "sourceUrl": "https://www.masterandmargarita.eu/en/04mappen/variete.html"
+    },
+    {
+      "order": 6,
+      "place": "margaritas-flight-over-moscow",
+      "displayName": "Margarita's flight over Moscow",
+      "country": "RU",
+      "lat": 55.7494,
+      "lng": 37.593,
+      "reference": "Chapter 21",
+      "certainty": "approximate",
+      "summary": "To be reunited with the Master, Margarita accepts the stranger's bargain, rubs herself with a magic cream and rises invisible over the rooftops. She soars above the streets and canals of central Moscow, settling a private score along the way. Her flight ties the Devil's Moscow together from the air.",
+      "note": "The novel never fixes Margarita's mansion to a single address, and her flight sweeps across the whole city. This point marks the old lanes of the Arbat, the central district her escape passes through, as a representative anchor.",
+      "sourceUrl": "https://www.masterandmargarita.eu/en/03karakters/margarita.html"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

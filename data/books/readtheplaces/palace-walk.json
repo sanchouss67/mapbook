@@ -1,0 +1,80 @@
+{
+  "id": "palace-walk",
+  "title": "Palace Walk",
+  "author": "Naguib Mahfouz",
+  "year": 1956,
+  "description": "In the Gamaliya quarter of old Cairo, the merchant al-Sayyid Ahmad Abd al-Jawad rules his household as a tyrant and lives his nights as a pleasure-seeker, while his cloistered wife Amina and their children chafe against his despotism and the world beyond the latticed windows. The first volume of Mahfouz's Cairo Trilogy maps the real old city: the family house on Bayn al-Qasrayn, the merchant's shop, the mosque of al-Husayn, the night world of Ezbekiyya, and the streets where the 1919 revolution against the British breaks out.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-family-house",
+      "displayName": "The house on Palace Walk",
+      "country": "EG",
+      "lat": 30.052,
+      "lng": 31.262,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "In the tall house on Palace Walk, Amina keeps a household run to her husband's iron rule, rising each night to wait up for him and never once permitted to leave the door. Mahfouz opens in this world of women behind the mashrabiya screens, its rhythms of prayer, coffee and obedience, the confined centre against which every rebellion in the book will push.",
+      "note": "The family house stands on Bayn al-Qasrayn (Palace Walk), a real street in the historic Gamaliya quarter of Cairo that gives the novel its title; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Muizz_Street"
+    },
+    {
+      "order": 2,
+      "place": "the-shop",
+      "displayName": "The merchant's shop",
+      "country": "EG",
+      "lat": 30.048,
+      "lng": 31.261,
+      "reference": "The shop chapters",
+      "certainty": "exact",
+      "summary": "By day al-Sayyid Ahmad presides genially over his store in the bustling commercial lanes, the respected merchant whose warmth to friends and customers is the mask of the domestic tyrant. Mahfouz splits his patriarch cleanly in two, the beloved man of the marketplace and the feared master of the house, and makes that hypocrisy the engine of the family's drama.",
+      "note": "al-Sayyid Ahmad runs a grocery and provisions store in the commercial heart of old Cairo near Khan el-Khalili; the shop is sited in that district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khan_el-Khalili"
+    },
+    {
+      "order": 3,
+      "place": "al-husayn-mosque",
+      "displayName": "The mosque of al-Husayn",
+      "country": "EG",
+      "lat": 30.0485,
+      "lng": 31.263,
+      "reference": "Amina's excursion",
+      "certainty": "exact",
+      "summary": "When her husband is away, Amina at last dares to walk the short distance to pray at the mosque of al-Husayn, the sacred heart of her quarter she has never been allowed to visit. The small outing, and the accident and disgrace that follow, become a quiet catastrophe, measuring the terrible narrowness of the world she is permitted.",
+      "note": "The mosque of al-Husayn, a real and revered shrine at the heart of the quarter, is the destination of Amina's rare, forbidden outing; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Hussein_Mosque"
+    },
+    {
+      "order": 4,
+      "place": "the-night-world",
+      "displayName": "The night world",
+      "country": "EG",
+      "lat": 30.055,
+      "lng": 31.245,
+      "reference": "The night chapters",
+      "certainty": "approximate",
+      "summary": "Away from the house, the father and his sensual elder son Yasin pursue their nights of singing-girls, wine and lovers in the pleasure quarters of the city. Mahfouz draws the vivid demimonde of old Cairo, and lets the appetites that the patriarch forbids his family run freely in the very men who impose the rule.",
+      "note": "al-Sayyid Ahmad's and his son Yasin's secret nights of music, drink and courtesans are drawn from the entertainment district around Ezbekiyya in early-twentieth-century Cairo; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ezbekiyya"
+    },
+    {
+      "order": 5,
+      "place": "the-1919-revolution",
+      "displayName": "The 1919 revolution",
+      "country": "EG",
+      "lat": 30.045,
+      "lng": 31.255,
+      "reference": "The closing chapters",
+      "certainty": "exact",
+      "summary": "As Egypt rises against the British in 1919, the idealistic student son Fahmy throws himself into the demonstrations against his father's furious command, and is shot dead in a peaceful march. Mahfouz binds the family's private tragedy to the nation's awakening, the patriarch's authority and the empire's alike beginning to crack in the same convulsive year.",
+      "note": "The 1919 Egyptian revolution against British rule, with its demonstrations and clashes in the streets of Cairo, is the real historical event that closes the novel; sited in the city's streets.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1919"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

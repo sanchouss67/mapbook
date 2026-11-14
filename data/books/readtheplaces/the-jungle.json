@@ -1,0 +1,93 @@
+{
+  "id": "the-jungle",
+  "title": "The Jungle",
+  "author": "Upton Sinclair",
+  "year": 1906,
+  "description": "A Lithuanian immigrant and his family come to Chicago for work and are ground down by the meatpacking industry. The map runs across the South Side: the real Union Stock Yards and the packinghouse district called Packingtown, the immigrant slum of Back of the Yards beside it, the dump and fertilizer works on its edge, and the downtown Loop where the ruined hero drifts at the end. Sinclair reported from the yards in 1904 before writing the book.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wedding-feast-saloon",
+      "displayName": "The wedding feast in Back of the Yards",
+      "country": "US",
+      "lat": 41.809,
+      "lng": -87.666,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The book opens on the wedding party of the two young immigrants, held in a rented hall behind a neighbourhood saloon. The old-country custom expects guests to give what they can to help the couple start out, but many eat, drink and leave without paying, and the family is left owing the saloon-keeper money it does not have. The celebration doubles as a first lesson in how the new city works.",
+      "note": "The novel opens at a hired hall behind a saloon in the packing district; the specific saloon is fictional, so it is sited in Back of the Yards, the real immigrant neighbourhood south and west of the stock yards where such halls stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Jungle"
+    },
+    {
+      "order": 2,
+      "place": "union-stock-yards",
+      "displayName": "The Union Stock Yards",
+      "country": "US",
+      "lat": 41.8157,
+      "lng": -87.6566,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "Newly arrived, the family walks out to the great stockyards and sees the scale of the place for the first time: mile on mile of cattle pens, the noise and smell of tens of thousands of animals, and the railway lines feeding them in. To the hero it looks like the centre of the working world and the promise of steady wages. The yards were an actual Chicago institution; only the limestone entrance gate on Exchange Avenue still stands today.",
+      "note": "Sinclair names the Union Stock Yards, the vast real livestock market on Chicago's South Side; sited at the yards, which ran between Halsted Street and Racine Avenue, 39th to 47th Street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Union_Stock_Yards"
+    },
+    {
+      "order": 3,
+      "place": "packingtown-killing-floors",
+      "displayName": "Packingtown: the killing floors",
+      "country": "US",
+      "lat": 41.815,
+      "lng": -87.66,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "The hero is hired on a killing floor, where animals are driven up a ramp and slaughtered, dismembered and processed at speed by a chain of workers each doing one repeated cut. Sinclair walks the reader through the plant to expose the filth of the process and the danger of the work: diseased meat waved through, injuries that end careers, and a pace set to wring the most from every hand. The packers are fictionalised, but the district and the industry were real.",
+      "note": "Sinclair calls the packinghouse district Packingtown and sets the killing floors there; the firms are given invented names but stand for the real Chicago packers, Armour and Swift, whose plants adjoined the yards.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Union_Stock_Yards"
+    },
+    {
+      "order": 4,
+      "place": "back-of-the-yards-tenement",
+      "displayName": "Back of the Yards: the family's house",
+      "country": "US",
+      "lat": 41.8067,
+      "lng": -87.6678,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "Persuaded by an agent, the family buys a small house on the instalment plan, only to discover the contract is a trap of hidden charges built to be foreclosed the moment a payment is missed. Home is the crowded immigrant district beside the plants, where the unpaved streets, open sewage and bad water feed constant sickness. The neighbourhood, Back of the Yards, was a real place; the swindle stands for the ones worked on immigrant buyers.",
+      "note": "The family buys a house in the slum beside the yards; the exact address is fictional, so it is sited in Back of the Yards, the real immigrant neighbourhood immediately south and west of Packingtown.",
+      "sourceUrl": "http://www.encyclopedia.chicagohistory.org/pages/109.html"
+    },
+    {
+      "order": 5,
+      "place": "dump-and-fertilizer-works",
+      "displayName": "The dump and the fertilizer works",
+      "country": "US",
+      "lat": 41.811,
+      "lng": -87.664,
+      "reference": "Chapter 9",
+      "certainty": "approximate",
+      "summary": "Out of better options, the hero takes the worst job in the plant, in the fertilizer works, where ground bone and waste fill the air with dust that sickens the men who breathe it. Nearby lies the district's great dump, where the poorest scavenge and children play amid the refuse. Sinclair uses both to show how nothing at the yards was wasted and how the cost of that efficiency fell on the people who lived in its shadow.",
+      "note": "Sinclair describes a great refuse dump and the packers' fertilizer plant at the edge of Packingtown; the exact spot is not named, so it is sited between Back of the Yards and the stock yards where such works stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Jungle"
+    },
+    {
+      "order": 6,
+      "place": "downtown-the-loop",
+      "displayName": "Downtown: the Loop",
+      "country": "US",
+      "lat": 41.8807,
+      "lng": -87.6278,
+      "reference": "Chapter 24",
+      "certainty": "exact",
+      "summary": "Broken by the loss of his family and his work, the hero drifts into the downtown streets, begging from the crowds and passing through the city's other half of wealth and comfort. Near the end he shelters in a hall where a socialist orator is speaking, and the speech gives the book its closing turn toward political hope. The Loop was and is the real heart of downtown Chicago.",
+      "note": "The later chapters move to downtown Chicago, where the hero begs on the streets and wanders into a political meeting; sited in the Loop, the real central business district around State and Madison.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chicago_Loop"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

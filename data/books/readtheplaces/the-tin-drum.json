@@ -1,0 +1,80 @@
+{
+  "id": "the-tin-drum",
+  "title": "The Tin Drum",
+  "author": "Günter Grass",
+  "year": 1959,
+  "description": "Grass's Danzig, the city he was born in and lost, is the whole stage of the novel: the Kashubian potato country to the west, the Langfuhr suburb where Oskar grows up beating his drum, the Old Town and its theatre, the Polish Post Office he helps defend as the war begins, and the harbour out at Neufahrwasser. The map runs from the fields inland to the Baltic mouth of the Dead Vistula, over what is now Poland.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kashubian-potato-field",
+      "displayName": "The potato field at Bissau",
+      "country": "PL",
+      "lat": 54.37069,
+      "lng": 18.46086,
+      "reference": "Book One, \"The Wide Skirt\"",
+      "certainty": "exact",
+      "summary": "The story starts a generation before the narrator is born, with his grandmother sitting among the potato fires at the edge of a Kashubian field. A man on the run from the police shelters under her wide skirts, and in that hiding place the narrator's mother is conceived. The Kashubians are the old Slavic people of the land around Danzig, and the scene roots the whole book in that countryside.",
+      "note": "The novel names Bissau, in the Kashubian country west of the city; today it is Bysewo, a quarter of Gdańsk in the Kokoszki district. The pin marks that settlement, since the field itself is unmarked farmland.",
+      "sourceUrl": "https://pl.wikipedia.org/wiki/Bysewo"
+    },
+    {
+      "order": 2,
+      "place": "langfuhr-wrzeszcz",
+      "displayName": "Oskar's Langfuhr",
+      "country": "PL",
+      "lat": 54.383,
+      "lng": 18.617,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "Langfuhr, a suburb of the city, is where the narrator spends his childhood above his parents' grocery shop, refusing to grow past the height of a three-year-old and beating a tin drum against the adult world. It is the German name for today's Wrzeszcz, the same neighbourhood where Grass was born, and much of the middle of the book plays out on its streets and in its flats and yards.",
+      "note": "The novel names Langfuhr, now the Gdańsk district of Wrzeszcz; the family's street, Labesweg, is invented, modelled on the Wrzeszcz street where Grass himself grew up. The pin marks the district centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wrzeszcz"
+    },
+    {
+      "order": 3,
+      "place": "danzig-old-town",
+      "displayName": "The Old Town of Danzig",
+      "country": "PL",
+      "lat": 54.3497,
+      "lng": 18.6482,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The old heart of the city is the stage for the narrator's stranger gifts: a voice that can shatter glass at a distance, first tried out against the windows of the municipal theatre, and the toy shop of a Jewish dealer who keeps him in fresh drums until the violence of the late 1930s destroys him. This is the tourist-postcard Danzig of gabled houses, now the rebuilt Main City of Gdańsk.",
+      "note": "The novel moves through the inner city without fixing every scene to a street; the pin marks the Long Market, Długi Targ, as a representative point in the historic core where the theatre and the toy shop sit.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/D%C5%82ugi_Targ"
+    },
+    {
+      "order": 4,
+      "place": "neufahrwasser-harbour",
+      "displayName": "The harbour breakwater at Neufahrwasser",
+      "country": "PL",
+      "lat": 54.40526,
+      "lng": 18.6748,
+      "reference": "Book One, \"Good Friday Fare\"",
+      "certainty": "exact",
+      "summary": "On a Good Friday outing to the harbour, the family watches a dockworker haul a horse's head from the water and pull live eels out of it, one of the book's most notorious images. The disgust of the scene helps push the narrator's mother into her final decline. Neufahrwasser, the harbour at the sea mouth of the river, is today the Gdańsk district of Nowy Port.",
+      "note": "The novel names Neufahrwasser, the harbour district now called Nowy Port; the pin marks the breakwater at the mouth of the Dead Vistula, the setting of the Good Friday scene.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nowy_Port"
+    },
+    {
+      "order": 5,
+      "place": "polish-post-office",
+      "displayName": "The Polish Post Office",
+      "country": "PL",
+      "lat": 54.355,
+      "lng": 18.65694,
+      "reference": "Book One, \"The Polish Post Office\"",
+      "certainty": "exact",
+      "summary": "The narrator is caught inside the Polish Post Office on 1 September 1939 when SS troops attack it, one of the first actions of the Second World War. The defenders hold out for hours before they are forced to surrender, and many are later shot. The building survives on the square now named for its defenders and houses a museum to them.",
+      "note": "A real building on what is now Plac Obrońców Poczty Polskiej, defended in September 1939 and today the Museum of the Polish Post Office. The coordinates are the building itself.",
+      "sourceUrl": "https://muzeumgdansk.pl/en/oddzialy-muzeum/museum-of-the-polish-post-office/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

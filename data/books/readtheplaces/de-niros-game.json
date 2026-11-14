@@ -1,0 +1,93 @@
+{
+  "id": "de-niros-game",
+  "title": "De Niro's Game",
+  "author": "Rawi Hage",
+  "year": 2006,
+  "description": "Rawi Hage's Beirut is the Christian East of the 1980s civil war: the tight streets of Achrafieh, the militia checkpoints and rooftop gunners, the port and the coast road north to the casino, all pressed against the Green Line that split the city from downtown south to the National Museum. The map runs from that dividing line across East Beirut to the harbour, then follows Bassam's flight out of the country.",
+  "route": [
+    {
+      "order": 1,
+      "place": "achrafieh-quarter",
+      "displayName": "Achrafieh, East Beirut",
+      "country": "LB",
+      "lat": 33.886889,
+      "lng": 35.51917,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The story is rooted in Achrafieh, the old Christian district of East Beirut, where two young men grow up under falling shells and passing militias. It is home, hideout and recruiting ground at once, the place both of them are trying to leave without knowing how.",
+      "note": "Achrafieh is named in the novel as the Christian East Beirut district the two friends belong to; the specific flats and stairwells are unidentified, so this marks the centre of the quarter.",
+      "sourceUrl": "https://latitude.to/satellite-map/lb/lebanon/26995/achrafieh"
+    },
+    {
+      "order": 2,
+      "place": "the-green-line",
+      "displayName": "The Green Line at the National Museum",
+      "country": "LB",
+      "lat": 33.8778,
+      "lng": 35.5153,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The war splits Beirut in two along a no man's land of gutted buildings and sniper fire. The crossing at the National Museum, on the old dividing line, is where East and West meet and where anyone moving between the two halves of the city runs the gauntlet.",
+      "note": "The novel returns to the demarcation line dividing the city; the line ran along Damascus Road, and this marks its best-known crossing at the National Museum, the Museum passage between East and West Beirut.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Beirut"
+    },
+    {
+      "order": 3,
+      "place": "martyrs-square",
+      "displayName": "Martyrs' Square, downtown",
+      "country": "LB",
+      "lat": 33.8911,
+      "lng": 35.5042,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The prewar heart of the city, Martyrs' Square, sits at the top of the dividing line and by the 1980s is a ruined frontier of shuttered souks and shell holes. It stands for everything the war has hollowed out of Beirut's old centre.",
+      "note": "Martyrs' Square is a real downtown landmark at the northern end of the Green Line; the novel's downtown scenes are not tied to a single building, so this marks the square itself.",
+      "sourceUrl": "https://latitude.to/satellite-map/lb/lebanon/40694/martyrs-square-beirut"
+    },
+    {
+      "order": 4,
+      "place": "port-of-beirut",
+      "displayName": "The port of Beirut",
+      "country": "LB",
+      "lat": 33.9018,
+      "lng": 35.5173,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The harbour is where the war's money moves: looted cargo, smuggled goods and the protection rackets the militias run on the docks. Bassam is drawn toward the port and its stolen fortunes as a way out of a life with no other exits.",
+      "note": "The harbour figures in the novel's world of smuggling and militia rackets; no single wharf is named, so this marks the working port on the eastern side of the city.",
+      "sourceUrl": "https://latitude.to/satellite-map/lb/lebanon/49864/port-of-beirut"
+    },
+    {
+      "order": 5,
+      "place": "casino-du-liban",
+      "displayName": "Casino du Liban, Maameltein",
+      "country": "LB",
+      "lat": 34.015,
+      "lng": 35.6405,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "North of the city, along the Christian-held coast toward Jounieh, the Casino du Liban keeps its lights on through the war. Its roulette wheels and easy cash mark the other face of the conflict, the profiteering and vice that run alongside the fighting.",
+      "note": "The Casino du Liban is a real establishment on the coast north of Beirut, in the wartime Christian heartland; the novel's casino scene points to it, and this marks the building at Maameltein near Jounieh.",
+      "sourceUrl": "https://latitude.to/satellite-map/lb/lebanon/47156/casino-du-liban"
+    },
+    {
+      "order": 6,
+      "place": "paris-exile",
+      "displayName": "Paris",
+      "country": "LB",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "Escaping the war, Bassam reaches Europe and Paris, where the violence of Beirut follows him into exile among the Lebanese diaspora and old scores still to settle. The city is a refuge that turns out to be no clean break from home.",
+      "note": "Bassam leaves Lebanon for Europe in the novel's later part; Paris is named as a destination and lies far outside the Beirut setting, so it is flagged as a deliberate excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paris"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

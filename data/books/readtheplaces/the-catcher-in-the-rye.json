@@ -1,0 +1,93 @@
+{
+  "id": "the-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "author": "J. D. Salinger",
+  "year": 1951,
+  "description": "Having got himself thrown out of yet another prep school, Holden Caulfield spends two lost days drifting around Manhattan before he has to face his parents. The city is precisely his: Grand Central where he sleeps on a bench, the frozen pond in Central Park where he keeps wondering where the ducks go, the unchanging dioramas at the Museum of Natural History, and the carousel where his sister Phoebe rides in the rain at the end.",
+  "route": [
+    {
+      "order": 1,
+      "place": "grand-central-terminal",
+      "displayName": "Grand Central Terminal",
+      "country": "US",
+      "lat": 40.7527,
+      "lng": -73.9772,
+      "reference": "Chapters 20-21",
+      "certainty": "exact",
+      "summary": "Grand Central is where the city takes Holden in and where it lets him down. He rides in from Pencey, and after his money and his nerve run out he sleeps here among the strangers, waking cold and low and more alone than at any point in the book.",
+      "note": "Holden arrives in Manhattan by train and, later, out of money and nowhere to go, spends part of a night sleeping on a bench in the waiting room at Grand Central, the real terminal on 42nd Street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Central_Terminal"
+    },
+    {
+      "order": 2,
+      "place": "edmont-hotel",
+      "displayName": "The Edmont Hotel",
+      "country": "US",
+      "lat": 40.754,
+      "lng": -73.984,
+      "reference": "Chapters 9-13",
+      "certainty": "approximate",
+      "summary": "Holden checks into the Edmont alone, watches the strange guests across the airshaft, and gets talked into sending up a prostitute, Sunny, only to want to talk instead. The night ends with the elevator man Maurice beating him for the fare, one more of the city's small cruelties.",
+      "note": "The seedy Edmont Hotel where Holden takes a room is invented; the novel places it in midtown Manhattan among the hotels near Grand Central. Sited in that midtown hotel district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+    },
+    {
+      "order": 3,
+      "place": "radio-city-skating",
+      "displayName": "Radio City (the skating date)",
+      "country": "US",
+      "lat": 40.7599,
+      "lng": -73.9799,
+      "reference": "Chapter 17",
+      "certainty": "exact",
+      "summary": "The disastrous date with Sally, all forced enthusiasm and skating on rented skates, tips over when Holden begs her to run away with him to the woods and she refuses. His inability to connect even here, in the bright heart of the city, deepens his drift toward breakdown.",
+      "note": "Holden's date with Sally Hayes takes them to a show and to ice-skating at Radio City in Rockefeller Center, the real music hall and rink in midtown.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall"
+    },
+    {
+      "order": 4,
+      "place": "museum-of-natural-history",
+      "displayName": "The American Museum of Natural History",
+      "country": "US",
+      "lat": 40.7813,
+      "lng": -73.974,
+      "reference": "Chapter 16",
+      "certainty": "exact",
+      "summary": "The museum gives Holden his clearest statement of what he wants: the dioramas never change, the Eskimo is always fishing, while you come back each year a little different. His longing to freeze childhood in place, to be the catcher who stops children falling, is the ache at the centre of the book.",
+      "note": "Holden walks to the American Museum of Natural History on Central Park West, the real museum whose glass dioramas he remembers from school trips.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/American_Museum_of_Natural_History"
+    },
+    {
+      "order": 5,
+      "place": "central-park-lagoon",
+      "displayName": "The Central Park lagoon (the ducks)",
+      "country": "US",
+      "lat": 40.7666,
+      "lng": -73.9743,
+      "reference": "Chapter 20",
+      "certainty": "exact",
+      "summary": "The question he keeps asking cab drivers, where the ducks go when the pond freezes over, is Holden's small, unanswered way of asking what happens to the vulnerable when their world closes in. He finds the half-frozen pond in the dark and stands there, half-hoping he might get pneumonia.",
+      "note": "Holden goes looking for the pond in the south-east corner of Central Park to see whether the ducks are still there in the cold; the Pond is a real feature of the park.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+    },
+    {
+      "order": 6,
+      "place": "central-park-carousel",
+      "displayName": "The Central Park Carousel",
+      "country": "US",
+      "lat": 40.7698,
+      "lng": -73.9776,
+      "reference": "Chapter 25",
+      "certainty": "exact",
+      "summary": "In the rain, Holden sits on a bench and watches his little sister go round and round on the carousel, reaching for the gold ring, and is suddenly so happy he could cry. It is the one moment of peace in the book, the catcher letting the child ride and risk and be herself.",
+      "note": "The book closes at the carousel in Central Park, the real merry-go-round near the 65th Street transverse, where Holden watches Phoebe ride.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Central_Park_Carousel"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

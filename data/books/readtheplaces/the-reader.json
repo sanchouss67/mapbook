@@ -1,0 +1,80 @@
+{
+  "id": "the-reader",
+  "title": "The Reader",
+  "author": "Bernhard Schlink",
+  "year": 1995,
+  "description": "Schlink never names the city, but its river, old bridge and hillside castle are unmistakably his own Heidelberg, on the Neckar in the Rhine-Neckar region. A fifteen-year-old and an older woman meet here; a generation later the story reaches out to a war-crimes court near Frankfurt and a former camp in the Alsace hills.",
+  "route": [
+    {
+      "order": 1,
+      "place": "neckar-old-bridge-altstadt",
+      "displayName": "The Neckar and the Old Bridge, Altstadt",
+      "country": "DE",
+      "lat": 49.4145,
+      "lng": 8.7095,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The novel's home ground is a river town with a steep old quarter and a bridge across the water. The narrator is a schoolboy here when a sudden illness in the street begins the affair that shapes his life, and the Neckar and its old bridge fix the setting as Heidelberg without the book ever saying so.",
+      "note": "Schlink leaves the city unnamed, but the river, the arched old bridge and the castle on the hill above the old town are drawn from his own Heidelberg, so this marks the Karl-Theodor-Brücke over the Neckar.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Old_Bridge_(Heidelberg)"
+    },
+    {
+      "order": 2,
+      "place": "hanna-flat-bahnhofstrasse",
+      "displayName": "Hanna's flat, Bahnhofstrasse",
+      "country": "DE",
+      "lat": 49.406,
+      "lng": 8.6828,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The older woman lives in a plain flat up a worn staircase in an old building near the railway. It becomes the room where the boy reads aloud to her, book after book, before each meeting. The story ties it to the Bahnhofstrasse; the building itself is not identified.",
+      "note": "The city is never named and no exact address is given; the book places the tram conductor's flat in an old building on the Bahnhofstrasse, so this marks that street in Heidelberg's Bergheim quarter as a representative point.",
+      "sourceUrl": "https://www.openstreetmap.org/search?query=Bahnhofstrasse%20Heidelberg"
+    },
+    {
+      "order": 3,
+      "place": "michael-gymnasium-altstadt",
+      "displayName": "Michael's gymnasium",
+      "country": "DE",
+      "lat": 49.4112,
+      "lng": 8.706,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The narrator is a gymnasium pupil skipping classes and slipping out to meet the older woman, then hiding the affair from schoolfriends on a swimming afternoon. The book keeps the school unnamed; a grammar school in the old town fits the walk between his lessons, the river and her flat.",
+      "note": "The narrator's grammar school is never named, and the city is left unnamed but is modelled on Heidelberg; this marks the Kurfuerst-Friedrich-Gymnasium in the old town as a plausible stand-in for the boy's school.",
+      "sourceUrl": "https://de.wikipedia.org/wiki/Kurf%C3%BCrst-Friedrich-Gymnasium"
+    },
+    {
+      "order": 4,
+      "place": "war-crimes-court-frankfurt",
+      "displayName": "The war-crimes court near Frankfurt",
+      "country": "DE",
+      "lat": 50.1165,
+      "lng": 8.6897,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Years later, a law student, the narrator sits in on a trial of former camp guards and recognises one of the defendants. The proceedings echo the real war-crimes trials heard in the courts around Frankfurt, far enough north that the daily journey marks the distance the story has travelled from the river town.",
+      "note": "The court city is not named, but the novel sets the trial a train ride north of the unnamed home town, in the Frankfurt orbit where West Germany's real concentration-camp trials were held; this marks the Landgericht in Frankfurt am Main, about ninety kilometres north of Heidelberg.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1802838"
+    },
+    {
+      "order": 5,
+      "place": "natzweiler-struthof-camp",
+      "displayName": "The former camp, Natzweiler-Struthof",
+      "country": "DE",
+      "lat": 48.4547,
+      "lng": 7.2544,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Trying to grasp what the trial is about, the narrator makes a long drive to a preserved camp and walks the silent terraces of huts and wire. The site answers to Natzweiler-Struthof in the Alsace mountains, a real memorial reached across the Rhine and far from the river town where the story began.",
+      "note": "During the trial the narrator drives to a preserved camp site in Alsace; the book points to the former Natzweiler-Struthof camp in the Vosges hills, the only Nazi concentration camp on French soil, well outside the Heidelberg setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Natzweiler-Struthof_concentration_camp"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

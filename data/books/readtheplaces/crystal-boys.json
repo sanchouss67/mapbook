@@ -1,0 +1,80 @@
+{
+  "id": "crystal-boys",
+  "title": "Crystal Boys",
+  "author": "Pai Hsien-yung",
+  "year": 1983,
+  "description": "Expelled from home for his sexuality, the young A-Qing joins the hidden community of gay youths who gather after dark in Taipei's New Park, a secret 'kingdom of the night' with its own laws and legends. Pai maps the real city of the early 1970s: New Park with its lotus pond, the bar the outcasts open together, the family homes and military-dependents' villages they are cast out of, and the neon nightlife of Ximending.",
+  "route": [
+    {
+      "order": 1,
+      "place": "new-park-kingdom",
+      "displayName": "New Park (the kingdom)",
+      "country": "TW",
+      "lat": 25.04,
+      "lng": 121.515,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Thrown out by his father, A-Qing finds his way to New Park at night, where a hidden community of gay boys and their elders has made a 'kingdom' with its own history and rules. Pai turns the real park, forbidden and tender, into a whole secret world, a refuge for those cast out of every other.",
+      "note": "The heart of the novel is New Park, now the 228 Peace Memorial Park in central Taipei, the real nocturnal gathering place of the city's outcast gay youths in the 1970s.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/228_Peace_Memorial_Park"
+    },
+    {
+      "order": 2,
+      "place": "the-lotus-pond",
+      "displayName": "The lotus pond",
+      "country": "TW",
+      "lat": 25.0405,
+      "lng": 121.5155,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "By the lotus pond the boys tell the legend of Wang Kuilong, the Dragon Prince, who out of a doomed love killed his beautiful lover A-Feng years before and vanished into exile. His story haunts the kingdom, the pattern of desire, jealousy and self-destruction against which the younger boys measure their own hearts.",
+      "note": "The lotus pond at the centre of New Park is the real feature around which the community gathers, and the site of its most famous, tragic legend; sited in the park.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crystal_Boys"
+    },
+    {
+      "order": 3,
+      "place": "the-cozy-nest-bar",
+      "displayName": "The Cozy Nest bar",
+      "country": "TW",
+      "lat": 25.045,
+      "lng": 121.52,
+      "reference": "Part 3",
+      "certainty": "approximate",
+      "summary": "For a while the outcasts try to build something lasting in a bar of their own, a warmer, safer version of the park's kingdom, watched over by elders like the old photographer who has documented them for decades. The fragile enterprise, and the ties of makeshift family it fosters, is the book's image of community wrested from rejection.",
+      "note": "The boys and their patrons open a bar together as a gathering place away from the park; the specific bar is invented and sited in the real central Taipei nightlife.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crystal_Boys"
+    },
+    {
+      "order": 4,
+      "place": "a-qing-home",
+      "displayName": "A-Qing's home (the expulsion)",
+      "country": "TW",
+      "lat": 25.03,
+      "lng": 121.53,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "The wound at A-Qing's centre is his violent expulsion by his soldier father and the earlier loss of his mother, the family and its shame he can never quite leave behind. Pai sets the harshness of the ordinary home against the tenderness of the park, the two poles of belonging and rejection the whole book turns on.",
+      "note": "A-Qing is cast out of his family home, drawn from the poor military-dependents' villages of 1970s Taipei; the home is invented and sited in that real kind of neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Crystal_Boys"
+    },
+    {
+      "order": 5,
+      "place": "ximending-nightlife",
+      "displayName": "Ximending (the nightlife)",
+      "country": "TW",
+      "lat": 25.044,
+      "lng": 121.507,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "Through the neon crowds of Ximending and the wider night city, the boys hustle, love and survive, helped by fatherly figures like Papa Fu, who mourns a lost son of his own. Pai closes on the endurance of these makeshift kinships, a tenderness surviving in the dark kingdom against all the daylight world's contempt.",
+      "note": "The neon entertainment district of Ximending, a real quarter of central Taipei, is part of the nocturnal city the boys move through; sited in that real nightlife area.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ximending"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

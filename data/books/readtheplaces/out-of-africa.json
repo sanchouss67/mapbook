@@ -1,0 +1,78 @@
+{
+  "id": "out-of-africa",
+  "title": "Out of Africa",
+  "author": "Karen Blixen",
+  "year": 1937,
+  "description": "Blixen's memoir of the years she ran a coffee farm in colonial Kenya opens with the line that fixes the place forever: she had a farm in Africa, at the foot of the Ngong Hills. The map holds that real country outside Nairobi, the farmhouse that is now a museum, the ridge of the Ngong Hills, the town and the settlers' club, and the coast at Mombasa where the journey began. It brings Kenya and the East African highlands into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-farm",
+      "displayName": "The farm at the foot of the Ngong Hills",
+      "country": "KE",
+      "lat": -1.3517,
+      "lng": 36.7117,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The coffee farm on the highlands outside Nairobi is the centre of the whole book, the place Blixen loved and slowly lost as the crop failed and the debts grew. Her house still stands, kept as a museum, and the suburb that grew up around it carries her name. Everything in the memoir is measured against this ground.",
+      "note": "Blixen's farmhouse survives as the Karen Blixen Museum in the Nairobi suburb of Karen, which is named after her. The pin marks the real house and grounds.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karen_Blixen_Museum,_Kenya"
+    },
+    {
+      "order": 2,
+      "place": "ngong-hills",
+      "displayName": "The Ngong Hills",
+      "country": "KE",
+      "lat": -1.4,
+      "lng": 36.6333,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The four-knuckled ridge of the Ngong Hills stands over the farm, the horizon of nearly every scene and the place where Blixen and Denys Finch Hatton planned to be buried. The hills are real, a spur of the Rift Valley wall southwest of Nairobi, and they give the book its fixed point of longing. Finch Hatton's grave is on their eastern slope.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ngong_Hills"
+    },
+    {
+      "order": 3,
+      "place": "nairobi",
+      "displayName": "Nairobi",
+      "country": "KE",
+      "lat": -1.2864,
+      "lng": 36.8172,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Nairobi is the town Blixen rides into for business, society and the law, the young colonial capital of railway sheds, dukas and offices a dozen miles from the farm. It is where the machinery of the colony operates, and where the distance between the settlers and the Kikuyu and Maasai around them is administered. The city has since grown out to meet the farm.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nairobi"
+    },
+    {
+      "order": 4,
+      "place": "muthaiga-club",
+      "displayName": "The Muthaiga Club",
+      "country": "KE",
+      "lat": -1.25,
+      "lng": 36.83,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The pink Muthaiga Club is the social fortress of colonial Kenya, where the settlers dine, drink and gossip away from the farms. It is where much of the memoir's human comedy and its snobbery play out, and where Blixen's independence sets her a little apart. The club still stands north of the city.",
+      "note": "The Muthaiga Country Club is a real 1913 settlers' club in the Muthaiga suburb north of central Nairobi; the pin marks its district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muthaiga_Country_Club"
+    },
+    {
+      "order": 5,
+      "place": "mombasa",
+      "displayName": "The port of Mombasa",
+      "country": "KE",
+      "lat": -4.0435,
+      "lng": 39.6682,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Mombasa, the old Swahili port on the Indian Ocean, is where travellers from Europe land and take the railway up to the highlands. It is the door to the country, the hot coast that must be crossed to reach the cool farm, and the edge of the world the memoir keeps at its back. The port is real and ancient.",
+      "note": "Mombasa lies on the Indian Ocean coast roughly 480 km southeast of the farm; it is set outsideSetting as the arrival point far beyond the highland bounding box.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mombasa"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

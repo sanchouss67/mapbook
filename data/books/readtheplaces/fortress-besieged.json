@@ -1,0 +1,80 @@
+{
+  "id": "fortress-besieged",
+  "title": "Fortress Besieged",
+  "author": "Qian Zhongshu",
+  "year": 1947,
+  "description": "Qian Zhongshu's great comic novel follows Fang Hongjian, home from Europe with a bought diploma, through the pretensions of 1930s Shanghai society, a farcical journey to a shabby university in the interior, and a marriage that proves the book's famous image: a besieged fortress, which those outside want to storm and those inside want to escape. The city anchors it, its returning ships, salons and matchmaking, before the long trek inland and the disillusioned return.",
+  "route": [
+    {
+      "order": 1,
+      "place": "shanghai-return",
+      "displayName": "Shanghai (the return)",
+      "country": "CN",
+      "lat": 31.24,
+      "lng": 121.49,
+      "reference": "Chapters 1-2",
+      "certainty": "exact",
+      "summary": "Returning with a fraudulent doctorate bought by mail, the weak, clever, self-deceiving Fang steps back into a Shanghai of anxious families, matchmakers and Western airs. The city's mix of pretension and appetite is the arena in which his aimless drift toward the wrong marriage begins.",
+      "note": "Fang Hongjian sails home to Shanghai from Europe, and the real city, its harbour and its Westernised society, is where the novel's comedy of manners begins.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_Shanghai"
+    },
+    {
+      "order": 2,
+      "place": "shanghai-salon-su",
+      "displayName": "Shanghai society (Miss Su)",
+      "country": "CN",
+      "lat": 31.215,
+      "lng": 121.46,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "The polished Miss Su, a genuine doctorate to Fang's fake one, angles to marry him, and he lacks the nerve either to accept or to refuse cleanly. Qian uses the drawing-room manoeuvres of this cosmopolitan Shanghai to expose the vanity and cowardice under its Western polish.",
+      "note": "The elegant, calculating Miss Su holds court in the salons of the Shanghai foreign concessions, part of the returned-student society the novel skewers; sited in the real French Concession quarter.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+    },
+    {
+      "order": 3,
+      "place": "shanghai-tang",
+      "displayName": "Shanghai (Miss Tang)",
+      "country": "CN",
+      "lat": 31.225,
+      "lng": 121.445,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "In the one true feeling of the book, Fang loves the frank, unspoiled Miss Tang, only to lose her through his own weakness and Miss Su's spite. The failure sends him, humiliated, to take a teaching post far in the interior, the first fortress he flees rather than wins.",
+      "note": "Fang falls for Miss Su's fresh young cousin Miss Tang amid the parks and streets of Shanghai; sited in the real central city where the romance blooms and fails.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+    },
+    {
+      "order": 4,
+      "place": "sanlu-university",
+      "displayName": "The journey to Sanlü University",
+      "country": "CN",
+      "lat": 27,
+      "lng": 111,
+      "reference": "Chapters 5-7",
+      "certainty": "approximate",
+      "summary": "The miserable trek to the third-rate university in the interior, all bad roads, worse inns and petty academic intrigue, is the book's central comic set-piece. Thrown together on the way with Miss Sun, Fang slides, half against his will, toward the marriage that will become his tightest fortress.",
+      "note": "Fang and his colleagues make a long, farcical wartime journey inland to the shabby Sanlü University; the university is invented and sited in the real provincial interior of southern China, far from Shanghai.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+    },
+    {
+      "order": 5,
+      "place": "shanghai-besieged-marriage",
+      "displayName": "Shanghai (the besieged marriage)",
+      "country": "CN",
+      "lat": 31.23,
+      "lng": 121.47,
+      "reference": "Chapters 8-9",
+      "certainty": "exact",
+      "summary": "Back in Shanghai, the marriage curdles into bickering, jealousy and mutual disappointment, the perfect illustration of Qian's borrowed image: marriage as a besieged fortress, those outside longing to get in, those inside longing to get out. The book ends on Fang alone with a stopped clock, his every ambition quietly defeated.",
+      "note": "Fang and Miss Sun return married to Shanghai, where the marriage sours into the besieged fortress of the title; sited back in the real city where the book began and ends.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fortress_Besieged"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

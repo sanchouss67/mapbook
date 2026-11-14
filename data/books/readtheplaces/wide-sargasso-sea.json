@@ -1,0 +1,79 @@
+{
+  "id": "wide-sargasso-sea",
+  "title": "Wide Sargasso Sea",
+  "author": "Jean Rhys",
+  "year": 1966,
+  "description": "Rhys writes the Caribbean back into Jane Eyre, giving the first wife her own island childhood. The anchor is Jamaica, where the creole heiress Antoinette grows up at the ruined Coulibri estate near Spanish Town after emancipation; the story then crosses to a honeymoon house on Dominica, Rhys's own birthplace, and ends far away in an English attic. It brings Jamaica, and the wider West Indies, into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "coulibri-estate",
+      "displayName": "Coulibri Estate, near Spanish Town",
+      "country": "JM",
+      "lat": 18,
+      "lng": -76.985,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "Coulibri is the ruined sugar estate where Antoinette grows up after the abolition of slavery, in a family the freed community despises and the English newcomers scorn. The burning of the house by an angry crowd, and the death of her brother, is the wound the whole novel radiates from. It fixes her, from the start, as someone who belongs nowhere.",
+      "note": "Coulibri is a fictional estate, but the novel places Antoinette's childhood in Jamaica near the old capital, Spanish Town, and it draws on the decayed post-emancipation plantations Rhys knew. The pin is a representative point in the countryside near Spanish Town, not a documented house.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+    },
+    {
+      "order": 2,
+      "place": "spanish-town",
+      "displayName": "The convent, Spanish Town",
+      "country": "JM",
+      "lat": 17.9911,
+      "lng": -76.9575,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "After Coulibri, Antoinette is sent to a convent school in Spanish Town, the old Jamaican capital, the one place in the book that offers her a brief, guarded safety. The town is real and was the island's seat of government for centuries. It is the last shelter before marriage carries her out of Jamaica altogether.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Town"
+    },
+    {
+      "order": 3,
+      "place": "massacre-dominica",
+      "displayName": "The landing at Massacre",
+      "country": "JM",
+      "lat": 15.3457,
+      "lng": -61.3924,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The married couple land at Massacre, a real village on Dominica's west coast whose grim name unsettles the English husband. It is the threshold of the second island, greener and stranger than Jamaica, where the honeymoon will curdle into suspicion. Rhys, born on Dominica, writes its rain and forest from memory.",
+      "note": "Massacre is a real coastal village on Dominica, named in the novel as the landing for the honeymoon house. It is set outsideSetting because Dominica is a different island, roughly a thousand kilometres from the Jamaican anchor.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Massacre,_Dominica"
+    },
+    {
+      "order": 4,
+      "place": "granbois-honeymoon-house",
+      "displayName": "Granbois, the honeymoon house",
+      "country": "JM",
+      "lat": 15.36,
+      "lng": -61.33,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "Granbois, the small estate house in the forested hills above the coast, is where the marriage comes apart: heat, rumour, obeah and jealousy close in until the husband renames his wife and decides she is mad. The lush, overwhelming island becomes, in his telling, the proof of her unreliability. It is the trap the last part of the book springs.",
+      "note": "Granbois is a fictional estate house in the hills above Massacre on Dominica, drawn from the mountain estates Rhys knew. Sited at a representative point in the heights inland from Massacre; outsideSetting as a different island.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+    },
+    {
+      "order": 5,
+      "place": "thornfield-attic-england",
+      "displayName": "The attic at Thornfield, England",
+      "country": "JM",
+      "lat": 53.1,
+      "lng": -1.3,
+      "reference": "Part Three",
+      "certainty": "approximate",
+      "summary": "The last part carries Antoinette to a cold attic in an English great house, the imprisoned first wife of Charlotte Brontë's Rochester, renamed Bertha and reduced to a rumour on the stairs. Rhys gives her back her voice and her fire, and the book ends as she takes up the candle. It is the join where this novel locks into Jane Eyre.",
+      "note": "The novel's final part moves to the attic of Thornfield Hall, the fictional English house of Jane Eyre, conventionally placed in the north Midlands. Sited at a representative Midlands point; outsideSetting as a deliberate excursion to England.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

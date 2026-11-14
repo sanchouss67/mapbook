@@ -1,0 +1,80 @@
+{
+  "id": "pale-fire",
+  "title": "Pale Fire",
+  "author": "Vladimir Nabokov",
+  "year": 1962,
+  "description": "A 999-line poem by a New England poet comes wrapped in the mad commentary of his neighbour, who reads into it the story of a deposed king from an imaginary northern land; the real ground beneath it is Nabokov's Cornell and the town of Ithaca.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wordsmith-college-cornell",
+      "displayName": "Wordsmith College",
+      "country": "US",
+      "lat": 42.4534,
+      "lng": -76.4735,
+      "reference": "Foreword; note to lines 47-48",
+      "certainty": "approximate",
+      "summary": "John Shade is the resident poet at Wordsmith College, and it is here that the deranged Kinbote attaches himself to him as colleague and neighbour. The genteel campus is the stage for a one-sided friendship that Kinbote will later mistake for a shared secret about kings and assassins.",
+      "note": "New Wye and its Wordsmith College are fictional and set in an invented Appalachia. Nabokov taught at Cornell in Ithaca while writing the book, and the campus is the accepted real-world model; anchored here to central Cornell, not presented as a named location.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire"
+    },
+    {
+      "order": 2,
+      "place": "shade-house-above-cayuga-lake",
+      "displayName": "John Shade's house above the lake",
+      "country": "US",
+      "lat": 42.47,
+      "lng": -76.51,
+      "reference": "Note to line 47",
+      "certainty": "approximate",
+      "summary": "Shade writes his poem in the old house he has lived in all his life, with Kinbote spying from next door and reading the drafts as veiled autobiography. When Shade is shot on his own lawn, Kinbote seizes the manuscript, and the poem about a poet's grief becomes the vehicle for a stranger's fantasy.",
+      "note": "Shade's frame house at New Wye is fictional. Ithaca sits above the long finger of Cayuga Lake, the water Nabokov looked out on; the house is anchored to the lakeside heights here as the real-world setting the fiction draws from, not an identified address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire"
+    },
+    {
+      "order": 3,
+      "place": "wordsmith-library",
+      "displayName": "The college library",
+      "country": "US",
+      "lat": 42.4479,
+      "lng": -76.4842,
+      "reference": "Note to line 949",
+      "certainty": "approximate",
+      "summary": "Kinbote frames his whole commentary as scholarship, complete with cross-references and a haughty index, and the college library is the natural seat of that pretence. The apparatus of learning becomes the perfect disguise for a reading that has almost nothing to do with the poem in front of it.",
+      "note": "The Wordsmith library is fictional. It is anchored to Cornell's central libraries in Ithaca, the collections Nabokov used, as the real model for the academic apparatus Kinbote both leans on and abuses; not a named place in the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire"
+    },
+    {
+      "order": 4,
+      "place": "ithaca-gorges",
+      "displayName": "The gorges and falls",
+      "country": "US",
+      "lat": 42.4569,
+      "lng": -76.4926,
+      "reference": "Note to line 230",
+      "certainty": "approximate",
+      "summary": "Shade's poem circles around death, chance, and a daughter lost to drowning, and the plunging gorges of the setting give that grief its physical shape. Kinbote reads the same lines as coded signals about Zembla, and the gap between the real water and his imagined kingdom is the whole comedy of the book.",
+      "note": "New Wye's dramatic ravines are fictional detail. Ithaca is famous for the gorges and waterfalls that cut through it, and they are the real landscape behind the poem's watery, mortal imagery; anchored to Ithaca Falls as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire"
+    },
+    {
+      "order": 5,
+      "place": "new-wye-town-ithaca",
+      "displayName": "The town of New Wye",
+      "country": "US",
+      "lat": 42.4396,
+      "lng": -76.4966,
+      "reference": "Foreword",
+      "certainty": "approximate",
+      "summary": "The small town of New Wye, with its faculty parties and rented rooms, is where Kinbote lives out his exile before fleeing to write the commentary. Whether he is truly the deposed king of Zembla or a lonely, mad professor who has invented a kingdom, everything he claims sits on this modest, verifiable ground.",
+      "note": "New Wye, the college town, is invented. It is anchored to downtown Ithaca, the real town below Cornell where Nabokov lived and taught, as the model for the ordinary American place against which Kinbote's royal delusions play out; not an identification of the town in the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pale_Fire"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

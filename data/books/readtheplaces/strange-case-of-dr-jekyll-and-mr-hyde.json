@@ -1,0 +1,80 @@
+{
+  "id": "strange-case-of-dr-jekyll-and-mr-hyde",
+  "title": "Strange Case of Dr Jekyll and Mr Hyde",
+  "author": "Robert Louis Stevenson",
+  "year": 1886,
+  "description": "The respectable Dr Jekyll brews a potion that frees his hidden appetites as the monstrous Mr Hyde, and the lawyer Utterson traces the growing horror through a fog-bound London toward a locked cabinet and a confession. Stevenson's city is a real, gaslit London of double lives: the fine house with its sinister back door, the squalid Soho lodgings of Hyde, and the lanes where his violence erupts, all mapping the divided self onto the divided town.",
+  "route": [
+    {
+      "order": 1,
+      "place": "jekylls-house",
+      "displayName": "Jekyll's house",
+      "country": "GB",
+      "lat": 51.513,
+      "lng": -0.145,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "Dr Jekyll's handsome house presents a face of perfect respectability to the square, while behind it, through the old anatomy theatre, lies the laboratory where he works his transformations. Stevenson builds the whole story on this architecture of the double life, the fine front and the sinister back that are, like the man, two aspects of one dwelling.",
+      "note": "Dr Jekyll's fine house, with its laboratory in the old dissecting-rooms behind, is drawn from the respectable squares of the West End; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/West_End_of_London"
+    },
+    {
+      "order": 2,
+      "place": "the-door",
+      "displayName": "The by-street door",
+      "country": "GB",
+      "lat": 51.514,
+      "lng": -0.138,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "It is at the sinister back door that Hyde is first seen trampling a child underfoot without a qualm, the incident that sets the lawyer Utterson on his trail. Stevenson makes the neglected door in the bustling street the threshold between the two worlds, the point where Jekyll's hidden self steps out into London to do its harm.",
+      "note": "The blistered, neglected door in a busy by-street, by which Hyde comes and goes, is drawn from the mews and side-streets of the real city; sited in the West End.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+    },
+    {
+      "order": 3,
+      "place": "soho",
+      "displayName": "Soho",
+      "country": "GB",
+      "lat": 51.513,
+      "lng": -0.132,
+      "reference": "The middle chapters",
+      "certainty": "exact",
+      "summary": "In Soho, seen through a shifting fog like a district of some city in a nightmare, Hyde keeps the squalid lodgings where he indulges the appetites Jekyll must hide. Stevenson uses the quarter's louche reputation to embody the doctor's secret life, the respectable man's pleasures kept, like the man himself, in a lower part of town.",
+      "note": "Hyde keeps rooms in Soho, the real district of London that stood for disreputable pleasure; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Soho"
+    },
+    {
+      "order": 4,
+      "place": "the-carew-murder",
+      "displayName": "The Carew murder",
+      "country": "GB",
+      "lat": 51.499,
+      "lng": -0.127,
+      "reference": "The Carew murder chapter",
+      "certainty": "approximate",
+      "summary": "Under a full moon in a quiet lane, Hyde clubs the gentle old MP Sir Danvers Carew to death for no reason at all, a killing witnessed from a window, that turns him into a hunted man. Stevenson lets the hidden self's violence break fully into the public city here, the motiveless brutality that shows how far Jekyll's experiment has slipped his control.",
+      "note": "Hyde beats the elderly MP Sir Danvers Carew to death in a fog-lit lane near the river; drawn from the streets of Westminster and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+    },
+    {
+      "order": 5,
+      "place": "the-cabinet",
+      "displayName": "The cabinet",
+      "country": "GB",
+      "lat": 51.5131,
+      "lng": -0.1451,
+      "reference": "The final chapters",
+      "certainty": "approximate",
+      "summary": "At last Utterson breaks down the door of the laboratory cabinet to find Hyde dead by his own hand and Jekyll's written confession, which reveals the two as one man, the potion at the end summoning Hyde unbidden. Stevenson closes on Jekyll's account of a self split in two and finally consumed by its darker half, the doctor unable, at the end, to change back.",
+      "note": "The final scene, the locked cabinet in Jekyll's laboratory where the transformation runs out of control, is sited at Jekyll's house in the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

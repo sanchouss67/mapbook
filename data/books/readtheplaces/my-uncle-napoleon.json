@@ -1,0 +1,80 @@
+{
+  "id": "my-uncle-napoleon",
+  "title": "My Uncle Napoleon",
+  "author": "Iraj Pezeshkzad",
+  "year": 1973,
+  "description": "A comic novel of an extended family penned into a walled garden of adjoining houses in mid-town Tehran during the WWII Allied occupation. A teenage narrator loves his cousin Layli while the paranoid patriarch, Dear Uncle Napoleon, reads British plots into every ordinary event. The wider city, its bazaar and squares and the foreign troops in its streets, frames the household's quarrels. The map runs from the old central quarters up through the mid-town garden district to the summer retreats of Shemiran.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-family-garden",
+      "displayName": "The family garden",
+      "country": "IR",
+      "lat": 35.71,
+      "lng": 51.423,
+      "reference": "Opening chapters",
+      "certainty": "approximate",
+      "summary": "Almost everything happens inside one large walled garden shared by an extended family in several joined houses. On a summer afternoon the teenage narrator falls for his cousin Layli, and the household's feuds, matchmakings and rumours fill the rest of the book. The garden is invented, but its type, a mid-town Tehran family compound of the 1940s, was real.",
+      "note": "The walled compound of adjoining family houses is a fictional household, not a real address; it is sited here at a representative point in the mid-town garden district between the old centre and the northern hills.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/My_Uncle_Napoleon"
+    },
+    {
+      "order": 2,
+      "place": "oudlajan-old-quarter",
+      "displayName": "Oudlajan, the old quarter",
+      "country": "IR",
+      "lat": 35.681,
+      "lng": 51.4265,
+      "reference": "Family scenes",
+      "certainty": "exact",
+      "summary": "The kind of dense, old-city neighbourhood the family belongs to survives in Oudlajan, one of the historic residential quarters of central Tehran with its lanes of courtyard houses. It stands in for the settled, traditional world the patriarch is so anxious to defend.",
+      "note": "Oudlajan is a real historic district of central Tehran; the coordinates mark the quarter, not a house in the novel, which invents its own compound.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oudlajan"
+    },
+    {
+      "order": 3,
+      "place": "grand-bazaar-tehran",
+      "displayName": "The Grand Bazaar",
+      "country": "IR",
+      "lat": 35.675,
+      "lng": 51.4194,
+      "reference": "City scenes",
+      "certainty": "exact",
+      "summary": "Beyond the garden wall lies the real Tehran of the early 1940s, and the Grand Bazaar is its beating heart, a warren of covered lanes trading everything the household needs. The bazaar marks the ordinary city that the patriarch imagines is thick with foreign agents.",
+      "note": "The Grand Bazaar of Tehran is a real landmark; it grounds the everyday commerce of the wartime city that surrounds the family's private dramas.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Tehran"
+    },
+    {
+      "order": 4,
+      "place": "toopkhaneh-square",
+      "displayName": "Toopkhaneh (Sepah) Square",
+      "country": "IR",
+      "lat": 35.6892,
+      "lng": 51.4204,
+      "reference": "Occupation backdrop",
+      "certainty": "exact",
+      "summary": "The WWII Allied occupation frames the whole novel, with British and Soviet troops in the streets. The great central square of Toopkhaneh, the old artillery ground, stands for that public Tehran, the visible foreign presence that feeds the patriarch's conviction that the British are plotting against him.",
+      "note": "Toopkhaneh Square, later renamed Imam Khomeini Square, is a real central Tehran square; it marks the public city under Allied occupation, not a specific scene address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Imam_Khomeini_Square"
+    },
+    {
+      "order": 5,
+      "place": "shemiran-summer-gardens",
+      "displayName": "Shemiran, the summer gardens",
+      "country": "IR",
+      "lat": 35.7515,
+      "lng": 51.5005,
+      "reference": "Seasonal scenes",
+      "certainty": "exact",
+      "summary": "When the Tehran heat becomes too much, well-off families of this period decamped to the cooler garden suburbs of Shemiran in the northern hills. The area stands for the seasonal, leisured world of orchards and open air that shadows the closed intrigues of the family compound below.",
+      "note": "Shemiran is a real district of garden retreats in the northern hills of Tehran; it marks the area, not a house in the novel.",
+      "sourceUrl": "https://mapcarta.com/13147366"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

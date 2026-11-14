@@ -8,6 +8,7 @@ export type RoutePoint = {
   lat: number;
   lng: number;
   chapter?: number;
+  reference?: string;
   certainty: PlaceCertainty;
   transport?: string;
   summary: string;
@@ -16,7 +17,25 @@ export type RoutePoint = {
   imageUrl?: string;
   imageAlt?: string;
   imageCredit?: string;
+  sourceUrl?: string;
   note?: string;
+};
+
+export type BookSource = {
+  name: string;
+  url: string;
+  license: string;
+  licenseUrl: string;
+};
+
+export type BookSummary = {
+  id: string;
+  title: string;
+  author: string;
+  year?: number;
+  description: string;
+  pointCount: number;
+  source?: BookSource;
 };
 
 export type BookRoute = {
@@ -27,4 +46,5 @@ export type BookRoute = {
   year?: number;
   description: string;
   route: RoutePoint[];
+  source?: BookSource;
 };

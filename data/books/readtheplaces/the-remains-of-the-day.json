@@ -1,0 +1,93 @@
+{
+  "id": "the-remains-of-the-day",
+  "title": "The Remains of the Day",
+  "author": "Kazuo Ishiguro",
+  "year": 1989,
+  "description": "In the summer of 1956 an ageing butler borrows his new employer's Ford and drives west out of Oxfordshire across the English West Country, ostensibly to inspect the roads and secretly to call on a housekeeper he once worked beside. The map follows that six-day trip: a first night by Salisbury Cathedral, on through the Somerset and Devon country to the far coast, and back to a pier at Weymouth where the accounting of a wasted life finally arrives.",
+  "route": [
+    {
+      "order": 1,
+      "place": "darlington-hall-oxfordshire",
+      "displayName": "Darlington Hall, Oxfordshire",
+      "country": "GB",
+      "lat": 51.78,
+      "lng": -1.35,
+      "reference": "Prologue, July 1956",
+      "certainty": "approximate",
+      "summary": "The great house where Stevens has served for decades, first under a disgraced English lord and now an American owner. When the new master suggests he take the car and see something of the country, the butler sets off west, and the whole book is told as he drives and remembers. The hall is fictional; the novel roots it in Oxfordshire, the starting point of the journey.",
+      "note": "Darlington Hall is invented, a stately home the novel places in rural Oxfordshire; commentators treat it as a conflation of English country houses rather than a single real building. Sited at a representative point in the Oxfordshire countryside west of Oxford, outside the West Country setting the trip crosses into.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Remains_of_the_Day"
+    },
+    {
+      "order": 2,
+      "place": "salisbury-cathedral",
+      "displayName": "Salisbury Cathedral",
+      "country": "GB",
+      "lat": 51.0648,
+      "lng": -1.7975,
+      "reference": "Day One, Evening, Salisbury",
+      "certainty": "exact",
+      "summary": "The first evening of the trip ends in Salisbury, where a fellow guest urges Stevens to see the cathedral. Its spire, the tallest in England, becomes the landmark of a night spent turning over the past rather than the town in front of him. Salisbury and its cathedral are real, in Wiltshire.",
+      "note": "Salisbury is named as the first night's stop, and its cathedral is singled out; sited at the cathedral itself.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Salisbury_Cathedral"
+    },
+    {
+      "order": 3,
+      "place": "taunton-somerset",
+      "displayName": "Taunton, Somerset",
+      "country": "GB",
+      "lat": 51.0149,
+      "lng": -3.1029,
+      "reference": "Day Two, Morning",
+      "certainty": "exact",
+      "summary": "Driving on into Somerset, Stevens breaks his journey around Taunton, taking tea and listening to the easy talk of local men in a way his own trained reserve never allowed. The town is real, the county seat of Somerset.",
+      "note": "Taunton is named as a stop on the second day; sited at the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Taunton"
+    },
+    {
+      "order": 4,
+      "place": "mortehoe-devon",
+      "displayName": "Mortehoe, Devon",
+      "country": "GB",
+      "lat": 51.1853,
+      "lng": -4.2075,
+      "reference": "Day Two, Afternoon, Mortehoe",
+      "certainty": "exact",
+      "summary": "The second afternoon carries Stevens to the far west, to the clifftop village of Mortehoe above the Atlantic, the outer edge of his route before he begins bending back toward Miss Kenton. Ishiguro's chapter heading files the village under Cornwall; in reality Mortehoe sits on the North Devon coast.",
+      "note": "The chapter heading names Mortehoe; the novel attaches it to Cornwall, but the village is in fact in North Devon, where it is sited here.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mortehoe"
+    },
+    {
+      "order": 5,
+      "place": "tavistock-devon",
+      "displayName": "Near Tavistock, Devon",
+      "country": "GB",
+      "lat": 50.5511,
+      "lng": -4.1442,
+      "reference": "Day Three, Evening, near Tavistock",
+      "certainty": "approximate",
+      "summary": "The car runs out of petrol near a small Devon village and Stevens is put up for the night by locals who, hearing his careful speech, mistake him for a real gentleman rather than a servant of one. The village of Moscombe is fictional; Ishiguro anchors it near Tavistock, an actual town at the edge of Dartmoor.",
+      "note": "The village of Moscombe, where the Ford runs dry and Stevens is taken for a gentleman, is invented; the novel places it near Tavistock, a real market town on the western edge of Dartmoor, where it is sited here.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tavistock"
+    },
+    {
+      "order": 6,
+      "place": "weymouth-pier",
+      "displayName": "Weymouth pier",
+      "country": "GB",
+      "lat": 50.6144,
+      "lng": -2.4576,
+      "reference": "Day Six, Evening, Weymouth",
+      "certainty": "exact",
+      "summary": "The journey ends on the seafront at Weymouth, where, after the meeting with Miss Kenton has come and gone, Stevens sits on the pier as the lights come on and reckons with what his years of service cost him. The Dorset resort and its pier are real, the closing scene of the book.",
+      "note": "Weymouth and its pier are named as the final setting; sited at the harbour and pier on the seafront.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Weymouth,_Dorset"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

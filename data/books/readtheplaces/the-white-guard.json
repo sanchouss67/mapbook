@@ -1,0 +1,80 @@
+{
+  "id": "the-white-guard",
+  "title": "The White Guard",
+  "author": "Mikhail Bulgakov",
+  "year": 1925,
+  "description": "The winter of 1918–19 in Kyiv, as the German-backed Hetmanate collapses and Petliura's Ukrainian nationalists close on the City, seen through the Turbin family and their friends, officers of a cause already lost. Bulgakov maps his own Kyiv: the family house on the steep Andriyivskyy Descent, the gymnasium where the volunteers muster, the shops and panic of the centre, the Golden Gate and St Sophia, and the Dnieper down which the beaten forces retreat.",
+  "route": [
+    {
+      "order": 1,
+      "place": "turbin-house-andriyivskyy",
+      "displayName": "The Turbin house, Andriyivskyy Descent",
+      "country": "UA",
+      "lat": 50.4595,
+      "lng": 30.5165,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Behind the cream-coloured curtains, under the tiled stove and the shaded lamp, Elena keeps the warmth of the Turbin home while the world outside comes apart. The house is the still centre of the book, the last refuge of an old life, as officers drift in from the snow with worse and worse news.",
+      "note": "The Turbins' home stands on the steep Andriyivskyy Descent (called St Alexeyevsky in the book), drawn directly from Bulgakov's own house at No. 13, now a museum on the real Kyiv street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bulgakov_Museum,_Kyiv"
+    },
+    {
+      "order": 2,
+      "place": "alexander-gymnasium",
+      "displayName": "The gymnasium (the mustering)",
+      "country": "UA",
+      "lat": 50.4415,
+      "lng": 30.5115,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "At the gymnasium, the army doctor Alexei Turbin and a ragged mortar division of officers and cadets are hastily armed to defend the City against Petliura, then abruptly disbanded by commanders who have already fled. The betrayal of these men, sent to die or told to run, is the book's bitter core.",
+      "note": "The volunteers muster at the Alexander Gymnasium, drawn from the First Kyiv Gymnasium that Bulgakov himself attended; sited at the real school near the university boulevard.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Kyiv_Gymnasium"
+    },
+    {
+      "order": 3,
+      "place": "kreshchatik-city-centre",
+      "displayName": "The City centre (Kreshchatik)",
+      "country": "UA",
+      "lat": 50.447,
+      "lng": 30.523,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "Through the shops and cafés of Kreshchatik surge the crowds of a city changing hands, deserters, profiteers and terrified citizens, while the hard-bitten Myshlaevsky and his fellow officers try to hold some line in the chaos. Bulgakov renders the exact texture of a great city in the hour of its fall.",
+      "note": "The panic and collapse play out through the centre of Kyiv along Kreshchatik, the real main avenue, as rumour, refugees and rival flags fill the streets.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khreshchatyk"
+    },
+    {
+      "order": 4,
+      "place": "golden-gate-st-sophia",
+      "displayName": "The Golden Gate and St Sophia",
+      "country": "UA",
+      "lat": 50.4485,
+      "lng": 30.5136,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "In the streets of the old city the young Nikolka witnesses the death of the heroic Colonel Nai-Turs, who stays to cover the cadets' retreat and is cut down. Against the ancient stones of the Golden Gate and St Sophia, the private courage of a few doomed men shines out of the general collapse.",
+      "note": "The old landmarks of upper Kyiv, the Golden Gate and the cathedral of St Sophia, stand amid the fighting; both are real monuments of the city, near where the rearguard action is fought.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv"
+    },
+    {
+      "order": 5,
+      "place": "dnieper-retreat",
+      "displayName": "The Dnieper (the retreat)",
+      "country": "UA",
+      "lat": 50.44,
+      "lng": 30.556,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "As Petliura's men enter and the old order withdraws over the Dnieper, the wounded Alexei barely escapes with his life, and the Turbins are left to survive under whatever power comes next. The river marks the edge of everything lost, and the uneasy, provisional peace with which the book ends.",
+      "note": "The beaten German and White forces fall back across the Dnieper, the great river on Kyiv's eastern edge; the real river and its bridges mark the boundary of the abandoned City.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dnieper"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

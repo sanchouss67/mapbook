@@ -1,0 +1,93 @@
+{
+  "id": "little-women",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "year": 1868,
+  "description": "The book never names the March sisters' town, but Alcott wrote it into her own: Concord, Massachusetts, and her family home on Lexington Road. The old brown March house is drawn from Orchard House, where Alcott lived and wrote and which is now a museum; the stately stone Laurence mansion next door is drawn from the real house over the hedge; and the country-like suburb, its groves and quiet streets, is the Concord of the Alcotts, Emerson and Thoreau. Amy's later tour of Nice and Switzerland is a real excursion abroad. It brings Louisa May Alcott into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-march-house-orchard-house",
+      "displayName": "The March house (Orchard House), Concord",
+      "country": "US",
+      "lat": 42.4639,
+      "lng": -71.3312,
+      "reference": "Chapter 1, Playing Pilgrims",
+      "certainty": "approximate",
+      "summary": "The novel opens on the four sisters round the hearth, poor but together, the winter their father is away at the war. The scene is invented, but Alcott built it on the house she knew best, the brown clapboard Orchard House in Concord where she lived and wrote the book.",
+      "note": "The book never names the town, and the March parlour is a fiction, but Alcott drew the poor, contented March household from her own family and set it on her real home. Orchard House on Lexington Road, where she wrote Little Women, is now a museum; the pin marks it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+      "order": 2,
+      "place": "the-town-of-concord",
+      "displayName": "The town of Concord",
+      "country": "US",
+      "lat": 42.4604,
+      "lng": -71.3489,
+      "reference": "Chapter 5, Being Neighborly",
+      "certainty": "approximate",
+      "summary": "The March and Laurence houses sit side by side in a half-rural suburb, groves and lawns and quiet streets running out to open country. Alcott is describing Concord, the small Massachusetts town where she wrote the book and where her neighbours included Emerson and Thoreau.",
+      "note": "Alcott calls the setting only 'the city' and its suburb; she never writes 'Concord'. But the country-like town of groves and quiet streets is the Concord she lived in, home also to Emerson and Thoreau. The pin marks the town centre at Monument Square.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+      "order": 3,
+      "place": "the-laurence-house-next-door",
+      "displayName": "The Laurence house next door",
+      "country": "US",
+      "lat": 42.464,
+      "lng": -71.3306,
+      "reference": "Chapter 5, Being Neighborly",
+      "certainty": "approximate",
+      "summary": "Across a low hedge from the shabby March house stands the stately stone Laurence mansion, which Jo dreams of as an enchanted palace and where she will befriend the lonely boy Laurie. Alcott drew it from the real house next door to her own Concord home.",
+      "note": "The Laurence mansion is Alcott's invention, but she placed it exactly where a real house stood, over the hedge from Orchard House. The pin marks the neighbouring lot; the coordinate is approximate, next to the verified Orchard House site.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+      "order": 4,
+      "place": "the-laurence-drawing-room",
+      "displayName": "The Laurence drawing room (Beth and the piano)",
+      "country": "US",
+      "lat": 42.4641,
+      "lng": -71.3305,
+      "reference": "Chapter 6, Beth Finds the Palace Beautiful",
+      "certainty": "approximate",
+      "summary": "Shy Beth slips into the Laurence mansion to touch the grand piano, and old Mr. Laurence, listening at his study door, quietly gives it to her. The scene of the timid sister and the lonely old man is the emotional heart of the neighbourly friendship between the two houses.",
+      "note": "The great drawing room and its piano are fiction, set inside the invented Laurence mansion; the mansion in turn stands on the real house next door to Orchard House. The coordinate is approximate, at the neighbouring lot.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+      "order": 5,
+      "place": "nice-promenade-des-anglais",
+      "displayName": "Nice, the Promenade des Anglais (Amy abroad)",
+      "country": "US",
+      "lat": 43.6947,
+      "lng": 7.262,
+      "reference": "Chapter 37, New Impressions",
+      "certainty": "exact",
+      "summary": "Amy, touring Europe with Aunt Carrol, winters at Nice on the Riviera, promenading among the palms and the fashionable crowd where Laurie comes to court her. Alcott, who had travelled abroad as a companion, wrote the real Promenade des Anglais from life.",
+      "note": "Nice is named in the text and lies on the French Riviera, some 6,000 km from Concord, so it is flagged as an excursion beyond the book's New England setting. The pin marks the Promenade des Anglais Alcott names.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+      "order": 6,
+      "place": "valrosa-above-nice",
+      "displayName": "Valrosa, above Nice (Amy abroad)",
+      "country": "US",
+      "lat": 43.718,
+      "lng": 7.251,
+      "reference": "Chapter 39, Lazy Laurence",
+      "certainty": "approximate",
+      "summary": "Amy and Laurie drive out from Nice to Valrosa, a villa smothered in roses above the Mediterranean, where his idle courtship of her comes to a head. Alcott places the rose-valley in the real Riviera hills of olive groves and the white-walled city on its shore.",
+      "note": "Valrosa, the rose-covered villa Amy and Laurie drive out to, is Alcott's own naming, set in the hills of roses and olive groves above Nice. The pin marks the Nice hills, an excursion far beyond the book's New England setting; the coordinate is approximate.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/514"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

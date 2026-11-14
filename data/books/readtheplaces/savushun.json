@@ -1,0 +1,80 @@
+{
+  "id": "savushun",
+  "title": "Savushun",
+  "author": "Simin Daneshvar",
+  "year": 1969,
+  "description": "In Shiraz during the Allied occupation of Iran in the Second World War, Zari watches her idealistic landowner husband Yusof refuse to sell his grain to the foreign army while famine and intrigue close in around their family. The first novel by an Iranian woman, and one of the most beloved in Persian, Daneshvar's Savushun maps a real Fars: the city and the family house and garden, the estates and villages Yusof will not betray, the restless tribes, and the mourning that gives the book its name.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-family-house",
+      "displayName": "The family house",
+      "country": "IR",
+      "lat": 29.61,
+      "lng": 52.53,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "In the walled house and garden in Shiraz, Zari keeps her family and her composure amid the pressures of wartime occupation, her love for her husband set against her fear for him. Daneshvar makes the domestic world of women, the courtyard, the children, the household economy, the vantage from which the whole political tragedy is felt.",
+      "note": "Zari's home and garden are set in Shiraz, the real city of Fars province where Daneshvar herself was born; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shiraz"
+    },
+    {
+      "order": 2,
+      "place": "the-occupied-city",
+      "displayName": "The occupied city",
+      "country": "IR",
+      "lat": 29.615,
+      "lng": 52.54,
+      "reference": "The occupation chapters",
+      "certainty": "exact",
+      "summary": "Through the streets of Shiraz move the occupying British and their local go-betweens, buying up grain, courting the notables and stoking the famine that grips the poor. In the banquets and the queues for bread alike, Daneshvar shows a proud city bent under foreign power and the collaborators who profit from it.",
+      "note": "The Allied occupation of Shiraz, with its foreign officers, requisitions and bread shortages, is the real wartime setting of Fars in the early 1940s; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran"
+    },
+    {
+      "order": 3,
+      "place": "the-estate",
+      "displayName": "Yusof's estate",
+      "country": "IR",
+      "lat": 29.52,
+      "lng": 52.42,
+      "reference": "The estate chapters",
+      "certainty": "approximate",
+      "summary": "On his estates outside the city Yusof stands with his peasants and refuses to hand his harvest to the occupiers while his own people starve. His stubborn integrity, admirable and doomed, sets him against both the foreign army and the compromising notables, and marks him for the tragedy to come.",
+      "note": "Yusof's lands and villages, whose grain he refuses to sell to the army, are drawn from the agricultural estates of the Fars countryside around Shiraz; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Savushun"
+    },
+    {
+      "order": 4,
+      "place": "the-tribes",
+      "displayName": "The tribes",
+      "country": "IR",
+      "lat": 29.5,
+      "lng": 52.4,
+      "reference": "The intrigue chapters",
+      "certainty": "approximate",
+      "summary": "In the foothills the tribes and their guns are courted by the British, the government and the notables alike, and Yusof's smooth brother Khan Kaka moves among the intrigues. Daneshvar draws the whole tangled web of wartime Fars, where loyalty is for sale and Yusof's plain honesty has no place.",
+      "note": "The tribal politics of Fars, the Qashqai and their arms courted by all sides, are drawn from the real tribal world of the province; sited in the foothills outside Shiraz.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Qashqai_people"
+    },
+    {
+      "order": 5,
+      "place": "the-mourning",
+      "displayName": "The mourning",
+      "country": "IR",
+      "lat": 29.608,
+      "lng": 52.535,
+      "reference": "The ending",
+      "certainty": "exact",
+      "summary": "When Yusof is killed, his funeral becomes a public act of grief and defiance, the mourning of a martyr that the authorities try in vain to suppress. Daneshvar ends by turning private loss into the ancient savushun, and leaves Zari, once timid, resolved to carry on her husband's stand.",
+      "note": "Yusof's funeral and the mourning procession through Shiraz, echoing the savushun rite for the martyr Siyavash, close the novel; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siyavash"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

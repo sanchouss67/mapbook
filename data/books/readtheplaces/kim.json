@@ -1,0 +1,93 @@
+{
+  "id": "kim",
+  "title": "Kim",
+  "author": "Rudyard Kipling",
+  "year": 1901,
+  "description": "It opens on the gun Zam-Zammah outside the Lahore Museum, both still there, then walks the Grand Trunk Road the length of northern India. The anchor city is Lahore, now in Pakistan; the road and the Great Game carry the book east to Benares and north into the Himalayan foothills, so the bounding box spans the whole run from the Punjab to the Ganges.",
+  "route": [
+    {
+      "order": 1,
+      "place": "zam-zammah-lahore-museum",
+      "displayName": "Zam-Zammah, outside the Lahore Museum",
+      "country": "PK",
+      "lat": 31.5679,
+      "lng": 74.308,
+      "reference": "Chapter 1: Lahore",
+      "certainty": "exact",
+      "summary": "The book opens here, with an orphan boy perched on the conqueror's cannon outside the museum his creator's father ran. Inside, Kim meets the lama and becomes his disciple. The gun and the museum are the fixed real points from which everything else fans out along the road.",
+      "note": "The great bronze gun stands on its platform on the Mall opposite the Lahore Museum, both named in the first sentence and both still there. Kipling's own father, John Lockwood Kipling, curated the museum, the Wonder House of the novel.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    },
+    {
+      "order": 2,
+      "place": "umballa-mahbub-ali-message",
+      "displayName": "Umballa: the spy's message delivered",
+      "country": "PK",
+      "lat": 30.3782,
+      "lng": 76.7767,
+      "reference": "Chapter 3: Umballa",
+      "certainty": "exact",
+      "summary": "Carrying Mahbub Ali's coded note about the five kings of the north, Kim slips into an officer's garden at Umballa and drops the paper at his feet. Lying in the grass, he hears it turn into a war order. His first move in the Great Game, and the reason the Secret Service later takes him up.",
+      "note": "Umballa is the real cantonment town of Ambala in Haryana, a hub of British India. Kim reaches Umballa City Station by rail and finds the officer's bungalow there; the house is unnamed but the town is explicit.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    },
+    {
+      "order": 3,
+      "place": "grand-trunk-road-river-of-life",
+      "displayName": "The Grand Trunk Road, the river of life",
+      "country": "PK",
+      "lat": 29.6857,
+      "lng": 76.9905,
+      "reference": "Chapter 4: the Great Road",
+      "certainty": "approximate",
+      "summary": "Off the Grand Trunk Road Kim and the lama join the great procession of all India, priests and soldiers and bankers and thieves moving between the plains and the hills. Kipling makes the road itself a character, the green-arched artery down which the whole book flows.",
+      "note": "The Grand Trunk Road is real and named in the book, but this scene fixes no town along it. The pin marks a representative stretch of the historic road near Karnal, south of Umballa on the way Kim and the lama travel.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    },
+    {
+      "order": 4,
+      "place": "lower-simla-bazar",
+      "displayName": "The lower Simla bazar",
+      "country": "PK",
+      "lat": 31.1046,
+      "lng": 77.1734,
+      "reference": "Chapter 8: Simla",
+      "certainty": "exact",
+      "summary": "Mahbub Ali brings Kim up to Simla to be trained for the Secret Service under Lurgan Sahib. The tangled bazar climbing the hillside, where a man who knows his way can lose all the police of India, is the book's school for spies.",
+      "note": "Simla is the real hill station of Shimla, India's summer capital under the Raj and the hub of the Great Game in the book. The lower bazar climbing to the Town Hall is a real quarter of the town.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    },
+    {
+      "order": 5,
+      "place": "tirthankars-temple-benares",
+      "displayName": "The Temple of the Tirthankars, Benares",
+      "country": "PK",
+      "lat": 25.383,
+      "lng": 83.022,
+      "reference": "Chapter 9: Benares",
+      "certainty": "exact",
+      "summary": "The lama's refuge in the holy city, where the Jain priests keep him and where he pores over his Wheel of Life. It is the fixed address at the far, eastern end of the book's world, a mile out toward Sarnath where the Buddha first preached.",
+      "note": "The book places the Jain temple about a mile outside Benares (Varanasi) near Sarnath. There is a real Digambar Jain temple at Singhpuri in Sarnath, marking the birthplace of the eleventh Tirthankara; the pin is there.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    },
+    {
+      "order": 6,
+      "place": "siwaliks-foothills-the-search",
+      "displayName": "The Siwalik foothills, below the snows",
+      "country": "PK",
+      "lat": 30.2,
+      "lng": 77.95,
+      "reference": "Chapter 14: the foothills",
+      "certainty": "approximate",
+      "summary": "Back down from the high hills, the lama wanders the foothill country under the Siwaliks still seeking his River of the Arrow. Here the book turns from the Great Game to his search for release, the mountains at his shoulder and the snows beyond.",
+      "note": "The Siwalik range is real, the outermost Himalayan foothills. The book names only invented villages here, with the Siwaliks to the north and the snows behind; the pin marks the range near the Doon, the country the passage describes.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2226"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

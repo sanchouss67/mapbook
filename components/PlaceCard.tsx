@@ -34,6 +34,12 @@ export default function PlaceCard({ point }: PlaceCardProps) {
             <dd>{point.chapter}</dd>
           </>
         ) : null}
+        {point.reference ? (
+          <>
+            <dt>В книге</dt>
+            <dd>{point.reference}</dd>
+          </>
+        ) : null}
         <dt>Точность</dt>
         <dd>{certaintyLabels[point.certainty]}</dd>
         {point.transport ? (
@@ -54,6 +60,13 @@ export default function PlaceCard({ point }: PlaceCardProps) {
         ) : null}
         {point.quote ? <blockquote>{point.quote}</blockquote> : null}
         {point.note ? <p className="note">{point.note}</p> : null}
+        {point.sourceUrl ? (
+          <p className="pointSource">
+            <a href={point.sourceUrl} target="_blank" rel="noreferrer">
+              Источник точки
+            </a>
+          </p>
+        ) : null}
       </div>
     </aside>
   );

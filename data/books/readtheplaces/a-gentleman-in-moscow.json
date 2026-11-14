@@ -1,0 +1,89 @@
+{
+  "id": "a-gentleman-in-moscow",
+  "title": "A Gentleman in Moscow",
+  "author": "Amor Towles",
+  "year": 2016,
+  "description": "One hotel, three decades. A count sentenced in 1922 to house arrest lives out the whole Soviet era inside the Metropol, just off Theatre Square. The map is a single block: the hotel and its rooms, with the Bolshoi, Theatre Square, and the Kremlin walls at Red Square a few steps beyond the revolving doors.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hotel-metropol-lobby",
+      "displayName": "Hotel Metropol, the lobby",
+      "country": "RU",
+      "lat": 55.75833,
+      "lng": 37.62158,
+      "reference": "Book One (1922)",
+      "certainty": "exact",
+      "summary": "The whole novel turns on this address. Stripped of his estate and sentenced to house arrest, the count is escorted back to the grand hotel where he already lives and told he will be shot if he ever steps outside. The Metropol is a real belle-epoque hotel of 1905, on the corner off Theatre Square, and its lobby, front desk and revolving doors become the edge of his entire world.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+    },
+    {
+      "order": 2,
+      "place": "belfry-attic-room",
+      "displayName": "The belfry room, sixth floor",
+      "country": "RU",
+      "lat": 55.75848,
+      "lng": 37.62145,
+      "reference": "Book One (1922)",
+      "certainty": "approximate",
+      "summary": "On the day of his sentence the count is marched up to a cramped, sloping room under the eaves, a converted servants' quarters near the old bell tower, and made to leave his belongings behind. This attic becomes his home for the next thirty years. It is a fiction set inside a real building, tucked into the Metropol's top floor.",
+      "note": "Towles moves the count from a grand suite up to a small former servants' room in an attic off the belfry. The Metropol is real but this exact room is the novel's invention, so it is sited within the hotel's upper floors.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+    },
+    {
+      "order": 3,
+      "place": "boyarsky-restaurant",
+      "displayName": "The Boyarsky restaurant",
+      "country": "RU",
+      "lat": 55.75842,
+      "lng": 37.62138,
+      "reference": "Book Three (1930)",
+      "certainty": "approximate",
+      "summary": "As the years pass the count takes a post as headwaiter in the hotel's most elegant restaurant, running its floor with two colleagues he calls the Triumvirate. The dining room, the wine cellar and the kitchen give his confinement a daily purpose. The restaurant as named is the book's, set inside the real Metropol.",
+      "note": "The count becomes headwaiter of the hotel's finest restaurant, which Towles calls the Boyarsky. The Metropol has a famous dining room in reality, but the named restaurant and its staff are the novel's, so it is placed within the hotel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hotel_Metropol_Moscow"
+    },
+    {
+      "order": 4,
+      "place": "theatre-square",
+      "displayName": "Theatre Square",
+      "country": "RU",
+      "lat": 55.7586,
+      "lng": 37.6193,
+      "reference": "Book Two",
+      "certainty": "exact",
+      "summary": "Just beyond the hotel's doors lies the open square the count can see but, for years, not cross. Theatre Square is a real plaza in central Moscow, ringed by theatres, and it stands for everything the wider city holds while he remains inside. Passers-by, weather and the changing decades reach him mostly through its windows.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Theatre_Square_(Moscow)"
+    },
+    {
+      "order": 5,
+      "place": "bolshoi-theatre",
+      "displayName": "The Bolshoi Theatre",
+      "country": "RU",
+      "lat": 55.7601,
+      "lng": 37.6187,
+      "reference": "Book Four",
+      "certainty": "exact",
+      "summary": "Across Theatre Square rises the Bolshoi, the great opera and ballet house whose lit facade the count knows well from before his arrest. Its performances and grand occasions mark the cultural life of the Soviet capital going on without him. The Bolshoi is a real theatre, a short walk from the Metropol.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bolshoi_Theatre"
+    },
+    {
+      "order": 6,
+      "place": "red-square-kremlin-walls",
+      "displayName": "Red Square and the Kremlin walls",
+      "country": "RU",
+      "lat": 55.7541,
+      "lng": 37.6205,
+      "reference": "Book One (1922)",
+      "certainty": "exact",
+      "summary": "A few minutes' walk from the hotel stand the red brick walls of the Kremlin and the vast expanse of Red Square, the seat of the new government that has just tried and confined the count. Their nearness is the point: the machinery of the state that rules his fate sits almost next door. Both are real, at the heart of Moscow.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Red_Square"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

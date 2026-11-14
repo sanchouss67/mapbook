@@ -1,0 +1,80 @@
+{
+  "id": "the-underdogs",
+  "title": "The Underdogs",
+  "author": "Mariano Azuela",
+  "year": 1915,
+  "description": "The classic novel of the Mexican Revolution follows the peasant Demetrio Macías, who takes to the sierra to fight the federal troops and rises to a general in the revolutionary armies, only to be swept up in the factional wars and the futility of the whirlwind. Azuela sets it in the real country of the fighting: the mountains and villages of the Jalisco–Zacatecas sierra, the great battle of Zacatecas, and the Juchipila canyon where Demetrio begins and ends.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-sierra-village",
+      "displayName": "The sierra (Demetrio's village)",
+      "country": "MX",
+      "lat": 21.42,
+      "lng": -103.11,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "When the federal troops come and burn him out, the peasant Demetrio flees to the sierra and gathers a band of fighters, and almost by accident becomes a revolutionary leader. Azuela opens on the hard mountain country and the ambush that launches Demetrio's rise, the whole Revolution seen from the level of the men who did the dying.",
+      "note": "Demetrio Macías takes to the sierra above his village after the federal soldiers burn his home; the mountains are drawn from the real Jalisco–Zacatecas sierra around the Juchipila canyon and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexican_Revolution"
+    },
+    {
+      "order": 2,
+      "place": "the-raids-towns",
+      "displayName": "The raids (the towns)",
+      "country": "MX",
+      "lat": 21.45,
+      "lng": -103.05,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "As the band grows and marches through the towns, it is joined by the educated deserter Luis Cervantes, who lends the peasants' fight a vocabulary of ideals he does not really share. Through his cynical, self-serving eyes, Azuela questions how much of the Revolution was conviction and how much sheer momentum and plunder.",
+      "note": "Demetrio's band ranges through the towns and villages of the region, raiding and requisitioning; the specific towns are sited in the real sierra country of the fighting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Underdogs_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "zacatecas-battle",
+      "displayName": "Zacatecas (the battle)",
+      "country": "MX",
+      "lat": 22.77,
+      "lng": -102.583,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "At the storming of Zacatecas, one of the Revolution's bloodiest and most decisive battles, Demetrio's band fights and loots amid the carnage, and the fierce camp-follower La Pintada rides with them. The victory is also the high tide of the movement, after which it turns on itself in the factional wars.",
+      "note": "Demetrio's men take part in the great 1914 Battle of Zacatecas, a real and decisive engagement of the Revolution; the city lies north of the sierra where the band is based.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Zacatecas_(1914)"
+    },
+    {
+      "order": 4,
+      "place": "the-haciendas-plunder",
+      "displayName": "The haciendas (the plunder)",
+      "country": "MX",
+      "lat": 21.4,
+      "lng": -103.08,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Idle between campaigns, the fighters sink into drink, plunder and jealousy, and the gentle country girl Camila, taken up in the whirlwind, is destroyed by La Pintada's spite. Azuela shows the Revolution's ideals curdling into appetite and cruelty, the movement consuming its own innocents.",
+      "note": "Between battles the band quarters in the haciendas and towns, plundering and quarrelling; the estates are sited in the real countryside of the sierra the novel roams.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Underdogs_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "juchipila-canyon",
+      "displayName": "The Juchipila canyon",
+      "country": "MX",
+      "lat": 21.38,
+      "lng": -103.11,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "Two years on, disillusioned and no longer sure why he fights, Demetrio is ambushed and killed in the same Juchipila canyon where his revolution started, still firing to the last. Azuela ends where he began, the fighter flung back to his starting point, the whole Revolution a whirlwind that carries men up only to hurl them into the ground.",
+      "note": "Demetrio dies in the Juchipila canyon, a real ravine of the Jalisco–Zacatecas border, at the very place where his fighting began; the canyon closes the book's circle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Juchipila"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

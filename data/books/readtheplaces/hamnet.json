@@ -1,0 +1,93 @@
+{
+  "id": "hamnet",
+  "title": "Hamnet",
+  "author": "Maggie O'Farrell",
+  "year": 2020,
+  "description": "A retelling of the death of Shakespeare's son, told through his wife Agnes, the herbalist and healer at the centre of the family. The map stays in 1590s Warwickshire: the glover's house on Henley Street where the young family lives in a cramped apartment, the farm at Shottery where Agnes grew up among bees and woodland, the church by the Avon where the boy is buried, and the chapel and grammar school of the town. London, where the father disappears to work in the playhouses, runs alongside as a scene outside the setting.",
+  "route": [
+    {
+      "order": 1,
+      "place": "henley-street-house",
+      "displayName": "The Henley Street house (Shakespeare's Birthplace)",
+      "country": "GB",
+      "lat": 52.1942,
+      "lng": -1.7073,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The book opens with a boy running through his grandfather's house on Henley Street looking for help, because his twin sister has fallen ill. The family lives in a narrow apartment attached to the glover's workshop and dwelling, and the house's rooms, yard and passages become the stage for the illness that drives the story.",
+      "note": "The novel's family home is the glover John Shakespeare's house on Henley Street, the building preserved today as Shakespeare's Birthplace; sited at that house in the town centre.",
+      "sourceUrl": "https://www.shakespeare.org.uk/visit/shakespeares-birthplace/"
+    },
+    {
+      "order": 2,
+      "place": "hewlands-farm-shottery",
+      "displayName": "Hewlands farm, Shottery (Anne Hathaway's Cottage)",
+      "country": "GB",
+      "lat": 52.1878,
+      "lng": -1.7305,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Agnes is raised on a working farm in the hamlet of Shottery, just outside the town, where she keeps bees, gathers plants from the neighbouring woodland and earns a reputation as a healer. The farm and its forest are where she and the young Latin tutor first meet, and the emotional root of the novel is planted here.",
+      "note": "Agnes grows up at the Hathaway family farm at Shottery, the farmhouse now known as Anne Hathaway's Cottage; sited at that house on the western edge of town.",
+      "sourceUrl": "https://www.shakespeare.org.uk/visit/anne-hathaways-cottage/"
+    },
+    {
+      "order": 3,
+      "place": "holy-trinity-church",
+      "displayName": "Holy Trinity Church",
+      "country": "GB",
+      "lat": 52.1876,
+      "lng": -1.708,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "The riverside church of Holy Trinity holds the story's centre of gravity: the funeral and burial of the boy. O'Farrell imagines the family's grief around the real parish church by the Avon, the same ground where the playwright would be laid decades afterward, which gives the scene its weight of history.",
+      "note": "Holy Trinity Church, on the bank of the Avon, is the parish church where Hamnet Shakespeare was buried in 1596 (and Shakespeare himself later); sited at the church.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Stratford-upon-Avon"
+    },
+    {
+      "order": 4,
+      "place": "guild-chapel-grammar-school",
+      "displayName": "The Guild Chapel and grammar school",
+      "country": "GB",
+      "lat": 52.1905,
+      "lng": -1.7077,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "On Church Street stand the Guild Chapel and the town's grammar school, where the boys of Stratford's tradesmen were drilled in Latin. The novel draws on this world of schoolrooms and tutoring to explain how a glover's son came by his learning, and how a young Latin tutor comes to be teaching at Hewlands farm at all.",
+      "note": "The Guild Chapel and the adjoining King Edward VI grammar school stand on Church Street; the school is where a glover's sons would have learned their Latin. Sited at the chapel and schoolhouse.",
+      "sourceUrl": "https://britishlistedbuildings.co.uk/101204554-guild-chapel-of-the-holy-cross-stratford-upon-avon"
+    },
+    {
+      "order": 5,
+      "place": "market-square-stratford",
+      "displayName": "The market square, Stratford",
+      "country": "GB",
+      "lat": 52.1919,
+      "lng": -1.7095,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The life of the town runs through its market, where a glover would sell his wares and a household would buy what it could not make. O'Farrell fills the streets and stalls with the ordinary commerce of Elizabethan Stratford, the everyday world against which the family's private catastrophe unfolds.",
+      "note": "Stratford has held a charter market since 1196, traded at the Market Place in Rother Street; sited at the market place by the American Fountain. The exact stall positions of a 1590s market are not recorded, so the pin marks the historic marketplace.",
+      "sourceUrl": "https://www.ourwarwickshire.org.uk/content/catalogue_her/site-of-market-cross-in-rother-street"
+    },
+    {
+      "order": 6,
+      "place": "london-playhouses",
+      "displayName": "The London playhouses",
+      "country": "GB",
+      "lat": 51.5081,
+      "lng": -0.0972,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "While the family lives in Warwickshire, the father is away in London, absorbed in the world of the playhouses that his wife can only imagine. O'Farrell keeps this London deliberately distant and unnamed, the place that pulls him away and where, in the book's closing movement, grief is turned into a play. The pin marks the south-bank theatre district that later became the emblem of that stage.",
+      "note": "The novel never pins the father's London to a single named address; his working world is the city's playhouses. Sited on Bankside, the south-bank theatre district that came to stand for the Elizabethan stage. Outside the Stratford setting by design.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bankside"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

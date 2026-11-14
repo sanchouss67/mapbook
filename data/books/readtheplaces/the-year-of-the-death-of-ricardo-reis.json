@@ -1,0 +1,80 @@
+{
+  "id": "the-year-of-the-death-of-ricardo-reis",
+  "title": "The Year of the Death of Ricardo Reis",
+  "author": "José Saramago",
+  "year": 1984,
+  "description": "In 1936 Ricardo Reis, one of Fernando Pessoa's poetic alter egos, returns from Brazil to Lisbon just after the poet's death, and drifts through the rainy city, visited by Pessoa's ghost, as fascism rises across Europe and Salazar's shadow deepens at home. Saramago maps a real Lisbon: the hotel where Reis lodges, the cemetery where he speaks with the dead Pessoa, the viewpoint over the Tagus, the river and its docks, and the watchful capital of the New State.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-hotel-braganca",
+      "displayName": "The Hotel Bragança",
+      "country": "PT",
+      "lat": 38.708,
+      "lng": -9.143,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "Off the ship from Brazil, Reis takes a room at the Hotel Bragança and begins his aimless Lisbon days, waited on by the chambermaid Lídia, who becomes his lover. Saramago settles his heteronym-made-flesh into the ordinary textures of the old city, the hotel corridors and rainy streets, from which the whole strange, contemplative novel unfolds.",
+      "note": "Reis lodges at the Hotel Bragança near the Cais do Sodré on his return to Lisbon, a real establishment of the old lower city; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chiado"
+    },
+    {
+      "order": 2,
+      "place": "prazeres-cemetery",
+      "displayName": "Prazeres Cemetery",
+      "country": "PT",
+      "lat": 38.714,
+      "lng": -9.171,
+      "reference": "The cemetery chapters",
+      "certainty": "exact",
+      "summary": "At the Cemitério dos Prazeres, Reis stands at the grave of Fernando Pessoa, the poet who invented him, and Pessoa's shade begins the visits that punctuate the book. Saramago's premise, a fiction returning to mourn its author, turns the real cemetery into the hinge of a haunting meditation on identity, art and mortality.",
+      "note": "Reis visits Fernando Pessoa's grave at the Cemitério dos Prazeres, the real Lisbon cemetery where Pessoa was buried; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prazeres_Cemetery"
+    },
+    {
+      "order": 3,
+      "place": "the-adamastor-viewpoint",
+      "displayName": "The Adamastor viewpoint",
+      "country": "PT",
+      "lat": 38.708,
+      "lng": -9.148,
+      "reference": "The viewpoint chapters",
+      "certainty": "exact",
+      "summary": "At the Santa Catarina lookout, beneath the stone giant Adamastor from Camões's epic, Reis gazes over the river and turns his hopeless tenderness toward the young, ailing Marcenda. Saramago gathers the book's longing here above the water, the poet forever contemplating, never quite living, the life passing below him.",
+      "note": "Reis broods at the Santa Catarina miradouro, with its statue of the giant Adamastor, a real Lisbon viewpoint over the Tagus; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Catarina_(Lisbon)"
+    },
+    {
+      "order": 4,
+      "place": "the-tagus-docks",
+      "displayName": "The Tagus and the docks",
+      "country": "PT",
+      "lat": 38.702,
+      "lng": -9.15,
+      "reference": "The riverside chapters",
+      "certainty": "exact",
+      "summary": "Down at the Tagus, the warships gather and the newspapers bring word of Spain sliding into civil war and Europe into fascism, while Lídia's brother, a sailor, is drawn toward mutiny. Through the docks Saramago lets the storming outer world press upon Reis's cloistered melancholy, the history he would rather not notice closing in.",
+      "note": "The Tagus waterfront and docks, where ships come and go and the news of the world arrives, are the real riverside of Lisbon; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tagus"
+    },
+    {
+      "order": 5,
+      "place": "the-city-of-the-new-state",
+      "displayName": "The city of the New State",
+      "country": "PT",
+      "lat": 38.712,
+      "lng": -9.139,
+      "reference": "The closing chapters",
+      "certainty": "approximate",
+      "summary": "As the year turns, Salazar's New State tightens its grip, and Reis, ever the detached observer, is quietly worn down until Pessoa comes to lead him away for good. Saramago closes on the poet walking off into death with his maker, a farewell to a man who watched the whole world without ever taking his own part in it.",
+      "note": "The Lisbon of Salazar's authoritarian New State, with its processions, propaganda and quiet fear, is the real political climate of 1936; sited in the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

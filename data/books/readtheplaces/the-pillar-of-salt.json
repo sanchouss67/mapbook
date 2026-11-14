@@ -1,0 +1,80 @@
+{
+  "id": "the-pillar-of-salt",
+  "title": "The Pillar of Salt",
+  "author": "Albert Memmi",
+  "year": 1953,
+  "description": "Alexandre Mordekhai Benillouche, a poor Jewish boy from the old quarter of colonial Tunis, comes of age torn three ways between his Berber-Jewish origins, the Arab-Muslim city around him and the French education that promises escape and delivers exile. Memmi maps the real Tunis: the cramped Jewish hara, the Arab medina and its souks, the European lycée of the Ville Nouvelle, the synagogue, and the shadow of the Second World War, when the German occupation drives Tunisia's Jews into forced-labour camps.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-hara",
+      "displayName": "The Jewish quarter (the hara)",
+      "country": "TN",
+      "lat": 36.798,
+      "lng": 10.17,
+      "reference": "The childhood chapters",
+      "certainty": "exact",
+      "summary": "In the narrow, crowded hara, Alexandre is born into a poor family, his father a harness-maker bent over his leather in a dim shop. Memmi sets the boy's first world in the real Jewish quarter of Tunis, its poverty and its warmth the ground he will spend the rest of the book learning to leave and grieving.",
+      "note": "Alexandre grows up in the hara, the real poor Jewish quarter on the edge of the Tunis medina, among the artisans and the crowding the book describes; sited in that quarter.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Tunisia"
+    },
+    {
+      "order": 2,
+      "place": "the-medina",
+      "displayName": "The medina (the Arab city)",
+      "country": "TN",
+      "lat": 36.799,
+      "lng": 10.171,
+      "reference": "The medina chapters",
+      "certainty": "exact",
+      "summary": "Beyond the hara lies the Arab medina, its souks, mosques and crowds the Muslim world in which the Jewish minority lives, close and separate at once. Through his Berber-Jewish mother and the streets he walks, Alexandre feels his roots in this old East even as his schooling teaches him to see it as something to rise above.",
+      "note": "The Arab medina of Tunis, its souks and mixed streets, is the real old city surrounding the hara and threading through Alexandre's daily life; sited in the medina.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Medina_of_Tunis"
+    },
+    {
+      "order": 3,
+      "place": "the-lycee",
+      "displayName": "The French lycée",
+      "country": "TN",
+      "lat": 36.8,
+      "lng": 10.183,
+      "reference": "The lycée chapters",
+      "certainty": "exact",
+      "summary": "A scholarship carries Alexandre out of the hara and into the French lycée of the Ville Nouvelle, where a fine education in the coloniser's culture opens the world and quietly severs him from his own. The gap the school opens, between the boy the books make and the family he comes from, is the wound the whole novel turns on.",
+      "note": "Alexandre wins a scholarship to the French lycée of the European Ville Nouvelle, the colonial secondary school on the new-town avenues; sited in that district of Tunis.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tunis"
+    },
+    {
+      "order": 4,
+      "place": "the-synagogue",
+      "displayName": "The synagogue",
+      "country": "TN",
+      "lat": 36.802,
+      "lng": 10.182,
+      "reference": "The community chapters",
+      "certainty": "approximate",
+      "summary": "In the synagogue and the round of feasts and rites, Alexandre feels both the pull of belonging and the pull away, his French education turning the old observances into something he can no longer wholly share. Memmi weighs faith and community against the sceptical modern self the boy is becoming, and finds no resting place between them.",
+      "note": "The Jewish community's synagogue and rites frame Alexandre's belonging and his growing distance from faith; sited at the Ville Nouvelle's Grande Synagogue area, drawn from the real community.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Synagogue_of_Tunis"
+    },
+    {
+      "order": 5,
+      "place": "the-labour-camp",
+      "displayName": "The war (the labour camp)",
+      "country": "TN",
+      "lat": 37,
+      "lng": 10.3,
+      "reference": "The war chapters",
+      "certainty": "approximate",
+      "summary": "When the Germans occupy Tunisia in the war, Alexandre, for all his French culture, is rounded up with the other Jews into a forced-labour camp, the abstractions of identity brought home as brute fact. The war strips away the illusion that education had bought him a way out, and leaves him a stranger to every world, frozen like the pillar of salt of the title.",
+      "note": "During the German occupation of Tunisia in 1942-43, Alexandre is sent to a Jewish forced-labour camp; sited in the countryside north of Tunis, drawn from the real wartime camps, outside the city setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Tunisia"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

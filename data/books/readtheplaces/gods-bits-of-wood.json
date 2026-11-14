@@ -1,0 +1,80 @@
+{
+  "id": "gods-bits-of-wood",
+  "title": "God's Bits of Wood",
+  "author": "Ousmane Sembène",
+  "year": 1960,
+  "description": "The long railway strike of 1947-48 seen from the line itself. The workshops of Thiès stop, and from there the walkout runs west to the capital and port at Dakar and east along the track to Bamako. When the men are starved back toward defeat, the women take up the fight and march the road from Thiès to Dakar. The map holds the western Senegal stretch of that strike.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bamako-eastern-terminus",
+      "displayName": "Bamako, the eastern terminus",
+      "country": "SN",
+      "lat": 12.6392,
+      "lng": -8.00292,
+      "reference": "Bamako sections",
+      "certainty": "exact",
+      "summary": "The story opens far up the line in the eastern railway town of Bamako, in the French Sudan that is now Mali. Here an old man and a watchful girl stand for the families who keep the strike alive along the whole length of the track, before the action swings west toward the sea.",
+      "note": "Bamako is named as one of the three towns of the strike. It sits about twelve hundred kilometres east in what was then French Sudan, today Mali, so it lies well outside the western Senegal frame; this marks the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+    },
+    {
+      "order": 2,
+      "place": "thies-railway-workshops",
+      "displayName": "The railway workshops of Thiès",
+      "country": "SN",
+      "lat": 14.83417,
+      "lng": -17.10611,
+      "reference": "Thiès sections",
+      "certainty": "exact",
+      "summary": "Thiès is the beating heart of the walkout, the workshop town where the engines are built and repaired and where the stoppage bites hardest. Its yards fall silent, hunger sets in, and the decision to keep holding the line is argued out among the workers and their families.",
+      "note": "Thiès, the workshop town at the heart of the strike, is named throughout; the specific depot and workers' quarters are not pinned, so this marks the town centre about seventy kilometres east of Dakar.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+    },
+    {
+      "order": 3,
+      "place": "rufisque-on-the-march",
+      "displayName": "Rufisque, on the women's march",
+      "country": "SN",
+      "lat": 14.7167,
+      "lng": -17.2667,
+      "reference": "The women's march",
+      "certainty": "approximate",
+      "summary": "When the men falter, the women set out on foot from Thiès toward Dakar, walking for days along the road that shadows the rail. Rufisque, the old port town on the way into the peninsula, stands for that hard passage and the crowds who came out to meet the marchers.",
+      "note": "The women's march from Thiès to Dakar is explicit, but the book does not itemise its stages; Rufisque is the real town on the road between the two, so it marks a representative point on that route.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+    },
+    {
+      "order": 4,
+      "place": "dakar-the-capital",
+      "displayName": "Dakar, the capital",
+      "country": "SN",
+      "lat": 14.6937,
+      "lng": -17.4441,
+      "reference": "Dakar sections",
+      "certainty": "exact",
+      "summary": "Dakar is the colonial capital at the tip of the peninsula, where the administration and the company have their offices and where the marching women finally arrive to a vast gathering. The confrontation here brings the strike to its head.",
+      "note": "Dakar is named as the capital and the march's destination; the specific rally grounds are not fixed, so this marks the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/God%27s_Bits_of_Wood"
+    },
+    {
+      "order": 5,
+      "place": "dakar-railway-terminus",
+      "displayName": "The Dakar railway terminus and port",
+      "country": "SN",
+      "lat": 14.6754,
+      "lng": -17.4333,
+      "reference": "Dakar sections",
+      "certainty": "exact",
+      "summary": "The Dakar-Niger line runs from this station by the harbour all the way inland, so the terminus is where the stopped railway meets the sea and the wider colonial economy it served. It anchors the western end of the strike that the whole book turns on.",
+      "note": "The line begins at Dakar's station by the harbour; the novel does not describe the building in detail, so this marks the historic Dakar railway station near the port.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dakar%E2%80%93Niger_Railway"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "paradise",
+  "title": "Paradise",
+  "author": "Abdulrazak Gurnah",
+  "year": 1994,
+  "description": "Gurnah's East Africa on the eve of the First World War: a boy pawned to settle his father's debt grows up in a merchant's household on the Swahili coast, then travels inland with a trading caravan across the dry plateau to the great lakes and the mountains, moving through Arab, African and Indian worlds as German colonial power tightens. The map runs from the coral-stone coast at Kilwa and Bagamoyo up the old caravan road to Tabora, on to Lake Tanganyika, and north to the snow of Kilimanjaro.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kilwa-swahili-coast",
+      "displayName": "The Swahili coast at Kilwa",
+      "country": "TZ",
+      "lat": -8.7488,
+      "lng": 39.4126,
+      "reference": "Opening chapters, the coastal world",
+      "certainty": "approximate",
+      "summary": "The story begins in the ordinary coastal life of a small boy: a shopkeeper father, a railway halt, and the arrival of the wealthy trader to whom the boy is handed over as security for an unpaid debt. That world of dhows, verandahs and Indian and Arab merchants belongs to the old Swahili coast, of which Kilwa was one of the great historic ports.",
+      "note": "Gurnah does not name the coastal district, but the old coral-stone trading towns of the southern Swahili coast are its clear model; this marks Kilwa Kivinje, a historic caravan terminus, as a representative point.",
+      "sourceUrl": "https://whc.unesco.org/en/tentativelists/2095/"
+    },
+    {
+      "order": 2,
+      "place": "bagamoyo-merchants-town",
+      "displayName": "The merchant's coastal town, Bagamoyo",
+      "country": "TZ",
+      "lat": -6.4333,
+      "lng": 38.9,
+      "reference": "The merchant's household and garden",
+      "certainty": "approximate",
+      "summary": "The boy grows up in the household of the merchant, working in the shop and tending the walled garden with its pool and fruit trees that gives the book its title. The trader's town is a coastal caravan port of exactly the kind Bagamoyo was, the place where goods and people gathered before the long march inland.",
+      "note": "The merchant Aziz's town is never named in the novel; Bagamoyo, the mainland port where caravans formed up for the interior, is used here as the representative coastal type.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bagamoyo"
+    },
+    {
+      "order": 3,
+      "place": "tabora-caravan-road",
+      "displayName": "Tabora on the caravan road",
+      "country": "TZ",
+      "lat": -5.0305,
+      "lng": 32.8194,
+      "reference": "The journey inland with the caravan",
+      "certainty": "approximate",
+      "summary": "The boy joins one of the trading expeditions that carry goods deep into the interior, a slow and dangerous march across the dry plateau under an anxious caravan leader. The real spine of that trade ran through Tabora, the great inland market where Arab, Nyamwezi and coastal traders converged on the way to the lakes.",
+      "note": "The novel follows a trading caravan inland without naming the towns; Tabora, historically Kazeh, was the central hub where the routes from the coast met, so it stands for the plateau stage of the journey.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tabora"
+    },
+    {
+      "order": 4,
+      "place": "ujiji-lake-tanganyika",
+      "displayName": "Lake Tanganyika at Ujiji",
+      "country": "TZ",
+      "lat": -4.9167,
+      "lng": 29.6833,
+      "reference": "The furthest point of the trading journey",
+      "certainty": "approximate",
+      "summary": "Deep in the interior the expedition reaches lands ruled by wary chiefs, where the traders are held, robbed and nearly broken before they can turn for home. The historic caravan road ran all the way to Ujiji on the shore of Lake Tanganyika, the western limit of the coastal traders' world.",
+      "note": "The caravan's far destination among the interior peoples is not named; Ujiji, the western terminus of the caravan road on Lake Tanganyika, marks the deepest inland reach of that trade.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ujiji"
+    },
+    {
+      "order": 5,
+      "place": "kilimanjaro-mountains",
+      "displayName": "The mountains at Kilimanjaro",
+      "country": "TZ",
+      "lat": -3.0674,
+      "lng": 37.3556,
+      "reference": "The wonder at the snow-capped mountain",
+      "certainty": "approximate",
+      "summary": "Among the strangest sights of the interior is a mountain crowned with snow under the equatorial sun, a marvel the travellers struggle to believe. In this landscape only Kilimanjaro carries permanent snow, and it stands for the far northern edge of the country the caravans crossed as German rule closed in.",
+      "note": "The snow-topped mountain the characters marvel at is unnamed in the text; Kilimanjaro, the region's only permanently snow-capped peak, is the clear referent, marked here at its summit.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

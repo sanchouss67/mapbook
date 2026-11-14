@@ -134,6 +134,32 @@ h2 {
   line-height: 1.55;
 }
 
+.bookDescription {
+  max-width: 560px;
+}
+
+.bookDescription > p {
+  max-width: none;
+}
+
+.sourceCredit {
+  margin-top: 8px;
+  font-size: 0.82rem;
+}
+
+.sourceCredit a {
+  color: var(--accent-dark);
+}
+
+.bookStatus {
+  margin: -8px 0 14px;
+  color: var(--muted);
+}
+
+.bookStatus.error {
+  color: #b42318;
+}
+
 .journeyLayout {
   display: grid;
   grid-template-columns: minmax(240px, 300px) minmax(460px, 1fr) minmax(260px, 340px);
@@ -331,6 +357,14 @@ h2 {
   background: #fff7ed;
   color: #7c2d12;
   padding: 12px;
+}
+
+.pointSource {
+  font-size: 0.82rem;
+}
+
+.pointSource a {
+  color: var(--accent-dark);
 }
 
 @media (max-width: 1180px) {

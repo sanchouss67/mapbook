@@ -1,0 +1,93 @@
+{
+  "id": "the-land-of-green-plums",
+  "title": "The Land of Green Plums",
+  "author": "Herta Müller",
+  "year": 1994,
+  "description": "Müller's Romania is the Banat under Ceaușescu, where four young ethnic-German friends leave a German-speaking farming village for the city to study, and the Securitate follows them into lecture halls, the student hostel, the factories they are posted to and the interrogation rooms. The map runs from the village on the Timiș plain to Timișoara's centre and university, then reaches east to the capital and out of the country to exile.",
+  "route": [
+    {
+      "order": 1,
+      "place": "banat-german-village",
+      "displayName": "The village in the Banat",
+      "country": "RO",
+      "lat": 45.5825,
+      "lng": 21.5308,
+      "reference": "Opening chapters",
+      "certainty": "approximate",
+      "summary": "The friends come from a tight German-speaking farming community in the Banat, a world of orchards, funerals and quiet conformity that the narrator remembers with unease. The village where Müller herself was born, Nițchidorf, sits on the Timiș plain southeast of the city and stands in for this closed rural setting.",
+      "note": "The novel keeps the home village unnamed, but its German-speaking Swabian community on the Banat plain matches the world Müller grew up in; this marks Nițchidorf, her birthplace, as a representative point.",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/2009/muller/biographical/"
+    },
+    {
+      "order": 2,
+      "place": "university-of-timisoara",
+      "displayName": "The university, Timișoara",
+      "country": "RO",
+      "lat": 45.7471,
+      "lng": 21.2316,
+      "reference": "Student years",
+      "certainty": "exact",
+      "summary": "Leaving the village, the narrator and her friends enrol as students in Timișoara, where their shared reading and private talk first draw the attention of the state. The city's university, on the boulevard by the Bega, anchors this turn toward the wider, more dangerous world of the town.",
+      "note": "The friends move to Timișoara to study; this marks the city's main university, then the University of Timișoara and today the West University, on Bulevardul Vasile Pârvan.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/West_University_of_Timi%C8%99oara"
+    },
+    {
+      "order": 3,
+      "place": "student-hostel-complexul-studentesc",
+      "displayName": "The student hostel",
+      "country": "RO",
+      "lat": 45.744,
+      "lng": 21.235,
+      "reference": "Student years",
+      "certainty": "approximate",
+      "summary": "Much of the students' life plays out in a crowded hostel where privacy is impossible and belongings are searched while they are out. Timișoara's purpose-built dormitory quarter, the Complexul Studențesc across the canal from the centre, fits the shared, watched rooms the book describes.",
+      "note": "The novel sites the students' rooms and shared showers in a hostel it does not name; this marks the Complexul Studențesc, the dormitory district built for Timișoara's students south of the Bega, as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Complexul_Studen%C8%9Besc"
+    },
+    {
+      "order": 4,
+      "place": "timisoara-streets-and-factories",
+      "displayName": "The city streets and factories",
+      "country": "RO",
+      "lat": 45.7537,
+      "lng": 21.2257,
+      "reference": "After graduation",
+      "certainty": "exact",
+      "summary": "Assigned to factories and offices around Timișoara, the friends live under constant pressure: tailed on the streets, called in for interrogations, their letters opened and their friends turned. The historic core of the city, from its central square out to the industrial edges, holds this long stretch of ordinary life under watch.",
+      "note": "After graduation the friends are posted to jobs across Timișoara and summoned for questioning; this marks the city centre at Piața Victoriei as the anchor for its streets, workplaces and interrogation rooms.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Land_of_Green_Plums"
+    },
+    {
+      "order": 5,
+      "place": "bucharest-flight",
+      "displayName": "Bucharest",
+      "country": "RO",
+      "lat": 44.4323,
+      "lng": 26.1063,
+      "reference": "Later chapters",
+      "certainty": "exact",
+      "summary": "One of the friends leaves the Banat for the capital, hoping distance will loosen the state's grip, but the surveillance and the fear follow her east. Bucharest sits far across the country from Timișoara and marks how little escape within Romania's borders can offer.",
+      "note": "The capital is named in the novel; it lies about 550 km east of the Banat, so it is marked as an excursion beyond the book's Timișoara setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Land_of_Green_Plums"
+    },
+    {
+      "order": 6,
+      "place": "emigration-to-germany",
+      "displayName": "Exile in Germany",
+      "country": "RO",
+      "lat": 52.52,
+      "lng": 13.405,
+      "reference": "Closing chapters",
+      "certainty": "approximate",
+      "summary": "Those who outlast the regime's pressure finally get out, emigrating to Germany, though the leaving carries its own grief and the dead are not left behind. Berlin, where Müller settled after her own emigration, stands for this exile far to the northwest of the Banat.",
+      "note": "The survivors emigrate to Germany, which the novel does not pin to a single city; this marks Berlin, where Müller herself settled after leaving Romania, as a representative destination well beyond the setting.",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/2009/muller/biographical/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "lolita",
+  "title": "Lolita",
+  "author": "Vladimir Nabokov",
+  "year": 1955,
+  "description": "A European emigre's obsession with a twelve-year-old girl carries them from a New England town through two years of American motels, a cross-country flight along the highways, and a final murder, all narrated from a prison cell.",
+  "route": [
+    {
+      "order": 1,
+      "place": "ramsdale-new-england-town",
+      "displayName": "Ramsdale, the Haze house",
+      "country": "US",
+      "lat": 42.1959,
+      "lng": -73.3612,
+      "reference": "Part 1, ch. 10-17",
+      "certainty": "approximate",
+      "summary": "Humbert takes lodgings in the Haze household in the quiet town of Ramsdale and is undone at once by the sight of the widow's daughter Dolores sunning herself in the yard. He marries the mother to stay near the child; when the mother dies under a car, the road opens in front of him.",
+      "note": "Ramsdale is a fictional New England town and appears on no map. It is anchored here to Great Barrington in the western Massachusetts Berkshires, the kind of leafy small town Nabokov drew on, as a representative real-world stand-in rather than an identified location.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "order": 2,
+      "place": "beardsley-college-town",
+      "displayName": "Beardsley, the school and college town",
+      "country": "US",
+      "lat": 42.3732,
+      "lng": -72.5199,
+      "reference": "Part 2, ch. 4-14",
+      "certainty": "approximate",
+      "summary": "After the first year on the road, Humbert settles Dolores in the college town of Beardsley and enrols her in a girls' school, playing the strict widowed father. The stability is a cage; her rehearsals for the school play become the cover under which Quilty makes contact and the second flight begins.",
+      "note": "Beardsley and its women's college are invented and unlocated. Anchored to Amherst, a real western Massachusetts college town, as a representative model for the tidy New England academic place Nabokov imagined; not an identification of Amherst as Beardsley.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "order": 3,
+      "place": "western-highway-motels",
+      "displayName": "The cross-country motel road",
+      "country": "US",
+      "lat": 41.5875,
+      "lng": -109.2029,
+      "reference": "Part 2, ch. 1-3",
+      "certainty": "approximate",
+      "summary": "For the better part of two years Humbert keeps Dolores moving from motel to motel along the real highways of the American West, cataloguing the roadside kitsch with a connoisseur's eye while a child's life is spent in the passenger seat. The open road, that great American promise of freedom, is here the instrument of her captivity.",
+      "note": "The two motoring years cover thousands of real miles of American highway with no single home. This pin sits on the old transcontinental route across Wyoming, far outside the New England setting, to stand for the endless West of gas stations and tourist courts through which Humbert drives Dolores.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "order": 4,
+      "place": "elphinstone-rocky-mountain-town",
+      "displayName": "Elphinstone, where Lolita vanishes",
+      "country": "US",
+      "lat": 37.9375,
+      "lng": -107.8123,
+      "reference": "Part 2, ch. 22",
+      "certainty": "approximate",
+      "summary": "In the mountain town of Elphinstone, Dolores falls ill and is taken to hospital, and from there she disappears, spirited away by the man who has been shadowing them. Humbert loses her without ever seeing the face of his rival, and the loss cracks the narrative open into pursuit and breakdown.",
+      "note": "Elphinstone is a fictional Rocky Mountain resort town, far outside the New England setting. It is anchored to Telluride, Colorado, a mountain town where Nabokov famously hunted butterflies in 1951 and which is a documented touchstone for the western scenes, as a representative model rather than a strict identification.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+    },
+    {
+      "order": 5,
+      "place": "pavor-manor-final-confrontation",
+      "displayName": "Pavor Manor, the reckoning with Quilty",
+      "country": "US",
+      "lat": 42.3,
+      "lng": -73.25,
+      "reference": "Part 2, ch. 35",
+      "certainty": "approximate",
+      "summary": "Years later Humbert tracks the playwright Clare Quilty to his sprawling country house and shoots him in a scene that turns into grotesque farce. Naming Quilty at last, Humbert admits the rival was only a darker mirror of himself, and the killing settles nothing about the girl he ruined.",
+      "note": "Pavor Manor, Quilty's house near Parkington, is fictional and unmapped. It is placed here in the Berkshires within reach of Ramsdale, matching the novel's sense that Humbert circles back toward where it started; a representative siting, not a real house.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

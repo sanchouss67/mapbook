@@ -1,0 +1,93 @@
+{
+  "id": "fatelessness",
+  "title": "Fatelessness",
+  "author": "Imre Kertész",
+  "year": 1975,
+  "description": "The wartime Budapest of a fifteen-year-old boy who is marked, taken and deported in the summer of 1944. The map holds the ordinary points of his last free weeks, a Pest flat, an apprentice job across the river at Csepel, and the brickyard on the northern edge where a stopped bus ends the ordinary. From there the novel travels out of the frame to the camps and, at the last, returns to a city that has changed while he was gone.",
+  "route": [
+    {
+      "order": 1,
+      "place": "koves-family-flat",
+      "displayName": "The Köves family flat, Pest",
+      "country": "HU",
+      "lat": 47.5024,
+      "lng": 19.0664,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The book opens on an ordinary domestic evening: the boy's father is being sent to a forced-labour service, and the family gathers for a last meal before he goes. The scene belongs to Jewish Budapest in 1944, a life of yellow stars, curfews and permits that still looks, from the inside, like normal life.",
+      "note": "The novel does not give the family an address; it places them in a Jewish household in wartime Budapest, so this marks Erzsébetváros, the historic Jewish quarter of Pest and the heart of the district later sealed as a ghetto.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatelessness"
+    },
+    {
+      "order": 2,
+      "place": "shell-refinery-csepel",
+      "displayName": "The Shell refinery, Csepel",
+      "country": "HU",
+      "lat": 47.4317,
+      "lng": 19.0699,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "With his father gone, the boy is given a work permit and a place as an apprentice at an oil refinery on Csepel, the factory island south of the city. The daily commute by suburban train, treated as a small adult adventure, is the routine that a single morning will break.",
+      "note": "The novel names the boy's assigned workplace as the Shell petroleum works at Csepel; the exact building is not identified, so this marks Csepel, the industrial island district on the southern edge of Budapest.",
+      "sourceUrl": "https://www.supersummary.com/fatelessness/summary/"
+    },
+    {
+      "order": 3,
+      "place": "budakalasz-brickyard",
+      "displayName": "The brick factory, Budakalász",
+      "country": "HU",
+      "lat": 47.615,
+      "lng": 19.048,
+      "reference": "Chapters 4-5",
+      "certainty": "exact",
+      "summary": "On the way to work the boy's bus is stopped by gendarmes and the Jewish passengers are held, then marched to a brickyard on the city's northern edge where deportees were gathered before the trains. Budakalász was a real assembly point of the 1944 deportations; here the ordinary journey becomes the start of the transport east.",
+      "note": "The novel takes the boy off a halted bus to a brickyard used to hold those being deported. On the northern route out of Budapest the documented collection site was the brickworks at Budakalász, which this marks; the novel describes the scene rather than naming the town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatelessness"
+    },
+    {
+      "order": 4,
+      "place": "auschwitz-birkenau",
+      "displayName": "Auschwitz-Birkenau",
+      "country": "HU",
+      "lat": 50.0343,
+      "lng": 19.1737,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "The train from the brickyard carries the boy to Auschwitz-Birkenau, where an SS selection on the ramp decides in a moment who is sent to work and who is not. The place lies far outside the Budapest map, but the novel's whole arc runs through it, so it is marked as an excursion beyond the frame.",
+      "note": "The novel names Auschwitz as the first destination. This marks the Birkenau (Auschwitz II) site in Oświęcim, Poland, far outside the Budapest setting; it is included because the deportation is the hinge of the book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatelessness"
+    },
+    {
+      "order": 5,
+      "place": "buchenwald",
+      "displayName": "Buchenwald",
+      "country": "HU",
+      "lat": 51.0222,
+      "lng": 11.2481,
+      "reference": "Chapters 6-8",
+      "certainty": "exact",
+      "summary": "Moved on from Auschwitz, the boy is registered at Buchenwald and sent to labour at its satellite camp near Zeitz, then back to Buchenwald as illness and starvation nearly finish him. Most of the book's second half unfolds here, on German soil far from home, until liberation in the spring of 1945.",
+      "note": "The novel names Buchenwald and its satellite camp Zeitz. This marks the main Buchenwald site on the Ettersberg near Weimar, Germany, far outside the Budapest setting and included as an excursion beyond the frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatelessness"
+    },
+    {
+      "order": 6,
+      "place": "return-to-budapest",
+      "displayName": "Return to Budapest",
+      "country": "HU",
+      "lat": 47.4966,
+      "lng": 19.0699,
+      "reference": "Chapter 9",
+      "certainty": "approximate",
+      "summary": "The boy comes back to a Budapest that has moved on without him: strangers in old rooms, well-meaning adults who want him to forget, and his own refusal to call what happened either fate or a nightmare. The closing chapter belongs to the streets of Pest, the ordinary city that has quietly rearranged itself in his absence.",
+      "note": "The final chapter returns the boy to Budapest without fixing a single address; this marks the Grand Boulevard of Pest, near Blaha Lujza tér, as a representative point in the changed city he walks back into.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatelessness"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

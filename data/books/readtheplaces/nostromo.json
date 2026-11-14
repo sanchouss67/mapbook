@@ -1,0 +1,80 @@
+{
+  "id": "nostromo",
+  "title": "Nostromo",
+  "author": "Joseph Conrad",
+  "year": 1904,
+  "description": "Conrad invents a whole South American republic, Costaguana, and its silver port Sulaco, then fills it with revolutions and a hoard of mine silver that corrupts everyone it touches; the fictional coast is built from the real northern shore of South America Conrad had seen, anchored here to Colombia's Caribbean rim.",
+  "route": [
+    {
+      "order": 1,
+      "place": "sulaco-santa-marta",
+      "displayName": "Sulaco, the silver port (Santa Marta)",
+      "country": "CO",
+      "lat": 11.2408,
+      "lng": -74.199,
+      "reference": "The port",
+      "certainty": "approximate",
+      "summary": "Sulaco is the isolated port where nearly all the novel happens, a town cut off from the rest of Costaguana by mountains and reachable only by sea. Its harbour, its Italian and English residents, and its silver trade make it a small world where the whole national drama plays out. Santa Marta, a real Colombian port beneath the coastal peaks, stands here for that invented town.",
+      "note": "Sulaco is a wholly invented port in the fictional republic of Costaguana, not a real town. Conrad built it from the Caribbean and South American coasts he sailed; the pin marks Santa Marta, an old Colombian port under a coastal mountain wall, as a representative real anchor. Costaguana and Sulaco are fictional.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Marta"
+    },
+    {
+      "order": 2,
+      "place": "san-tome-mine-sierra-nevada",
+      "displayName": "The San Tomé mine (Sierra Nevada de Santa Marta)",
+      "country": "CO",
+      "lat": 10.84,
+      "lng": -73.69,
+      "reference": "The mine",
+      "certainty": "approximate",
+      "summary": "Charles Gould reopens the San Tomé silver mine in the mountains, believing the wealth will bring order to a lawless country, and instead the silver becomes the thing that everyone kills and betrays for. The mine, high in the sierra above the port, is the novel's dark engine. The Sierra Nevada de Santa Marta, towering behind the coast, gives the real shape of that mountain wealth.",
+      "note": "The San Tomé silver mine in the mountains above Sulaco is fictional. Conrad's coastal-mountain geography is anchored here to the Sierra Nevada de Santa Marta, the high range that rises steeply behind the real port; the pin marks its heights. The mine and Costaguana are inventions.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sierra_Nevada_de_Santa_Marta"
+    },
+    {
+      "order": 3,
+      "place": "golfo-placido-the-gulf",
+      "displayName": "The Golfo Plácido (the Caribbean gulf)",
+      "country": "CO",
+      "lat": 11.35,
+      "lng": -74.4,
+      "reference": "The gulf",
+      "certainty": "approximate",
+      "summary": "The Golfo Plácido is the wide, dead-calm gulf that Sulaco sits on, so still and dark at night that Nostromo and Decoud row the silver out into it blind, unseen and unseeing. That black, windless water is one of the book's great images, hiding the treasure and the guilt. It stands for the real Caribbean the coast opens onto.",
+      "note": "The Golfo Plácido, the vast calm bay before Sulaco, is a fictional gulf. It is drawn from the Caribbean water off the real coast; the pin marks the open sea north of Santa Marta as a representative point. The gulf and its port are inventions.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nostromo"
+    },
+    {
+      "order": 4,
+      "place": "the-isabels-islands",
+      "displayName": "The Great Isabel (offshore islands)",
+      "country": "CO",
+      "lat": 10.1719,
+      "lng": -75.7811,
+      "reference": "The islands",
+      "certainty": "approximate",
+      "summary": "Nostromo and Decoud bury the boatload of silver on the Great Isabel, one of three small islands in the gulf, and the buried hoard becomes the secret that ruins Nostromo's life and honour. The islands are where the novel's incorruptible hero quietly turns thief. The Rosario islets off the real coast stand for those invented isles.",
+      "note": "The Isabels, three small islands in the gulf where the silver is hidden, are fictional. They are drawn from the low offshore islets of the Colombian Caribbean; the pin marks the Rosario Islands off the coast as a representative real anchor. The islands and their treasure are inventions.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosario_Islands"
+    },
+    {
+      "order": 5,
+      "place": "cartagena-coastal-port",
+      "displayName": "A coastal port (Cartagena)",
+      "country": "CO",
+      "lat": 10.3997,
+      "lng": -75.5144,
+      "reference": "The coast",
+      "certainty": "approximate",
+      "summary": "Beyond Sulaco, Costaguana has a capital and a coast of other ports where its revolutions are plotted and its politicians rise and fall, the turbulent national background the local drama is cut off from. Cartagena, the fortified Caribbean port a little down the coast, gives a real face to that wider republic. It is the kind of place Conrad's invented country was assembled from.",
+      "note": "Costaguana's wider coast and its other ports are fictional. Cartagena, the great walled Colombian harbour, stands here as a representative real port of the northern-South-American coast Conrad drew on. The republic and its towns are inventions.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cartagena,_Colombia"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "brighton-rock",
+  "title": "Brighton Rock",
+  "author": "Graham Greene",
+  "year": 1938,
+  "description": "A razor-gang thriller set in the seaside Brighton of the 1930s, where the seventeen-year-old gangster Pinkie kills a man in the Whitsun crowds and marries a waitress, Rose, to keep her from testifying, while the cheerful Ida Arnold sets out to bring him down. Greene maps the town precisely: the Palace Pier where it starts, the racecourse where the gangs slash each other, the grand seafront hotels of the rival boss Colleoni, and the poor streets off Nelson Place that made Pinkie what he is. The chase ends on the cliffs at Peacehaven, east of town.",
+  "route": [
+    {
+      "order": 1,
+      "place": "palace-pier",
+      "displayName": "The Palace Pier",
+      "country": "GB",
+      "lat": 50.8165,
+      "lng": -0.1367,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Hale, going under the name Fred, hands out cards for a newspaper competition along the packed Palace Pier, knowing Pinkie's gang means to kill him. It is here that the blowsy, good-natured Ida Arnold picks him up for an hour, and later, convinced his death was no accident, appoints herself his avenger.",
+      "note": "The novel opens among the Whitsun crowds on Brighton's Palace Pier, the real pleasure pier on the seafront, where the journalist Hale is stalked in the hours before his death.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Palace_Pier"
+    },
+    {
+      "order": 2,
+      "place": "brighton-racecourse",
+      "displayName": "Brighton Racecourse",
+      "country": "GB",
+      "lat": 50.8235,
+      "lng": -0.1,
+      "reference": "Part 4",
+      "certainty": "exact",
+      "summary": "Pinkie goes up to the races expecting Colleoni's men to help him settle a score, and is instead set upon and slashed, his own men scattering. The betrayal on the Downs above Brighton shows the boy how far out of his depth he is against the older, richer gangster.",
+      "note": "The gang warfare comes to a head at Brighton Racecourse on Race Hill above the town, the real course where 1930s race-gangs really did run protection and fight with razors.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Racecourse"
+    },
+    {
+      "order": 3,
+      "place": "nelson-place",
+      "displayName": "Nelson Place",
+      "country": "GB",
+      "lat": 50.8265,
+      "lng": -0.133,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The dead-end poverty of Nelson Place is the world that formed Pinkie's cold Catholic damnation and Rose's helpless devotion. Greene keeps returning to it to explain them both: two children of the same slum, one certain of hell, the other ready to be dragged there for love.",
+      "note": "Pinkie and Rose both come from Nelson Place, the poor streets off Albion Hill that were a real Brighton slum since cleared; sited in that district east of the Old Steine.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "cosmopolitan-hotel",
+      "displayName": "The Cosmopolitan Hotel (the Grand)",
+      "country": "GB",
+      "lat": 50.821,
+      "lng": -0.149,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Colleoni, smooth and wealthy, runs his rackets from a suite in the Cosmopolitan, all palm courts and deference, a world away from Pinkie's shabby lodgings. When he summons the boy and offers him money to bow out, the contrast between the two gangsters is the contrast between the seafront and the slum.",
+      "note": "The plush Cosmopolitan where the gang boss Colleoni holds court is drawn from Brighton's grand seafront hotels, above all the Grand Hotel on King's Road; sited on that stretch of the front.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Hotel,_Brighton"
+    },
+    {
+      "order": 5,
+      "place": "snows-restaurant",
+      "displayName": "Snow's restaurant",
+      "country": "GB",
+      "lat": 50.8195,
+      "lng": -0.1385,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "Rose is a waitress at Snow's when she serves the card that could prove Hale was murdered, and Pinkie courts and marries her to keep her quiet. The ordinary little restaurant is where the book's central, doomed bond is formed, out of fear on his side and love on hers.",
+      "note": "Snow's, the restaurant where Rose waits tables and Pinkie first comes to silence her, is invented; the novel places it in central Brighton near the front. Sited in the town centre by the Old Steine.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brighton_Rock_(novel)"
+    },
+    {
+      "order": 6,
+      "place": "peacehaven-cliffs",
+      "displayName": "The cliffs at Peacehaven",
+      "country": "GB",
+      "lat": 50.791,
+      "lng": -0.001,
+      "reference": "Part 7",
+      "certainty": "exact",
+      "summary": "Cornered, Pinkie takes Rose out to the dark cliffs at Peacehaven, meaning to talk her into shooting herself. Ida and the police arrive at the last moment, and Pinkie, splashed by his own bottle of vitriol, goes over the edge, leaving Rose with a recording she believes is his love and does not yet know is his hate.",
+      "note": "The climax plays out on the cliffs at Peacehaven, the real clifftop town a few miles east of Brighton, where Pinkie drives Rose intending a fake suicide pact.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peacehaven"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

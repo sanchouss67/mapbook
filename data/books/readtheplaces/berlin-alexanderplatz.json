@@ -1,0 +1,80 @@
+{
+  "id": "berlin-alexanderplatz",
+  "title": "Berlin Alexanderplatz",
+  "author": "Alfred Döblin",
+  "year": 1929,
+  "description": "Döblin's Berlin is the loud, crowded capital of the late Weimar years, mapped by its real squares, tram lines and back-street bars as an ex-convict tries to go straight and keeps being pulled under. The route runs from the Tegel prison gate in the north-west, through the Scheunenviertel and the great hub of Alexanderplatz, out to the northern asylum where the story ends.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tegel-prison-gate",
+      "displayName": "Tegel Prison",
+      "country": "DE",
+      "lat": 52.57299,
+      "lng": 13.29308,
+      "reference": "Book 1",
+      "certainty": "exact",
+      "summary": "The novel opens at the gate of Tegel prison, where Franz Biberkopf is released after serving time for killing his girlfriend. He is terrified of the freedom outside and swears to himself that this time he will stay honest. Tegel is a real prison in the north-west of Berlin.",
+      "note": "Döblin names the Tegel prison; this marks the real Justizvollzugsanstalt Tegel in Reinickendorf, still a working prison today.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tegel_Prison"
+    },
+    {
+      "order": 2,
+      "place": "rosenthaler-platz",
+      "displayName": "Rosenthaler Platz",
+      "country": "DE",
+      "lat": 52.53,
+      "lng": 13.401,
+      "reference": "Book 2",
+      "certainty": "exact",
+      "summary": "Back in the city, Franz gravitates to Rosenthaler Platz, a busy crossing of tram lines and beer houses on the northern rim of the old centre. It becomes his anchor point as he tries out honest trades, from selling tie-holders to hawking newspapers. The square is real and still carries the name.",
+      "note": "Döblin names Rosenthaler Platz repeatedly; this marks the real square and its tram junction on the edge of the Scheunenviertel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosenthaler_Platz"
+    },
+    {
+      "order": 3,
+      "place": "muenzstrasse-scheunenviertel",
+      "displayName": "Münzstraße, Scheunenviertel",
+      "country": "DE",
+      "lat": 52.5241,
+      "lng": 13.4094,
+      "reference": "Book 3",
+      "certainty": "exact",
+      "summary": "Franz's rooms, bars and dealings sit in the Scheunenviertel, the poor quarter just north-east of Alexanderplatz that Münzstraße cuts through. Here he falls in with the Pums gang and with Reinhold, the drift that will cost him an arm and worse. The street is real and still connects Alexanderplatz to Rosa-Luxemburg-Platz.",
+      "note": "Döblin names Münzstraße; it runs through the old Scheunenviertel, in the 1920s a crowded quarter of cheap lodgings, bars and petty crime.",
+      "sourceUrl": "https://nominatim.openstreetmap.org/search?q=M%C3%BCnzstra%C3%9Fe%2C+Mitte%2C+Berlin&format=json"
+    },
+    {
+      "order": 4,
+      "place": "alexanderplatz",
+      "displayName": "Alexanderplatz",
+      "country": "DE",
+      "lat": 52.5219,
+      "lng": 13.4132,
+      "reference": "Book 4",
+      "certainty": "exact",
+      "summary": "Alexanderplatz is the roaring heart the book turns on, its traffic, building sites, courts and crowds set down in long documentary sweeps. Döblin lets the noise of the square almost drown Franz's own story out. The place is real and remains one of Berlin's busiest hubs.",
+      "note": "The title square, named throughout; this marks the real Alexanderplatz, the great transport and market hub of eastern central Berlin.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexanderplatz"
+    },
+    {
+      "order": 5,
+      "place": "buch-asylum",
+      "displayName": "The asylum at Buch",
+      "country": "DE",
+      "lat": 52.6321,
+      "lng": 13.4997,
+      "reference": "Book 9",
+      "certainty": "exact",
+      "summary": "Broken after his lover Mieze is murdered, Franz ends up in the mental asylum at Buch, far out in Berlin's northern edge, where he is stripped down and slowly remade. Döblin, a physician, had worked at the Buch hospitals himself. The site is real and still a large medical campus today.",
+      "note": "Döblin names the Buch asylum; this marks the historic mental hospital grounds on Karower Straße in Berlin-Buch, where Döblin himself had worked as a young doctor.",
+      "sourceUrl": "https://de.wikipedia.org/wiki/Heilanstalten_in_Berlin-Buch"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

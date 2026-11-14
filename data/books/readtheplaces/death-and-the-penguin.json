@@ -1,0 +1,80 @@
+{
+  "id": "death-and-the-penguin",
+  "title": "Death and the Penguin",
+  "author": "Andrey Kurkov",
+  "year": 1996,
+  "description": "Post-Soviet Kyiv in the mid-1990s: a broke city where the zoo gives its animals away, a lonely writer keeps a king penguin in his flat, and a job writing obituaries pulls him into a quiet, lethal machinery of favours and funerals. The map runs from the residential streets of the centre out to the zoo on Prospekt Peremohy and down to the frozen Dnieper.",
+  "route": [
+    {
+      "order": 1,
+      "place": "viktors-flat",
+      "displayName": "Viktor's flat",
+      "country": "UA",
+      "lat": 50.446,
+      "lng": 30.509,
+      "reference": "Opening chapters",
+      "certainty": "approximate",
+      "summary": "The story begins in the small apartment a struggling writer shares with a king penguin he took in when the zoo could no longer feed its animals. The bird pads across the parquet, the writer works at short pieces for money, and both of them keep a companionable, melancholy silence. The book fixes no street for the flat, but everything about it belongs to the lived-in centre of the city.",
+      "note": "The novel never gives Viktor an address; it reads as an ordinary flat in the central districts of Kyiv, so this marks a representative point in the residential centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+    },
+    {
+      "order": 2,
+      "place": "kyiv-zoo",
+      "displayName": "Kyiv Zoo",
+      "country": "UA",
+      "lat": 50.4542,
+      "lng": 30.4628,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "The penguin comes from the city zoo, which in the hungry years after independence gave animals away to anyone who could keep them. The real Kyiv Zoo sits on Prospekt Peremohy in the west of the centre; its collapse into poverty is the small civic disaster that puts a flightless Antarctic bird in a Kyiv apartment.",
+      "note": "The novel names the Kyiv Zoo as the penguin's origin; this marks the real zoo on Prospekt Peremohy.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kyiv_Zoo"
+    },
+    {
+      "order": 3,
+      "place": "newspaper-office",
+      "displayName": "The newspaper office",
+      "country": "UA",
+      "lat": 50.447,
+      "lng": 30.523,
+      "reference": "Early chapters",
+      "certainty": "approximate",
+      "summary": "A newspaper editor gives the writer a strange commission: advance obituaries of the notable and the powerful, filed and held until the subjects die. The office is never pinned to a real address, but a mid-1990s Kyiv daily belongs to the central quarter near Khreshchatyk. The job is the door through which the city's quiet violence enters his life.",
+      "note": "The paper that hires Viktor is not tied to a named building; this marks a representative point in the central press and business quarter around Khreshchatyk.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Death_and_the_Penguin"
+    },
+    {
+      "order": 4,
+      "place": "central-kyiv",
+      "displayName": "Central Kyiv",
+      "country": "UA",
+      "lat": 50.45,
+      "lng": 30.5212,
+      "reference": "Middle chapters",
+      "certainty": "exact",
+      "summary": "As the obituaries start to come due with unnerving speed, the writer is drawn through the public heart of the city: the well-attended funerals, the handovers, the men who pay for his silence. Independence Square and the streets around it stand for the central Kyiv where this post-Soviet economy of favours does its business in plain sight.",
+      "note": "The novel is set explicitly in Kyiv; this marks Maidan Nezalezhnosti at the heart of the centre where the funerals and meetings play out.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maidan_Nezalezhnosti"
+    },
+    {
+      "order": 5,
+      "place": "frozen-dnieper",
+      "displayName": "The frozen Dnieper",
+      "country": "UA",
+      "lat": 50.438,
+      "lng": 30.5555,
+      "reference": "Closing chapters",
+      "certainty": "exact",
+      "summary": "The great river that splits the city runs through the book's cold, closing stretch, its winter ice a fitting stage for a story about a penguin far from any pole. The Dnieper is real and central to Kyiv; the embankment here, below the Dnipro metro, stands for the frozen water where the novel's chill deepens toward its end.",
+      "note": "The Dnieper is the real river of Kyiv; this marks the central embankment by the Dnipro metro where its ice edges the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dnieper"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

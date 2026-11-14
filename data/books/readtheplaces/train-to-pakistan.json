@@ -1,0 +1,80 @@
+{
+  "id": "train-to-pakistan",
+  "title": "Train to Pakistan",
+  "author": "Khushwant Singh",
+  "year": 1956,
+  "description": "In the summer of 1947, the small Punjab border village of Mano Majra, where Sikhs and Muslims have always lived as neighbours, is torn apart by Partition when a ghost train of massacred Sikhs arrives from the new Pakistan. Singh's spare, unsparing novel is rooted in the real geography of the frontier: the mixed village by its railway station, the bridge over the Sutlej, the river swollen with the monsoon and the dead, and the trains that carry a people to safety or to slaughter.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-village",
+      "displayName": "Mano Majra village",
+      "country": "IN",
+      "lat": 31,
+      "lng": 74.6,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In Mano Majra, Sikhs and Muslims have shared the village for generations, their days ordered by the same trains and the same fields, the moneylender's daughter and the peasants alike. Singh draws this ordinary harmony with deliberate care, so that its swift, total destruction will land with full force, the ties of a lifetime dissolving in a season of madness.",
+      "note": "Mano Majra is a fictional village drawn from the small mixed Sikh-Muslim settlements of the Punjab border country; sited in that frontier region near the Sutlej.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "order": 2,
+      "place": "the-railway-station",
+      "displayName": "The railway station",
+      "country": "IN",
+      "lat": 31.05,
+      "lng": 74.55,
+      "reference": "The station chapters",
+      "certainty": "approximate",
+      "summary": "The whole village keeps time by the trains that halt at its little station, the morning mail, the evening passenger, the goods trains rumbling over the bridge. Singh makes the railway the village's clock and lifeline, so that when the trains begin to arrive at the wrong hours, silent and heavy, everyone knows something is terribly wrong.",
+      "note": "The village's life turns on its little railway station and the bridge over the Sutlej, drawn from the rail crossings of the Punjab frontier; sited by the river.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Train_to_Pakistan"
+    },
+    {
+      "order": 3,
+      "place": "the-ghost-train",
+      "displayName": "The ghost train",
+      "country": "IN",
+      "lat": 31.052,
+      "lng": 74.555,
+      "reference": "The ghost-train chapters",
+      "certainty": "approximate",
+      "summary": "One day a train pulls in packed with the corpses of Sikhs massacred across the border, and the authorities burn the bodies in secret and order kerosene and wood without explanation. The ghost train turns the abstract news of slaughter into a stench the village cannot escape, and lights the fuse of retaliation against Mano Majra's own Muslims.",
+      "note": "A train of murdered Sikh refugees arrives from Pakistan and is secretly cremated, drawn from the real 'ghost trains' of the Partition; sited at the village station.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "order": 4,
+      "place": "the-sutlej",
+      "displayName": "The Sutlej river",
+      "country": "IN",
+      "lat": 31.08,
+      "lng": 74.5,
+      "reference": "The river chapters",
+      "certainty": "exact",
+      "summary": "When the monsoon swells the Sutlej, the river brings down a grotesque cargo of corpses, whole families roped together, that jams against the bridge. In the swollen river Singh gives the horror its bleakest image, and against it sets the paralysed conscience of men like the city intellectual Iqbal, who see clearly and do nothing.",
+      "note": "The Sutlej, a real great river of the Punjab, runs beside the village and floods with the monsoon, carrying down the bodies of the killed; sited at the village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sutlej"
+    },
+    {
+      "order": 5,
+      "place": "the-evacuation-train",
+      "displayName": "The evacuation train",
+      "country": "IN",
+      "lat": 31.048,
+      "lng": 74.552,
+      "reference": "The ending",
+      "certainty": "approximate",
+      "summary": "When a gang plans to slaughter the departing Muslim trainload by stringing a rope across the bridge, it is the village badmash Jugga, whose lover Nooran is aboard, who climbs up to cut it and dies saving them. Singh ends not on despair but on a single redeeming act, one flawed man's sacrifice set against a whole season's cruelty.",
+      "note": "The village's Muslims are put on a train for Pakistan, which a mob plots to massacre at the bridge; the climactic rescue is sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Train_to_Pakistan"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

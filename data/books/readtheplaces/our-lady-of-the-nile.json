@@ -1,0 +1,80 @@
+{
+  "id": "our-lady-of-the-nile",
+  "title": "Our Lady of the Nile",
+  "author": "Scholastique Mukasonga",
+  "year": 2012,
+  "description": "An elite Catholic girls' lycee perched high in the mountains of southern Rwanda, close to a spring held to be a source of the Nile. Behind the convent order and the school routine, the Hutu quotas and Tutsi persecution of the wider country play out among the pupils, a rehearsal in miniature for the genocide still to come. The map runs from the forested highlands near the Nile source down to the town of Butare and out to the capital, Kigali.",
+  "route": [
+    {
+      "order": 1,
+      "place": "source-of-the-nile-rukarara",
+      "displayName": "The source of the Nile, Rukarara",
+      "country": "RW",
+      "lat": -2.28221,
+      "lng": 29.33124,
+      "reference": "The Nile spring above the lycee",
+      "certainty": "exact",
+      "summary": "The school is named for a statue of the Virgin that stands by a trickle of water in the mountains, revered as a source of the Nile. The real headwater lies in the Nyungwe forest of southern Rwanda, a muddy pool that modern surveys identified as the river's furthest origin from the sea.",
+      "note": "The novel takes its name from the spring near the school, held to be a source of the Nile; this marks the Rukarara headwater in the Nyungwe highlands that a 2005-2006 expedition traced as the river's most distant source.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rukarara_River"
+    },
+    {
+      "order": 2,
+      "place": "lycee-our-lady-of-the-nile",
+      "displayName": "The lycee of Our Lady of the Nile",
+      "country": "RW",
+      "lat": -2.34,
+      "lng": 29.365,
+      "reference": "The boarding school on the mountain",
+      "certainty": "approximate",
+      "summary": "Almost the whole story unfolds inside an elite Catholic boarding school for girls, set so high and so remote that the pupils are kept apart from the country below. The school is invented, but the author, who was a Tutsi schoolgirl in Rwanda in these years, built it from the real lycees of the southern highlands.",
+      "note": "The lycee is a fictional school; it is sited here in the real Rwandan highlands near the Nile source, close to the setting Mukasonga drew from a Catholic girls' boarding school she attended in southern Rwanda.",
+      "sourceUrl": "https://www.archipelagobooks.org/book/our-lady-of-the-nile/"
+    },
+    {
+      "order": 3,
+      "place": "nyungwe-forest-highlands",
+      "displayName": "The Nyungwe forest highlands",
+      "country": "RW",
+      "lat": -2.49,
+      "lng": 29.29,
+      "reference": "The forested highlands around the school",
+      "certainty": "approximate",
+      "summary": "The landscape around the school is one of high forest, rain and cloud, with local shrines and a hillside pilgrimage that sit uneasily beside the convent's Catholicism. The surviving montane forest of Nyungwe, wet enough to cradle the Nile's first waters, stands in for that world.",
+      "note": "The novel places the school amid mist, tea slopes and mountain forest without a survey point; this marks the Nyungwe montane forest and its Kamiranzovu swamp, the highland that feeds the Nile source.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nyungwe_National_Park"
+    },
+    {
+      "order": 4,
+      "place": "butare-huye-town",
+      "displayName": "Butare (Huye)",
+      "country": "RW",
+      "lat": -2.5967,
+      "lng": 29.7394,
+      "reference": "The southern town below the highlands",
+      "certainty": "approximate",
+      "summary": "Below the school lies the settled country the girls travel through on their way to and from term, a place of missions, colonial-era institutions and the everyday order the mountain keeps at bay. Butare, renamed Huye, was the ecclesiastical and academic centre of the southern province.",
+      "note": "The book gestures at the ordered towns of the south below the mountain without pinning a scene here; Butare, now Huye, the southern seat of church and university, stands as that nearest real town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Huye"
+    },
+    {
+      "order": 5,
+      "place": "kigali-capital",
+      "displayName": "Kigali",
+      "country": "RW",
+      "lat": -1.9536,
+      "lng": 30.0606,
+      "reference": "The capital that frames the school",
+      "certainty": "exact",
+      "summary": "Kigali is the far-off capital whose politics reach the school: ministers' and generals' daughters carry its quota system and its hatreds up the mountain, and the persecution that will grow into the 1994 genocide is scripted here first. The city frames a story that is really about the whole country.",
+      "note": "The capital is named in the novel as the seat of power and of the girls' well-connected families; this marks central Kigali.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kigali"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

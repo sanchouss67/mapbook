@@ -1,0 +1,93 @@
+{
+  "id": "quo-vadis",
+  "title": "Quo Vadis",
+  "author": "Henryk Sienkiewicz",
+  "year": 1896,
+  "description": "Nero's Rome in 64 AD, and the fire that destroys it. The Palatine palace, the Circus Maximus quarter where the flames begin, the Circus of Nero on the Vatican Field where the Christians are burned, the Mamertine prison, and the Appian Way, where the risen Christ meets Peter fleeing the city. Sienkiewicz built the ancient city from the monuments that still stand, and it brings Rome into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "house-of-aulus-plautius",
+      "displayName": "The house of Aulus Plautius",
+      "country": "IT",
+      "lat": 41.8967,
+      "lng": 12.494,
+      "reference": "Ch. II, The house of Aulus",
+      "certainty": "approximate",
+      "summary": "The old general Aulus Plautius and his wife Pomponia keep the Lygian hostage Lygia in their quiet, half-Christian household. Vinicius lodges here as a guest and falls for her at the garden fountain, and it is from this house that Nero, at Petronius's prompting, has her taken to the Palatine.",
+      "note": "Sienkiewicz sets the house of Aulus Plautius on the Vicus Patricius, a real ancient street that ran through the Subura and survives as the modern Via Urbana. The exact house is invented; the pin marks a point on that street.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    },
+    {
+      "order": 2,
+      "place": "the-palatine-neros-palace",
+      "displayName": "The Palatine, Nero's palace",
+      "country": "IT",
+      "lat": 41.8883,
+      "lng": 12.4869,
+      "reference": "Ch. VII, Nero's palace",
+      "certainty": "exact",
+      "summary": "Lygia is carried off to Nero's palace on the Palatine to sit at the emperor's feast. The freedwoman Acte, Nero's discarded mistress, shelters her through the drunken banquet where Vinicius first presses his love on her, before Ursus tears her out of the palace and into hiding.",
+      "note": "The Palatine is the real hill of the imperial palaces, named repeatedly in the text. The pin marks the hill above the Forum.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    },
+    {
+      "order": 3,
+      "place": "the-circus-maximus-the-fire",
+      "displayName": "The Circus Maximus quarter: the fire begins",
+      "country": "IT",
+      "lat": 41.8861,
+      "lng": 12.4851,
+      "reference": "Ch. XLII, Rome burns",
+      "certainty": "exact",
+      "summary": "The great fire of 64 AD starts among the wooden booths crowded against the Circus Maximus and sweeps outward until Rome is one sea of flame. Vinicius, away at Antium, hears the city is burning and gallops back along the Appian Way to search the wreckage for Lygia.",
+      "note": "The Circus Maximus is the real chariot-racing valley between the Palatine and the Aventine, named in the text as the place the fire starts. The pin marks the arena.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    },
+    {
+      "order": 4,
+      "place": "the-circus-of-nero-vatican",
+      "displayName": "The Circus of Nero, the Vatican Field",
+      "country": "IT",
+      "lat": 41.9017,
+      "lng": 12.4553,
+      "reference": "Ch. LXI, Cæsar's gardens",
+      "certainty": "exact",
+      "summary": "Blamed for the fire, the Christians are massacred in Nero's gardens beside his circus on the Vatican Field, burned alive on pitch-smeared pillars to light the emperor's spectacle. Peter's flock dies here on the ground where St Peter's would one day stand, and Vinicius searches the crowd in terror of finding Lygia among the torches.",
+      "note": "The Circus of Nero on the Vatican Field is real and named in the text; Old St Peter's Basilica was later built over the site. The pin marks the circus, beneath the present basilica.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    },
+    {
+      "order": 5,
+      "place": "the-mamertine-prison",
+      "displayName": "The Mamertine Prison",
+      "country": "IT",
+      "lat": 41.8893,
+      "lng": 12.484,
+      "reference": "Ch. L, The Mamertine",
+      "certainty": "exact",
+      "summary": "After the fire, Lygia is thrown with the other Christians into the Mamertine prison to await the arena. Vinicius bribes a guard to spare her the flooded lower cell, the Tullianum, and comes daily to its walls; a fever, and the giant Ursus at the threshold, keep her alive for the games.",
+      "note": "The Mamertine prison (the Tullianum) is the real dungeon at the foot of the Capitoline beside the Forum, named repeatedly in the text. The pin marks the prison.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    },
+    {
+      "order": 6,
+      "place": "the-appian-way-quo-vadis",
+      "displayName": "The Appian Way: Quo vadis, Domine?",
+      "country": "IT",
+      "lat": 41.8665,
+      "lng": 12.5037,
+      "reference": "Ch. LXIX, The Appian Way",
+      "certainty": "exact",
+      "summary": "Persuaded to flee the persecution, the aged Peter walks out of Rome along the Appian Way and meets the risen Christ coming in. “Whither goest thou, Lord?” he asks; Christ answers that if Peter deserts his people, he goes to be crucified again. Shamed, Peter turns back to the city to die. The church of Domine Quo Vadis marks the spot.",
+      "note": "The Appian Way is the real Roman road southeast out of the city, named in the text. Tradition fixes Peter's vision at the spot now marked by the church of Domine Quo Vadis; the pin marks that church.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2853"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

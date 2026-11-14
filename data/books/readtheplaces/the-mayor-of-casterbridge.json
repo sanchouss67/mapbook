@@ -1,0 +1,93 @@
+{
+  "id": "the-mayor-of-casterbridge",
+  "title": "The Mayor of Casterbridge",
+  "author": "Thomas Hardy",
+  "year": 1886,
+  "description": "Hardy's Casterbridge is Dorchester barely disguised: the Roman amphitheatre at Maumbury Rings where Henchard keeps his furtive meetings, the King's Arms on the High Street where the mayor holds his banquet, the corn-market where a hay-trusser who once sold his wife at a country fair has risen to preside, the Ten Hatches weir on the Frome where he goes to drown. Hardy mapped his home town so exactly he later published the keys. Only Weydon-Priors, drawn from Weyhill in Hampshire, sits well outside the town.",
+  "route": [
+    {
+      "order": 1,
+      "place": "weydon-priors-fair",
+      "displayName": "Weydon-Priors Fair (Weyhill)",
+      "country": "GB",
+      "lat": 51.2169,
+      "lng": -1.5461,
+      "reference": "Weydon-Priors, ch. I",
+      "certainty": "approximate",
+      "summary": "Here, drunk on rum-laced furmity at the fair, the hay-trusser Michael Henchard auctions his wife and infant daughter to a passing sailor for five guineas. The whole novel turns on this morning at Weyhill's fairground, the shame Henchard spends the rest of his life trying to outrun.",
+      "note": "Weydon-Priors is Hardy's name for Weyhill in Hampshire, whose great sheep and hiring fair supplied the scene. It lies some 60 miles north-east of Casterbridge, well outside the book's Dorchester setting, so it is flagged as an excursion.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    },
+    {
+      "order": 2,
+      "place": "the-kings-arms",
+      "displayName": "The King's Arms, High Street",
+      "country": "GB",
+      "lat": 50.7157,
+      "lng": -2.4359,
+      "reference": "The King's Arms, ch. V",
+      "certainty": "exact",
+      "summary": "From the street below, Susan and Elizabeth-Jane watch the mayor's public dinner through the great bow-window and see Henchard presiding at the head of the table, prosperous and respected. It is the first sight of the man who sold his wife, now the first citizen of the town.",
+      "note": "The King's Arms is a real coaching inn, still standing at 30 High East Street, Dorchester. Hardy names it directly; Casterbridge is his lightly fictionalised Dorchester.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    },
+    {
+      "order": 3,
+      "place": "the-high-street",
+      "displayName": "The High Street",
+      "country": "GB",
+      "lat": 50.7148,
+      "lng": -2.4398,
+      "reference": "The High Street, ch. IX",
+      "certainty": "approximate",
+      "summary": "Sent by her mother to introduce herself to their prosperous relation, Elizabeth-Jane walks up the crowded market-day street between the old bow-fronted houses. Hardy's Casterbridge stands so close to real Dorchester that the walk can still be traced along the same frontages.",
+      "note": "Casterbridge's High Street is Dorchester's, running as High West and High East Street through the centre of the town. The pin marks the High West Street stretch Elizabeth-Jane would climb from the western approach.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    },
+    {
+      "order": 4,
+      "place": "the-ring-maumbury-rings",
+      "displayName": "The Ring (Maumbury Rings)",
+      "country": "GB",
+      "lat": 50.7081,
+      "lng": -2.4402,
+      "reference": "The Ring, ch. XI",
+      "certainty": "exact",
+      "summary": "The gloomy Roman arena, a place fit for furtive appointments and once for public executions, is where Henchard meets Susan in secret to plan their remarriage, and later meets Lucetta. Hardy's amphitheatre is Maumbury Rings, still an open earthwork just south of the town centre.",
+      "note": "The novel calls it \"the Ring\", the local name for the town's Roman amphitheatre. That amphitheatre is the real Maumbury Rings, a Neolithic henge reused as a Roman arena on the southern edge of Dorchester, exactly as Hardy describes.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    },
+    {
+      "order": 5,
+      "place": "the-corn-market",
+      "displayName": "The corn-market",
+      "country": "GB",
+      "lat": 50.7155,
+      "lng": -2.4378,
+      "reference": "The corn-market, ch. XVII",
+      "certainty": "approximate",
+      "summary": "The weekly corn-market is the arena of Henchard's rise and fall as a dealer in grain. The appearance of Farfrae's name on a new stall marks the moment his young rival's fortunes begin to eclipse his own. Dorchester's Corn Exchange still stands on the same spot.",
+      "note": "Hardy's corn-market room is modelled on the Corn Exchange within Dorchester's Municipal Buildings, on the north side of High East Street. The pin marks that building, the acknowledged model for the Casterbridge corn-market.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    },
+    {
+      "order": 6,
+      "place": "ten-hatches-weir",
+      "displayName": "Ten Hatches weir",
+      "country": "GB",
+      "lat": 50.7174,
+      "lng": -2.4267,
+      "reference": "Ten Hatches, ch. XLI",
+      "certainty": "exact",
+      "summary": "Ruined and disgraced, Henchard comes to the deep pool below the Ten Hatches weir meaning to drown himself, only to see his own straw effigy from the skimmity-ride floating in the water, an omen that turns him back. The weir still runs on the Frome above Grey's Bridge.",
+      "note": "Ten Hatches is a real weir on the River Frome, just up-river from Grey's Bridge on the north-east edge of Dorchester. Hardy keeps the actual place name.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/143"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

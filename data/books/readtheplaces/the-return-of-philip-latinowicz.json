@@ -1,0 +1,80 @@
+{
+  "id": "the-return-of-philip-latinowicz",
+  "title": "The Return of Philip Latinowicz",
+  "author": "Miroslav Krleža",
+  "year": 1932,
+  "description": "After twenty-three years away, the painter Philip Latinowicz returns to the provincial Pannonian town of his childhood in Croatia to confront his illegitimate birth, his estranged mother and his own creative and spiritual crisis. Krleža draws the town and its region from provincial Croatia: the small Catholic town with its square and church, his mother's house and tobacco shop, the flat muddy Pannonian plain, and the decadent manor world into which the fatal Bobočka draws him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-provincial-town",
+      "displayName": "The provincial town",
+      "country": "HR",
+      "lat": 45.75,
+      "lng": 16.3,
+      "reference": "The opening",
+      "certainty": "approximate",
+      "summary": "Stepping off the train after twenty-three years, the painter Philip Latinowicz walks back into the drowsy provincial town that made him, its dust, its smells and its faces flooding him with the past he fled. The return, and the town's stubborn sameness, sets off the long interior reckoning with origins and identity that is the whole book.",
+      "note": "Philip returns to the small Pannonian town of his childhood, drawn from provincial Croatia; the town is invented and sited in the real Pannonian countryside of northern Croatia.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pannonian_Croatia"
+    },
+    {
+      "order": 2,
+      "place": "the-mothers-house",
+      "displayName": "The mother's house",
+      "country": "HR",
+      "lat": 45.752,
+      "lng": 16.302,
+      "reference": "The mother chapters",
+      "certainty": "approximate",
+      "summary": "At his mother Kazimira's house, the wound at the centre of Philip's life reopens: his illegitimate birth, the identity of the father she will not name, the shame and coldness that shaped him. Their strained reunion, all silence and old grievance, is the psychological core of the book, the past refusing to be either healed or escaped.",
+      "note": "Philip's mother Kazimira keeps a house and tobacco shop in the town; the house is invented and sited in the real provincial town of the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Return_of_Philip_Latinovicz"
+    },
+    {
+      "order": 3,
+      "place": "the-town-square-church",
+      "displayName": "The town square and church",
+      "country": "HR",
+      "lat": 45.748,
+      "lng": 16.298,
+      "reference": "The town chapters",
+      "certainty": "approximate",
+      "summary": "In the cafés and around the square, Philip falls in with the corrosive nihilist Kyriales, whose merciless talk deepens the painter's crisis of faith in art and life. The stagnant provincial town, its church and its idlers, is the backdrop against which Krleža stages a modern European crisis of meaning.",
+      "note": "The Catholic church and square anchor the small-town society of priests, notaries and café intellectuals; sited in the real provincial Croatian town, the specific buildings the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Return_of_Philip_Latinovicz"
+    },
+    {
+      "order": 4,
+      "place": "the-pannonian-plain",
+      "displayName": "The Pannonian plain",
+      "country": "HR",
+      "lat": 45.78,
+      "lng": 16.35,
+      "reference": "The landscape chapters",
+      "certainty": "exact",
+      "summary": "The endless flat plain, its mud and mist and heavy skies, presses on Philip as both subject and symptom, the landscape of his depression and his painter's eye. Krleža makes the Pannonian mud a character in itself, the physical weight of a provincial, backward world Philip cannot paint his way out of.",
+      "note": "The flat, muddy Pannonian plain around the town, a real landscape of northern Croatia, saturates the novel with its heavy, oppressive atmosphere.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Return_of_Philip_Latinovicz"
+    },
+    {
+      "order": 5,
+      "place": "the-manor-bobocka",
+      "displayName": "The manor (Bobočka)",
+      "country": "HR",
+      "lat": 45.76,
+      "lng": 16.32,
+      "reference": "The passion chapters",
+      "certainty": "approximate",
+      "summary": "Philip is drawn into a destructive passion for the sensual, doomed Bobočka, whose decadent circle of provincial gentry ends in violence and death. The affair, and the manor world's rot, bring the painter's crisis to its bleak climax, Krleža closing on a Europe of the 1930s sliding toward catastrophe.",
+      "note": "The decadent gentry world Philip is drawn into, centred on the fatal Bobočka, plays out at a manor near the town; the manor is invented and sited in the real Pannonian countryside.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Return_of_Philip_Latinovicz"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

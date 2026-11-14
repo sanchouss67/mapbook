@@ -1,0 +1,80 @@
+{
+  "id": "the-vegetarian",
+  "title": "The Vegetarian",
+  "author": "Han Kang",
+  "year": 2007,
+  "description": "Han Kang's Seoul is a modern city of apartment towers and family duty, where a woman's decision to stop eating meat quietly pulls a marriage and a family apart. The map runs from the couple's flat and the parents' apartment across the two sisters' homes and a video artist's studio, then out to a psychiatric hospital in the wooded mountains on the city's northern edge.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-couples-apartment",
+      "displayName": "The couple's apartment",
+      "country": "KR",
+      "lat": 37.5133,
+      "lng": 127.1,
+      "reference": "Part One: The Vegetarian",
+      "certainty": "approximate",
+      "summary": "The story opens in the small flat the narrator shares with his wife, an unremarkable married life in a high-rise city. After she throws out every scrap of meat in the kitchen and refuses to eat it again, the apartment becomes the first ground of the conflict. The novel gives no address, so this marks a representative apartment district.",
+      "note": "Han Kang never names the couple's district. Jamsil, a dense expanse of apartment towers on the south bank of the Han, stands in as a representative modern-Seoul home for an ordinary married couple.",
+      "sourceUrl": "https://www.latlong.net/place/lotte-world-songpa-gu-seoul-south-korea-3644.html"
+    },
+    {
+      "order": 2,
+      "place": "parents-apartment",
+      "displayName": "The parents' apartment",
+      "country": "KR",
+      "lat": 37.6413,
+      "lng": 127.0132,
+      "reference": "Part One: The Vegetarian",
+      "certainty": "approximate",
+      "summary": "The family gathers at her parents' apartment for a meal, and the visit turns violent when her father, a Vietnam War veteran, tries to force meat into her mouth and strikes her across the face. This is the scene that fractures the family for good. The location is never given, so this marks a representative older residential district.",
+      "note": "The parents' home has no address in the novel. Suyu-dong, an older residential quarter below the northern mountains, is chosen as a plausible home for a traditional family of that generation.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suyu-dong"
+    },
+    {
+      "order": 3,
+      "place": "video-artists-studio",
+      "displayName": "The video artist's studio",
+      "country": "KR",
+      "lat": 37.5506,
+      "lng": 127.0515,
+      "reference": "Part Two: Mongolian Mark",
+      "certainty": "approximate",
+      "summary": "In the second part, the woman's brother-in-law, a video artist, grows obsessed with the birthmark on her body and films her painted with flowers in his rented workspace. The affair that follows wrecks his marriage to her sister. The studio has no address, so this marks Seoul's real cluster of converted-factory artist studios as a stand-in.",
+      "note": "The studio is unnamed in the text. Seongsu, the former factory district east of the river that Seoul's artists have turned into studios, is used as a representative location for a struggling video artist's rented workspace.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seongsu-dong"
+    },
+    {
+      "order": 4,
+      "place": "in-hyes-home",
+      "displayName": "In-hye's home",
+      "country": "KR",
+      "lat": 37.533,
+      "lng": 126.8741,
+      "reference": "Part Three: Flaming Trees",
+      "certainty": "approximate",
+      "summary": "The final part follows the older sister, In-hye, left to hold her life and her young son together after both marriages collapse. Her apartment, where she raises her child alone and carries the weight of the family, is the quiet centre of the last section. The book does not place it, so this marks a representative western-Seoul apartment district.",
+      "note": "In-hye's apartment is never located. Mok-dong, a settled middle-class apartment district in western Seoul, is a representative choice for the more stable of the two sisters.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yangcheon_District"
+    },
+    {
+      "order": 5,
+      "place": "chukseong-psychiatric-hospital",
+      "displayName": "Ch'ukseong Psychiatric Hospital",
+      "country": "KR",
+      "lat": 37.705,
+      "lng": 127.02,
+      "reference": "Part Three: Flaming Trees",
+      "certainty": "approximate",
+      "summary": "In-hye makes the long journey out of the city to the psychiatric hospital where her sister is now confined, still refusing food and turning ever more toward the trees. The novel names it the Ch'ukseong hospital and sets it deep in a forested mountain area outside Seoul; no such hospital exists at a fixed address, so this marks a representative point in the wooded mountains on the city's northern fringe.",
+      "note": "The Ch'ukseong hospital is fictional and only described as lying in the mountains beyond the city. This marks a representative point on the wooded Dobongsan ridge on the Seoul-Gyeonggi border; outsideSetting is set because it sits beyond the city's edge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dobongsan"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

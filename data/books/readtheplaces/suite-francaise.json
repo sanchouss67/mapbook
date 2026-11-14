@@ -1,0 +1,80 @@
+{
+  "id": "suite-francaise",
+  "title": "Suite Française",
+  "author": "Irène Némirovsky",
+  "year": 2004,
+  "description": "France in the summer of 1940 and the Occupation that follows. Part One drives the panicked exodus out of Paris and down the choked roads south through the Loire; Part Two settles into an occupied Burgundy village where villagers and billeted German soldiers share the same streets. The map runs from the capital to the wine country of Saône-et-Loire.",
+  "route": [
+    {
+      "order": 1,
+      "place": "paris-exodus",
+      "displayName": "Paris, June 1940",
+      "country": "FR",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "reference": "Part One, Storm in June",
+      "certainty": "exact",
+      "summary": "As the German army nears, the novel opens on a Paris seized by rumour and air-raid sirens. Families of every class pack what they can and abandon the city in a matter of hours, and the first section follows several of them out through the gates into the crush of refugees on the road.",
+      "note": "Paris is named throughout Part One; sited at the city centre as the starting point of the exodus.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suite_fran%C3%A7aise"
+    },
+    {
+      "order": 2,
+      "place": "roads-south-orleans",
+      "displayName": "The roads south, Orléans",
+      "country": "FR",
+      "lat": 47.9029,
+      "lng": 1.9039,
+      "reference": "Part One, Storm in June",
+      "certainty": "exact",
+      "summary": "The flight bogs down on roads jammed for miles with cars, carts and people on foot. Fuel runs out, food vanishes, and German planes strafe the stalled columns. Orléans, the gateway to the Loire about a hundred kilometres below Paris, stands for this stretch of the ordeal.",
+      "note": "The refugee columns push south toward the Loire; Orléans, a real city on the exodus route named in the narrative, marks this leg.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suite_fran%C3%A7aise"
+    },
+    {
+      "order": 3,
+      "place": "loire-tours",
+      "displayName": "The Loire crossings, Tours",
+      "country": "FR",
+      "lat": 47.3941,
+      "lng": 0.6848,
+      "reference": "Part One, Storm in June",
+      "certainty": "exact",
+      "summary": "The Loire is the line everyone races to cross before the bridges are bombed or blocked. Around the river cities and the villages beyond it, the refugees scatter into farmyards and requisitioned rooms, and the veneer of civility frays under hunger and fear. Tours anchors this river country south-west of Orléans.",
+      "note": "The exodus funnels toward the Loire bridges; Tours, a real river city on the escape route, marks the crossings and the countryside beyond.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suite_fran%C3%A7aise"
+    },
+    {
+      "order": 4,
+      "place": "bussy-occupied-village",
+      "displayName": "Bussy, the occupied village",
+      "country": "FR",
+      "lat": 46.707,
+      "lng": 3.974,
+      "reference": "Part Two, Dolce",
+      "certainty": "approximate",
+      "summary": "Part Two moves to Bussy, an invented Burgundy village where a German regiment is billeted on the inhabitants. Lucile Angellier shares her mother-in-law's house with a courteous German officer, and the everyday friction and unwanted attraction of occupation play out street by street. Bussy is modelled on Issy-l'Évêque, where the author then lived.",
+      "note": "Bussy is a fictional village. Némirovsky drew it from Issy-l'Évêque in Saône-et-Loire, where she was living, so this is sited at that real village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Suite_fran%C3%A7aise"
+    },
+    {
+      "order": 5,
+      "place": "issy-leveque-village",
+      "displayName": "Issy-l'Évêque",
+      "country": "FR",
+      "lat": 46.707,
+      "lng": 3.974,
+      "reference": "Part Two, Dolce",
+      "certainty": "exact",
+      "summary": "The real village behind the fiction. Némirovsky, a Jewish writer barred from publishing, spent the Occupation here and set down the manuscript in a notebook her daughters carried away. She was arrested at Issy-l'Évêque in July 1942 and died at Auschwitz; the book she left unfinished was published only in 2004.",
+      "note": "Issy-l'Évêque is a real commune in Saône-et-Loire, the village where Némirovsky lived under the Occupation and from which she was arrested in July 1942; it is the model for the novel's Bussy.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

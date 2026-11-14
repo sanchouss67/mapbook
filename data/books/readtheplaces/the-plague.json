@@ -1,0 +1,80 @@
+{
+  "id": "the-plague",
+  "title": "The Plague",
+  "author": "Albert Camus",
+  "year": 1947,
+  "description": "When plague breaks out in the Algerian port of Oran, the town is sealed off and its people must reckon, each in their own way, with an absurd and impersonal death. Camus keeps the city real and specific: Dr Rieux's surgery in the ordinary streets, the closed town gates that turn Oran into a prison, the harbour and the sea that are suddenly forbidden, the cathedral where Father Paneloux preaches, and the municipal stadium turned into an isolation camp.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rieux-surgery",
+      "displayName": "Dr Rieux's surgery",
+      "country": "DZ",
+      "lat": 35.697,
+      "lng": -0.6417,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Rieux, stepping over a dead rat on his landing, is the first to grasp what is coming and the first to name it plague against official reluctance. From his surgery in the drab, business-minded town, the quiet doctor organises the sanitary squads, choosing to fight not out of heroism but simple decency.",
+      "note": "Dr Rieux practises in the ordinary streets of Oran, the real Algerian port; from his surgery he first notices the dying rats and the strange fevers that announce the plague.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oran"
+    },
+    {
+      "order": 2,
+      "place": "town-gates",
+      "displayName": "The town gates (the quarantine)",
+      "country": "DZ",
+      "lat": 35.705,
+      "lng": -0.63,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "With the gates shut, the town becomes a community of exiles, everyone cut off from absent loved ones. The journalist Rambert, trapped away from the woman he loves in Paris, schemes desperately to smuggle himself out, until shame and solidarity make him stay and fight the plague with the others.",
+      "note": "The authorities close the gates of Oran and seal the town off completely; the shut gates of the real port city turn it into a prison of separation for all inside.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Plague_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "the-harbour-sea",
+      "displayName": "The harbour and the sea",
+      "country": "DZ",
+      "lat": 35.71,
+      "lng": -0.645,
+      "reference": "Part 4",
+      "certainty": "exact",
+      "summary": "In a brief truce, Rieux and his friend Tarrou slip out to swim together in the forbidden sea, a wordless communion that is the book's one image of freedom and friendship. Tarrou, the thoughtful stranger who organises the volunteers, will himself be among the last the plague takes.",
+      "note": "The harbour and the sea beyond it, forbidden to the sealed town, are the setting of the famous night swim; Oran's real port and coastline frame the book's rare moments of respite.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oran"
+    },
+    {
+      "order": 4,
+      "place": "the-cathedral",
+      "displayName": "The cathedral (Paneloux's sermons)",
+      "country": "DZ",
+      "lat": 35.696,
+      "lng": -0.639,
+      "reference": "Parts 2 and 4",
+      "certainty": "exact",
+      "summary": "From the cathedral Paneloux first thunders that the plague is God's just punishment, then, after watching a child die in agony, preaches a harder, humbler faith. His struggle to reconcile a loving God with meaningless suffering is the book's theological heart, set against Rieux's wordless, godless decency.",
+      "note": "The Jesuit Father Paneloux preaches to the frightened town from Oran's cathedral, a real landmark of the colonial city; his sermons frame the book's argument with God and suffering.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oran"
+    },
+    {
+      "order": 5,
+      "place": "municipal-stadium",
+      "displayName": "The stadium (the isolation camp)",
+      "country": "DZ",
+      "lat": 35.7,
+      "lng": -0.62,
+      "reference": "Part 3",
+      "certainty": "approximate",
+      "summary": "At the height of the epidemic the town's stadium becomes a holding camp for the quarantined, and the machinery of mass death, the pits, the lime, the anonymous burials, grinds on. Amid the numbing statistics Rieux keeps his ledger of the fight, insisting the dead be counted one by one, each a person and not a number.",
+      "note": "As the dead multiply, the municipal stadium is turned into an isolation and quarantine camp, and the cemeteries overflow into mass graves; sited at Oran's real sports ground, the specific stadium unnamed.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Plague_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

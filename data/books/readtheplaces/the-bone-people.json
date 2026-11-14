@@ -1,0 +1,80 @@
+{
+  "id": "the-bone-people",
+  "title": "The Bone People",
+  "author": "Keri Hulme",
+  "year": 1984,
+  "description": "The West Coast of the South Island, Te Tai Poutini: a narrow strip of black-sand beaches, tidal lagoons and rainforest pinned between the Southern Alps and the Tasman Sea. Kerewin Holmes lives alone in a tower she built on the coast near the Okarito lagoon; the mute child Simon and the Maori man Joe come into her solitude. The map runs the wet, wild coast from Okarito north to the old gold port of Hokitika, with one journey east across the island to Christchurch. The novel is steeped in Maori language and Kai Tahu presence, and greenstone, pounamu, runs through it.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kerewin-tower-okarito",
+      "displayName": "Kerewin's tower, near Okarito",
+      "country": "NZ",
+      "lat": -43.2,
+      "lng": 170.217,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "Kerewin Holmes, a painter estranged from her family, has built a tall stone tower on the coast and lives there alone, self-sufficient and walled off from other people. Her solitude is broken when a mute boy climbs in through a window. Okarito, the small West Coast settlement where the author herself made her home, sits behind the same dunes and lagoon.",
+      "note": "The tower is invented, but its ground is not. Keri Hulme lived at Okarito, on this coast, in a house she built herself, and the novel's stone tower stands on the same shore. Sited at Okarito township as the nearest real anchor.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito"
+    },
+    {
+      "order": 2,
+      "place": "tasman-beach-okarito",
+      "displayName": "The Tasman Sea beach, Okarito",
+      "country": "NZ",
+      "lat": -43.21,
+      "lng": 170.185,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The long grey beach on the open Tasman, all driftwood and surf, is where much of the coastal life of the book happens: walks, salvage, the slow forming of a strange found family between the woman, the boy and the man. The West Coast surf here is real and dangerous, the sea that carries wreckage ashore.",
+      "note": "The beach below Okarito is a real strand on the open Tasman; sited at the shore just west of the settlement as a representative point.",
+      "sourceUrl": "https://westcoast.co.nz/visit/operators/okarito-lagoon-and-beach/"
+    },
+    {
+      "order": 3,
+      "place": "okarito-lagoon",
+      "displayName": "Okarito Lagoon",
+      "country": "NZ",
+      "lat": -43.223,
+      "lng": 170.187,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The still tidal lagoon behind the dunes is the largest unmodified coastal wetland in New Zealand, backed by rainforest and the Southern Alps, and home to the kotuku, the white heron. Its quiet water and birdlife give the book its sense of a place apart, where the characters retreat and take stock.",
+      "note": "Okarito Lagoon is a real coastal wetland on the West Coast; sited at the lagoon itself. The novel fictionalises the nearby township but keeps this landscape of tidal water and forest.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito_Lagoon"
+    },
+    {
+      "order": 4,
+      "place": "hokitika-town",
+      "displayName": "Hokitika",
+      "country": "NZ",
+      "lat": -42.71556,
+      "lng": 170.96806,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "Hokitika, an old gold-rush port at the mouth of its river, is the nearest real town of any size on this stretch of coast, the place people come to for supplies, drink and company. It stands for the small West Coast world the characters move through, a day's travel up the coast from the Okarito shore.",
+      "note": "Hokitika is the real West Coast town, the region's main centre north of Okarito; sited at the town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hokitika"
+    },
+    {
+      "order": 5,
+      "place": "christchurch",
+      "displayName": "Christchurch",
+      "country": "NZ",
+      "lat": -43.5311,
+      "lng": 172.6361,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "When violence tears the makeshift family apart, the story reaches across the Southern Alps to Christchurch, the largest city of the South Island, on the dry eastern plains. It is where the injured child is taken and where the characters are scattered, the hard institutional world beyond the coast's isolation.",
+      "note": "Christchurch is a real city and a deliberate excursion east across the island, far outside the West Coast setting; marked outsideSetting for that reason and sited at the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Christchurch"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

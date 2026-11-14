@@ -1,0 +1,80 @@
+{
+  "id": "the-hostage",
+  "title": "The Hostage",
+  "author": "Zayd Mutee Dammaj",
+  "year": 1984,
+  "description": "Yemen in the 1940s, under the rule of the Imamate. A boy from a highland tribe is held as a hostage for his family's loyalty and made a page-servant in the governor's fortress. The map runs from the mountain city of Taiz below Jabal Sabir north across the highlands to the imamic capital at Sana'a, roughly 250 kilometres away.",
+  "route": [
+    {
+      "order": 1,
+      "place": "highland-village",
+      "displayName": "The boy's highland village",
+      "country": "YE",
+      "lat": 13.9667,
+      "lng": 44.181,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The narrator is a boy taken from a tribal family in the Yemeni highlands and handed over as a hostage, a child whose safety guarantees his relatives' obedience to the state. His home is left behind at the start; the book locates it only as highland tribal country, so we place it in the green mountains around Ibb.",
+      "note": "The novel does not name the narrator's home village, only that his family are highland tribespeople held to their loyalty by the hostage system. This marks a representative point in the fertile highlands around Ibb, north of Taiz, the kind of country such a family would have come from.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ibb"
+    },
+    {
+      "order": 2,
+      "place": "sanaa-imamic-capital",
+      "displayName": "Sana'a, the imamic capital",
+      "country": "YE",
+      "lat": 15.3694,
+      "lng": 44.191,
+      "reference": "Chapters 2-3",
+      "certainty": "exact",
+      "summary": "Before Taiz, the young hostage passes through Sana'a, the walled capital where the Imam ruled and where hostage children were gathered close to the centre of power. The old city, about 250 kilometres north of Taiz, sets the scale of the state that holds him.",
+      "note": "Sana'a is named in the novel as the seat of the Imam, where the narrator is first held before his transfer south. This marks the historic old city.",
+      "sourceUrl": "https://whc.unesco.org/en/list/385/"
+    },
+    {
+      "order": 3,
+      "place": "taiz-city",
+      "displayName": "The city of Taiz",
+      "country": "YE",
+      "lat": 13.5789,
+      "lng": 44.0219,
+      "reference": "Chapters 3 onward",
+      "certainty": "exact",
+      "summary": "The boy is brought to Taiz, the southern highland city that served as a second capital of the Imamate. Most of the story unfolds here, in a city pressed between mountain and fortress where the ruling family kept its household and its power.",
+      "note": "Taiz is named in the novel as the city of the governor's palace where the narrator serves. This marks the historic city centre below Jabal Sabir.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ta'izz"
+    },
+    {
+      "order": 4,
+      "place": "al-qahira-fortress",
+      "displayName": "Al-Qahira fortress, the governor's palace",
+      "country": "YE",
+      "lat": 13.5658,
+      "lng": 44.015,
+      "reference": "Chapters 3-10",
+      "certainty": "exact",
+      "summary": "The heart of the book is the governor's fortress above Taiz, where the narrator works as a page-servant among the women's quarters. He watches the idleness, cruelty and sexual servitude of the ruling household from the inside, a child made a servant of the very power that holds his family hostage. The fortress is al-Qahira Castle, the citadel that commands the city.",
+      "note": "The governor's fortress-palace of Taiz, where the narrator serves as a page, is the historic Cairo Citadel, al-Qahira Castle, on the lower slope of Jabal Sabir above the city. The novel's palace is set in this fortress.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Qahira_Castle"
+    },
+    {
+      "order": 5,
+      "place": "jabal-sabir",
+      "displayName": "Jabal Sabir above the city",
+      "country": "YE",
+      "lat": 13.5,
+      "lng": 44.05,
+      "reference": "Chapters 3 onward",
+      "certainty": "exact",
+      "summary": "The great mountain of Jabal Sabir looms over Taiz and its fortress, its villages and terraces visible from the palace. For the highland boy it is a reminder of the free tribal country he came from, held always just beyond the walls where he is kept.",
+      "note": "Jabal Sabir, the mountain that rises directly over Taiz and the fortress, is a real and named feature of the setting. This marks the upper mountain south of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jabal_Sabir"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

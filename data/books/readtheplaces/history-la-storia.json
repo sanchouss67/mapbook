@@ -1,0 +1,80 @@
+{
+  "id": "history-la-storia",
+  "title": "History (La Storia)",
+  "author": "Elsa Morante",
+  "year": 1974,
+  "description": "Morante's wartime and post-war Rome, from 1941 to 1947, seen from the poor quarters rather than the palaces. A half-Jewish schoolteacher and her small son move from the tenements of San Lorenzo through the rubble of the Allied bombing to a shelter on the city's rural edge, past the ghetto emptied in October 1943 and out to Testaccio. The map runs from the San Lorenzo district by the Verano cemetery, southwest to the old Jewish quarter and Testaccio, and northeast to the barracks of Pietralata.",
+  "route": [
+    {
+      "order": 1,
+      "place": "san-lorenzo-home",
+      "displayName": "The tenement in San Lorenzo",
+      "country": "IT",
+      "lat": 41.897102,
+      "lng": 12.515745,
+      "reference": "Part one, 1941",
+      "certainty": "approximate",
+      "summary": "The novel opens with a widowed, half-Jewish schoolteacher living in a cramped flat in San Lorenzo, the dense working-class quarter beside the railway east of the centre. An encounter with a German soldier early in the war leaves her pregnant with the small son whose short life the book follows. San Lorenzo, built up for railway and market workers in the late nineteenth century, is the ground the story starts from.",
+      "note": "Morante sets the schoolteacher's flat firmly in the San Lorenzo district, but gives no exact address, so this marks the residential heart of the quarter southwest of the Verano cemetery.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Quartiere_San_Lorenzo"
+    },
+    {
+      "order": 2,
+      "place": "san-lorenzo-bombing",
+      "displayName": "The bombing of San Lorenzo",
+      "country": "IT",
+      "lat": 41.9025,
+      "lng": 12.52056,
+      "reference": "Part two, 1943",
+      "certainty": "exact",
+      "summary": "On 19 July 1943 Allied bombers struck the freight yards and workers' streets of San Lorenzo, killing well over a thousand people and shattering the medieval basilica beside the Verano cemetery. In the novel the raid destroys the schoolteacher's home and marks the hinge of the whole book, turning a family into refugees. The event is real and precisely dated, and the ruined basilica stood as its emblem for years afterward.",
+      "note": "The novel names the raid on San Lorenzo directly; this marks the basilica of San Lorenzo fuori le Mura by the Verano cemetery, the quarter's landmark and one of the buildings wrecked in the attack.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/San_Lorenzo_fuori_le_mura"
+    },
+    {
+      "order": 3,
+      "place": "pietralata-barracks",
+      "displayName": "The refugee barracks at Pietralata",
+      "country": "IT",
+      "lat": 41.91528,
+      "lng": 12.55556,
+      "reference": "Part two, 1943-44",
+      "certainty": "approximate",
+      "summary": "Homeless after the raid, mother and child are taken in at Pietralata, then a poor rural fringe northeast of the city, where evacuees crowd into a big communal room in a run of barrack huts. They share it with a family of many children and an old communist stonemason, and it becomes the setting for months of hunger, occupation and rumour before Rome is freed. The quarter today is fully urban, so the shelter's exact spot is gone.",
+      "note": "Morante names Pietralata as the shelter, but the wartime barracks stood in open country long since built over, so this marks the modern Pietralata quarter rather than an exact hut.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pietralata_(Rome)"
+    },
+    {
+      "order": 4,
+      "place": "portico-dottavia-ghetto",
+      "displayName": "The Ghetto at the Portico d'Ottavia",
+      "country": "IT",
+      "lat": 41.8924,
+      "lng": 12.4775,
+      "reference": "Part two, 1943",
+      "certainty": "exact",
+      "summary": "Drawn by her own hidden Jewish descent, the schoolteacher wanders into the old Jewish quarter around the Portico d'Ottavia. On 16 October 1943 the Germans surrounded these few streets and seized more than a thousand people, most of whom were sent to their deaths; days later she watches sealed deportation wagons at a railway siding. The roundup of the Roman ghetto is a documented event, and the quarter by the ancient portico is where it happened.",
+      "note": "The novel places its ghetto scenes explicitly at the old Jewish quarter around the Portico d'Ottavia; this marks the historic ghetto beside the ancient portico near the Tiber.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Roman_Ghetto"
+    },
+    {
+      "order": 5,
+      "place": "testaccio-via-bodoni",
+      "displayName": "The flat in Testaccio",
+      "country": "IT",
+      "lat": 41.87611,
+      "lng": 12.475,
+      "reference": "Part three, 1946-47",
+      "certainty": "approximate",
+      "summary": "After the liberation the pair settle in a small flat on Via Bodoni in Testaccio, the old slaughterhouse and market quarter below the Aventine. Here the boy roams with a big white dog between the river, the market and the Sublicio bridge through the last spring of the book, until illness closes the story in the same rooms. Testaccio was built as a workers' district around the city abattoir, which fits the modest life the novel gives them.",
+      "note": "Morante sets the family's last home on Via Bodoni in Testaccio; the exact building is not identified, so this marks the Testaccio quarter around that street.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Testaccio"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

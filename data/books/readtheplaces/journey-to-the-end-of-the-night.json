@@ -1,0 +1,80 @@
+{
+  "id": "journey-to-the-end-of-the-night",
+  "title": "Journey to the End of the Night",
+  "author": "Louis-Ferdinand Céline",
+  "year": 1932,
+  "description": "Céline's night belongs to the poor northern edge of Paris: the boulevards around Place de Clichy and the grey working-class banlieue just over the old city wall, where a disillusioned doctor treats patients who cannot pay. Bardamu wanders far first, through the trenches, a French African colony and Ford's Detroit, but the book keeps returning to this rim of the city and ends there. The map anchors that Paris and the suburb of Clichy behind it; the overseas detours are marked as excursions beyond the setting.",
+  "route": [
+    {
+      "order": 1,
+      "place": "place-de-clichy",
+      "displayName": "Place de Clichy",
+      "country": "FR",
+      "lat": 48.8835,
+      "lng": 2.3274,
+      "reference": "Opening pages",
+      "certainty": "exact",
+      "summary": "The book opens on a café terrace here, where a stray argument about patriotism sends the young narrator off to enlist almost on a whim. It is the one moment of careless city life before the war, and Céline pins it to a real Paris crossroads on the northern boulevards, a short walk from the poorer world the story will settle into.",
+      "note": "The novel names Place de Clichy at the outset; this marks the real square where its five boulevards meet.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+    },
+    {
+      "order": 2,
+      "place": "fort-gono-colonial-africa",
+      "displayName": "Fort-Gono, French colonial Africa",
+      "country": "FR",
+      "lat": 4.0511,
+      "lng": 9.7679,
+      "reference": "The African episode",
+      "certainty": "approximate",
+      "summary": "After the trenches the narrator ships out to a fevered French colony, first to its sweltering capital and then to a rotting trading post in the bush, where fraud, illness and cruelty grind everyone down. Céline drew the whole sequence from the year he spent supervising plantations in Cameroon; the fictional Fort-Gono stands in for the colonial port of Douala. It sits far outside the book's Paris and is flagged as an excursion.",
+      "note": "The colony and its capital Fort-Gono are invented; Céline built them from his own 1916 stint as a plantation overseer in French Cameroon, so this sites the episode at Douala, the port he worked out of.",
+      "sourceUrl": "https://www.persee.fr/doc/litts_0563-9751_1995_num_32_1_1687"
+    },
+    {
+      "order": 3,
+      "place": "ford-plant-detroit",
+      "displayName": "The Ford plant, Detroit",
+      "country": "FR",
+      "lat": 42.411,
+      "lng": -83.1,
+      "reference": "The American episode",
+      "certainty": "approximate",
+      "summary": "Broke in America, the narrator takes a place on a car assembly line and is reduced to a cog among the machines, until he drifts into a brief, tender attachment to a woman who wants him to stay. Céline had toured Ford's operations in 1925, and the deadening line he describes echoes the Highland Park works north of Detroit. Like the African chapters, this lies well outside the Paris setting.",
+      "note": "The book names Detroit and Ford but no specific factory; this sites it at the Highland Park plant, the assembly-line works Céline saw on his 1925 visit to Ford.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+    },
+    {
+      "order": 4,
+      "place": "la-garenne-rancy",
+      "displayName": "La Garenne-Rancy",
+      "country": "FR",
+      "lat": 48.9002,
+      "lng": 2.3095,
+      "reference": "The Rancy chapters",
+      "certainty": "approximate",
+      "summary": "Home from his travels and newly qualified, the narrator sets up as a doctor in a bleak working-class suburb where almost no one can pay, and spends his days on hopeless cases and the wreckage of back-street abortions. The place is invented, but Céline built it out of the real Clichy, the northern banlieue where he practised medicine as he was writing the book. This suburb is the story's true centre of gravity.",
+      "note": "Rancy is a fictional suburb. Céline wrote the novel while running a public clinic in Clichy and modelled the poor banlieue on it, so this sites Rancy at the centre of Clichy, just north of Paris.",
+      "sourceUrl": "https://www.themodernnovel.org/europe/w-europe/france/celine/voyage/"
+    },
+    {
+      "order": 5,
+      "place": "porte-de-clichy-fortifications",
+      "displayName": "The fortifications, Porte de Clichy",
+      "country": "FR",
+      "lat": 48.89,
+      "lng": 2.3082,
+      "reference": "The Rancy chapters",
+      "certainty": "approximate",
+      "summary": "Between central Paris and the suburb the narrator crosses the shabby belt of the old city ramparts, the run-down no man's land of shacks and waste ground that once ringed Paris. Rancy lies just beyond it, and this threshold at Porte de Clichy stands for the divide the book keeps walking across, from the lit boulevards into the grey northern edge.",
+      "note": "The novel does not name a single crossing point; Porte de Clichy marks the historic line of the Paris fortifications where the city gave way to the banlieue of Rancy's kind in the 1920s.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thiers_wall"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "howards-end",
+  "title": "Howards End",
+  "author": "E. M. Forster",
+  "year": 1910,
+  "description": "Three families, the cultured Schlegels, the moneyed Wilcoxes and the striving clerk Leonard Bast, collide over class, property and a country house; the action runs between Edwardian London and a beloved house in the Hertfordshire fields, asking who will inherit England.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wickham-place-marylebone",
+      "displayName": "Wickham Place, the Schlegels' London",
+      "country": "GB",
+      "lat": 51.52,
+      "lng": -0.152,
+      "reference": "Chapter 6-11",
+      "certainty": "approximate",
+      "summary": "The Schlegel sisters keep an old family house in a quiet London square, full of books, talk and music, where they try to live by personal relations and the life of the mind. Its coming loss to redevelopment shadows the book, a sign of how the London they love is being swept away by flats and money. Wickham Place is the fragile home of the novel's cultivated ideals.",
+      "note": "Wickham Place is a fictional London square; Forster imagined the Schlegels in the comfortable streets of Marylebone. The pin sites their house in that district; the square itself is invented, so treat the point as the neighbourhood rather than an address.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howards_End"
+    },
+    {
+      "order": 2,
+      "place": "simpsons-in-the-strand",
+      "displayName": "Simpson's-in-the-Strand",
+      "country": "GB",
+      "lat": 51.5106,
+      "lng": -0.1206,
+      "reference": "Chapter 17",
+      "certainty": "exact",
+      "summary": "At the famous old English restaurant, over saddle of mutton carved at the table, the widower Henry Wilcox courts Margaret Schlegel in his brisk, unreflective way. The solid, carnivorous Englishness of the place stands for everything practical and prosperous that draws and troubles her. Simpson's is where the book's central, unlikely marriage of head and money is set in motion.",
+      "note": "Forster names Simpson's in the Strand as the scene of a dinner between Margaret and Henry Wilcox; sited at the real restaurant on the Strand.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howards_End"
+    },
+    {
+      "order": 3,
+      "place": "chelsea-embankment",
+      "displayName": "The Chelsea Embankment",
+      "country": "GB",
+      "lat": 51.4842,
+      "lng": -0.168,
+      "reference": "Chapter 13-25",
+      "certainty": "exact",
+      "summary": "The Wilcoxes take a flat on the fashionable river frontage, all modern comfort and telephones, the opposite of the Schlegels' book-lined old house. Along this stretch of the Thames the two families' worlds keep meeting and misreading each other. The Embankment marks the moneyed, up-to-date London the Wilcoxes belong to.",
+      "note": "Forster sets the Wilcoxes' London flat on the Chelsea Embankment; sited on the real riverside embankment beside the Thames.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howards_End"
+    },
+    {
+      "order": 4,
+      "place": "howards-end-rooksnest",
+      "displayName": "Howards End, drawn from Rooksnest",
+      "country": "GB",
+      "lat": 51.913,
+      "lng": -0.183,
+      "reference": "Chapter 1-3, 44",
+      "certainty": "approximate",
+      "summary": "The country house with its great wych-elm and hay-meadow is the emotional centre of the whole book, promised in secret to Margaret by the dying first Mrs Wilcox. Around who truly belongs to it the plot turns, until the house finds its rightful heirs at the last. Forster built it stone for stone from Rooksnest, the Hertfordshire home he loved and lost as a boy.",
+      "note": "The house Howards End is closely modelled on Rooksnest, the farmhouse near Stevenage in Hertfordshire where Forster spent his childhood; this is the documented real original. Sited at Rooksnest and marked outside the setting box as it lies well beyond London.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howards_End"
+    },
+    {
+      "order": 5,
+      "place": "oniton-shropshire-clun",
+      "displayName": "Oniton, drawn from Clun",
+      "country": "GB",
+      "lat": 52.418,
+      "lng": -3.03,
+      "reference": "Chapter 25-27",
+      "certainty": "approximate",
+      "summary": "At Henry Wilcox's remote Shropshire estate a wedding party gathers, and the strands of the story knot fatefully together when Helen brings the ruined clerk Leonard Bast and his wife into the Wilcoxes' path. The border country's beauty sets off the human wreckage that follows. Oniton, drawn from the real Clun, is where charity, class and old secrets collide.",
+      "note": "Oniton Grange, the Wilcoxes' Shropshire estate, is fictional; Forster drew the town and its setting from Clun in south Shropshire, which he visited. Sited at Clun and marked outside the setting box as a far western excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Howards_End"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

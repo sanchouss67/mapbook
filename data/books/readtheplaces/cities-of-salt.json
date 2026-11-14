@@ -1,0 +1,80 @@
+{
+  "id": "cities-of-salt",
+  "title": "Cities of Salt",
+  "author": "Abdelrahman Munif",
+  "year": 1984,
+  "description": "When Americans arrive to drill for oil, the timeless desert oasis of Wadi al-Uyoun is bulldozed away and its people scattered, many washing up in the raw coastal boomtown of Harran, remade by the oil economy into a place of camps, wages and grievance. Munif's great banned epic of the Arabian oil age is drawn from the real eastern province of Saudi Arabia: the vanished oasis of the interior, the coming of the machines, and the segregated oil town on the Gulf where a new and bitter world is born.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wadi-al-uyoun",
+      "displayName": "Wadi al-Uyoun",
+      "country": "SA",
+      "lat": 25.5,
+      "lng": 49,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the green oasis of Wadi al-Uyoun, a place of palms, wells and caravans, Miteb al-Hathal lives the settled rhythm of a world that has scarcely changed in centuries. Munif opens in this vanished paradise so that we feel, when it is destroyed, the full weight of what the coming of oil sweeps away.",
+      "note": "The lush oasis of Wadi al-Uyoun is Munif's invention, drawn from the desert oases of the eastern Arabian interior before the oil age; sited in that region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia"
+    },
+    {
+      "order": 2,
+      "place": "the-coming-of-the-americans",
+      "displayName": "The coming of the Americans",
+      "country": "SA",
+      "lat": 25.52,
+      "lng": 49.02,
+      "reference": "The destruction of the oasis",
+      "certainty": "approximate",
+      "summary": "Strange Americans appear with instruments and questions, and soon the machines come, tearing out the palms and levelling Wadi al-Uyoun to lay their pipelines and roads. Miteb, who alone sees what is coming, rides off into the desert in doomed refusal, and the community is scattered, the first casualties of the oil age.",
+      "note": "American prospectors arrive to survey and drill, and the bulldozers destroy the oasis; the episode is drawn from the real arrival of the oil companies in eastern Arabia and sited at the oasis.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Saudi_Arabia"
+    },
+    {
+      "order": 3,
+      "place": "harran",
+      "displayName": "Harran (the boomtown)",
+      "country": "SA",
+      "lat": 26.4,
+      "lng": 50.1,
+      "reference": "The Harran chapters",
+      "certainty": "approximate",
+      "summary": "On the Gulf coast the fishing hamlet of Harran swells into a raw boomtown, as displaced men like those of the oasis come seeking work and the labour contractor Ibn Rashed recruits them for wages. Munif charts the birth of a whole new kind of society here, built overnight out of oil, money and uprooted lives.",
+      "note": "The coastal oil town of Harran is Munif's invention, drawn from the boomtowns of the Saudi Gulf coast such as the Dammam and Dhahran area; sited on the coast.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dhahran"
+    },
+    {
+      "order": 4,
+      "place": "the-oil-camp",
+      "displayName": "The oil camp",
+      "country": "SA",
+      "lat": 26.42,
+      "lng": 50.12,
+      "reference": "The oil-camp chapters",
+      "certainty": "approximate",
+      "summary": "Harran splits into two: the fenced, air-conditioned American compound and the crowded Arab quarter, watched over by a bewildered Emir dazzled by radios and telescopes. In the daily humiliations of this divided town Munif exposes the raw inequality on which the oil order is built, and the resentment quietly gathering beneath it.",
+      "note": "The segregated settlement of an American compound beside the Arab workers' quarter is drawn from the real oil-company camps of eastern Arabia; sited at Harran.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cities_of_Salt"
+    },
+    {
+      "order": 5,
+      "place": "the-strike",
+      "displayName": "The workers' strike",
+      "country": "SA",
+      "lat": 26.39,
+      "lng": 50.11,
+      "reference": "The closing chapters",
+      "certainty": "approximate",
+      "summary": "When a worker is dismissed and grievances boil over, the men of Harran walk out, and the oil town's first strike is met with force. Munif ends on this collision, the uprooted turning at last on the order that remade them, the salt cities of the title raised on foundations that the sea of history can dissolve.",
+      "note": "The workers' unrest and strike that close the novel are drawn from the real early labour struggles in the Saudi oil fields; sited at Harran.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Saudi_Arabia"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

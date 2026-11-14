@@ -1,0 +1,79 @@
+{
+  "id": "the-girl-with-the-dragon-tattoo",
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "year": 2005,
+  "description": "Larsson's Stockholm is a city of investigative journalism and cold money, centred on Södermalm: the Millennium magazine on Götgatan, a reporter's attic on Bellmansgatan, a hacker's flat above Mosebacke. From there the story makes one long excursion north, to the invented island of Hedeby in the river country beyond Gävle, and back again to settle scores in the capital's finance world.",
+  "route": [
+    {
+      "order": 1,
+      "place": "libel-court-kungsholmen",
+      "displayName": "The libel court, Kungsholmen",
+      "country": "SE",
+      "lat": 59.33083,
+      "lng": 18.0436,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The story opens with the public disgrace of a financial journalist, convicted of libel after an exposé of a corporate magnate falls apart under him. The verdict sends him out of the courtroom with his reputation and his magazine in ruins. Stockholm's courts sit on Kungsholmen, the island most tied to the city's money and legal power.",
+      "note": "The novel does not name the courthouse. This marks Stockholm District Court on Kungsholmen, the island of the city's law and finance worlds, where a Stockholm libel case would be heard.",
+      "sourceUrl": "https://www.hitta.se/stockholms+tingsr%C3%A4tt/stockholm/amtzfjccm"
+    },
+    {
+      "order": 2,
+      "place": "millennium-offices-gotgatan",
+      "displayName": "The Millennium offices, Götgatan",
+      "country": "SE",
+      "lat": 59.318345,
+      "lng": 18.071323,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The small investigative monthly at the heart of the book keeps its newsroom on Götgatan, one of Södermalm's busy shopping streets. It is the journalist's real home and the venture he spends the story trying to save. Larsson set it in a part of Söder he knew well, near where his own magazine once had its offices.",
+      "note": "Millennium is a fictional magazine. The novels place its newsroom on Götgatan, a real Södermalm street; this sites it at the Götgatan and Hökens gata corner that readers and the screen versions use.",
+      "sourceUrl": "https://www.thelocal.se/20181026/stockholm-walking-tour-8-sodermalm-locations-every-millennium-fan-has-to-visit"
+    },
+    {
+      "order": 3,
+      "place": "blomkvist-flat-bellmansgatan",
+      "displayName": "Blomkvist's flat, Bellmansgatan",
+      "country": "SE",
+      "lat": 59.320606,
+      "lng": 18.064657,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The journalist lives in an attic flat on Bellmansgatan, high on Södermalm, reached by a walkway that crosses above the street. The book names the street, and the real building at Bellmansgatan 1 has become a fixed stop for readers walking the city of the novel.",
+      "sourceUrl": "https://www.visitstockholm.com/o/bellmansgatan-1/"
+    },
+    {
+      "order": 4,
+      "place": "hedeby-island-hedesunda",
+      "displayName": "Hedeby island",
+      "country": "SE",
+      "lat": 60.364,
+      "lng": 17.0243,
+      "reference": "Parts 2–3",
+      "certainty": "approximate",
+      "summary": "The long central investigation unfolds on a small private island held by an industrial dynasty, where a teenage girl vanished decades before. The island is fictional, set in the forested river country of northern Sweden. The Hedesunda islands on the Dalälven, north-west of Gävle, give a sense of the real geography Larsson drew on.",
+      "note": "Hedeby island and the town of Hedestad are invented. The novels place them on the coast a few hours north of Stockholm and just over an hour north of Gävle. This marks the Hedesunda islands on the Dalälven, the real river landscape the fictional island most resembles, far outside the Stockholm setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hedesunda"
+    },
+    {
+      "order": 5,
+      "place": "salander-flat-fiskargatan",
+      "displayName": "Salander's flat, Fiskargatan",
+      "country": "SE",
+      "lat": 59.317955,
+      "lng": 18.076778,
+      "reference": "Part 4",
+      "certainty": "approximate",
+      "summary": "The hacker at the centre of the book keeps to herself on Södermalm, and by the end of the story she has the means to vanish into a large apartment near Mosebacke Torg. The address readers associate with her, Fiskargatan 9, is a real building above the square, its green metal roof easy to pick out on the skyline.",
+      "note": "The flat is fictional. The Millennium novels place Salander's Södermalm home on Fiskargatan at Mosebacke; this marks Fiskargatan 9, the real building tied to that address across the trilogy.",
+      "sourceUrl": "https://www.visitstockholm.com/o/fiskargatan-9/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

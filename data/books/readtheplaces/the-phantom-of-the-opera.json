@@ -1,0 +1,93 @@
+{
+  "id": "the-phantom-of-the-opera",
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "year": 1910,
+  "description": "The Palais Garnier is real, and Leroux insisted his story was too. He maps the building in precise detail: the auditorium and its great chandelier, Box Five on the grand tier, the dancers' foyer, the roof beneath Apollo's lyre, and the cellars below. The lake is real as well, a cistern built to hold back the groundwater that Leroux turned into the Phantom's underground lake.",
+  "route": [
+    {
+      "order": 1,
+      "place": "box-five-grand-tier",
+      "displayName": "Box Five, on the grand tier",
+      "country": "FR",
+      "lat": 48.87185,
+      "lng": 2.33155,
+      "reference": "Chapter IV, Box Five",
+      "certainty": "exact",
+      "summary": "The Phantom's clause in the managers' contract reserves this one box for him alone. When the new managers sell it anyway, the reports of a voice in the empty box begin, and the war between Erik and the Opera opens over a real seat on the grand tier.",
+      "note": "Box Five is a real box on the grand tier of the Palais Garnier, which Leroux gives to his ghost by name. The pin sits on the auditorium's east side, on the horseshoe of boxes.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+      "order": 2,
+      "place": "perros-guirec-graveyard",
+      "displayName": "The graveyard at Perros-Guirec",
+      "country": "FR",
+      "lat": 48.8137,
+      "lng": -3.4419,
+      "reference": "Chapter V, at Perros",
+      "certainty": "exact",
+      "summary": "Christine returns to Brittany for the anniversary of her father's death, to the churchyard where he is buried with his violin. Raoul follows and finds the red roses in the snow, and that night the dead man's music sounds over the graves. Perros-Guirec is real, and Leroux knew the coast.",
+      "note": "Perros-Guirec is a real town on the pink-granite coast of Brittany, some 500 km west of the Opera, so it is flagged as an excursion beyond the book's Paris setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+      "order": 3,
+      "place": "grand-auditorium-chandelier",
+      "displayName": "The grand auditorium and the chandelier",
+      "country": "FR",
+      "lat": 48.87195,
+      "lng": 2.3316,
+      "reference": "Chapter VII, the chandelier falls",
+      "certainty": "exact",
+      "summary": "At the height of the performance the great chandelier tears loose and crashes into the stalls, killing the woman newly appointed as the ghost's box-keeper. Leroux built the scene on a true Garnier accident, when a counterweight from the chandelier fell on the audience in 1896.",
+      "note": "The pin sits in the middle of the Palais Garnier auditorium, over the stalls where the seven-tonne chandelier came down. The Garnier's chandelier is real; a counterweight from it did fall and kill a woman in 1896, the incident Leroux borrowed.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+      "order": 4,
+      "place": "grand-staircase-masked-ball",
+      "displayName": "The grand staircase",
+      "country": "FR",
+      "lat": 48.87205,
+      "lng": 2.33145,
+      "reference": "Chapter XI, the masked ball",
+      "certainty": "exact",
+      "summary": "Raoul climbs the marble staircase through the crush of the masked ball, and it is here that the Phantom appears in the flesh as the Red Death, scarlet and skull-faced, moving down the steps through the costumed crowd. The staircase Leroux calls one of the richest settings in the world is exactly the one that stands.",
+      "note": "The grand staircase of the Palais Garnier, its marble flights and balustrades, is real and still one of the great set-pieces of the building. The pin marks the staircase at the north end of the auditorium block.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+      "order": 5,
+      "place": "roof-above-apollo",
+      "displayName": "The roof, above the Apollo",
+      "country": "FR",
+      "lat": 48.8718,
+      "lng": 2.3319,
+      "reference": "Chapter XII, Apollo's Lyre",
+      "certainty": "exact",
+      "summary": "Christine takes Raoul up to the roof to be alone above Paris, and there, beneath the bronze Apollo lifting his lyre, they plan their escape, not knowing the Phantom clings in the shadow behind them. The gilded Apollo and the water tanks Leroux names are still on the Garnier's roof.",
+      "note": "The roof of the Palais Garnier, with its lead avenues and the water tanks between the domes, is real, as is the bronze Apollo raising his lyre above the stage gable. The pin marks the roof over the stage house, toward the Apollo group.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+      "order": 6,
+      "place": "the-lake-beneath-the-opera",
+      "displayName": "The lake beneath the Opera",
+      "country": "FR",
+      "lat": 48.8717,
+      "lng": 2.3315,
+      "reference": "Chapter XXI, the house on the lake",
+      "certainty": "approximate",
+      "summary": "Erik's lair stands on the far shore of an underground lake, five cellars down, reached only by boat and guarded by a siren in the water. The lake is drawn from the real water tank engineers built under the Garnier to hold back the flooding Seine-fed groundwater.",
+      "note": "There really is water beneath the Palais Garnier: a masonry cistern that holds back the groundwater, still there and still used by the fire brigade. Leroux turned it into a navigable lake with the Phantom's house on the far bank. The lake is real; the house on it is his invention. The pin marks the cellars below the building.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/175"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

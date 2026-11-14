@@ -1,0 +1,91 @@
+{
+  "id": "the-leopard",
+  "title": "The Leopard",
+  "author": "Giuseppe Tomasi di Lampedusa",
+  "year": 1958,
+  "description": "Lampedusa maps the end of aristocratic Sicily onto the real island his own family ruled. As Garibaldi lands at Marsala in 1860 and the old order falls, Don Fabrizio, Prince of Salina, moves between his Palermo palace and the family's dusty inland estate of Donnafugata, drawn from the Tomasi towns of Palma di Montechiaro and Santa Margherita di Belice. The map is western Sicily, from the capital to the sun-struck interior.",
+  "route": [
+    {
+      "order": 1,
+      "place": "salina-palace-palermo",
+      "displayName": "The Salina palace, Palermo",
+      "country": "IT",
+      "lat": 38.1155,
+      "lng": 13.362,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The book opens in the prince's Palermo palace, at evening prayers, as news comes that Garibaldi has landed. Don Fabrizio, a huge, clever, melancholy aristocrat, feels the ground shifting under his class. The palace is the seat of a power that is about to become ornamental.",
+      "note": "The prince's Palermo palace is drawn from the author's own family seat, the Palazzo Lampedusa in the old centre of Palermo (largely destroyed by wartime bombing). The pin marks a representative point in that historic quarter.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Leopard"
+    },
+    {
+      "order": 2,
+      "place": "palermo-city",
+      "displayName": "The city of Palermo",
+      "country": "IT",
+      "lat": 38.1157,
+      "lng": 13.3615,
+      "reference": "Parts One and Seven",
+      "certainty": "exact",
+      "summary": "Palermo, the Sicilian capital, is the stage for the old aristocracy's public life and for the plebiscite that ratifies the new Italian kingdom. Its churches, gardens and dust run through the book, and the prince dies here decades later in a hotel room by the sea. The city outlasts the world it belonged to.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palermo"
+    },
+    {
+      "order": 3,
+      "place": "marsala-landing",
+      "displayName": "Garibaldi's landing at Marsala",
+      "country": "IT",
+      "lat": 37.7986,
+      "lng": 12.4353,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "At Marsala, on Sicily's western tip, Garibaldi and his Thousand come ashore in May 1860, the event whose shock waves fill the whole novel. The real port town is where the unification of Italy begins its Sicilian chapter. From here the red shirts sweep toward Palermo and the prince's certainties.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marsala"
+    },
+    {
+      "order": 4,
+      "place": "donnafugata-palma",
+      "displayName": "Donnafugata, the summer estate",
+      "country": "IT",
+      "lat": 37.1919,
+      "lng": 13.7656,
+      "reference": "Parts Two to Four",
+      "certainty": "approximate",
+      "summary": "The family decamps each summer to Donnafugata, the estate deep in the parched interior, where the prince is still greeted like a feudal lord and where his nephew Tancredi courts the mayor's beautiful daughter Angelica. It is the old rural Sicily, timeless and poor, that the new nation will absorb but never really change. The name means the flight of the women.",
+      "note": "Donnafugata is fictional; Lampedusa built it from the Tomasi family's real towns in the Sicilian interior, above all Palma di Montechiaro, which the pin marks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palma_di_Montechiaro"
+    },
+    {
+      "order": 5,
+      "place": "santa-margherita-palace",
+      "displayName": "The Donnafugata palace, Santa Margherita di Belice",
+      "country": "IT",
+      "lat": 37.6928,
+      "lng": 13.0203,
+      "reference": "Parts Two to Four",
+      "certainty": "approximate",
+      "summary": "The vast, half-shuttered country palace at Donnafugata, with its faded frescoes and endless rooms, is the heart of the family's provincial summers and of the prince's slow reckoning with his own obsolescence. It comes from the real palace at Santa Margherita di Belice that Lampedusa knew as a boy. The house is the aristocracy made stone: magnificent, and already a museum.",
+      "note": "The great country palace of Donnafugata is drawn from the real Filangeri di Cutò palace at Santa Margherita di Belice, where the author spent childhood summers (damaged in the 1968 Belice earthquake). The pin marks the town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Santa_Margherita_di_Belice"
+    },
+    {
+      "order": 6,
+      "place": "the-grand-ball-palermo",
+      "displayName": "The grand ball, Palermo",
+      "country": "IT",
+      "lat": 38.11475,
+      "lng": 13.36577,
+      "reference": "Part Six",
+      "certainty": "approximate",
+      "summary": "Late in the book the aristocracy gathers for a lavish night-long ball in a Palermo palazzo, and the ageing prince, moving among the mirrors and candlelight, feels his class and his own life drawing to a close. The set-piece is tied to Palazzo Valguarnera-Gangi, whose ballroom Visconti later filmed for the celebrated dance sequence.",
+      "note": "The novel sets its great ball in a Palermo palazzo without naming a real one. The pin marks Palazzo Valguarnera-Gangi, the palace long identified with the scene and used for it in Visconti's 1963 film.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palazzo_Valguarnera-Gangi"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

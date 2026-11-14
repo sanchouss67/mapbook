@@ -1,0 +1,80 @@
+{
+  "id": "a-tale-of-love-and-darkness",
+  "title": "A Tale of Love and Darkness",
+  "author": "Amos Oz",
+  "year": 2002,
+  "description": "Oz's memoir maps a bookish, threadbare childhood in late-Mandate Jerusalem: a cramped basement flat in Kerem Avraham, the reading rooms of the National Library and the university on Mount Scopus, and the night the streets filled to celebrate the United Nations vote for partition. The map runs from the poor prophet-named streets of the north out east to the campus on the ridge and down into the heart of downtown.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kerem-avraham-basement-flat",
+      "displayName": "The family's basement flat, Amos Street",
+      "country": "IL",
+      "lat": 31.7898,
+      "lng": 35.2145,
+      "reference": "The Kerem Avraham childhood",
+      "certainty": "approximate",
+      "summary": "The centre of the book is a small, damp, book-lined flat on the ground floor of a building in Kerem Avraham, a poor neighbourhood in the north of the city whose streets carry the names of Hebrew prophets. The boy grows up here among his parents' languages, arguments and unspoken griefs, with the wider world reaching him mostly through books.",
+      "note": "Kerem Avraham and Amos Street are real and named, but the memoir does not turn the flat into a museum address, so this marks a representative point on Amos Street in the neighbourhood where the family lived.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amos_Oz"
+    },
+    {
+      "order": 2,
+      "place": "national-library-mount-scopus",
+      "displayName": "The National Library and Hebrew University, Mount Scopus",
+      "country": "IL",
+      "lat": 31.7927,
+      "lng": 35.2445,
+      "reference": "The library and the university",
+      "certainty": "exact",
+      "summary": "Learning is the family religion, and the library is its temple. Relatives and friends move through the reading rooms of the national library and the university out on Mount Scopus, the long ridge east of the city, where scholarship and the dream of a renewed Hebrew culture come together above the desert light.",
+      "note": "In the late Mandate the national and university library and the Hebrew University shared the Mount Scopus campus, which the book names directly; sited on the ridge campus.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem"
+    },
+    {
+      "order": 3,
+      "place": "national-institutions-house-partition",
+      "displayName": "National Institutions House, the partition-vote night",
+      "country": "IL",
+      "lat": 31.7766,
+      "lng": 35.2159,
+      "reference": "The night of the UN partition vote",
+      "certainty": "approximate",
+      "summary": "On the night in late November 1947 when the United Nations voted for partition, the city stayed up to listen and then spilled into the streets. Strangers danced and wept together, and the crowds converged on the courtyard of the Jewish Agency, the fortress-like seat of the Zionist institutions where the hope of a state had been kept alive.",
+      "note": "The memoir describes the crowds that poured into the streets after the vote rather than naming a single building; this marks the courtyard of the Jewish Agency's National Institutions House, the documented focal point of the celebrations in Jerusalem.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_Institutions_House"
+    },
+    {
+      "order": 4,
+      "place": "zion-square-downtown",
+      "displayName": "Zion Square, downtown Jerusalem",
+      "country": "IL",
+      "lat": 31.78194,
+      "lng": 35.21972,
+      "reference": "Downtown Jerusalem",
+      "certainty": "approximate",
+      "summary": "Trips into town are events: a cafe, a bookshop, a careful conversation among adults who had come from Europe and were remaking themselves in a new language. The commercial heart of Jewish Jerusalem in those years was the knot of streets around Zion Square, where Jaffa Road meets Ben Yehuda Street.",
+      "note": "The book's outings into the centre of Jerusalem move through the shops and cafes of Jaffa Road and Ben Yehuda Street without fixing on one address; Zion Square, the meeting point of those streets, marks the heart of that downtown.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zion_Square"
+    },
+    {
+      "order": 5,
+      "place": "kibbutz-hulda",
+      "displayName": "Kibbutz Hulda",
+      "country": "IL",
+      "lat": 31.8316,
+      "lng": 34.883,
+      "reference": "The move to Kibbutz Hulda",
+      "certainty": "exact",
+      "summary": "As a teenager, after the loss that shadows the book, the narrator leaves Jerusalem to start again on a kibbutz in the coastal plain, even taking a new surname. Hulda, among fields and the pine woods on the road up to the city, is where the bookish child tries to become a labourer and, in time, a writer.",
+      "note": "The memoir names Hulda as the kibbutz the teenage narrator leaves the city for; sited at the kibbutz, about forty kilometres west of Jerusalem, outside the book's Jerusalem setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hulda,_Israel"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

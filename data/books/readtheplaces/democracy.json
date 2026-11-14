@@ -1,0 +1,90 @@
+{
+  "id": "democracy",
+  "title": "Democracy",
+  "author": "Henry Adams",
+  "year": 1880,
+  "description": "Gilded-Age Washington seen from a hired house on Lafayette Square, across from the White House. Adams maps the real capital from the inside: the Senate gallery, the presidential reception, and the steamer excursion down the Potomac to Mount Vernon. He published anonymously and knew every one of these rooms.",
+  "route": [
+    {
+      "order": 1,
+      "place": "lafayette-square-mrs-lees-house",
+      "displayName": "Lafayette Square: Mrs Lee's house",
+      "country": "US",
+      "lat": 38.9004,
+      "lng": -77.0365,
+      "reference": "Washington, 1 December",
+      "certainty": "approximate",
+      "summary": "The widow Madeleine Lee comes to Washington to see power at close range, and takes a house on Lafayette Square, across the park from the White House. From this drawing room she will study the capital and the men who run it.",
+      "note": "Lafayette Square, facing the White House across the park, is a real place, named in the text. Adams never gives the house number, so the pin sits on the square where Mrs Lee takes her hired house.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    },
+    {
+      "order": 2,
+      "place": "the-capitol-and-the-senate",
+      "displayName": "The Capitol and the Senate",
+      "country": "US",
+      "lat": 38.8903,
+      "lng": -77.0091,
+      "reference": "The Capitol",
+      "certainty": "exact",
+      "summary": "Madeleine sits in the Senate gallery to watch the machinery of government at work, testing the orators one by one. The Capitol and its chambers are exactly the real building on the hill, where Adams's own family had walked for three generations.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    },
+    {
+      "order": 3,
+      "place": "the-salon-on-lafayette-square",
+      "displayName": "The salon: Ratcliffe's Sunday call",
+      "country": "US",
+      "lat": 38.9007,
+      "lng": -77.0362,
+      "reference": "Lafayette Square, Sunday",
+      "certainty": "approximate",
+      "summary": "Mrs Lee's parlour becomes the political salon at the heart of the book. Senator Ratcliffe, the Prairie Giant of Illinois, makes his weekly call, and the repose of the room draws the weary politician back Sunday after Sunday.",
+      "note": "The scene is set in Mrs Lee's parlour on Lafayette Square, a real place named earlier in the text. The exact house is never numbered, so the pin sits on the square, a few steps from the arrival pin.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    },
+    {
+      "order": 4,
+      "place": "the-white-house-reception",
+      "displayName": "The White House reception",
+      "country": "US",
+      "lat": 38.8977,
+      "lng": -77.0365,
+      "reference": "The White House",
+      "certainty": "exact",
+      "summary": "At the President's first evening reception Madeleine files past the President and his wife, standing stiff as automata shaking every hand in the line. The nightmare of the spectacle burns a warning to ambition into her mind. The house is the real Executive Mansion, a short walk across the square.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    },
+    {
+      "order": 5,
+      "place": "the-potomac-steamer",
+      "displayName": "Down the Potomac by steamer",
+      "country": "US",
+      "lat": 38.877,
+      "lng": -77.021,
+      "reference": "On the Potomac",
+      "certainty": "approximate",
+      "summary": "Ratcliffe leaps aboard at the last moment for the Saturday excursion downriver. The little steamer casts off past the arsenal and the navy-yard and works its way down the Potomac, carrying the whole party toward Washington's home.",
+      "note": "The Potomac is named in the text, and the excursion boat left from the city wharves on the Washington waterfront. Adams does not name the exact pier, so the pin sits on the river at the Southwest waterfront where the steamers docked.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    },
+    {
+      "order": 6,
+      "place": "mount-vernon",
+      "displayName": "Mount Vernon, Washington's home",
+      "country": "US",
+      "lat": 38.7076,
+      "lng": -77.0861,
+      "reference": "Mount Vernon",
+      "certainty": "exact",
+      "summary": "The excursion ends at Mount Vernon, George Washington's estate above the Potomac. Among the relics of the first President, Madeleine measures the plain founding virtue of the place against the grubby capital she has been watching, and feels unclean. The house and grounds are the real, preserved Mount Vernon.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2815"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

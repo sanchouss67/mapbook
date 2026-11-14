@@ -1,0 +1,92 @@
+{
+  "id": "a-christmas-carol",
+  "title": "A Christmas Carol",
+  "author": "Charles Dickens",
+  "year": 1843,
+  "description": "One night's haunting, walked across the City of London. Cornhill, the Royal Exchange and Bob Cratchit's Camden Town are named outright and still on the map; Scrooge's counting-house and Fezziwig's warehouse are unlocated interiors, pinned to the courts off Cornhill that tradition and Dickens's own clues point to. That split is exactly what the certainty labels are for.",
+  "route": [
+    {
+      "order": 1,
+      "place": "scrooges-counting-house",
+      "displayName": "Scrooge's counting-house, off Cornhill",
+      "country": "GB",
+      "lat": 51.5133,
+      "lng": -0.0863,
+      "reference": "Stave I",
+      "certainty": "approximate",
+      "summary": "The whole story starts here, in a cramped, coal-starved office in the City where Scrooge keeps the box of coals in his own room and his clerk shivers in a cell beyond. Dickens leaves the door unlocated, so we pin it to Newman's Court off Cornhill, the court walkers have pointed to since.",
+      "note": "Dickens never gives the address. The counting-house is an unlocated City interior, but the book's own clues (Cratchit sliding on Cornhill, a Gothic-windowed church tower opposite) point to one of the courts off Cornhill; Newman's Court, directly across from St Michael's, is the traditional pin.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+      "order": 2,
+      "place": "st-michael-cornhill",
+      "displayName": "The church tower on Cornhill",
+      "country": "GB",
+      "lat": 51.5132,
+      "lng": -0.0855,
+      "reference": "Stave I",
+      "certainty": "approximate",
+      "summary": "As the fog thickens on Christmas Eve, the bell of the neighbouring church tolls the hours down at Scrooge from its Gothic window. St Michael's, Cornhill, opposite Newman's Court, has exactly that tower, which is why it is read as the church Dickens had in his eye.",
+      "note": "Dickens names no church, but the Gothic window in the tower and the position across the road from the counting-house match St Michael's, Cornhill, the church that walkers and Dickensians identify with the passage.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+      "order": 3,
+      "place": "cornhill-slide",
+      "displayName": "Cornhill, the boys' ice-slide",
+      "country": "GB",
+      "lat": 51.5132,
+      "lng": -0.0852,
+      "reference": "Stave I",
+      "certainty": "exact",
+      "summary": "Released at last, Bob Cratchit joins the boys sliding on the iced-over Cornhill, twenty times, before running the two miles home to Camden Town. It is the one moment of the counting-house day that is pure Christmas, and the one street Dickens names outright.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+      "order": 4,
+      "place": "fezziwigs-warehouse",
+      "displayName": "Fezziwig's warehouse",
+      "country": "GB",
+      "lat": 51.5126,
+      "lng": -0.0884,
+      "reference": "Stave II",
+      "certainty": "approximate",
+      "summary": "The Ghost of Christmas Past carries Scrooge back to the warehouse where old Fezziwig cleared the floor for a Christmas ball, shutters up before you could say Jack Robinson. Dickens gives it no address, so it stays an inferred City interior, pinned only to the quarter it belongs to.",
+      "note": "An unlocated City interior. The warehouse where the young Scrooge was apprenticed is never sited; the pin sits in the City of London, near the counting-house quarter, to mark the scene rather than a surviving address.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+      "order": 5,
+      "place": "the-royal-exchange",
+      "displayName": "The Royal Exchange ('Change)",
+      "country": "GB",
+      "lat": 51.5138,
+      "lng": -0.0866,
+      "reference": "Stave IV",
+      "certainty": "approximate",
+      "summary": "The Ghost of Christmas Yet To Come sets Scrooge down among the merchants on 'Change, where his own death is discussed as idle gossip between deals. This is the floor of the Royal Exchange, the trading heart of the City where Scrooge's name was once good for anything he chose.",
+      "note": "Dickens names 'Change, the trading floor where the City's merchants met; in Scrooge's London that was the Royal Exchange at Bank, rebuilt and reopened in 1844. The pin marks the Exchange the word denotes.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+      "order": 6,
+      "place": "camden-town-cratchit-home",
+      "displayName": "Bob Cratchit's home, Camden Town",
+      "country": "GB",
+      "lat": 51.537,
+      "lng": -0.1398,
+      "reference": "Stave V",
+      "certainty": "approximate",
+      "summary": "The prize turkey Scrooge buys on Christmas morning is too big to carry, so it must go by cab out to the Cratchits in Camden Town. Dickens knew the district from the inside, having lived at Bayham Street as a boy, and readers place Bob's crowded, cheerful house on that same street.",
+      "note": "Dickens names Camden Town but not a door. The Cratchit home is placed at Bayham Street, where Dickens himself lodged as a boy and which readers have long identified with the family; the pin marks that street.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/46"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

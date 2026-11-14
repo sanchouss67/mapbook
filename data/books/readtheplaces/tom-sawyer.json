@@ -1,0 +1,80 @@
+{
+  "id": "tom-sawyer",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "Mark Twain",
+  "year": 1876,
+  "description": "The mischievous boy Tom Sawyer roams a sleepy Mississippi river town through a summer of whitewashed fences, pirate games, buried treasure and a murder witnessed at midnight. Twain drew St Petersburg from his own Hannibal, Missouri, and maps its real world: the village and Aunt Polly's, the graveyard and the schoolhouse, Jackson's Island where the boys run wild, and the cave where Tom and Becky are lost and Injun Joe meets his end.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-village",
+      "displayName": "Aunt Polly's",
+      "country": "US",
+      "lat": 39.71,
+      "lng": -91.36,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the drowsy river town, Tom dodges chores and school, and famously tricks the other boys into paying him for the privilege of whitewashing Aunt Polly's fence. Twain opens on the small comedy of boyhood in a Mississippi village, the sunlit ordinary world whose peace a midnight crime is about to disturb.",
+      "note": "Tom's home with Aunt Polly in the village of St Petersburg is drawn from Twain's own Hannibal, Missouri; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal,_Missouri"
+    },
+    {
+      "order": 2,
+      "place": "the-graveyard",
+      "displayName": "The graveyard",
+      "country": "US",
+      "lat": 39.72,
+      "lng": -91.35,
+      "reference": "The graveyard chapters",
+      "certainty": "approximate",
+      "summary": "Sneaking to the graveyard at midnight to cure warts, Tom and Huck witness Injun Joe murder the young doctor and frame the drunk Muff Potter, a secret that terrifies them into a blood-oath of silence. Twain drops real menace into the boys' games here, the guilt of the hidden crime shadowing the summer's fun.",
+      "note": "The hilltop graveyard where Tom and Huck secretly witness Injun Joe's murder of the doctor is drawn from the burying grounds around the real town; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+    },
+    {
+      "order": 3,
+      "place": "jacksons-island",
+      "displayName": "Jackson's Island",
+      "country": "US",
+      "lat": 39.66,
+      "lng": -91.32,
+      "reference": "The island chapters",
+      "certainty": "approximate",
+      "summary": "Believed drowned, Tom and his friends live as pirates on Jackson's Island, then steal back to town to attend their own funeral to the town's astonishment. Twain gives the boys their idyll of freedom on the river island, the escape from adult rules that is the sunny heart of the book.",
+      "note": "Jackson's Island, where Tom, Huck and Joe Harper run off to be pirates, is a wooded Mississippi island drawn from the real islands near Hannibal; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+    },
+    {
+      "order": 4,
+      "place": "the-schoolhouse",
+      "displayName": "The schoolhouse",
+      "country": "US",
+      "lat": 39.711,
+      "lng": -91.361,
+      "reference": "The school chapters",
+      "certainty": "approximate",
+      "summary": "At the schoolhouse Tom falls for the new girl Becky Thatcher and takes her whipping to win her back, the small romance running through the summer. Twain threads the tender comedy of first love among the spelling-bees and switchings, giving the adventures their sweet, everyday counterweight.",
+      "note": "The village schoolhouse, where Tom courts Becky Thatcher, is drawn from the one-room schools of the frontier town; sited in the village of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+    },
+    {
+      "order": 5,
+      "place": "mcdougals-cave",
+      "displayName": "McDougal's Cave",
+      "country": "US",
+      "lat": 39.68,
+      "lng": -91.34,
+      "reference": "The cave chapters",
+      "certainty": "approximate",
+      "summary": "Lost for days in the twisting dark of McDougal's Cave, Tom and Becky glimpse Injun Joe hiding there, and find their way out only for the villain to be sealed inside and die, his stolen treasure left for the boys to claim. Twain ends on the shift from play to real danger and reward, the cave the passage from boyhood adventure into something graver.",
+      "note": "McDougal's Cave, where Tom and Becky are lost and Injun Joe dies, is drawn from the real Mark Twain Cave near Hannibal; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain_Cave"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "the-hungry-tide",
+  "title": "The Hungry Tide",
+  "author": "Amitav Ghosh",
+  "year": 2004,
+  "description": "In the Sundarbans, the vast tide country of mangrove islands where the Ganges meets the sea, an American cetologist, Piya, a Delhi translator, Kanai, and an illiterate fisherman, Fokir, are drawn together among the shifting channels, the tigers and the river dolphins. Ghosh maps the real delta: the railhead at Canning, the island settlement of Lusibari and its trust, the tidal creeks where the dolphins gather, and Morichjhanpi, where refugees were massacred in 1979.",
+  "route": [
+    {
+      "order": 1,
+      "place": "canning-railhead",
+      "displayName": "Canning (the railhead)",
+      "country": "IN",
+      "lat": 22.31,
+      "lng": 88.67,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "At Canning, the last outpost of the railway, the city ends and the water begins. Kanai, a smooth Delhi translator, and Piya, an American scientist come to study the river dolphins, arrive on the same train and part, their paths set to cross again far out among the islands.",
+      "note": "Canning, the real railhead town at the edge of the tide country, is where travellers from Kolkata leave the train and take to boats; both Kanai and Piya begin their journeys into the Sundarbans here.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canning,_India"
+    },
+    {
+      "order": 2,
+      "place": "lusibari-trust",
+      "displayName": "Lusibari (the trust)",
+      "country": "IN",
+      "lat": 22.165,
+      "lng": 88.8,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "Kanai comes to Lusibari at his aunt's request to read the notebook his dead uncle Nirmal left him. The island, with its embankments, its hospital and its precarious life between tiger and tide, is the human centre of the book, a foothold of settlement in a world the water is always trying to take back.",
+      "note": "The island of Lusibari, where Kanai's aunt Nilima runs a hospital and trust, is invented but drawn from the real settled islands of the Sundarbans around Gosaba; sited in that inhabited part of the tide country.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungry_Tide"
+    },
+    {
+      "order": 3,
+      "place": "tide-country-channels",
+      "displayName": "The tide country channels",
+      "country": "IN",
+      "lat": 21.95,
+      "lng": 88.9,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "Out in the channels, Piya works from Fokir's small boat, and across the barrier of language a wordless understanding grows between the scientist and the fisherman who knows the water by instinct. The dolphins gathering in the tidal pools are the thread that binds their two utterly different kinds of knowledge.",
+      "note": "Piya studies the Irrawaddy dolphins in the tidal creeks and pools of the deep Sundarbans, the real maze of mangrove channels that fill and empty with the sea twice a day.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sundarbans"
+    },
+    {
+      "order": 4,
+      "place": "morichjhanpi",
+      "displayName": "Morichjhanpi",
+      "country": "IN",
+      "lat": 22.05,
+      "lng": 88.9,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "Through the dead idealist Nirmal's notebook, the novel recovers the 1979 killing of the refugees of Morichjhanpi, dispossessed people crushed for settling land the state had reserved for tigers. The episode sets the human cost of the tide country against its status as a celebrated wilderness.",
+      "note": "Morichjhanpi is a real Sundarbans island where Bengali refugees who settled it were violently evicted and killed by the state in 1979; Nirmal's notebook makes the massacre the book's buried history.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marichjhapi_massacre"
+    },
+    {
+      "order": 5,
+      "place": "garjontola-storm",
+      "displayName": "Garjontola (the storm)",
+      "country": "IN",
+      "lat": 21.9,
+      "lng": 88.85,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "At Garjontola a great storm catches Piya and Fokir on the water, and Fokir lashes her to a tree and shields her with his own body, dying to keep her alive. The cyclone, the tide country's ultimate power, resolves the book's questions of knowledge and love in an act of wordless sacrifice.",
+      "note": "The island of Garjontola, where Fokir's shrine to the tide-country goddess stands and where the climactic cyclone strikes, is invented and sited in the deep uninhabited Sundarbans.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Hungry_Tide"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

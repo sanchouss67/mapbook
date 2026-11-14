@@ -1,0 +1,93 @@
+{
+  "id": "silence",
+  "title": "Silence",
+  "author": "Shusaku Endo",
+  "year": 1966,
+  "description": "The Nagasaki coast in the 1640s, during the shogunate's campaign to stamp out Christianity. Two Portuguese Jesuits land in secret and shelter with the hidden Christians of the Sotome fishing villages and the offshore Goto Islands, before capture carries them to the city, its magistrate and the fumie. The map runs from the Sotome shore north of the city, out to the Goto Islands, and into Nagasaki itself.",
+  "route": [
+    {
+      "order": 1,
+      "place": "tomogi-sotome-coast",
+      "displayName": "The village of Tomogi, on the Sotome coast",
+      "country": "JP",
+      "lat": 32.8359,
+      "lng": 129.7027,
+      "reference": "Chapters 1-2",
+      "certainty": "exact",
+      "summary": "After landing in secret, the two priests are hidden by a poor fishing community that has kept its faith alive for decades without any clergy. The village stands in for the real Christian settlements strung along the Sotome shore, a stretch of steep coast and hidden coves that made it easier to worship out of sight of the authorities.",
+      "note": "Tomogi is a fictional name, but Endo drew it directly from the real hidden-Christian fishing villages of the Sotome coast north of Nagasaki; this marks Shitsu, one of those villages and the site today of the museum that overlooks the sea he described.",
+      "sourceUrl": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+    },
+    {
+      "order": 2,
+      "place": "charcoal-hut-above-tomogi",
+      "displayName": "The hut in the hills above Tomogi",
+      "country": "JP",
+      "lat": 32.8241,
+      "lng": 129.7123,
+      "reference": "Chapters 1-2",
+      "certainty": "approximate",
+      "summary": "To keep the priests from being seen, the villagers move them to a crude charcoal-burner's hut up in the hills, where they watch the coast for patrols and come down only under cover of dark to hear confessions. The setting reflects the terraced, forested slopes that rise steeply behind the Sotome coast.",
+      "note": "The novel puts the priests' hiding place in a charcoal hut on the mountainside above the village, but names no spot; this marks a representative point on the wooded slope behind the Sotome villages.",
+      "sourceUrl": "https://www.ebsco.com/research-starters/literature-and-writing/silence-shusaku-endo"
+    },
+    {
+      "order": 3,
+      "place": "goto-islands",
+      "displayName": "The Goto Islands",
+      "country": "JP",
+      "lat": 32.683,
+      "lng": 128.75,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "Word reaches the priests of more hidden believers on the islands offshore, and Rodrigues crosses to the Goto group to minister to them before the two Jesuits separate. The islands were a real refuge for persecuted Christians, so isolated that a distinct underground faith survived there into the nineteenth century.",
+      "note": "Endo names the Goto Islands; this marks Fukue, the largest and southernmost of the group, whose remote coves sheltered hidden Christians through the persecution.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fukue_Island"
+    },
+    {
+      "order": 4,
+      "place": "nagasaki-harbour",
+      "displayName": "Nagasaki, the Christian port",
+      "country": "JP",
+      "lat": 32.7333,
+      "lng": 129.8667,
+      "reference": "Chapters 5-8",
+      "certainty": "exact",
+      "summary": "Betrayed and captured, Rodrigues is brought to Nagasaki, the port that had once been the heart of Christian Japan and was now the base for suppressing it. Here the story turns from hiding to interrogation, as the authorities work not to kill the priest but to break his faith.",
+      "note": "Nagasaki is named throughout; this marks the historic harbour city, the centre of Japanese Christianity and of the shogunate's effort to root it out.",
+      "sourceUrl": "https://latitude.to/articles-by-country/jp/japan/1008/nagasaki"
+    },
+    {
+      "order": 5,
+      "place": "nagasaki-magistrates-office",
+      "displayName": "The Nagasaki magistrate's office",
+      "country": "JP",
+      "lat": 32.7528,
+      "lng": 129.8796,
+      "reference": "Chapters 7-9",
+      "certainty": "exact",
+      "summary": "The magistrate Inoue directs the campaign against the priests from his office in the city, favouring patient pressure over open execution. It is here that Rodrigues is confronted with the fumie, a bronze image of Christ, and told that a single step on it will end the suffering of the peasants held with him. The magistrate's office at Tateyama was the real seat of Tokugawa authority in Nagasaki.",
+      "note": "The magistrate Inoue and his office are named in the novel; this marks Tateyama, site of the Nagasaki magistrate's office (bugyosho), now reconstructed within the Nagasaki Museum of History and Culture.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nagasaki_Museum_of_History_and_Culture"
+    },
+    {
+      "order": 6,
+      "place": "nishizaka-execution-hill",
+      "displayName": "Nishizaka, the execution hill",
+      "country": "JP",
+      "lat": 32.75472,
+      "lng": 129.87167,
+      "reference": "Chapters 8-9",
+      "certainty": "exact",
+      "summary": "The city's hill of execution is where the persecution reached its end for many believers, and it grounds the novel's hardest fact: that ordinary peasants were tortured and killed for a faith the priests had brought them. Nishizaka is a real place, the ground where twenty-six Christians were crucified in 1597 and where later executions followed through the century of persecution.",
+      "note": "Nishizaka is the historic execution ground of Nagasaki, where Christians were put to death; the twenty-six martyrs of 1597 died here, and it stands as the real site behind the novel's scenes of martyrdom.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

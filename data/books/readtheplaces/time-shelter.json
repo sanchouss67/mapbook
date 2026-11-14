@@ -1,0 +1,93 @@
+{
+  "id": "time-shelter",
+  "title": "Time Shelter",
+  "author": "Georgi Gospodinov",
+  "year": 2020,
+  "description": "Gospodinov's Sofia is the Bulgarian heart of a novel about a Europe seduced by its own past. A clinic that rebuilds vanished decades room by room spreads from Switzerland until whole countries vote on which era to move back into. The map holds to the mausoleum-haunted centre of the capital, from the yellow-paved political square out along Vitosha Boulevard.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-first-clinic-zurich",
+      "displayName": "The first clinic for the past, Zurich",
+      "country": "BG",
+      "lat": 47.3769,
+      "lng": 8.5417,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The story begins with a clinic that rebuilds the past in exact detail, decade by decade, so that patients losing their memory can live inside a time they still recognise. The first such refuge opens in Zurich before the idea travels across the continent.",
+      "note": "The novel places the founding clinic in Switzerland, in Zurich, but names no exact address; this marks the city centre as a representative point. It sits outside the book's Sofia setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Time_Shelter"
+    },
+    {
+      "order": 2,
+      "place": "sveta-nedelya-square-sofia",
+      "displayName": "Sveta Nedelya Square, Sofia",
+      "country": "BG",
+      "lat": 42.6966,
+      "lng": 23.3219,
+      "reference": "The Bulgarian chapters",
+      "certainty": "exact",
+      "summary": "As the fashion for reliving the past spreads, the narrator's own country becomes the book's centre of gravity. His Sofia is a real capital of squares and boulevards, and the story keeps returning to it as Europe slides toward a nostalgia epidemic.",
+      "note": "The novel's Bulgarian sections are set explicitly in Sofia; this marks the symbolic centre of the city at Sveta Nedelya Square, where its main streets converge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Time_Shelter"
+    },
+    {
+      "order": 3,
+      "place": "the-largo-yellow-cobblestones",
+      "displayName": "The Largo and the yellow cobblestones",
+      "country": "BG",
+      "lat": 42.6971,
+      "lng": 23.3225,
+      "reference": "The referendum on the past",
+      "certainty": "exact",
+      "summary": "When Europe votes on which decade to return to, the argument runs through places like this: the grand socialist Largo, its ministries ringed by the ochre paving Bulgarians call the yellow cobblestones. It is where the country staged its old power, and where the novel's contest over which past to revive turns physical.",
+      "note": "The yellow-paved ceremonial centre of Sofia is a real, named landmark; this marks the Largo, the socialist-era ensemble around the former Party House on Independence Square.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Largo,_Sofia"
+    },
+    {
+      "order": 4,
+      "place": "georgi-dimitrov-mausoleum-site",
+      "displayName": "The former Georgi Dimitrov Mausoleum site",
+      "country": "BG",
+      "lat": 42.6959,
+      "lng": 23.3262,
+      "reference": "The referendum on the past",
+      "certainty": "exact",
+      "summary": "For decades a communist leader's tomb stood at the heart of the capital, then it was pulled down in 1999 and left as an open square. The vanished monument is exactly the kind of contested memory the novel circles: a past that Bulgaria erased and now half-wishes it could summon back.",
+      "note": "The mausoleum was a real monument on Knyaz Alexander I Square, demolished in 1999; this marks the now-empty site where it stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Georgi_Dimitrov_Mausoleum"
+    },
+    {
+      "order": 5,
+      "place": "st-alexander-nevsky-cathedral",
+      "displayName": "St Alexander Nevsky Cathedral",
+      "country": "BG",
+      "lat": 42.6957,
+      "lng": 23.3328,
+      "reference": "The Bulgarian chapters",
+      "certainty": "exact",
+      "summary": "The great domed cathedral is the postcard image of Sofia, a symbol of national memory raised to the dead of an earlier war. In a book about a country weighing which version of itself to become, its monuments stand as reminders of how many pasts a single city already carries.",
+      "note": "The cathedral is a real, prominent Sofia landmark; coordinates are its known location on the square that bears its name.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._Alexander_Nevsky_Cathedral,_Sofia"
+    },
+    {
+      "order": 6,
+      "place": "vitosha-boulevard-sofia",
+      "displayName": "Vitosha Boulevard",
+      "country": "BG",
+      "lat": 42.689,
+      "lng": 23.3185,
+      "reference": "The Bulgarian chapters",
+      "certainty": "exact",
+      "summary": "The city's main promenade runs toward the mountain that gives it its name, lined with shops and cafes and the ordinary present the novel keeps setting against the pull of the past. It is the everyday Sofia the narrator walks while whole nations debate retreating into an earlier decade.",
+      "note": "Vitosha Boulevard is a real, named street: Sofia's main pedestrian and shopping avenue running south from Sveta Nedelya Square toward the mountain.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vitosha_Boulevard"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

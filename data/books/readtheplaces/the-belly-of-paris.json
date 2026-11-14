@@ -1,0 +1,78 @@
+{
+  "id": "the-belly-of-paris",
+  "title": "The Belly of Paris",
+  "author": "Émile Zola",
+  "year": 1873,
+  "description": "The whole novel is packed into Les Halles, the great iron-and-glass food market that fed Paris for eight hundred years, and the tangle of old streets around it under the church of Saint-Eustache. Zola makes the market a character, \"some colossal belly, bolted and riveted, built up of wood and glass and iron\": the fish and vegetable and butter pavilions at dawn, the Quenu-Gradelle pork shop on the Rue Rambuteau, the crooked Rue Pirouette. The escaped political prisoner Florent, gaunt and half-starved, washes up in this world of plenty. The pavilions were demolished in 1971; that absence is what the historical layer is for.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rue-pirouette",
+      "displayName": "The Rue Pirouette, old Paris",
+      "country": "FR",
+      "lat": 48.8628,
+      "lng": 2.3462,
+      "reference": "The Rue Pirouette",
+      "certainty": "approximate",
+      "summary": "Florent, just escaped from the penal colony and half-starved, asks the painter Claude Lantier whether the Rue Pirouette still stands. It is the crooked old street where his half-brother Quenu once had the pork shop, and his one thread back to the city. Claude loves it as a bit of picturesque old Paris; for Florent it is the way home.",
+      "note": "The Rue Pirouette was a real, notoriously crooked medieval street at the Pointe Saint-Eustache, on the north-east edge of Les Halles. It was demolished with the market quarter; the pin marks its former line just south of the church, between Saint-Eustache and the Rue Rambuteau.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/5744"
+    },
+    {
+      "order": 2,
+      "place": "les-halles-pavilions",
+      "displayName": "Les Halles, the central market",
+      "country": "FR",
+      "lat": 48.862,
+      "lng": 2.3455,
+      "reference": "Les Halles at dawn",
+      "certainty": "exact",
+      "summary": "This is the market itself, Baltard's great iron-and-glass pavilions rising out of the gloom as the sun comes up, the image that gives the novel its title, the belly of Paris. Florent, who has known only hunger, stands amid this machine built to feed a whole city. The pavilions were pulled down in 1971 and the produce trade moved to Rungis; the modern Forum des Halles now stands here.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/5744"
+    },
+    {
+      "order": 3,
+      "place": "saint-eustache",
+      "displayName": "Saint-Eustache, over the market",
+      "country": "FR",
+      "lat": 48.8634,
+      "lng": 2.3451,
+      "reference": "Saint-Eustache",
+      "certainty": "exact",
+      "summary": "The Flamboyant-Gothic church of Saint-Eustache stands over Les Halles, its luminous clock face a recurring landmark through the book. Zola keeps returning Florent's eye to it: at dawn it glitters \"like some huge reliquary\" above the pork shop and the crowded market streets. The church survives; it is the second largest in Paris after Notre-Dame.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/5744"
+    },
+    {
+      "order": 4,
+      "place": "quenu-gradelle-charcuterie",
+      "displayName": "The Quenu-Gradelle charcuterie, Rue Rambuteau",
+      "country": "FR",
+      "lat": 48.8622,
+      "lng": 2.347,
+      "reference": "The Quenu pork shop",
+      "certainty": "approximate",
+      "summary": "The bright pork-butcher's shop run by Florent's brother Quenu and his handsome, immovable wife Lisa, its window a glossy still life of hams, sausages and terrines against snowy marble. This warm, well-fed bourgeois world, the Fat, is set against the gaunt, hungry Florent, the Thin. Lisa's shop is the novel's other centre of gravity, and in the end its respectability turns on him.",
+      "note": "The Quenu-Gradelle pork shop is Zola's invention, but he sites it precisely: on the Rue Rambuteau facing the markets, near the corner of the Rue Pirouette. The pin marks the western end of the Rue Rambuteau by Les Halles, where the novel places the shop; the street is real, the shop is not.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/5744"
+    },
+    {
+      "order": 5,
+      "place": "fish-market-pavilion",
+      "displayName": "The fish market pavilion",
+      "country": "FR",
+      "lat": 48.8624,
+      "lng": 2.3465,
+      "reference": "The fish market",
+      "certainty": "approximate",
+      "summary": "Florent takes the salaried post of inspector of the fish market, and Zola pours out the whole teeming pavilion: the stone basins of crawfish and eels, the carp \"lustrous with ruddy metallic hues,\" the reek that clings to his clothes and marks him out among the fishwives. The job that was meant to settle him instead exposes him, and the market that fed him will hand him back to the police.",
+      "note": "The fish market was one of the named Les Halles pavilions; Zola places the freshwater-fish section \"beside the fruit market, the last one, indeed, in the direction of the Rue Rambuteau.\" The individual pavilions are gone, so the pin marks that eastern side of the old market footprint, by the Rue Rambuteau.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/5744"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

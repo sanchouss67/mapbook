@@ -1,0 +1,89 @@
+{
+  "id": "dubliners",
+  "title": "Dubliners",
+  "author": "James Joyce",
+  "year": 1914,
+  "description": "Fifteen stories, fifteen corners of one city, each with a real address. From a boy's blind street in the north inner city to the aunts' house on the Liffey quays, Joyce mapped Dublin so exactly you can still walk it.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-pigeon-house",
+      "displayName": "The Pigeon House, on the South Wall",
+      "country": "IE",
+      "lat": 53.3405,
+      "lng": -6.1932,
+      "reference": "An Encounter",
+      "certainty": "exact",
+      "summary": "Two boys mitch off school and set out down the quays for the Pigeon House at the end of the South Wall, the fort and harbour reaching into Dublin Bay. They never get there; the day drifts, and a strange old man in a field turns the adventure sour. The Pigeon House is real and still stands at the foot of the great sea wall.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "order": 2,
+      "place": "north-richmond-street",
+      "displayName": "North Richmond Street",
+      "country": "IE",
+      "lat": 53.3582,
+      "lng": -6.2505,
+      "reference": "Araby",
+      "certainty": "exact",
+      "summary": "The boy's home and the whole enclosed world of \"Araby\": a dead-end street in the north inner city, the dead priest's back room, and the window from which he watches Mangan's sister. Joyce grew up at number 17, and the blind street with its Christian Brothers' school at the corner is exactly as he left it.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "order": 3,
+      "place": "the-araby-bazaar",
+      "displayName": "The Araby bazaar, Ballsbridge",
+      "country": "IE",
+      "lat": 53.3267,
+      "lng": -6.2289,
+      "reference": "Araby",
+      "certainty": "approximate",
+      "summary": "The boy arrives late and alone at the bazaar he has crossed the city to reach, the stalls closing and the hall going dark, and his romantic errand collapses into shame. The historical Araby fete was a vast oriental spectacle at the RDS grounds in 1894, which the twelve-year-old Joyce is said to have attended.",
+      "note": "The story names only the bazaar, \"Araby,\" reached by a late special train from Westland Row. The real Araby: A Grand Oriental Fete ran in May 1894 at the Royal Dublin Society showground in Ballsbridge, the site the pin marks.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "order": 4,
+      "place": "ushers-island",
+      "displayName": "15 Usher's Island, the aunts' house",
+      "country": "IE",
+      "lat": 53.3463,
+      "lng": -6.2828,
+      "reference": "The Dead",
+      "certainty": "exact",
+      "summary": "The Misses Morkan's annual dance fills the upstairs of this house on the south quays of the Liffey, the setting for nearly all of \"The Dead.\" It is a real house: number 15, where Joyce's own great-aunts held their Christmas parties, and it stands today as a museum to the story.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "order": 5,
+      "place": "wellington-monument",
+      "displayName": "The Wellington Monument, Phoenix Park",
+      "country": "IE",
+      "lat": 53.349,
+      "lng": -6.3031,
+      "reference": "The Dead",
+      "certainty": "exact",
+      "summary": "Standing to give his supper speech, Gabriel longs to be out in the cold instead, and his mind goes west to the snow on the great obelisk in Phoenix Park. The image returns at the story's close as the snow falls general over Ireland. The Wellington Testimonial is the tallest obelisk in Europe and still caps the park's edge.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "order": 6,
+      "place": "the-gresham-hotel",
+      "displayName": "The Gresham Hotel, Sackville Street",
+      "country": "IE",
+      "lat": 53.3515,
+      "lng": -6.2606,
+      "reference": "The Dead",
+      "certainty": "exact",
+      "summary": "After the dance, Gabriel and Gretta take a cab across the snow-lit city to the Gresham on Sackville Street, where the story ends: her memory of a dead boy in Galway, and Gabriel's slow reckoning as the snow falls. The Gresham still stands on what is now O'Connell Street.",
+      "note": "The hotel is not named at this line, but the story states plainly that Gabriel has taken a room in the Gresham (\"I've taken one in the Gresham\"), so the closing scene is there.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/2814"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

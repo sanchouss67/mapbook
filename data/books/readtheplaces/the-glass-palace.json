@@ -1,0 +1,80 @@
+{
+  "id": "the-glass-palace",
+  "title": "The Glass Palace",
+  "author": "Amitav Ghosh",
+  "year": 2000,
+  "description": "Ghosh's saga opens in 1885 as the British storm the royal palace at Mandalay and depose the last Burmese king, and follows the orphan Rajkumar, who rises from that day's chaos to a teak fortune, across three generations and three countries. Burma is the heart: the Glass Palace and the sack of Mandalay, and the teak port of Rangoon. Beyond it lie the Indian town of Ratnagiri, where the exiled king is held, and the rubber estates of Malaya where the family's later fortunes are made and broken.",
+  "route": [
+    {
+      "order": 1,
+      "place": "glass-palace-mandalay",
+      "displayName": "The Glass Palace, Mandalay",
+      "country": "MM",
+      "lat": 21.991,
+      "lng": 96.098,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "British troops take Mandalay and depose King Thebaw and Queen Supayalat, ending the Burmese monarchy and sending the royal family into exile. The looting of the glittering Glass Palace, watched by the orphan boy Rajkumar, is the fall from which the whole three-generation saga unspools.",
+      "note": "The novel opens with the 1885 British storming of the royal palace at Mandalay, whose mirrored hall gives the book its title; the palace is real, and King Thebaw was the last Burmese monarch deposed there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mandalay_Palace"
+    },
+    {
+      "order": 2,
+      "place": "mandalay-rajkumar",
+      "displayName": "Mandalay (Rajkumar's start)",
+      "country": "MM",
+      "lat": 21.98,
+      "lng": 96.09,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "In the chaos of the sacked city, the orphan Rajkumar catches sight of Dolly, a young maidservant to the queen, and never forgets her. From the streets of Mandalay he sets out to make himself, hitching his fortunes to the teak trade that is opening the Burmese forests to empire.",
+      "note": "The penniless Indian boy Rajkumar is working at a food stall in Mandalay when the palace falls; the real city is where his rise begins and where he first glimpses the maid Dolly.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mandalay"
+    },
+    {
+      "order": 3,
+      "place": "rangoon-teak",
+      "displayName": "Rangoon (the teak fortune)",
+      "country": "MM",
+      "lat": 16.8,
+      "lng": 96.1495,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "In booming Rangoon, Rajkumar becomes a rich timber merchant, part of the Indian mercantile world that the British Empire spread across Burma. The port city, its docks and its mixed immigrant society, is where the family prospers and where the coming catastrophe of the Second World War will find them.",
+      "note": "Rajkumar builds his fortune in the teak trade out of Rangoon, the real colonial port and capital of British Burma, where much of the family's later life is centred.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yangon"
+    },
+    {
+      "order": 4,
+      "place": "ratnagiri-exile",
+      "displayName": "Ratnagiri (the king's exile)",
+      "country": "MM",
+      "lat": 16.99,
+      "lng": 73.3,
+      "reference": "Part 2",
+      "certainty": "exact",
+      "summary": "At Ratnagiri the deposed royal family lives out a long, shabby captivity, and the maid Dolly grows up in exile there until Rajkumar comes across the sea to find and marry her. The decaying Outram House, and the king staring out to a sea he will never cross again, is the book's image of a dynasty erased.",
+      "note": "King Thebaw and his household are exiled to Ratnagiri on the Indian coast, held for decades at Outram House; Ratnagiri is a real town in Maharashtra, far from the Burmese setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ratnagiri"
+    },
+    {
+      "order": 5,
+      "place": "malaya-rubber",
+      "displayName": "Malaya (the rubber estates)",
+      "country": "MM",
+      "lat": 5.6,
+      "lng": 100.5,
+      "reference": "Part 4",
+      "certainty": "exact",
+      "summary": "On the ordered rubber estates of Malaya, the family's next generation prospers until the Japanese invasion of 1941 shatters the whole colonial order across South-East Asia. Through the nationalist Uma and the young soldiers, Ghosh ties the family's private saga to the collapse of empire and the birth of new nations.",
+      "note": "Later generations of the family are drawn to the rubber estates of British Malaya; the plantations of the Malay peninsula are real, and the novel sites the family's Malayan fortunes there, far outside the Burmese setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Natural_rubber"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

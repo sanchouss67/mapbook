@@ -1,0 +1,80 @@
+{
+  "id": "the-doll",
+  "title": "The Doll",
+  "author": "Bolesław Prus",
+  "year": 1890,
+  "description": "Prus's panorama of Warsaw at the end of the 1870s follows the self-made merchant Stanisław Wokulski, torn between a rational, ambitious life and a consuming, hopeless love for the cold aristocrat Izabela Łęcka. The city is mapped in detail: Wokulski's shop on the grand boulevard of Krakowskie Przedmieście, the royal park of Łazienki where he watches Izabela, the salons of the Aleje Ujazdowskie, and the riverside poverty of Powiśle from which he rose.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wokulski-shop",
+      "displayName": "Wokulski's shop, Krakowskie Przedmieście",
+      "country": "PL",
+      "lat": 52.24,
+      "lng": 21.015,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "From his expanding haberdashery on Warsaw's most elegant street, Wokulski builds a fortune out of trade and a risky war-supply venture, all of it secretly bent toward one end: to make himself worthy of Izabela. The shop is the base of the rational, energetic self he is steadily sacrificing to an impossible love.",
+      "note": "Wokulski's fashionable store stands on Krakowskie Przedmieście, the real grand boulevard of central Warsaw; the specific premises are invented and sited on that street of shops and palaces.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Krakowskie_Przedmie%C5%9Bcie"
+    },
+    {
+      "order": 2,
+      "place": "lazienki-park",
+      "displayName": "Łazienki Park",
+      "country": "PL",
+      "lat": 52.215,
+      "lng": 21.035,
+      "reference": "The park chapters",
+      "certainty": "exact",
+      "summary": "In the elegant walks of Łazienki, Wokulski trails Izabela at a distance, worshipping a woman who regards him, when she notices him at all, as a tradesman beneath her class. The beautiful park, playground of the aristocracy, measures the social gulf his money cannot quite close.",
+      "note": "Wokulski watches Izabela among the fashionable crowds of Łazienki, the real royal park of Warsaw, where the city's society takes its walks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/%C5%81azienki_Park"
+    },
+    {
+      "order": 3,
+      "place": "old-town-promenade",
+      "displayName": "The Old Town and the promenade",
+      "country": "PL",
+      "lat": 52.2497,
+      "lng": 21.0122,
+      "reference": "Rzecki's diary",
+      "certainty": "exact",
+      "summary": "Rzecki, the loyal old shopkeeper and unrepentant admirer of Napoleon, walks these streets carrying the memory of an older, more idealistic age. His diary gives Prus a second lens on the same city, tender and disillusioned, as he watches his beloved Wokulski destroy himself for love.",
+      "note": "The old streets and squares of central Warsaw, from the Old Town Market down the promenade, are the world of Wokulski's faithful old clerk Ignacy Rzecki, whose diary forms a second narrative; sited in the real historic core.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Warsaw_Old_Town"
+    },
+    {
+      "order": 4,
+      "place": "aleje-ujazdowskie-salons",
+      "displayName": "The salons of Aleje Ujazdowskie",
+      "country": "PL",
+      "lat": 52.22,
+      "lng": 21.025,
+      "reference": "The society chapters",
+      "certainty": "approximate",
+      "summary": "In the drawing rooms of the great avenue, Prus lays out the whole social panorama, from decaying aristocrats to new financiers, and here the young idealist inventor Ochocki dreams of flying machines and a rational future. Against the salons' snobbery and stagnation, science and honest work stand as the book's fragile hope.",
+      "note": "The aristocratic and moneyed society of Warsaw keeps its mansions and salons along the Aleje Ujazdowskie and neighbouring streets; the specific houses are invented and sited in that real elite quarter.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ujazd%C3%B3w_Avenue"
+    },
+    {
+      "order": 5,
+      "place": "powisle-slums",
+      "displayName": "Powiśle (the riverside slums)",
+      "country": "PL",
+      "lat": 52.238,
+      "lng": 21.025,
+      "reference": "The city panorama",
+      "certainty": "exact",
+      "summary": "Down in the riverside poverty of Powiśle, among the destitute and the cheated whom Wokulski quietly helps, Prus shows the misery on which the glittering city rests. Wokulski's own rise from these streets makes his humiliation by the aristocracy sharper, and his social conscience the counterweight to his ruinous love.",
+      "note": "Powiśle, the poor district below the escarpment along the Vistula, is where Wokulski came from and where he does his charity; the real riverside quarter grounds the novel's picture of Warsaw's underclass.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Powi%C5%9Ble,_Warsaw"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

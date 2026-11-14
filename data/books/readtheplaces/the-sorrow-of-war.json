@@ -1,0 +1,80 @@
+{
+  "id": "the-sorrow-of-war",
+  "title": "The Sorrow of War",
+  "author": "Bảo Ninh",
+  "year": 1990,
+  "description": "A North Vietnamese veteran, Kien, comes home to Hanoi after the war and tries to write it down, his memory looping between the ruined city of his youth and the jungle where his battalion was destroyed. Hanoi is the fixed present: the apartment where he writes through the night, the lakes and streets he shared with his first love Phương, and the railway station from which the troop trains went south. The war itself is set far off, in the Central Highlands the soldiers called the Jungle of Screaming Souls.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hanoi-apartment",
+      "displayName": "Kiên's apartment, Hanoi",
+      "country": "VN",
+      "lat": 21.028,
+      "lng": 105.852,
+      "reference": "Framing narrative",
+      "certainty": "exact",
+      "summary": "Back in postwar Hanoi, sleepless and half-mad with memory, Kiên fills notebook after notebook with the war he cannot leave behind. The disordered manuscript he produces is the book itself, its chronology shattered the way his mind is, the peacetime city a thin surface over the jungle underneath.",
+      "note": "The novel's present is Hanoi, where the veteran Kiên writes through the nights in his apartment; sited in the real city that frames the whole book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hanoi"
+    },
+    {
+      "order": 2,
+      "place": "west-lake-hanoi-youth",
+      "displayName": "West Lake and the Hanoi of youth",
+      "country": "VN",
+      "lat": 21.055,
+      "lng": 105.82,
+      "reference": "Prewar chapters",
+      "certainty": "exact",
+      "summary": "Before the war Kiên loves the beautiful, reckless Phương, and the Hanoi of their schooldays, its lakes and long evenings, is the lost paradise the whole book grieves. That the war destroys not only bodies but this first love and its innocence is the sorrow the title names.",
+      "note": "Kiên and Phương's shared youth is set in the Hanoi of the lakes and streets, above all around West Lake (Hồ Tây), the real and largest lake of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/West_Lake_(Hanoi)"
+    },
+    {
+      "order": 3,
+      "place": "hanoi-railway-station",
+      "displayName": "Hanoi railway station (the parting)",
+      "country": "VN",
+      "lat": 21.024,
+      "lng": 105.841,
+      "reference": "The departure chapters",
+      "certainty": "exact",
+      "summary": "When Kiên leaves for the war, Phương insists on going south with him on the troop train, and in the chaos of a bombed line she is assaulted, the first wound the war opens between them. The station is the threshold between the Hanoi idyll and the years of killing that follow.",
+      "note": "The troop trains south left from Hanoi's railway station; the real station is where Kiên goes off to the front and where Phương follows him onto the train into disaster.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hanoi_railway_station"
+    },
+    {
+      "order": 4,
+      "place": "jungle-of-screaming-souls",
+      "displayName": "The Jungle of Screaming Souls",
+      "country": "VN",
+      "lat": 14.35,
+      "lng": 107.8,
+      "reference": "The war chapters",
+      "certainty": "approximate",
+      "summary": "In the Central Highlands, Kiên's battalion is all but wiped out in the place the survivors call the Jungle of Screaming Souls, a killing ground so soaked in death the men believe it haunted. Here his friend Can deserts and is later found dead, one of the many losses that hollow Kiên out.",
+      "note": "The battlefield the soldiers call the Jungle of Screaming Souls is set in the Central Highlands of southern Vietnam, along the real B3 front near Kon Tum; the exact place is the novel's naming, sited in that region far outside Hanoi.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sorrow_of_War"
+    },
+    {
+      "order": 5,
+      "place": "jungle-remains-hoa",
+      "displayName": "The jungle trail (Hòa's sacrifice)",
+      "country": "VN",
+      "lat": 14.5,
+      "lng": 107.7,
+      "reference": "The war chapters",
+      "certainty": "approximate",
+      "summary": "On a retreat through the jungle the girl-guide Hòa sacrifices herself to draw off the enemy dogs and soldiers so the wounded can escape, one of the acts of doomed courage Kiên carries for the rest of his life. In peacetime he returns to such places to gather the bones of the dead, unable to leave the war behind.",
+      "note": "Among the many episodes of the highland war is the death of the young guide Hòa, who draws the enemy away to save the wounded; the scene is set on the jungle trails of the Central Highlands, far outside the Hanoi setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sorrow_of_War"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

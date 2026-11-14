@@ -1,0 +1,80 @@
+{
+  "id": "our-lady-of-the-assassins",
+  "title": "Our Lady of the Assassins",
+  "author": "Fernando Vallejo",
+  "year": 1994,
+  "description": "An ageing, embittered grammarian returns to the Medellín of the early 1990s, at the height of the cartel wars, and takes up with teenage sicarios, hired killers from the hillside slums, in a bitter lament for a city drowning in violence. Vallejo maps the real Medellín: the old churches of the centre he wanders in nostalgia, the comunas climbing the hills that breed the young gunmen, the metro that is the city's fragile pride, and the shrine at Sabaneta where the sicarios pray for their bullets to strike.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-city-centre-churches",
+      "displayName": "The city centre (the churches)",
+      "country": "CO",
+      "lat": 6.25,
+      "lng": -75.567,
+      "reference": "The opening",
+      "certainty": "exact",
+      "summary": "Home after decades abroad, Fernando drifts through the old churches of central Medellín, praying to the images of his childhood in a city he no longer recognises. His caustic, elegiac voice, half in love with the past and half with death, threads the whole book, a lament for language, faith and a country consumed by killing.",
+      "note": "The old churches of central Medellín, real landmarks of the city, are where the nostalgic grammarian Fernando wanders in mourning for a vanished Colombia; sited in the historic centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Medell%C3%ADn"
+    },
+    {
+      "order": 2,
+      "place": "the-comunas",
+      "displayName": "The comunas",
+      "country": "CO",
+      "lat": 6.256,
+      "lng": -75.615,
+      "reference": "The comuna chapters",
+      "certainty": "exact",
+      "summary": "From the comunas on the steep hills come the sicarios, boys of thirteen and fourteen who kill for a fee, a phone call and a scooter, and die almost as fast. Vallejo makes the desperate hillside slums, ruled by fear and the cartels, the source of the plague of murder that has turned Medellín into the killing capital of the world.",
+      "note": "The comunas, the poor barrios climbing the hillsides of Medellín, are the real neighbourhoods that produced the young sicarios of the cartel wars; sited on the slopes above the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Comuna_13"
+    },
+    {
+      "order": 3,
+      "place": "the-apartment",
+      "displayName": "The apartment",
+      "country": "CO",
+      "lat": 6.245,
+      "lng": -75.57,
+      "reference": "The Alexis chapters",
+      "certainty": "approximate",
+      "summary": "In Fernando's apartment, the aging writer and the beautiful teenage killer Alexis make a strange domestic idyll between murders, tenderness and slaughter side by side. Their doomed love, and Alexis's casual dealing of death in the streets below, is the book's unbearable, unsentimental heart.",
+      "note": "Fernando lives with his young lover Alexis in an apartment in central Medellín; the flat is invented and sited in the real central city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Assassins"
+    },
+    {
+      "order": 4,
+      "place": "sabaneta-shrine",
+      "displayName": "Sabaneta (the shrine)",
+      "country": "CO",
+      "lat": 6.152,
+      "lng": -75.616,
+      "reference": "The Wílmar chapters",
+      "certainty": "exact",
+      "summary": "At the shrine of Sabaneta the young killers light candles to the Virgin, begging her to steady their aim and shield them from harm, a devotion Vallejo renders with savage irony. After Alexis is killed, Fernando takes up with a second sicario, Wílmar, only to learn that the two boys' fates were bound together in the city's endless circuit of revenge.",
+      "note": "The sicarios pray at the shrine to María Auxiliadora in Sabaneta, a real town just south of Medellín, asking the Virgin to make their bullets strike home; the shrine gives the book its title.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sabaneta,_Antioquia"
+    },
+    {
+      "order": 5,
+      "place": "the-metro",
+      "displayName": "The metro",
+      "country": "CO",
+      "lat": 6.243,
+      "lng": -75.568,
+      "reference": "The city chapters",
+      "certainty": "exact",
+      "summary": "The gleaming metro, the one clean and orderly thing in a broken city, runs above streets where the bodies pile up, and Fernando rides it noting each place a killing has occurred. Vallejo ends with the writer alone again, the two boys dead, the city killing on, and only his bitter, dazzling voice left to record the slaughter.",
+      "note": "The Medellín Metro, the real elevated rail system and a rare civic pride amid the violence, carries Fernando and his lovers across the divided city; sited on its central line.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Medell%C3%ADn_Metro"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

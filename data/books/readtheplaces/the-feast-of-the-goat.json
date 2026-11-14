@@ -1,0 +1,80 @@
+{
+  "id": "the-feast-of-the-goat",
+  "title": "The Feast of the Goat",
+  "author": "Mario Vargas Llosa",
+  "year": 2000,
+  "description": "The last day of the dictator Rafael Trujillo, who ruled the Dominican Republic for thirty-one years, and the assassination that ends him, braided with the return of Urania Cabral to the city thirty-five years later to face what the regime did to her. The capital, then renamed Ciudad Trujillo, is mapped precisely: the National Palace, the seafront Malecón where the assassins wait, the torture cells of La Cuarenta, and the Mahogany House at San Cristóbal outside town where the Goat took the girls chosen for him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "national-palace",
+      "displayName": "The National Palace",
+      "country": "DO",
+      "lat": 18.468,
+      "lng": -69.901,
+      "reference": "Trujillo's chapters",
+      "certainty": "exact",
+      "summary": "The book opens inside the dictator's iron routine, the enemas and the impotence he hides, the terror he administers from the palace over an entire people. Vargas Llosa uses the ageing Goat's body and appetites to anatomise absolute power and the courtiers who feed it.",
+      "note": "Trujillo governs from the National Palace in Santo Domingo, the real seat of Dominican government, from which the novel reconstructs the machinery of his thirty-one-year rule.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_Palace_(Dominican_Republic)"
+    },
+    {
+      "order": 2,
+      "place": "cabral-house-colonial-zone",
+      "displayName": "The Cabral house, the Colonial Zone",
+      "country": "DO",
+      "lat": 18.473,
+      "lng": -69.884,
+      "reference": "Urania's chapters",
+      "certainty": "approximate",
+      "summary": "Thirty-five years on, Urania comes back to the shuttered family house and the stroke-silenced father who once served Trujillo faithfully and then fell from favour. Her return frame lets the novel move between the dictatorship's last day and the long afterlife of its cruelties in one damaged woman.",
+      "note": "Urania returns to her invalid father Agustín Cabral's house in the old city; the specific house is invented and sited in the real Colonial Zone of Santo Domingo.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colonial_City_of_Santo_Domingo"
+    },
+    {
+      "order": 3,
+      "place": "casa-de-caoba-san-cristobal",
+      "displayName": "The Mahogany House, San Cristóbal",
+      "country": "DO",
+      "lat": 18.417,
+      "lng": -70.106,
+      "reference": "Urania's secret",
+      "certainty": "exact",
+      "summary": "The wound at the centre of Urania's life is the night the fourteen-year-old was delivered to the Mahogany House by her own father, currying favour with the Chief. The estate at San Cristóbal is where the regime's private violence and its public power meet, and where Urania's silence begins.",
+      "note": "Trujillo's private estate at San Cristóbal, west of the capital, held the Casa de Caoba (Mahogany House), a real retreat where the dictator took the girls chosen for him; sited at San Cristóbal outside the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat"
+    },
+    {
+      "order": 4,
+      "place": "the-malecon-ambush",
+      "displayName": "The Malecón (the ambush)",
+      "country": "DO",
+      "lat": 18.455,
+      "lng": -69.93,
+      "reference": "30 May 1961",
+      "certainty": "exact",
+      "summary": "In parked cars on the dark Malecón, Antonio de la Maza and his fellow plotters wait with their guns for the dictator's car, each carrying his own private reason for wanting the Goat dead. The gunfight on the seafront highway, reconstructed almost minute by minute, is the book's long-awaited centre.",
+      "note": "The conspirators lie in wait along the seafront Avenida George Washington, the real Malecón, on the road out toward San Cristóbal, and ambush Trujillo's Chevrolet there on the night of 30 May 1961.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat"
+    },
+    {
+      "order": 5,
+      "place": "la-cuarenta",
+      "displayName": "La Cuarenta (La 40)",
+      "country": "DO",
+      "lat": 18.47,
+      "lng": -69.895,
+      "reference": "The reprisals",
+      "certainty": "approximate",
+      "summary": "The assassination does not free the country at once; Trujillo's son and his torturers take a terrible revenge, and most of the plotters are hunted down and destroyed at places like La 40. Vargas Llosa follows the killing's grim aftermath as closely as its planning, refusing any clean triumph.",
+      "note": "After the killing, the regime's security service hunts and tortures the conspirators; La Cuarenta, known as La 40, was a real detention and torture site in the capital. Sited in the city where the reprisals were carried out.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Feast_of_the_Goat"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

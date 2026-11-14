@@ -1,7 +1,7 @@
-import type { BookRoute } from "@/types/book";
+import type { BookSummary } from "@/types/book";
 
 type BookSelectorProps = {
-  books: BookRoute[];
+  books: BookSummary[];
   selectedBookId: string;
   onSelectBook: (bookId: string) => void;
 };
@@ -17,7 +17,7 @@ export default function BookSelector({ books, selectedBookId, onSelectBook }: Bo
       >
         {books.map((book) => (
           <option key={book.id} value={book.id}>
-            {book.author} — {book.title}
+            {book.author} — {book.title} ({book.pointCount})
           </option>
         ))}
       </select>

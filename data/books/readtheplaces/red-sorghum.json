@@ -1,0 +1,67 @@
+{
+  "id": "red-sorghum",
+  "title": "Red Sorghum",
+  "author": "Mo Yan",
+  "year": 1987,
+  "description": "Mo Yan's Northeast Gaomi Township is a fictionalised version of his own home county on the Shandong plain: a country of red sorghum, distillery villages and the Black Water River, where in 1939 a ragtag band ambushes a Japanese convoy at a stone bridge. The map runs from the county town of Gaomi out across the fields to the north-east, where the real Dalan district, the distillery-town sets and the river all sit near the Jiaozhou border.",
+  "route": [
+    {
+      "order": 1,
+      "place": "northeast-gaomi-township",
+      "displayName": "Northeast Gaomi Township, the sorghum country",
+      "country": "CN",
+      "lat": 36.48,
+      "lng": 119.92,
+      "reference": "Part 1, 'Red Sorghum'",
+      "certainty": "approximate",
+      "summary": "The family saga unfolds across a plain of red sorghum in what the narrator calls Northeast Gaomi Township. The name is fiction, but the landscape is Mo Yan's own: the fields, footpaths and villages of the old Dalan district in the north-east corner of Gaomi county, where he was born and where he set most of his work.",
+      "note": "The township of the novel is a literary invention, but Mo Yan built it from his own home ground, the former Dalan district and Ping'an village in the north-east of Gaomi. No village-level coordinate is published in the open sources we found, so this marks a representative point in that Dalan area, out toward the Jiaozhou border.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mo_Yan"
+    },
+    {
+      "order": 2,
+      "place": "black-water-river-bridge",
+      "displayName": "The Black Water River and the stone bridge",
+      "country": "CN",
+      "lat": 36.44,
+      "lng": 119.96,
+      "reference": "Part 1, 'Red Sorghum'",
+      "certainty": "approximate",
+      "summary": "The book's central battle happens where a road crosses the Black Water River on a stone bridge: a home-made militia lies in the sorghum and ambushes a Japanese motor convoy in 1939. The river is real, the Moshui He of Gaomi's north-east, and the scene draws on a documented 1938 ambush by local fighters at the Sunjiakou bridge. The grandmother is cut down on the road here, carrying food to the men.",
+      "note": "The Black Water River of the novel corresponds to a real river of the same name, the Moshui He, which rises in southern Jiaozhou and runs north through Gaomi's north-east to the Jiaolai. We could not verify the exact bridge, so this marks a representative point on that river near the historic Sunjiakou ambush site rather than a surveyed span.",
+      "sourceUrl": "https://baike.baidu.com/item/%E5%A2%A8%E6%B0%B4%E6%B2%B3/18655916"
+    },
+    {
+      "order": 3,
+      "place": "shan-family-distillery",
+      "displayName": "The distillery village and the Shan family compound",
+      "country": "CN",
+      "lat": 36.3654,
+      "lng": 119.8005,
+      "reference": "Part 2, 'Sorghum Wine'",
+      "certainty": "approximate",
+      "summary": "Married off to a leprous distillery owner, the grandmother comes into a village that makes strong sorghum wine, and the Shan family compound and its stills become the heart of the family's fortune. The place is fictional; Gaomi has since built a Red Sorghum film set and cultural town in Xiazhuang to represent it for visitors.",
+      "note": "The distillery village and the Shan compound are inventions of the novel with no real address. This marks the reconstructed Red Sorghum film set and cultural town in Xiazhuang, in Gaomi's north-east township zone, which was built to stand in for that fictional place; the coordinate is the verified Xiazhuang industrial-park location where the sets sit.",
+      "sourceUrl": "https://www.trip.com/travel-guide/attraction/gaomi/red-sorghum-movie-and-television-base-15119095/"
+    },
+    {
+      "order": 4,
+      "place": "gaomi-county-town",
+      "displayName": "The county town of Gaomi",
+      "country": "CN",
+      "lat": 36.3833,
+      "lng": 119.7528,
+      "reference": "Part 5, 'Strange Death'",
+      "certainty": "exact",
+      "summary": "Beyond the fields lies the county seat, the walled town of Gaomi that gives the whole region its name. Through the occupation years it stands for the wider authority the villagers resist, Japanese and Nationalist and Communist by turns, while the family's story plays out in the countryside to the north-east.",
+      "note": "Gaomi is named as the county, and this marks the seat, the modern city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gaomi"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

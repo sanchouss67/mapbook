@@ -1,0 +1,80 @@
+{
+  "id": "sentimental-education",
+  "title": "Sentimental Education",
+  "author": "Gustave Flaubert",
+  "year": 1869,
+  "description": "A young provincial arrives in Paris in 1840 and spends the next decade drifting through its boulevards, salons and studios in love with a married woman, while the 1848 revolution rises and dies around him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "quai-saint-bernard-riverboat",
+      "displayName": "Quai Saint-Bernard, the riverboat",
+      "country": "FR",
+      "lat": 48.846,
+      "lng": 2.363,
+      "reference": "Part 1, ch. 1",
+      "certainty": "exact",
+      "summary": "On the deck of a Seine steamer leaving the Quai Saint-Bernard, the young Frédéric Moreau first sees Madame Arnoux, and the sight fixes the whole course of his life. The riverboat opening sets the book's tone of longing and drift, a journey begun with a face glimpsed on the water. Everything that follows unspools from this single Parisian departure.",
+      "note": "The novel opens with the steamer for Montereau about to leave the Quai Saint-Bernard on the Left Bank, at the edge of the Latin Quarter. The pin marks that quay along the Seine below the Jardin des Plantes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education"
+    },
+    {
+      "order": 2,
+      "place": "boulevard-montmartre",
+      "displayName": "The boulevards and L'Art Industriel",
+      "country": "FR",
+      "lat": 48.8712,
+      "lng": 2.342,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The grand boulevards are the stage of Frédéric's Paris, and the Arnoux shop on them is his way into the couple's orbit. He haunts the pavements and cafés, contriving to be near Madame Arnoux while her husband trades in pictures and mistresses. The boulevards stand for the glitter and idleness that both dazzle and dissolve his ambitions.",
+      "note": "Jacques Arnoux runs his art journal and print shop, L'Art Industriel, on the fashionable grand boulevards. The exact address is fictional; the pin marks the Boulevard Montmartre, the heart of the boulevard world where such a picture-dealing establishment would have stood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education"
+    },
+    {
+      "order": 3,
+      "place": "tuileries-palais-royal-1848",
+      "displayName": "The Tuileries and Palais-Royal, 1848",
+      "country": "FR",
+      "lat": 48.865,
+      "lng": 2.3373,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "When the 1848 revolution breaks, the mob pours through the Tuileries and Palais-Royal and Frédéric and his ambitious friend Deslauriers are swept into the excitement of a republic being born. Flaubert watches the uprising with a cold, ironic eye, its idealism curdling into looting and, soon, reaction. The great public drama runs alongside Frédéric's private failures without ever redeeming them.",
+      "note": "The February 1848 revolution reaches its climax when the crowd storms the Tuileries Palace and surges through the neighbouring Palais-Royal. The pin marks the Palais-Royal, steps from the site of the vanished Tuileries, at the centre of the day's events.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education"
+    },
+    {
+      "order": 4,
+      "place": "nogent-sur-seine",
+      "displayName": "Nogent-sur-Seine, Frédéric's home town",
+      "country": "FR",
+      "lat": 48.4939,
+      "lng": 3.5039,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "Nogent-sur-Seine is the quiet home town where Frédéric's mother waits and where he retreats whenever Paris exhausts or defeats him. It represents the settled provincial life, a suitable marriage and a modest career, that he keeps half-choosing and half-refusing. His shuttling between Nogent and Paris measures the slow leak of his youth.",
+      "note": "Nogent-sur-Seine is Frédéric's provincial home town, named in the novel and lying about 100 km south-east of Paris; it falls well outside the Paris setting box, so it is marked as an excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education"
+    },
+    {
+      "order": 5,
+      "place": "fontainebleau",
+      "displayName": "Fontainebleau",
+      "country": "FR",
+      "lat": 48.4044,
+      "lng": 2.7017,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "While Paris drowns the June insurrection in blood, Frédéric slips away to the forest and château of Fontainebleau with his mistress, wandering the woods and galleries as if history were happening elsewhere. Flaubert sets his private idyll against the massacre in the capital, and the contrast is one of the novel's cruellest strokes. The excursion shows how completely Frédéric's feelings float free of the events around him.",
+      "note": "Frédéric escapes the bloody June Days of 1848 by going to Fontainebleau with Rosanette; the town and its forest and château are named. It lies about 60 km south-east of Paris, outside the setting box, so it is marked as an excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sentimental_Education"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

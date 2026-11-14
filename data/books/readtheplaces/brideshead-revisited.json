@@ -1,0 +1,80 @@
+{
+  "id": "brideshead-revisited",
+  "title": "Brideshead Revisited",
+  "author": "Evelyn Waugh",
+  "year": 1945,
+  "description": "Charles Ryder's memoir of the Catholic, aristocratic Flyte family between the wars. It begins in the sunlit Oxford of his undergraduate years, opens out to the vast baroque country house he calls Brideshead, and returns to the London and the faith he cannot leave behind. The map runs from the Oxford quads north to the Yorkshire house that stands in for Brideshead, with the family's town house in St James's and a youthful summer in Venice.",
+  "route": [
+    {
+      "order": 1,
+      "place": "meadow-building-christ-church",
+      "displayName": "Sebastian's rooms, the Meadow Building",
+      "country": "GB",
+      "lat": 51.7494,
+      "lng": -1.2544,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The friendship that runs through the whole book begins at Oxford, when a drunken young aristocrat is sick through the narrator's ground-floor window and makes amends the next day with flowers. Sebastian's rooms, high in a heavy Victorian range at Christ Church, become the centre of a charmed undergraduate world of wine, idleness and easy talk.",
+      "note": "Waugh does not name a college, but Sebastian's undergraduate rooms are long identified with the Venetian-Gothic Meadow Building at Christ Church, where Waugh's friend Harold Acton, a partial model for the set, was lodged. Sited on that building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Meadow_Building"
+    },
+    {
+      "order": 2,
+      "place": "oxford-botanic-garden",
+      "displayName": "The Botanic Garden, Oxford",
+      "country": "GB",
+      "lat": 51.751,
+      "lng": -1.2477,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "In the first flush of the friendship Sebastian carries the narrator off to the university's old walled garden to look at the ivy, an outing that stands for the whole unhurried, slightly absurd enchantment of that Oxford summer. The garden, founded in 1621 beside the river, is real and open to visitors today.",
+      "note": "Waugh names the Botanical Gardens by the Cherwell explicitly; this is the University of Oxford Botanic Garden, still on Rose Lane.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden"
+    },
+    {
+      "order": 3,
+      "place": "brideshead-castle-howard",
+      "displayName": "Brideshead (Castle Howard)",
+      "country": "GB",
+      "lat": 54.1214,
+      "lng": -0.9058,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "The house that gives the book its title is a vast baroque pile with a domed hall and a fountain, home to the Flytes and to the faith that governs them. The narrator spends an idyllic vacation there and returns years later as an officer billeted in its grounds. Waugh built it mainly from Castle Howard, with the devout Catholic household drawn from Madresfield Court.",
+      "note": "Brideshead is invented. Its great dome and baroque grandeur draw chiefly on Castle Howard in Yorkshire, sited here; the family's Catholicism and private chapel owe more to Madresfield Court in Worcestershire, the Lygon family seat Waugh knew well.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Castle_Howard"
+    },
+    {
+      "order": 4,
+      "place": "venice-grand-canal",
+      "displayName": "Lord Marchmain's palazzo, Venice",
+      "country": "GB",
+      "lat": 45.4319,
+      "lng": 12.3319,
+      "reference": "Book One",
+      "certainty": "approximate",
+      "summary": "During the long vacation the two young men travel out to Venice, where Sebastian's exiled father keeps a palazzo and a mistress and lives the expatriate life he has chosen over his wife and religion. The Venetian interlude, all heat and water and easy pleasure, is the high point of the friendship before the shadows gather.",
+      "note": "Waugh sets the scene in a palazzo on the Grand Canal without naming it; this marks a representative point on the canal in Venice, well outside the book's English setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Grand_Canal_(Venice)"
+    },
+    {
+      "order": 5,
+      "place": "marchmain-house-st-jamess",
+      "displayName": "Marchmain House, St James's",
+      "country": "GB",
+      "lat": 51.5048,
+      "lng": -0.1398,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "The Flytes' London house, overlooking Green Park, is the setting for the family's society season and, later, for its slow break-up as the great mansion is sold and pulled down. Waugh gives it no real address, but its position in aristocratic St James's matches the run of private palaces there, of which Bridgewater House is the surviving type.",
+      "note": "Marchmain House is a fictional town house, placed by the novel in St James's with Green Park below its windows. Sited at Bridgewater House on Cleveland Row, the grand mansion later used to stand in for it on screen.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bridgewater_House,_Westminster"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

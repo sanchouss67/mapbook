@@ -1,0 +1,80 @@
+{
+  "id": "their-eyes-were-watching-god",
+  "title": "Their Eyes Were Watching God",
+  "author": "Zora Neale Hurston",
+  "year": 1937,
+  "description": "Janie Crawford's search for love and a self of her own carries her across Florida through three marriages: from her grandmother's cabin and a loveless farm in the west, to the all-Black town of Eatonville where she is the mayor's silenced wife, to the Everglades 'muck' by Lake Okeechobee where she finds joy with Tea Cake, until the great 1928 hurricane. Hurston roots her landmark of Black American literature in real places she knew, above all the self-governing town of Eatonville and the migrant bean fields of the Glades.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-grandmothers-cabin",
+      "displayName": "The grandmother's cabin",
+      "country": "US",
+      "lat": 30.4,
+      "lng": -84.3,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "In the yard behind her grandmother's cabin, sixteen-year-old Janie watches a pear tree in bloom and awakens to a longing for love that will drive her whole life. Her grandmother Nanny, terrified for her, marries her off to the older farmer Logan Killicks for security, and the pear-tree dream collides at once with a loveless duty.",
+      "note": "Janie's girlhood with her grandmother and her first, arranged marriage are set in west Florida; drawn from the rural districts of the region and sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston"
+    },
+    {
+      "order": 2,
+      "place": "eatonville",
+      "displayName": "Eatonville",
+      "country": "US",
+      "lat": 28.61,
+      "lng": -81.38,
+      "reference": "The Eatonville chapters",
+      "certainty": "exact",
+      "summary": "Janie leaves Logan for the ambitious Joe Starks, who carries her to Eatonville, the first incorporated Black town in America, and makes himself its mayor and storekeeper. But Joe's pride turns Janie into an ornament to be shown and silenced, and the promise of the new town curdles into twenty years of a gilded, lonely marriage.",
+      "note": "Janie runs off with Joe Starks to Eatonville, the real self-governing all-Black town near Orlando where Hurston herself grew up; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eatonville,_Florida"
+    },
+    {
+      "order": 3,
+      "place": "the-store-porch",
+      "displayName": "The store porch",
+      "country": "US",
+      "lat": 28.611,
+      "lng": -81.379,
+      "reference": "The store chapters",
+      "certainty": "exact",
+      "summary": "The porch of Joe's store is Eatonville's stage, where the men swap tall tales and signify and Janie is forbidden to join in. Hurston fills the porch with the music of Black vernacular speech she treasured as a folklorist, and makes Janie's eventual claiming of her own voice there a turning point in her long road to freedom.",
+      "note": "Joe's store and its porch, the social heart of Eatonville where the townsfolk gather to talk, is central to the novel; sited in the town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+    },
+    {
+      "order": 4,
+      "place": "the-muck",
+      "displayName": "The Everglades muck",
+      "country": "US",
+      "lat": 26.68,
+      "lng": -80.67,
+      "reference": "The Everglades chapters",
+      "certainty": "exact",
+      "summary": "With the younger, joyous Tea Cake, Janie goes down to the muck by Lake Okeechobee to pick beans among the migrant workers, and at last finds a love that treats her as an equal. In the fields and jook joints of the Glades, Hurston paints the freest, fullest happiness of Janie's life, the pear-tree dream come true at last.",
+      "note": "After Joe's death Janie follows Tea Cake to the rich black soil of the Everglades 'muck' around Lake Okeechobee, the real migrant bean-farming country; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Okeechobee"
+    },
+    {
+      "order": 5,
+      "place": "the-hurricane",
+      "displayName": "The hurricane",
+      "country": "US",
+      "lat": 26.75,
+      "lng": -80.75,
+      "reference": "The closing chapters",
+      "certainty": "exact",
+      "summary": "The great 1928 hurricane bursts Lake Okeechobee over the muck in a wall of water, and in the flight Tea Cake is bitten saving Janie from a mad dog, and later, rabid, dies by her hand. Hurston ends with Janie returning to Eatonville alone but whole, having lived and lost the great love of her life, the horizon at last drawn in around her like a great fish-net.",
+      "note": "The catastrophic 1928 Okeechobee hurricane, which drowned thousands around the lake, tears through the muck and destroys Janie and Tea Cake's world; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

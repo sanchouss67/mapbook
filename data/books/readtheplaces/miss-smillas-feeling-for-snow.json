@@ -1,0 +1,80 @@
+{
+  "id": "miss-smillas-feeling-for-snow",
+  "title": "Miss Smilla's Feeling for Snow",
+  "author": "Peter Høeg",
+  "year": 1992,
+  "description": "Smilla Jaspersen, a prickly half-Inuit Greenlander in Copenhagen with an expert's feeling for ice and snow, refuses to believe that the small Greenlandic boy from her building simply fell to his death, and her investigation uncovers a secret mining conspiracy that draws her onto a ship bound for a remote Greenland glacier. Høeg's thriller maps a real geography: the wintry Copenhagen of the harbour and the cryolite company, the voyage north across the Atlantic, and the ice of Greenland that is Smilla's true element.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-white-palace",
+      "displayName": "The building (Isaiah's fall)",
+      "country": "DK",
+      "lat": 55.672,
+      "lng": 12.6,
+      "reference": "The opening chapters",
+      "certainty": "exact",
+      "summary": "When the small Greenlandic boy Isaiah falls from the snowy roof of their Copenhagen building, everyone calls it an accident, but Smilla, reading the single track of his footprints in the snow, knows he was fleeing something. Høeg opens on this refusal to accept the easy story, and on the bond between the lonely woman and the dead child that drives everything to come.",
+      "note": "Smilla and the boy Isaiah live in an apartment block by the Copenhagen waterfront, from whose snowy roof he falls to his death; sited in the harbour district of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Copenhagen"
+    },
+    {
+      "order": 2,
+      "place": "the-harbour",
+      "displayName": "The harbour and the archives",
+      "country": "DK",
+      "lat": 55.68,
+      "lng": 12.61,
+      "reference": "The investigation chapters",
+      "certainty": "exact",
+      "summary": "Through the docks, morgues and dusty company records of wintry Copenhagen, Smilla follows the thread from Isaiah's death back to a mining company and an expedition to Greenland. Høeg turns the cold, bureaucratic Danish capital into a place of buried secrets, its polite surfaces hiding a colonial exploitation of Greenland that the boy's death exposes.",
+      "note": "Smilla's investigation takes her through the Copenhagen harbour, shipping offices and company archives; sited in the real waterfront of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Port_of_Copenhagen"
+    },
+    {
+      "order": 3,
+      "place": "the-cryolite-company",
+      "displayName": "The cryolite company",
+      "country": "DK",
+      "lat": 55.676,
+      "lng": 12.58,
+      "reference": "The company chapters",
+      "certainty": "approximate",
+      "summary": "Helped by her reticent neighbour, the mechanic, Smilla closes in on a mining company whose Greenland expeditions have left a trail of unexplained deaths. Høeg roots the conspiracy in Denmark's real history of extracting Greenland's mineral wealth, the crime at the story's heart inseparable from a whole colonial relationship.",
+      "note": "The mining company behind the earlier Greenland expeditions, drawn from Denmark's real cryolite mining interests in Greenland, is set in Copenhagen; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ivigt%C3%BAt"
+    },
+    {
+      "order": 4,
+      "place": "the-ship-kronos",
+      "displayName": "The ship Kronos",
+      "country": "DK",
+      "lat": 62,
+      "lng": -20,
+      "reference": "The voyage chapters",
+      "certainty": "approximate",
+      "summary": "Smilla talks her way aboard the Kronos and sails north into the Atlantic among a crew of criminals led by the coldly ruthless Tørk, the danger tightening with every mile. On the claustrophobic ship Høeg shifts the wintry thriller onto the open sea, Smilla alone and outnumbered as the expedition's true purpose draws near.",
+      "note": "Smilla stows aboard the ship Kronos on its secret voyage from Denmark across the North Atlantic toward Greenland; the passage is sited on the open sea, far outside the Copenhagen setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Smilla%27s_Sense_of_Snow"
+    },
+    {
+      "order": 5,
+      "place": "the-greenland-glacier",
+      "displayName": "The Greenland glacier",
+      "country": "DK",
+      "lat": 69,
+      "lng": -53,
+      "reference": "The Greenland chapters",
+      "certainty": "exact",
+      "summary": "The voyage ends at a glacier off Greenland, where a meteorite and a deadly parasite lie hidden beneath the ice, the treasure men have killed to reach. On the ice at last, in the frozen world she understands better than anyone, Smilla confronts Tørk, and Høeg leaves her poised on the glacier where her feeling for snow makes her, finally, unbeatable.",
+      "note": "The expedition's goal is a remote glacier and island off the west coast of Greenland, hiding the secret the whole conspiracy protects; sited in Greenland, far outside the Copenhagen setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greenland"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": 1813,
+  "description": "Austen builds her world out of invented houses set on real English ground. Longbourn and Meryton are fictional, but she plants them in Hertfordshire, four-and-twenty miles from London, near the real market towns of the county. The Gardiners' home in Gracechurch Street, by Cheapside, is a real City address; Mr. Collins's Hunsford is sited near the real Westerham in Kent; the militia camp at Brighton is the real resort; and the Derbyshire tour runs through the actual Peak, past Matlock, Dovedale and Chatsworth, where readers have looked for Pemberley ever since. The map draws the arc of Elizabeth's England, from a Hertfordshire drawing-room to the great house in the Derbyshire hills.",
+  "route": [
+    {
+      "order": 1,
+      "place": "longbourn-meryton-hertfordshire",
+      "displayName": "Longbourn, Hertfordshire",
+      "country": "GB",
+      "lat": 51.7959,
+      "lng": -0.0785,
+      "reference": "Ch. 7",
+      "certainty": "approximate",
+      "summary": "The whole first half of the novel turns on this one-mile walk. Longbourn is the Bennet home, where Mrs. Bennet schemes to marry off five daughters; Meryton is where the militia quarters for the winter and the girls chase officers. Austen never fixes either on a real map, but she pins the neighbourhood to Hertfordshire and a day's ride from London, and that geography drives the plot.",
+      "note": "Longbourn, the Bennets' house, and the market town of Meryton a mile off are both invented, but Austen sites them firmly in Hertfordshire, \"only four-and-twenty miles\" from London. No single real house is the model; the pin marks Hertford, the county town, as a representative real market town at about the right distance from the capital.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+      "order": 2,
+      "place": "gracechurch-street-london",
+      "displayName": "Gracechurch Street, London",
+      "country": "GB",
+      "lat": 51.5115,
+      "lng": -0.085,
+      "reference": "Ch. 25",
+      "certainty": "exact",
+      "summary": "The Gardiners live in trade, near Cheapside, and their address is Austen's shorthand for everything Darcy's world disdains. Yet the aunt and uncle from Gracechurch Street are the novel's most sensible adults: they take Elizabeth on the Derbyshire tour that brings her back to Pemberley, and their house is where Wickham and Lydia are run to ground and married off after the elopement.",
+      "note": "Gracechurch Street is a real thoroughfare in the City of London, running north from Eastcheap by Cheapside, and Austen names it as the home of the Gardiners, Mrs. Bennet's brother and his wife. The pin marks the street in the City.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+      "order": 3,
+      "place": "hunsford-rosings-kent",
+      "displayName": "Hunsford & Rosings, Kent",
+      "country": "GB",
+      "lat": 51.267,
+      "lng": 0.0718,
+      "reference": "Ch. 13",
+      "certainty": "approximate",
+      "summary": "Collins writes from Hunsford to announce himself, and the address places the whole Kent section of the book. Elizabeth follows her friend Charlotte here after Charlotte marries Collins, and at neighbouring Rosings, seat of Lady Catherine de Bourgh, Darcy makes his first, disastrous proposal. Austen sites it all beside the real Westerham.",
+      "note": "Mr. Collins's parsonage at Hunsford and Lady Catherine's Rosings Park are invented, but Austen gives the parish a real anchor in the dateline of Collins's letter: \"near Westerham, Kent.\" The pin marks the real market town of Westerham, on the Kent–Surrey border, beside which the fictional Hunsford is placed.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+      "order": 4,
+      "place": "brighton-camp",
+      "displayName": "Brighton",
+      "country": "GB",
+      "lat": 50.8284,
+      "lng": -0.1395,
+      "reference": "Ch. 39",
+      "certainty": "exact",
+      "summary": "When the militia strikes camp at Meryton and moves to Brighton, Lydia is invited to follow as a guest of the colonel's wife. Elizabeth's father lets her go against better judgement, and from the camp at Brighton the youngest Bennet runs off with Wickham, the scandal that nearly ruins the family and forces Darcy's hand.",
+      "note": "Brighton is the real Sussex resort, then a fashionable seaside town and, in the Regency, a garrison for camped regiments. Austen names it as the militia's summer quarters. The pin marks the Brighton seafront.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+      "order": 5,
+      "place": "the-peak-derbyshire-tour",
+      "displayName": "The Peak, Derbyshire",
+      "country": "GB",
+      "lat": 53.0526,
+      "lng": -1.7923,
+      "reference": "Ch. 42",
+      "certainty": "exact",
+      "summary": "The Gardiners take Elizabeth north on a summer tour, and Austen lists the real wonders of the Peak they mean to see. It is one of the few passages where she names actual places outright, and it carries Elizabeth into Darcy's own county, setting up the unplanned visit to Pemberley that changes everything between them.",
+      "note": "The Gardiners' northern tour is grounded in real Derbyshire places Austen names in a single sentence: Matlock, Chatsworth, Dovedale and the Peak. The pin marks Dovedale, the celebrated dale of the River Dove in the White Peak, one of the four named beauties.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+      "order": 6,
+      "place": "pemberley-chatsworth-derbyshire",
+      "displayName": "Pemberley (Chatsworth), Derbyshire",
+      "country": "GB",
+      "lat": 53.2276,
+      "lng": -1.6116,
+      "reference": "Ch. 43",
+      "certainty": "approximate",
+      "summary": "The turning point of the novel: Elizabeth, believing the family away, comes over the rise and sees Pemberley in its valley, and \"felt that to be mistress of Pemberley might be something.\" Darcy appears unexpectedly, transformed, and the courtship begins again. Austen's house is invented, but its Derbyshire setting sent generations of readers to Chatsworth near Bakewell to find it.",
+      "note": "Pemberley, Darcy's great house, is fictional, but Austen sets it in Derbyshire within five miles of \"Lambton\" (drawn from the real Bakewell), and readers have identified it with the county's grand houses ever since. Chatsworth House, near Bakewell, is the traditional model (Lyme Park is the other candidate). The pin marks Chatsworth.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1342"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

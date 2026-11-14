@@ -1,0 +1,80 @@
+{
+  "id": "lord-jim",
+  "title": "Lord Jim",
+  "author": "Joseph Conrad",
+  "year": 1900,
+  "description": "A young officer abandons a crowded pilgrim ship in a moment of panic and spends the rest of the novel trying to redeem himself, finally as the trusted white man of a remote Malay river-settlement; that settlement, Patusan, is fictional, drawn from the Berau river in Borneo Conrad had known as a sailor.",
+  "route": [
+    {
+      "order": 1,
+      "place": "patna-route-gulf-of-aden",
+      "displayName": "The Patna's route (Arabian Sea / Gulf of Aden)",
+      "country": "ID",
+      "lat": 13,
+      "lng": 48,
+      "reference": "The pilgrim ship",
+      "certainty": "approximate",
+      "summary": "Jim is chief mate on the Patna, an old steamer packed with pilgrims bound for Mecca, when it strikes something in the dark and seems about to sink; in a spasm of fear he jumps into a lifeboat with the other officers, abandoning eight hundred sleeping people. The ship does not sink, and that leap becomes the disgrace he can never outrun. The disaster happens somewhere on the run toward the Gulf of Aden.",
+      "note": "The pilgrim ship Patna carries Muslim pilgrims through the Arabian Sea toward the Red Sea; the exact point where it strikes a submerged object and is abandoned is not fixed and scholars locate it only generally on that route. The pin marks the approaches to the Gulf of Aden. Marked outsideSetting: it lies far west of the Bornean frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lord_Jim"
+    },
+    {
+      "order": 2,
+      "place": "singapore-the-inquiry",
+      "displayName": "Singapore, the official inquiry",
+      "country": "ID",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "reference": "The trial",
+      "certainty": "approximate",
+      "summary": "Back in port, Jim faces the official inquiry that takes away his officer's certificate, and it is here that Marlow first watches him and begins the long attempt to understand him. The courtroom of white seamen judging one of their own is where the novel's real subject, honour and its loss, comes into focus. Conrad's Eastern port of the inquiry is drawn from Singapore.",
+      "note": "The maritime court of inquiry that strips Jim of his certificate is held in an Eastern port, unnamed but drawn as the British steamer hub of the region; Singapore is the standard identification. The pin marks Singapore. Marked outsideSetting: it lies far west of the Bornean frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Singapore"
+    },
+    {
+      "order": 3,
+      "place": "patusan-berau-settlement",
+      "displayName": "Patusan, the river settlement (Tanjung Redeb, Berau)",
+      "country": "ID",
+      "lat": 2.1611,
+      "lng": 117.4722,
+      "reference": "Patusan",
+      "certainty": "approximate",
+      "summary": "Sent far up-country to trade at Patusan, a settlement cut off from the world on a Bornean river, Jim wins the people's trust, defeats a local tyrant, and becomes Tuan Jim, Lord Jim, the man they rely on. Here, where no one knows the Patna, he finally has the honour he lost. Berau, the river town Conrad also drew Almayer from, is the real place behind it.",
+      "note": "Patusan, the remote Malay river-settlement where Jim rebuilds his life, is fictional. Conrad modelled it on Berau in East Kalimantan, the same Bornean river he used for Almayer's Folly; the pin marks Tanjung Redeb, the town on the Berau. Patusan is an invention, anchored to the real Berau.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tanjung_Redeb"
+    },
+    {
+      "order": 4,
+      "place": "doramin-stockade-upriver",
+      "displayName": "Doramin's stockade, up the river",
+      "country": "ID",
+      "lat": 2.05,
+      "lng": 117.6,
+      "reference": "Patusan",
+      "certainty": "approximate",
+      "summary": "Doramin, the massive old chief of the Bugis settlers, is Jim's chief ally and protector, and his son Dain Waris becomes Jim's closest friend. Their stockade above the river is the seat of the power Jim helps secure. When Jim's final misjudgement gets Dain Waris killed, it is Doramin who exacts the price, shooting Jim through the chest.",
+      "note": "The stronghold of Doramin and his Bugis community sits above the settlement in fictional Patusan. Anchored to the Berau river upstream of Tanjung Redeb, where Conrad set his Bornean fiction; the pin marks a representative point on the upper river. The place is an invention modelled on Berau.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lord_Jim"
+    },
+    {
+      "order": 5,
+      "place": "berau-river-mouth",
+      "displayName": "The river mouth to the sea",
+      "country": "ID",
+      "lat": 2.28,
+      "lng": 118.15,
+      "reference": "Patusan",
+      "certainty": "approximate",
+      "summary": "The only way in and out of Patusan is by the river down to the coast, and that isolation is exactly what lets Jim start again where his past cannot reach. The river mouth is the threshold between his ruined old life at sea and the new one upstream. It stands for the mouth of the Berau, opening from the Bornean interior to the strait.",
+      "note": "Patusan is reached from the coast up a river running from an inland settlement to the sea; the mouth is fictional, drawn from the delta of the Berau where it meets the Makassar Strait. The pin marks the Berau river mouth as a representative point. The setting is an invention anchored to real Berau.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berau_River"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

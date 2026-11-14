@@ -1,0 +1,80 @@
+{
+  "id": "the-stolen-bicycle",
+  "title": "The Stolen Bicycle",
+  "author": "Wu Ming-Yi",
+  "year": 2015,
+  "description": "A writer's hunt for his vanished father's lost bicycle becomes a walk back through twentieth-century Taiwan. The map centres on old central Taipei: Zhonghua Road and the vast Zhonghua Shopping Bazaar the family lived and tailored suits in, and the Wanhua-Bangka district of temples, antique stalls and bicycle shops. The search reaches back to the Japanese colonial years and, far to the south-west, to the forests of the Burma campaign of the Second World War.",
+  "route": [
+    {
+      "order": 1,
+      "place": "zhonghua-road-shopping-bazaar",
+      "displayName": "Zhonghua Road and the old Zhonghua Shopping Bazaar",
+      "country": "TW",
+      "lat": 25.0448,
+      "lng": 121.509,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "The narrator's family kept a suit-tailoring stall in the huge Zhonghua Shopping Bazaar, a warren of shops strung along Zhonghua Road in central Taipei, and it is here that his father and the family bicycle both disappear. The search for the missing machine sets the whole book in motion. The bazaar itself is gone: its eight blocks were pulled down in 1992 and replaced by an underground mall.",
+      "note": "The novel names the Zhonghua Shopping Bazaar (Chunghwa Market) on Zhonghua Road, a row of eight linked concrete blocks the family lived and tailored in. The whole complex was demolished in October 1992, so this marks the site of the vanished market, near today's Ximen station.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Taipei_Underground_Market"
+    },
+    {
+      "order": 2,
+      "place": "wanhua-bangka-old-town",
+      "displayName": "Wanhua (Bangka) old town",
+      "country": "TW",
+      "lat": 25.0369,
+      "lng": 121.4999,
+      "reference": "Central chapters",
+      "certainty": "exact",
+      "summary": "Much of the earthbound search runs through Wanhua, known by its old name Bangka, the first-settled and most weathered quarter of Taipei. Around Longshan Temple lie the lanes of small workshops, second-hand dealers and long-running bicycle trades that thread the narrator's inquiries into the city's older layers.",
+      "note": "The novel moves through the old Wanhua district, historically Bangka (Monga), the oldest part of Taipei; this marks Longshan Temple, the district's landmark.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Longshan_Temple_(Taipei)"
+    },
+    {
+      "order": 3,
+      "place": "bangka-bicycle-shop",
+      "displayName": "The family bicycle shop",
+      "country": "TW",
+      "lat": 25.0388,
+      "lng": 121.5013,
+      "reference": "Central chapters",
+      "certainty": "approximate",
+      "summary": "The trail of the lost bicycle leads through the workshops of Taiwan's early cycle trade, where a well-made machine once carried the status a luxury car carries now. No single shopfront is pinned in the text, so this stands for the cluster of old bicycle and repair trades in the Bangka streets that the narrator's search keeps returning to.",
+      "note": "The novel does not fix a street address for the bicycle trades it follows; this sites a representative point among the old bicycle and repair shops of the Wanhua-Bangka quarter, north of Longshan Temple.",
+      "sourceUrl": "https://booksfromtaiwan.moc.gov.tw/books_info.php?id=60"
+    },
+    {
+      "order": 4,
+      "place": "old-town-antique-markets",
+      "displayName": "The old-town antique and flea markets",
+      "country": "TW",
+      "lat": 25.0405,
+      "lng": 121.5038,
+      "reference": "Middle chapters",
+      "certainty": "approximate",
+      "summary": "The narrator falls in with a hidden world of antique-bicycle collectors, met through flea-market stalls, scavengers' hoards and online message boards. The junk and antique trades of Taipei's old town are where these threads gather, each rusted frame opening onto another buried piece of the island's past.",
+      "note": "The novel's antique stalls and collectors' haunts are not tied to one named market; this marks a representative point among the second-hand and antique stalls of the old Wanhua-Ximen quarter.",
+      "sourceUrl": "https://www.textpublishing.com.au/books/the-stolen-bicycle"
+    },
+    {
+      "order": 5,
+      "place": "forests-of-northern-burma",
+      "displayName": "The forests of northern Burma",
+      "country": "TW",
+      "lat": 25.386,
+      "lng": 97.396,
+      "reference": "Wartime chapters",
+      "certainty": "approximate",
+      "summary": "The history the bicycle carries reaches into the Second World War, when Taiwanese men were conscripted into the Japanese forces and the war logs of Burma. The book follows the working elephants of those jungles and Japan's bicycle-mounted units through the Southeast Asian campaign, binding the machine's story to a conflict fought a continent away from Taipei.",
+      "note": "A deliberate excursion far beyond the Taipei setting. The novel's wartime chapters range across the jungles of the Burma campaign without fixing one spot; this marks a representative point in the forests of northern Burma, near Myitkyina.",
+      "sourceUrl": "https://asianreviewofbooks.com/content/the-stolen-bicycle-by-wu-ming-yi/"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

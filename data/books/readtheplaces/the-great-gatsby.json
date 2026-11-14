@@ -1,0 +1,91 @@
+{
+  "id": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "year": 1925,
+  "description": "The summer of 1922 on the North Shore of Long Island and in Manhattan. West Egg and East Egg are Fitzgerald's names for the real Great Neck (Kings Point) and Sands Point peninsulas, facing each other across Manhasset Bay. The valley of ashes is the Corona ash dumps in Queens, passed on the road and railway into the city under the eyes of Doctor T. J. Eckleburg. The Plaza is the Plaza.",
+  "route": [
+    {
+      "order": 1,
+      "place": "west-egg-great-neck",
+      "displayName": "West Egg (Great Neck)",
+      "country": "US",
+      "lat": 40.8198,
+      "lng": -73.7351,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The less fashionable of the two peninsulas, where the newly rich build their mansions. Nick's rented cottage is wedged against Gatsby's, at the very tip fifty yards from the Sound. Fitzgerald drew West Egg from Great Neck, the Kings Point end where he was living when he began the novel.",
+      "note": "West Egg is Fitzgerald's invented name for the real Great Neck peninsula, and specifically Kings Point at its tip, the new-money enclave where Nick rents a cottage beside Gatsby's mansion. The pin marks Kings Point, on the western side of Manhasset Bay. The Eggs and the mansion are fiction; the peninsula is real, and Fitzgerald lived there in 1922-23.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+      "order": 2,
+      "place": "east-egg-sands-point",
+      "displayName": "East Egg (Sands Point)",
+      "country": "US",
+      "lat": 40.8518,
+      "lng": -73.7187,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The fashionable peninsula, the old money, glittering across the water from Nick's window. Daisy and Tom Buchanan live here, and the whole story turns on the short drive over for dinner. Fitzgerald modelled East Egg on Sands Point, the Gold Coast shore facing Great Neck.",
+      "note": "East Egg is Fitzgerald's name for the real Sands Point peninsula, the old-money shore across Manhasset Bay from Great Neck, where the Buchanans keep their Georgian Colonial mansion. The pin marks Sands Point. The name and the house are fiction; the peninsula and its Gold Coast estates are real.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+      "order": 3,
+      "place": "valley-of-ashes-corona",
+      "displayName": "The valley of ashes (Corona, Queens)",
+      "country": "US",
+      "lat": 40.747,
+      "lng": -73.848,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "The grey wasteland every traveller crosses between the Eggs and the city, overlooked by the faded eyes of Doctor T. J. Eckleburg on their billboard. Fitzgerald took it straight from the Corona ash dumps, the mountains of cinders piled beside the railway in Queens, since levelled and buried under the park that holds Citi Field and the tennis center.",
+      "note": "The valley of ashes is drawn from the real Corona ash dumps in Queens, the vast refuse and ash heaps that lay along the Flushing River between Long Island and Manhattan, passed on the road and railway into the city. The pin marks that ground, now Flushing Meadows-Corona Park. The dumps were real; Doctor Eckleburg's billboard is Fitzgerald's invention.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+      "order": 4,
+      "place": "myrtles-flat-158th-street",
+      "displayName": "Myrtle's flat, 158th Street",
+      "country": "US",
+      "lat": 40.834,
+      "lng": -73.946,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "The love nest Tom keeps for Myrtle Wilson, one slice in a long white cake of apartment-houses far up in the West Hundreds. Nick is dragged along to the drunken party in the crowded little top-floor rooms, the one afternoon he sees Tom's double life close up.",
+      "note": "Fitzgerald names the street but no number: the cab stops at 158th Street in the West Hundreds of upper Manhattan, where Tom keeps a flat for his mistress. The pin marks 158th Street near Broadway; the particular apartment-house is fiction.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+      "order": 5,
+      "place": "queensboro-bridge",
+      "displayName": "The Queensboro Bridge",
+      "country": "US",
+      "lat": 40.7542,
+      "lng": -73.9527,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "Gatsby drives Nick over the bridge into Manhattan, past Blackwell's Island, the city rising in white heaps and sugar lumps across the river. Fitzgerald names the real Queensboro Bridge, opened in 1909, the crossing from Queens into midtown that made anything seem possible.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+      "order": 6,
+      "place": "the-plaza-hotel",
+      "displayName": "The Plaza Hotel",
+      "country": "US",
+      "lat": 40.7645,
+      "lng": -73.9744,
+      "reference": "Chapter 7",
+      "certainty": "exact",
+      "summary": "The climax. On the hottest day of the summer the party takes a suite at the Plaza, and in that stifling room Gatsby and Tom force the quarrel that breaks Daisy. Fitzgerald names the real hotel, opened in 1907 at Fifth Avenue and Central Park South, still standing on Grand Army Plaza.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/64317"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "buddenbrooks",
+  "title": "Buddenbrooks",
+  "author": "Thomas Mann",
+  "year": 1901,
+  "description": "A Hanseatic grain-merchant family declines over four generations in a Baltic city Mann never names but rebuilds street by street. It is unmistakably his native Lübeck: the family's grand house on Mengstraße, the Marienkirche where they worship, the Holstentor and the quays along the Trave, and Travemünde at the river mouth where Tony holidays. The map runs from the old-town islands north-east to the Baltic resort, and brings Germany into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "buddenbrook-house-mengstrasse",
+      "displayName": "The Buddenbrook house, Mengstrasse (the Buddenbrookhaus)",
+      "country": "DE",
+      "lat": 53.8683,
+      "lng": 10.6853,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The novel opens with the family newly installed in their large house on Mengstraße, its gabled front and long rooms the stage for four generations of dinners, betrothals and funerals. The real house at Mengstraße 4 was the Mann family home; it survives as the Buddenbrookhaus, a museum to the writer and his book.",
+      "note": "Mann based the family's grand house on his own grandparents' home at Mengstraße 4, the real building that now houses the Buddenbrookhaus museum. The coordinates mark that house.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Buddenbrookhaus"
+    },
+    {
+      "order": 2,
+      "place": "marienkirche",
+      "displayName": "The Marienkirche",
+      "country": "DE",
+      "lat": 53.8686,
+      "lng": 10.6849,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "The Buddenbrooks mark their births, marriages and deaths at the towering brick church at the heart of the old town, its bells sounding over the merchant houses. Lübeck's Marienkirche, the tallest of the Hanseatic churches, is the unmistakable model, standing just north of the family house.",
+      "note": "The family worships at the great Gothic church that dominates the old town; in Mann's unnamed Lübeck this is the Marienkirche, whose brick towers stand a step from Mengstraße. The coordinates mark that church.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_L%C3%BCbeck"
+    },
+    {
+      "order": 3,
+      "place": "holstentor",
+      "displayName": "The Holstentor, gateway to the old town",
+      "country": "DE",
+      "lat": 53.8663,
+      "lng": 10.6797,
+      "reference": "Part 4",
+      "certainty": "exact",
+      "summary": "The twin-towered brick gate guards the western approach to the island city, the threshold between the merchants' quarter and the world beyond its walls. The Holstentor is Lübeck's most famous landmark, a monument to the Hanseatic wealth on which the Buddenbrooks' fortune, and their pride, is built.",
+      "note": "The Holstentor is the surviving western gate of Lübeck's old-town island, the emblem of the merchant city Mann portrays. The coordinates mark the gate itself.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Holsten_Gate"
+    },
+    {
+      "order": 4,
+      "place": "trave-harbour-quays",
+      "displayName": "The harbour and grain quays on the Trave",
+      "country": "DE",
+      "lat": 53.8697,
+      "lng": 10.687,
+      "reference": "Part 4",
+      "certainty": "approximate",
+      "summary": "The family's grain business lives on the river, where barges and coasters load at the quays that edge the old-town island. The Trave carries Lübeck's trade down to the Baltic, and the fortunes made and lost along these wharves are the ground the whole story stands on.",
+      "note": "The firm's business runs on the grain quays along the Trave that ring the old-town island; the novel fixes no single wharf, so this marks a representative point on the harbour front (An der Untertrave) below the merchant houses.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Trave"
+    },
+    {
+      "order": 5,
+      "place": "travemunde-baltic",
+      "displayName": "Travemünde on the Baltic",
+      "country": "DE",
+      "lat": 53.9575,
+      "lng": 10.871,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "Sent to the seaside resort at the river mouth to escape an unwanted suitor, Tony spends a summer among the dunes and bathing huts and falls in love with a young medical student. Travemünde, where the Trave meets the Baltic, is a real resort at Lübeck's edge; the idyll here is the brightest and freest stretch of her life, and she gives it up for the family's sake.",
+      "note": "Travemünde, the real Baltic bathing resort at the mouth of the Trave, is named as the place where Tony holidays; the coordinates mark the seafront resort north-east of the old town.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Travem%C3%BCnde"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

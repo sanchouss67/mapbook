@@ -1,0 +1,80 @@
+{
+  "id": "sleepwalking-land",
+  "title": "Sleepwalking Land",
+  "author": "Mia Couto",
+  "year": 1992,
+  "description": "Central Mozambique in the years of the civil war. An old man and a boy shelter in a burnt-out bus on an abandoned road through the bush and read a dead man's notebooks, whose journey runs along the Indian Ocean coast around Beira and Sofala and back through the ruined interior. The country is real and the war is real; the exact road and camps are left unnamed.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-road-and-the-burnt-bus",
+      "displayName": "The road and the burnt bus",
+      "country": "MZ",
+      "lat": -19.6094,
+      "lng": 34.7431,
+      "reference": "Frame narrative, opening",
+      "certainty": "approximate",
+      "summary": "The book opens on a road the war has emptied. An old man, Tuahir, and a boy, Muidinga, take shelter in the hulk of a bus that has been burnt out and abandoned, the dead still nearby. The frame stays on this stretch of road while, inside the bus, the pair read a dead man's notebooks. Central Mozambique's main artery inland from the coast is the EN6 through Dondo, and roads like it were left strewn with wreckage during the civil war.",
+      "note": "The abandoned road and the burnt bus are never named or placed in the novel. This marks Dondo, on the EN6 running inland from Beira, as a representative point on the war-emptied roads of Sofala; the road and the bus themselves are invented, the setting is not.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sleepwalking_Land"
+    },
+    {
+      "order": 2,
+      "place": "beira-port-city",
+      "displayName": "Beira, the port city",
+      "country": "MZ",
+      "lat": -19.8436,
+      "lng": 34.8389,
+      "reference": "Kindzu's notebooks",
+      "certainty": "approximate",
+      "summary": "The notebooks belong to Kindzu, a young man who grew up on the Mozambican coast and sets out across the wrecked country. Beira, the province's port and the city where Mia Couto was born, anchors that coastal world: a harbour town on the Indian Ocean, capital of Sofala, worn thin by the same war that empties the road.",
+      "note": "The novel does not name a home city, but it is grounded in the central Mozambican coast where Couto himself was born, in Beira. This marks the port city as the anchor for the coastal world of the notebooks.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sleepwalking_Land"
+    },
+    {
+      "order": 3,
+      "place": "sofala-coast",
+      "displayName": "The Sofala coast",
+      "country": "MZ",
+      "lat": -20.1533,
+      "lng": 34.7167,
+      "reference": "Kindzu's notebooks",
+      "certainty": "approximate",
+      "summary": "Kindzu's journey begins by the sea, in a fishing world of the coast where the war has not yet reached but soon will. The old port of Sofala, just south of Beira, is the shore that gave the whole province its name; it stands in here for the unnamed coastal village where his notebooks start.",
+      "note": "Kindzu's seaside village is not named or fixed to a real settlement. This marks Nova Sofala, the coast just south of Beira and the old port that gives the province its name, as a representative point on the Indian Ocean shore the notebooks describe.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sofala_Province"
+    },
+    {
+      "order": 4,
+      "place": "interior-road-nhamatanda",
+      "displayName": "The interior road",
+      "country": "MZ",
+      "lat": -19.27,
+      "lng": 34.21,
+      "reference": "Frame narrative",
+      "certainty": "approximate",
+      "summary": "Between spells of reading, Tuahir and Muidinga walk on through the interior, a landscape of burnt villages, hunger and refugees drifting between camps. The main road running inland from the coast passes through Nhamatanda, deep in Sofala, a corridor that saw heavy movement of displaced people during the war.",
+      "note": "The specific stretch of road the pair walk is never named. This marks Nhamatanda, an inland town on the EN6 between the coast and the highlands, as a representative point on the ruined interior route through central Mozambique.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nhamatanda_District"
+    },
+    {
+      "order": 5,
+      "place": "gorongosa-interior-camp",
+      "displayName": "The interior camp, Gorongosa",
+      "country": "MZ",
+      "lat": -18.6833,
+      "lng": 34.0667,
+      "reference": "Frame narrative, backstory",
+      "certainty": "approximate",
+      "summary": "Tuahir and Muidinga met in a refugee camp before they took to the road, one of the makeshift settlements that held the country's displaced. The Gorongosa area of northern Sofala, a district heavily fought over and emptied during the civil war, stands in here for that unnamed camp in the interior.",
+      "note": "The refugee camp where the old man and boy first met is not named or located. This marks the town of Gorongosa in the northern interior of Sofala, a real district scarred by the civil war, as a representative point for the camps and displaced communities of the story.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sleepwalking_Land"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "how-green-was-my-valley",
+  "title": "How Green Was My Valley",
+  "author": "Richard Llewellyn",
+  "year": 1939,
+  "description": "The narrator Huw Morgan remembers his childhood in a South Wales coal-mining valley, in a close chapel-going community that the growing slag heap and the souring of the pits slowly destroy. Llewellyn set his idealised valley in the Rhondda, around Gilfach Goch: the terraced village and the Morgan house, the colliery that pays and kills, the slag tip creeping down the mountain to bury the green, the chapel at the moral centre, and the mountain top that survives above it all.",
+  "route": [
+    {
+      "order": 1,
+      "place": "valley-village-morgan-house",
+      "displayName": "The valley village (the Morgan house)",
+      "country": "GB",
+      "lat": 51.601,
+      "lng": -3.438,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "Huw Morgan looks back from the day he leaves it on the valley of his boyhood, when the river still ran clear and the terraced houses climbed a green hillside. The Morgan house, warm with family, chapel and song, is the centre of a world the book knows is already gone.",
+      "note": "The mining village and the Morgan family home are invented but drawn from the Rhondda valley around Gilfach Goch that Llewellyn named as his model; sited there in the South Wales coalfield.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley"
+    },
+    {
+      "order": 2,
+      "place": "the-colliery",
+      "displayName": "The colliery",
+      "country": "GB",
+      "lat": 51.6,
+      "lng": -3.44,
+      "reference": "The colliery chapters",
+      "certainty": "approximate",
+      "summary": "The colliery pays the wages that keep the valley alive and takes the lives that keep it grieving, and Gwilym Morgan and his sons go down it as a matter of course. Wage cuts, strikes and the union split the family and the chapel, and the pit's slow tyranny over every life is the book's engine.",
+      "note": "The pit where the Morgan men and most of the valley work is drawn from the real collieries of the Rhondda coalfield; the specific colliery is invented and sited in the valley.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rhondda"
+    },
+    {
+      "order": 3,
+      "place": "the-slag-heap",
+      "displayName": "The slag heap",
+      "country": "GB",
+      "lat": 51.605,
+      "lng": -3.43,
+      "reference": "Framing narrative",
+      "certainty": "exact",
+      "summary": "The tip of colliery waste, creeping year by year down the mountain to smother the grass and choke the river, is the visible sign of everything the coal takes. Huw frames the whole story around it, the black slag advancing over the green valley of the title as his own childhood recedes.",
+      "note": "The slag heap that grows down the mountainside and buries the green is the book's title image and a real feature of every South Wales mining valley; sited on the slope above the village.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley"
+    },
+    {
+      "order": 4,
+      "place": "the-chapel",
+      "displayName": "The chapel",
+      "country": "GB",
+      "lat": 51.6015,
+      "lng": -3.439,
+      "reference": "The chapel chapters",
+      "certainty": "approximate",
+      "summary": "The minister Mr Gruffydd, strong and humane, is Huw's great teacher and the conscience of the valley, and his doomed love for Huw's sister Angharad is one of the book's quiet tragedies. The chapel's warmth and its narrowness, its singing and its cruelties, hold the community together and finally help tear it apart.",
+      "note": "The chapel is the moral and social centre of the valley, presided over by the preacher Mr Gruffydd; the specific chapel is invented and sited in the village, as such chapels stood in every mining community.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley"
+    },
+    {
+      "order": 5,
+      "place": "the-mountain-above",
+      "displayName": "The mountain above the valley",
+      "country": "GB",
+      "lat": 51.61,
+      "lng": -3.425,
+      "reference": "The mountain chapters",
+      "certainty": "exact",
+      "summary": "On the mountain above the smoke, where Huw recovers from illness and later walks with Bronwen, his brother's gentle wife whom he loves all his life, the valley is still green as the title remembers it. The high ground is the book's refuge, the surviving image of a world the coal could blacken but never quite reach.",
+      "note": "Above the coal and the slag the green mountain tops of the Rhondda survive; sited on the real hills that rise over the mining valleys.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

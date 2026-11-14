@@ -1,0 +1,80 @@
+{
+  "id": "a-portrait-of-the-artist-as-a-young-man",
+  "title": "A Portrait of the Artist as a Young Man",
+  "author": "James Joyce",
+  "year": 1916,
+  "description": "A Dublin boyhood grows into an artist's conscience: Stephen Dedalus moves from a Jesuit boarding school in the Kildare countryside through the schoolrooms and streets of Dublin to the strand and the university, until he resolves to leave Ireland to make himself an artist.",
+  "route": [
+    {
+      "order": 1,
+      "place": "clongowes-wood-college",
+      "displayName": "Clongowes Wood College, Clane",
+      "country": "IE",
+      "lat": 53.2895,
+      "lng": -6.672,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The book opens with a small boy far from home at a Jesuit boarding school, learning the pecking order of dormitory, playing field and study hall. A pandying by a prefect for broken glasses becomes his first act of protest, when he walks to the rector to say he was punished unfairly. Clongowes is where Stephen first tests conscience against authority.",
+      "note": "The novel names Clongowes as Stephen's boarding school; sited at the real Jesuit college near Clane in Co. Kildare, about 30 km west of Dublin. Marked outside the setting box because it lies well beyond the city the book otherwise inhabits.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man"
+    },
+    {
+      "order": 2,
+      "place": "belvedere-college-dublin",
+      "displayName": "Belvedere College, Great Denmark Street",
+      "country": "IE",
+      "lat": 53.3548,
+      "lng": -6.2617,
+      "reference": "Chapter 2-3",
+      "certainty": "exact",
+      "summary": "Back in the city, Stephen becomes a prize pupil at a Jesuit day school, leading school theatricals and winning essay prizes even as his home grows poorer. Here the retreat sermons on hell and judgement fall on him with full force, driving him briefly toward a scrupulous, terrified piety. Belvedere is the pressure chamber where faith and appetite pull hardest at him.",
+      "note": "The family's fall in fortune moves Stephen to Belvedere, the Jesuit day school Joyce himself attended; sited at the real college on Great Denmark Street in north Dublin.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man"
+    },
+    {
+      "order": 3,
+      "place": "cork-fathers-ruin",
+      "displayName": "Cork, the auctioned inheritance",
+      "country": "IE",
+      "lat": 51.8985,
+      "lng": -8.4756,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "Stephen goes south with his father, who is selling the remnants of a squandered estate, and watches Simon Dedalus drink and reminisce among old cronies in the city of his youth. The trip lays bare the parent's decline and forces the son to feel how little of that world he can inherit or love. Cork is where Stephen measures the distance opening between himself and his father.",
+      "note": "The novel names Cork, where Stephen travels with his father to sell off the last of the family property; sited at Cork city in the south, marked outside the setting box as a distant excursion from Dublin.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man"
+    },
+    {
+      "order": 4,
+      "place": "bull-wall-dollymount-strand",
+      "displayName": "The Bull Wall and Dollymount Strand",
+      "country": "IE",
+      "lat": 53.366,
+      "lng": -6.149,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "Having refused a churchman's suggestion that he enter the priesthood, Stephen walks out along the wooden bridge and the sea wall into Dublin Bay. Wading in the shallows he sees a girl standing in the water like a strange and beautiful bird, and the sight releases in him a cry of pure secular joy. This is the book's turning point, where he chooses art and life over the cloister.",
+      "note": "The epiphany scene is set on the strand by the Bull, Dublin Bay; sited on the North Bull Wall and the sands of Dollymount, the real breakwater and beach Stephen crosses.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man"
+    },
+    {
+      "order": 5,
+      "place": "university-college-stephens-green",
+      "displayName": "University College, St Stephen's Green",
+      "country": "IE",
+      "lat": 53.3383,
+      "lng": -6.2591,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "As a university student Stephen argues aesthetics on the steps and along the paths of the Green, sharpening his theory of beauty against friends like Cranly. In these debates he declares he will not serve church, country or family, and will forge in exile the uncreated conscience of his race. The college is where the boy becomes a self-appointed artist, ready to leave Ireland.",
+      "note": "Stephen attends the Catholic University College, then housed at Newman House on the south side of St Stephen's Green; sited at that real building, where Joyce himself studied.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

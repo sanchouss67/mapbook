@@ -1,0 +1,93 @@
+{
+  "id": "ali-and-nino",
+  "title": "Ali and Nino",
+  "author": "Kurban Said",
+  "year": 1937,
+  "description": "Kurban Said's Baku sits on the line between Europe and Asia, an oil city on the Caspian where a Muslim boy and a Christian girl try to build a life across faiths. The map holds the walled Old City and its Maiden Tower, the boom-era mansions and the seaside boulevard, then reaches inland to the mountain town of Shusha and closes at Ganja, as a short-lived Azerbaijani republic rises and falls.",
+  "route": [
+    {
+      "order": 1,
+      "place": "icherisheher-old-city",
+      "displayName": "The Old City, Icherisheher",
+      "country": "AZ",
+      "lat": 40.3667,
+      "lng": 49.8347,
+      "reference": "Opening chapters, Baku",
+      "certainty": "exact",
+      "summary": "The story begins inside the walled quarter of Baku, a maze of narrow lanes and flat roofs where the young narrator, son of an old Muslim family, grows up looking east toward Asia. This is the ground on which his world sits before oil money and a European war begin to pull it apart.",
+      "note": "The novel is set squarely in Baku's walled Old City; this marks the centre of Icherisheher, the historic core inside the fortress walls.",
+      "sourceUrl": "https://whc.unesco.org/en/list/958/"
+    },
+    {
+      "order": 2,
+      "place": "maiden-tower",
+      "displayName": "The Maiden Tower",
+      "country": "AZ",
+      "lat": 40.3597,
+      "lng": 49.8357,
+      "reference": "Baku, the Old City",
+      "certainty": "exact",
+      "summary": "The stone cylinder of the Maiden Tower stands at the seaward edge of the Old City, the emblem of Ali's Baku and of the legends that cling to it. From here the fortress looks out over the Caspian, the meeting point of the two cultures the book keeps trying to reconcile.",
+      "note": "The Maiden Tower is a named landmark of the Old City in the novel; coordinates are the tower itself in south-east Icherisheher.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maiden_Tower_(Baku)"
+    },
+    {
+      "order": 3,
+      "place": "baku-seaside-boulevard",
+      "displayName": "The seaside boulevard",
+      "country": "AZ",
+      "lat": 40.3625,
+      "lng": 49.8425,
+      "reference": "Baku, the waterfront",
+      "certainty": "exact",
+      "summary": "Along the Caspian shore runs the boulevard laid out in the oil-boom years, where the city walks, courts and shows itself off. It is here, between the mansions of the new rich and the open sea, that Ali's romance with the Georgian Nino plays out against a Baku poised between old and new.",
+      "note": "The waterfront promenade on the Caspian recurs in the novel; this marks the historic Baku Boulevard along the bay below the Old City.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baku_Boulevard"
+    },
+    {
+      "order": 4,
+      "place": "shusha-karabakh",
+      "displayName": "Shusha, Karabakh",
+      "country": "AZ",
+      "lat": 39.7583,
+      "lng": 46.7483,
+      "reference": "Karabakh, the mountain journey",
+      "certainty": "exact",
+      "summary": "The couple travel up into the Karabakh highlands to Shusha, a town of springs, orchards and cool air far above the oil plains. The mountain retreat gives them a breathing space away from Baku, and a first taste of how differently their two peoples read the same land.",
+      "note": "The mountain town of Shusha in Karabakh is named in the novel; it lies far inland, so it sits inside the wide Azerbaijan bounding box rather than the Baku frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shusha"
+    },
+    {
+      "order": 5,
+      "place": "ganja-fall",
+      "displayName": "Ganja",
+      "country": "AZ",
+      "lat": 40.6828,
+      "lng": 46.3606,
+      "reference": "Closing chapters, Ganja",
+      "certainty": "exact",
+      "summary": "The book closes at Ganja, the western city where the young Azerbaijani republic makes its last stand as invading forces close in. Ali's private story and the fate of a barely-born nation come together at the same wall, and the map ends where the independence does.",
+      "note": "The novel ends at Ganja in western Azerbaijan; it lies far from Baku, so it sits inside the wide Azerbaijan bounding box rather than the Baku frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan"
+    },
+    {
+      "order": 6,
+      "place": "tbilisi-georgia",
+      "displayName": "Tbilisi, Georgia",
+      "country": "AZ",
+      "lat": 41.7151,
+      "lng": 44.8271,
+      "reference": "Georgia, the journey to Tbilisi",
+      "certainty": "exact",
+      "summary": "Ali follows Nino to her own city, Tbilisi in Georgia, a green Christian capital that feels like the mirror image of Muslim Baku. The trip across the Caucasus watershed shows how far apart the two homelands stand, even as the couple keep trying to belong to both.",
+      "note": "Tbilisi is named in the novel but lies in Georgia, outside the Azerbaijan setting, so it is marked as an excursion beyond the map's frame.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tbilisi"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

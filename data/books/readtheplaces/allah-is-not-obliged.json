@@ -1,0 +1,80 @@
+{
+  "id": "allah-is-not-obliged",
+  "title": "Allah Is Not Obliged",
+  "author": "Ahmadou Kourouma",
+  "year": 2000,
+  "description": "Birahima, a foul-mouthed ten-year-old orphan from the Malinké country of northern Côte d'Ivoire, sets out to find his aunt and is swept into the 1990s civil wars of Liberia and Sierra Leone, becoming a child soldier passed from warlord to warlord. Kourouma maps a real and terrible West Africa: the boy's home in the north, the border crossing into war, the warlord camps of Liberia, and the diamond fields of Sierra Leone, all narrated in a child's blunt, dictionary-quoting voice.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-malinke-home",
+      "displayName": "The Malinké home",
+      "country": "LR",
+      "lat": 9.5,
+      "lng": -6.5,
+      "reference": "The opening chapters",
+      "certainty": "approximate",
+      "summary": "Birahima grows up in a Malinké village in the north until his mother dies, and he sets off with the con-man grigriman Yacouba to find his aunt across the border in Liberia. Kourouma establishes the boy's brash, profane narrating voice at once, a ten-year-old armed with four dictionaries and no illusions, about to walk straight into hell.",
+      "note": "Birahima's home in the Malinké country of northern Côte d'Ivoire, from which he sets out, is drawn from that real region; sited there at the edge of the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mandinka_people"
+    },
+    {
+      "order": 2,
+      "place": "the-border",
+      "displayName": "The border into war",
+      "country": "LR",
+      "lat": 7.6,
+      "lng": -8.3,
+      "reference": "The journey chapters",
+      "certainty": "approximate",
+      "summary": "Crossing into Liberia, Birahima and Yacouba enter a country dissolved into warring factions, roadblocks and child armies, where a grigriman's charms and a boy's Kalashnikov are the only currencies. Kourouma turns the border into a threshold between an ordinary poverty and pure anarchy, the moment the child steps into the machinery of war.",
+      "note": "The crossing from Côte d'Ivoire into war-torn Liberia is drawn from the real frontier of the 1990s conflict; sited on the border within the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Liberian_Civil_War"
+    },
+    {
+      "order": 3,
+      "place": "the-warlord-camps",
+      "displayName": "The warlord camps",
+      "country": "LR",
+      "lat": 6.5,
+      "lng": -9.5,
+      "reference": "The Liberia chapters",
+      "certainty": "exact",
+      "summary": "Handed a gun and drugs, Birahima becomes a child soldier, shuttled between the rival warlords whose factions carve up Liberia, and he reels off the names of the friends killed around him like a grim roll-call. Kourouma exposes the whole obscene economy of the child-soldier war, the boys made killers, the warlords grown rich, all of it reported in Birahima's chillingly casual voice.",
+      "note": "Birahima is made a child soldier in the warlord camps of the Liberian civil war, drawn from the real factions and their armies of boys; sited in the Liberian interior.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Children_in_the_military"
+    },
+    {
+      "order": 4,
+      "place": "the-sierra-leone-diamonds",
+      "displayName": "The Sierra Leone diamonds",
+      "country": "LR",
+      "lat": 8.3,
+      "lng": -11.3,
+      "reference": "The Sierra Leone chapters",
+      "certainty": "exact",
+      "summary": "The war carries Birahima on into Sierra Leone, into the diamond fields the factions fight over and the villages where the rebels hack off hands. Kourouma binds the child soldiers, the blood diamonds and the mutilations into one system, the mineral wealth that pays for the guns and buys the boys who fire them.",
+      "note": "The war spills into Sierra Leone, where the RUF's diamond fields and its signature amputations appear; sited in the diamond country of the real conflict.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War"
+    },
+    {
+      "order": 5,
+      "place": "the-endless-war",
+      "displayName": "The endless war",
+      "country": "LR",
+      "lat": 7,
+      "lng": -9,
+      "reference": "The closing chapters",
+      "certainty": "approximate",
+      "summary": "Across the tangled fronts Birahima keeps searching for his aunt, finding her only to lose her again to the war's endless churn, and resolves at last simply to tell his story. Kourouma ends not with resolution but with the boy's decision to bear witness, his blasphemous refrain, that Allah is not obliged to be fair to the things of this world, standing as the book's bleak, unanswerable verdict.",
+      "note": "Birahima's long search for his aunt across the shifting fronts of the two wars is drawn from the real, chaotic geography of the West African conflicts; sited across the setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Allah_n%27est_pas_oblig%C3%A9"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

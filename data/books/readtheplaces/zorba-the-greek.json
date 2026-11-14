@@ -1,0 +1,80 @@
+{
+  "id": "zorba-the-greek",
+  "title": "Zorba the Greek",
+  "author": "Nikos Kazantzakis",
+  "year": 1946,
+  "description": "Kazantzakis sets the novel on the coast of Crete, his own island, where the young narrator and the labourer Alexis Zorba reopen a lignite gallery and build a brief life by the sea. The real venture behind it happened across the water in the Messenian Mani. The map keeps both: it anchors the explicit Crete of the book at Heraklion, the author's birthplace, and marks the Peloponnesian mine that actually inspired it.",
+  "route": [
+    {
+      "order": 1,
+      "place": "piraeus-harbour",
+      "displayName": "The harbour café, Piraeus",
+      "country": "GR",
+      "lat": 37.9391,
+      "lng": 23.625,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The story begins on the Athenian waterfront, where the young narrator, waiting out a storm before a boat to Crete, falls into talk with a restless older workman who talks his way into the job of foreman. Their meeting by the harbour sets the whole book in motion before either has left the mainland.",
+      "note": "The novel opens on the waterfront at Piraeus; this marks the passenger harbour from which boats crossed to Crete.",
+      "sourceUrl": "https://www.britannica.com/topic/Zorba-the-Greek-novel-by-Kazantzakis"
+    },
+    {
+      "order": 2,
+      "place": "heraklion-crete",
+      "displayName": "Heraklion, Crete",
+      "country": "GR",
+      "lat": 35.3391,
+      "lng": 25.1333,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "Crete is the island the narrator crosses to and the ground the whole novel stands on: Kazantzakis's own birthplace, and a landscape whose hardness and appetite shape every character. Heraklion, the island's capital, anchors that real Crete even though the fictional mining village lies elsewhere along the shore.",
+      "note": "Kazantzakis explicitly sets the novel on Crete, his native island. This pin marks Heraklion, the island's capital and his birthplace, as the real-island anchor. The mine itself sits on a coast the book never pins down, handled in the Akrotiri and Stoupa waypoints.",
+      "sourceUrl": "https://www.britannica.com/topic/Zorba-the-Greek-novel-by-Kazantzakis"
+    },
+    {
+      "order": 3,
+      "place": "stavros-akrotiri",
+      "displayName": "Stavros beach, Akrotiri",
+      "country": "GR",
+      "lat": 35.5914,
+      "lng": 24.0955,
+      "reference": "Chapters 2 onward",
+      "certainty": "approximate",
+      "summary": "Most of the book plays out on a Cretan shore beneath a mountain: the lignite gallery, the hut by the water, the widow's garden, Madame Hortense's inn, and the great timber run Zorba builds to bring pit-props down the slope. The text keeps that coast deliberately vague; this bay on Akrotiri, where the film later shot the seaside village and the sirtaki, is the closest real anchor.",
+      "note": "The novel never names the exact Cretan coast of the mine and the beach hut, so this stands in as a representative Cretan shore. It is also the cove on the Akrotiri peninsula where the 1964 film staged the village and the famous dance, which fixed the story's landscape for most readers.",
+      "sourceUrl": "https://notosmare.com/article/stavros-beach-the-famous-zorba-the-greek-filming-location"
+    },
+    {
+      "order": 4,
+      "place": "prastova-mine-stoupa",
+      "displayName": "The Prastova lignite mine, above Stoupa",
+      "country": "GR",
+      "lat": 36.8455,
+      "lng": 22.2617,
+      "reference": "Historical source of the mine",
+      "certainty": "approximate",
+      "summary": "The mine at the heart of the novel was real, but it was not on Crete. In 1917 Kazantzakis took on lignite diggings in the hills above Stoupa, in the southern Peloponnese, and the foreman he engaged, Giorgos Zorbas, became the model for Alexis Zorba. Poor coal and flooding sank the business within a year; the friendship outlived it and became the book, carried home to the author's own island.",
+      "note": "The real place behind the fiction, not a scene in the book. In 1917 Kazantzakis leased lignite workings in the Prastova hills behind Stoupa, in the Messenian Mani, and hired a labourer named Giorgos Zorbas to run them; the novel moves that venture to Crete. The pin marks Stoupa, the base of the operation, with the old adits in the slopes just inland.",
+      "sourceUrl": "https://manidevelopments.com/stoupa-zorbas-the-greek"
+    },
+    {
+      "order": 5,
+      "place": "kalogria-beach-stoupa",
+      "displayName": "Kalogria beach, Stoupa",
+      "country": "GR",
+      "lat": 36.8503,
+      "lng": 22.2585,
+      "reference": "Historical source of the shore",
+      "certainty": "approximate",
+      "summary": "The beach hut, the long evenings by the water and the shoreline that frames so much of the novel grew out of the season Kazantzakis and Zorbas spent at Kalogria, the strand below Stoupa. Local memory still ties this cove and a small cave here to Zorba; the book carries the same shore across the sea to Crete.",
+      "note": "Also a real place rather than a named location in the text. Kalogria, the beach at Stoupa where Kazantzakis and Zorbas lodged in 1917 and 1918, is remembered locally as Zorba's beach and fed the novel's seaside scenes, which the book resets on Crete.",
+      "sourceUrl": "https://manidevelopments.com/stoupa-zorbas-the-greek"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

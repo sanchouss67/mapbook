@@ -1,0 +1,93 @@
+{
+  "id": "never-let-me-go",
+  "title": "Never Let Me Go",
+  "author": "Kazuo Ishiguro",
+  "year": 2005,
+  "description": "A quietly dystopian England where children raised at a secluded boarding school are clones bred to give up their organs. The map runs from the rural southern countryside that hides Hailsham, north-east through the remote farmland of the Cottages to the Norfolk seaside at Cromer, and out along the flat coastal fields Kathy drives as a carer.",
+  "route": [
+    {
+      "order": 1,
+      "place": "hailsham-boarding-school",
+      "displayName": "Hailsham, the boarding school",
+      "country": "GB",
+      "lat": 50.8622,
+      "lng": 0.2578,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The narrator grows up at a secluded boarding school in the English countryside, cut off behind sports fields and woods. Only slowly do the pupils grasp that they are clones, raised to be healthy so their organs can later be harvested. The school is invented; its name and its hushed rural setting point to the deep south of England.",
+      "note": "Hailsham is a fictional school. Ishiguro shares its name with a real market town in East Sussex and evokes a sheltered, rural southern England, so this marks that town as a stand-in for a place the novel never fixes on a map.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hailsham"
+    },
+    {
+      "order": 2,
+      "place": "the-cottages-rural",
+      "displayName": "The Cottages",
+      "country": "GB",
+      "lat": 52.45,
+      "lng": 0.75,
+      "reference": "Part Two, chapter 10",
+      "certainty": "approximate",
+      "summary": "After leaving the school, the young people spend a loose in-between spell at a set of converted farm buildings in the middle of nowhere, half students and half nothing in particular. The place is invented and deliberately vague, a remote patch of English farmland where they wait to learn what comes next.",
+      "note": "The Cottages are fictional and never located precisely; the book describes a remote run-down farm somewhere in the country after Hailsham. This marks a representative point in the sparse rural Breckland of the Norfolk-Suffolk border, in the region the story then moves through.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "cromer-seafront",
+      "displayName": "Cromer seafront",
+      "country": "GB",
+      "lat": 52.9343,
+      "lng": 1.3016,
+      "reference": "Part Two, chapter 15",
+      "certainty": "exact",
+      "summary": "A carful of friends drives out to the Norfolk coast for a day at the seaside, past the pier and along the clifftop of a faded resort town. The outing is a rare escape from the enclosed world of the Cottages, and Cromer's ordinary bustle throws the strangeness of their own lives into relief.",
+      "note": "Cromer is named in the novel; this marks the pier and clifftop seafront at the heart of the town where the day trip unfolds.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "cromer-office-possible",
+      "displayName": "Cromer, the office window",
+      "country": "GB",
+      "lat": 52.9312,
+      "lng": 1.2989,
+      "reference": "Part Two, chapter 15",
+      "certainty": "approximate",
+      "summary": "The seaside day has a real purpose: the group has heard that a woman working in a Cromer office might be Ruth's possible, the ordinary person she was cloned from. They gather on the pavement and watch her through the glass, and the hoped-for likeness quietly falls apart, taking a private fantasy of origins with it.",
+      "note": "Cromer is explicit, but the open-plan office where the friends watch Ruth's possible is not given a street; this marks the town centre as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "kingsfield-recovery-centre",
+      "displayName": "Kingsfield recovery centre",
+      "country": "GB",
+      "lat": 52.15,
+      "lng": -0.85,
+      "reference": "Part Three, chapter 21",
+      "certainty": "approximate",
+      "summary": "Grown up now, the narrator works as a carer, driving long grey miles between recovery centres where donors are patched up between operations. At one such place, a converted holiday camp, she takes charge of a childhood friend as his donations begin, and old feelings resurface in the shadow of what the centre is for.",
+      "note": "Kingsfield is a fictional recovery centre, a former holiday camp, and its location is never fixed. This marks a representative point in the rural English Midlands among the recovery centres the narrator drives between as a carer.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+    },
+    {
+      "order": 6,
+      "place": "norfolk-field-ending",
+      "displayName": "A field in Norfolk",
+      "country": "GB",
+      "lat": 52.85,
+      "lng": 1.15,
+      "reference": "Part Three, chapter 23",
+      "certainty": "approximate",
+      "summary": "Alone at the end, the narrator pulls over beside a flat Norfolk field where wind has snagged litter along a wire fence. She lets herself picture, just for a moment, the people she has lost drifting back to her, then gets back in the car and drives on to wherever she is meant to be. Norfolk, the county of the earlier day trip, becomes the book's last quiet horizon.",
+      "note": "The closing scene is set in Norfolk but at no named spot; this marks a representative stretch of open coastal farmland inland from Cromer, the county the narrator returns to.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

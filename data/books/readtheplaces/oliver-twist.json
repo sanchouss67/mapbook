@@ -1,0 +1,77 @@
+{
+  "id": "oliver-twist",
+  "title": "Oliver Twist",
+  "author": "Charles Dickens",
+  "year": 1838,
+  "description": "After an unnamed provincial workhouse, the book comes to London and stays in named ground: Saffron Hill and Field Lane, the real Clerkenwell rookery where Fagin keeps his den; Clerkenwell Green, where the Dodger picks Mr Brownlow's pocket; Pentonville, where Brownlow lives; Newgate, where Fagin is condemned; and Jacob's Island in Bermondsey, the notorious tidal slum Dickens's own footnote insisted was real, where Sikes dies. Most of these were cleared within Dickens's lifetime, which is what the historical map layer is for. The bbox runs from Pentonville down to the Bermondsey riverside.",
+  "route": [
+    {
+      "order": 1,
+      "place": "saffron-hill-fagins-den",
+      "displayName": "Saffron Hill: Fagin's den",
+      "country": "GB",
+      "lat": 51.5178,
+      "lng": -0.1048,
+      "reference": "Saffron Hill, Chapter 8",
+      "certainty": "approximate",
+      "summary": "The Artful Dodger walks Oliver in from Islington, down Saffron Hill the Great to a filthy court near Field Lane, and through a low door into Fagin's den. It is Oliver's first sight of the thieves' world, drawn from the real slum Dickens knew crouched behind Holborn.",
+      "note": "Saffron Hill and Field Lane are real streets in the Clerkenwell rookery, named outright in the text; Dickens brings Oliver down them by a route that still traces on the map. The exact house of Fagin's den is invented, so the pin marks the Field Lane end of Saffron Hill where the Dodger takes him in.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/730"
+    },
+    {
+      "order": 2,
+      "place": "clerkenwell-green-the-pocket-picked",
+      "displayName": "Clerkenwell Green: the pocket picked",
+      "country": "GB",
+      "lat": 51.5229,
+      "lng": -0.1054,
+      "reference": "Clerkenwell Green, Chapter 10",
+      "certainty": "exact",
+      "summary": "At the bookstall on Clerkenwell Green the Dodger lifts Mr Brownlow's handkerchief and bolts, leaving Oliver to be seized and cried through the streets as the thief. The Green is a real open square, named in the text, and still there behind the old Sessions House.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/730"
+    },
+    {
+      "order": 3,
+      "place": "pentonville-mr-brownlows-house",
+      "displayName": "Pentonville: Mr Brownlow's house",
+      "country": "GB",
+      "lat": 51.5321,
+      "lng": -0.1149,
+      "reference": "Pentonville, Chapter 12",
+      "certainty": "approximate",
+      "summary": "Cleared and taken in by the kindly Mr Brownlow, Oliver is carried to his house near Pentonville and nursed through a fever, the first safety he has known. It is the respectable London the thieves will drag him back out of, and the address he blurts to Nancy when she recaptures him.",
+      "note": "Pentonville is a real district north of the City, named in the text as where Mr Brownlow lives, and Oliver later gives it as his address. The particular neat house in a quiet shady street is invented, so the pin marks the Pentonville district rather than a numbered door.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/730"
+    },
+    {
+      "order": 4,
+      "place": "jacobs-island-bermondsey",
+      "displayName": "Jacob's Island, Bermondsey",
+      "country": "GB",
+      "lat": 51.5015,
+      "lng": -0.0668,
+      "reference": "Jacob's Island, Chapter 50",
+      "certainty": "exact",
+      "summary": "Bill Sikes, hunted for Nancy's murder, runs to earth in the rotting riverside slum of Jacob's Island and hangs himself by accident from a roof above Folly Ditch as the mob closes in. Dickens named the real Bermondsey rookery so precisely that, when its existence was doubted, he defended it in a preface; it was cleared soon after.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/730"
+    },
+    {
+      "order": 5,
+      "place": "newgate-prison",
+      "displayName": "Newgate Prison",
+      "country": "GB",
+      "lat": 51.5094,
+      "lng": -0.1012,
+      "reference": "Newgate, Chapter 52",
+      "certainty": "exact",
+      "summary": "Condemned to hang, Fagin sits out his last night in the Newgate condemned cell while Oliver and Brownlow come to see him, and the crowd gathers in the street for the scaffold. The prison stood at Newgate Street and the Old Bailey; it was pulled down in 1902 and the Central Criminal Court now covers the site.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/730"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

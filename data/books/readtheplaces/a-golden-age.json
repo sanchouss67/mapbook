@@ -1,0 +1,80 @@
+{
+  "id": "a-golden-age",
+  "title": "A Golden Age",
+  "author": "Tahmima Anam",
+  "year": 2007,
+  "description": "Dhaka in 1971, then the capital of East Pakistan, as the Bangladesh Liberation War begins. A widow and her grown children are drawn into the fight from a family house in the planned district of Dhanmondi, past the university where the March crackdown starts, out along the refugee road to Calcutta and a guerrilla camp near the border.",
+  "route": [
+    {
+      "order": 1,
+      "place": "shona-dhanmondi",
+      "displayName": "Shona, the house in Dhanmondi",
+      "country": "BD",
+      "lat": 23.746466,
+      "lng": 90.376015,
+      "reference": "Opening chapters",
+      "certainty": "approximate",
+      "summary": "The widow Rehana Haque has raised a second house, which she calls Shona, in the garden of her Dhanmondi home and lets it to tenants to hold the family together. As 1971 opens, her grown son and daughter gather here while the political crisis in East Pakistan sharpens toward war.",
+      "note": "The house Shona is invented, but the novel places it plainly in Dhanmondi; this marks the centre of that district, the planned residential area laid out for East Pakistan's elite in the 1950s.",
+      "sourceUrl": "https://en.banglapedia.org/index.php/Dhanmondi_Thana"
+    },
+    {
+      "order": 2,
+      "place": "university-of-dhaka",
+      "displayName": "University of Dhaka",
+      "country": "BD",
+      "lat": 23.735,
+      "lng": 90.3908,
+      "reference": "March 1971 chapters",
+      "certainty": "exact",
+      "summary": "On the night of 25 March 1971 the Pakistan Army launched Operation Searchlight and stormed the university's halls of residence, killing students, teachers and staff. In the novel this crackdown marks the start of the Bangladesh Liberation War and pulls the family from ordinary life into the fight.",
+      "note": "The campus is named in the book; coordinates mark the main University of Dhaka campus at Shahbagh, beside Ramna.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1971_Dhaka_University_massacre"
+    },
+    {
+      "order": 3,
+      "place": "ramna-under-curfew",
+      "displayName": "Ramna, under curfew",
+      "country": "BD",
+      "lat": 23.73785,
+      "lng": 90.40071,
+      "reference": "1971 chapters",
+      "certainty": "exact",
+      "summary": "With the army in the streets, Dhaka spent much of 1971 under curfew. Ramna, the central district of parkland and colonial avenues next to the university, is where the city's public life and its danger overlapped, and where the family moves through checkpoints and shuttered roads.",
+      "note": "Ramna is a real central district of Dhaka; coordinates mark Ramna Park, its green heart beside the university.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ramna_Park"
+    },
+    {
+      "order": 4,
+      "place": "calcutta",
+      "displayName": "Calcutta",
+      "country": "BD",
+      "lat": 22.572645,
+      "lng": 88.363892,
+      "reference": "Later chapters",
+      "certainty": "exact",
+      "summary": "As the war drove millions of refugees over the border into India, the road out of East Pakistan led to Calcutta, the West Bengal capital that became the centre of the exile Bangladeshi government and the relief effort. The novel follows the family there, far from the Dhaka setting.",
+      "note": "Calcutta, today's Kolkata, is named in the book; coordinates mark the city centre. A deliberate excursion beyond the Dhaka setting.",
+      "sourceUrl": "https://www.latlong.net/place/kolkata-west-bengal-india-257.html"
+    },
+    {
+      "order": 5,
+      "place": "border-camp-petrapole",
+      "displayName": "The border camp near Petrapole",
+      "country": "BD",
+      "lat": 23,
+      "lng": 88.83,
+      "reference": "Later chapters",
+      "certainty": "approximate",
+      "summary": "Guerrilla fighters of the Mukti Bahini trained and sheltered in camps just inside India along the border. The novel takes the family to such a camp near the frontier; Petrapole, facing Benapole across the line, was one of the main crossing points during the 1971 war. A deliberate excursion beyond the Dhaka setting.",
+      "note": "The camp is not a named place; coordinates mark the Petrapole crossing in West Bengal, opposite Benapole, as a representative point for the guerrilla camps strung along the frontier.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Petrapole"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

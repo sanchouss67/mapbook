@@ -1,0 +1,80 @@
+{
+  "id": "the-year-of-the-hare",
+  "title": "The Year of the Hare",
+  "author": "Arto Paasilinna",
+  "year": 1975,
+  "description": "A burnt-out Helsinki journalist walks away from his life after his car clips a hare on a country road, and carries the animal north across the whole length of Finland. The map runs from the capital up through the lake country and the forests to Lapland, and on to the eastern border with the Soviet Union.",
+  "route": [
+    {
+      "order": 1,
+      "place": "helsinki-departure",
+      "displayName": "Helsinki",
+      "country": "FI",
+      "lat": 60.1699,
+      "lng": 24.9384,
+      "reference": "Opening chapters",
+      "certainty": "exact",
+      "summary": "A tired newspaperman is stuck in Helsinki, worn down by his job and his marriage. He is driving out of the city on an assignment when the accident that changes everything happens, and the capital becomes the point he never goes back to.",
+      "note": "The novel begins with the journalist at work in the capital; this marks central Helsinki, the life he leaves behind.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Helsinki"
+    },
+    {
+      "order": 2,
+      "place": "heinola-lake-country-roadside",
+      "displayName": "The lake country road, near Heinola",
+      "country": "FI",
+      "lat": 61.2039,
+      "lng": 26.0417,
+      "reference": "Early chapters",
+      "certainty": "approximate",
+      "summary": "On a gravel road in the lake country the car clips a young hare and injures its leg. The man climbs out to find the animal in the ferns, decides to keep it, and simply does not return to the car or to his old life. From here the two of them start moving.",
+      "note": "The book does not fix the exact roadside; it lies on the country roads north of Helsinki in the lake district, so this marks the town of Heinola as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Heinola"
+    },
+    {
+      "order": 3,
+      "place": "nilsia-forest-work",
+      "displayName": "Nilsiä",
+      "country": "FI",
+      "lat": 63.2075,
+      "lng": 28.0822,
+      "reference": "Middle chapters",
+      "certainty": "exact",
+      "summary": "Drifting north and east through Savo, the man takes casual work in the woods and villages, doing whatever a season needs. Around here he joins the effort against a forest fire that has broken out across the dry timberland, one of the odd jobs that fund his walk.",
+      "note": "Nilsiä is named among the eastern places the wanderer passes through; this marks the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nilsi%C3%A4"
+    },
+    {
+      "order": 4,
+      "place": "rovaniemi-lapland",
+      "displayName": "Rovaniemi, Lapland",
+      "country": "FI",
+      "lat": 66.5039,
+      "lng": 25.7294,
+      "reference": "Later chapters",
+      "certainty": "exact",
+      "summary": "The road carries him up into Lapland, the open country near the Arctic Circle where the seasons and the light are harsher. Rovaniemi stands for this northern stretch, the last big town before the forest thins toward the frontier.",
+      "note": "Lapland and its towns are named as the journey reaches the far north; this marks Rovaniemi, the gateway on the Arctic Circle.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rovaniemi"
+    },
+    {
+      "order": 5,
+      "place": "kuhmo-eastern-border",
+      "displayName": "The eastern border, near Kuhmo",
+      "country": "FI",
+      "lat": 64.1284,
+      "lng": 29.5163,
+      "reference": "Final chapters",
+      "certainty": "approximate",
+      "summary": "The journey closes in the deep forest along the border with the Soviet Union, where a long chase after a bear leads the man across the line and into the hands of Soviet officials. Kuhmo stands for this last, easternmost reach of his year on the move.",
+      "note": "The story ends in the forests along the Soviet frontier without a named crossing point, so this marks the border town of Kuhmo as a representative point on that eastern edge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kuhmo"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

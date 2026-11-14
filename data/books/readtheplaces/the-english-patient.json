@@ -1,0 +1,93 @@
+{
+  "id": "the-english-patient",
+  "title": "The English Patient",
+  "author": "Michael Ondaatje",
+  "year": 1992,
+  "description": "The frame of the novel is a bombed-out villa in the Tuscan hills as the war in Italy ends: a nurse, a burned man, a thief and a sapper hold together in the ruins of a former nunnery above Florence. The map centres on Villa San Girolamo at Fiesole and the city below, and reaches out to the Egyptian and Libyan desert the patient remembers.",
+  "route": [
+    {
+      "order": 1,
+      "place": "villa-san-girolamo",
+      "displayName": "Villa San Girolamo, Fiesole",
+      "country": "IT",
+      "lat": 43.806306,
+      "lng": 11.288944,
+      "reference": "Chapter 1, The Villa",
+      "certainty": "exact",
+      "summary": "The whole frame of the novel happens here: a young Canadian nurse stays behind in a shelled hillside villa to care for a man burned beyond recognition, its rooms open to the sky, its garden mined. The real Villa San Girolamo at Fiesole served as a wartime hospital and gave Ondaatje his setting.",
+      "note": "Ondaatje names the Villa San Girolamo, a real building complex and former nunnery on Via Vecchia Fiesolana at Fiesole, in the hills above Florence; coordinates from the site's Wikipedia entry.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Villa_San_Girolamo"
+    },
+    {
+      "order": 2,
+      "place": "fiesole-hills",
+      "displayName": "The hills of Fiesole",
+      "country": "IT",
+      "lat": 43.8074,
+      "lng": 11.2936,
+      "reference": "Chapters 2 to 3",
+      "certainty": "exact",
+      "summary": "Around the villa the war is not quite over: the retreating army has left mines in the orchard and the paths, and the little group learns to move carefully through terraced olive groves and cypress. These are the real slopes of Fiesole, looking down on the valley of the Arno.",
+      "note": "Fiesole is the real hill town on whose slopes the villa stands; this marks the town centre just above the fictional field hospital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fiesole"
+    },
+    {
+      "order": 3,
+      "place": "florence-below",
+      "displayName": "Florence, in the valley below",
+      "country": "IT",
+      "lat": 43.7696,
+      "lng": 11.2558,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "The city the villa overlooks is Florence, fought over and battered as the front moves north through Tuscany in the last summer of the war. It is the world the sapper crosses when he clears bombs, and the fixed point against which the isolation of the ruined villa is measured.",
+      "note": "Ondaatje places the villa in the hills above Florence; this marks the historic centre of the city the characters look down on and travel from.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence"
+    },
+    {
+      "order": 4,
+      "place": "gilf-kebir-plateau",
+      "displayName": "The Gilf Kebir plateau",
+      "country": "IT",
+      "lat": 23.45,
+      "lng": 25.85,
+      "reference": "Chapters 5 to 6, A Buried Plane",
+      "certainty": "exact",
+      "summary": "The burned man's memories return again and again to a prewar mapping expedition in the eastern Sahara, where a small party of geographers and desert explorers surveyed a vast, little-known plateau. The Gilf Kebir is where the love affair and betrayal at the heart of his story unfold.",
+      "note": "The Gilf Kebir is a real sandstone plateau on the Egypt-Libya border, explicitly named in the novel but roughly two thousand kilometres from the Tuscan frame, so it is marked as outside the book's setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gilf_Kebir"
+    },
+    {
+      "order": 5,
+      "place": "cave-of-swimmers",
+      "displayName": "The Cave of Swimmers, Wadi Sura",
+      "country": "IT",
+      "lat": 23.583,
+      "lng": 25.5,
+      "reference": "Chapter 9, The Cave of Swimmers",
+      "certainty": "exact",
+      "summary": "In a sheltered wadi the explorers find a cave whose prehistoric paintings show tiny figures that seem to swim, evidence that the desert was once green. It becomes the shelter where the patient leaves the woman he loves, and the place he tries, too late, to return to.",
+      "note": "The Cave of Swimmers at Wadi Sura in the Gilf Kebir is a real rock-art site, explicitly named in the novel; its coordinates are about 23 degrees 35 minutes north, 25 degrees 30 minutes east, far outside the Tuscan setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cave_of_Swimmers"
+    },
+    {
+      "order": 6,
+      "place": "cairo",
+      "displayName": "Cairo",
+      "country": "IT",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "reference": "Chapter 4, South Cairo",
+      "certainty": "exact",
+      "summary": "Between desert seasons the explorers gather in the hotels and offices of Cairo, and later the city fills with wartime intelligence work. It is where the affair deepens away from the desert, and where the machinery that turns the patient into a suspected spy is set in motion.",
+      "note": "Cairo is explicitly named as the base for the desert expeditions and the wartime intelligence world; it lies about a thousand kilometres from the Gilf Kebir and far outside the Tuscan setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cairo"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

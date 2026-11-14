@@ -1,0 +1,80 @@
+{
+  "id": "the-cairo-trilogy",
+  "title": "The Cairo Trilogy",
+  "author": "Naguib Mahfouz",
+  "year": 1956,
+  "description": "Three generations of the al-Jawad family live out Egypt's early-twentieth-century upheavals within a few crowded lanes of medieval Cairo, in the al-Gamaliya quarter around Bayn al-Qasrayn, the great al-Husayn mosque and the bazaars. The whole trilogy turns on a handful of real streets a walker can still trace.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bayn-al-qasrayn-palace-walk",
+      "displayName": "Bayn al-Qasrayn (Palace Walk)",
+      "country": "EG",
+      "lat": 30.051,
+      "lng": 31.2617,
+      "reference": "Palace Walk (Bayn al-Qasrayn), volume 1",
+      "certainty": "exact",
+      "summary": "The family house on Palace Walk is the fixed centre of the trilogy, ruled by the patriarch al-Sayyid Ahmad, whose iron authority at home masks a double life outside it. From its latticed windows the women watch a street they are forbidden to walk. The lane is real, a ceremonial spine of Fatimid Cairo still lined with medieval facades.",
+      "note": "Bayn al-Qasrayn is a real stretch of al-Muizz Street in medieval Cairo and gives the first volume its Arabic title; the al-Jawad family home is a fictional house sited on this named street, so the point sits on the Bayn al-Qasrayn reach by the Qalawun complex.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bayn_al-Qasrayn"
+    },
+    {
+      "order": 2,
+      "place": "al-husayn-mosque",
+      "displayName": "The al-Husayn Mosque (Sayyidna al-Husayn)",
+      "country": "EG",
+      "lat": 30.0477,
+      "lng": 31.2627,
+      "reference": "Palace Walk, volume 1",
+      "certainty": "exact",
+      "summary": "Amina, confined to the house for decades, finally slips out to visit the shrine of al-Husayn while her husband is away, and is struck by a car for her transgression. The scandal of that short walk shows how tightly the household is bound. The mosque, revered as a resting place of the Prophet's grandson, stands minutes from Palace Walk.",
+      "note": "The mosque of Sayyidna al-Husayn is a real, named Cairo shrine a short walk from the family home; it is explicit in the novel as the object of Amina's longed-for visit.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Hussein_Mosque"
+    },
+    {
+      "order": 3,
+      "place": "khan-el-khalili-bazaar",
+      "displayName": "Khan el-Khalili bazaar",
+      "country": "EG",
+      "lat": 30.0472,
+      "lng": 31.2622,
+      "reference": "Palace of Desire, volume 2",
+      "certainty": "exact",
+      "summary": "The warren of the Khan, with its coffee houses, shops and pleasures, is where the men of the family conduct their business and their vices. Yasin, the sensual eldest son, is drawn again and again to its cafes and the entertainers around it. The bazaar has traded on this spot since the fourteenth century and still does.",
+      "note": "Khan el-Khalili is the real medieval bazaar quarter beside al-Husayn, named in the trilogy and central to the family's commercial and appetite-driven Cairo.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khan_el-Khalili"
+    },
+    {
+      "order": 4,
+      "place": "al-azhar-mosque",
+      "displayName": "Al-Azhar Mosque and University",
+      "country": "EG",
+      "lat": 30.0458,
+      "lng": 31.2626,
+      "reference": "Palace of Desire and Sugar Street, volumes 2-3",
+      "certainty": "exact",
+      "summary": "As the trilogy moves into the next generation, the pull of learning, faith and modern doubt runs through Kamal, the searching youngest son. Al-Azhar, the ancient mosque-university, stands for the weight of tradition he measures himself against. It has taught in these courtyards for over a thousand years.",
+      "note": "Al-Azhar is a real, named tenth-century mosque and seat of learning a few streets south of the family home, and part of the intellectual world the younger generation moves through.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque"
+    },
+    {
+      "order": 5,
+      "place": "al-muski-street",
+      "displayName": "The Muski (al-Muski street)",
+      "country": "EG",
+      "lat": 30.0497,
+      "lng": 31.2555,
+      "reference": "Palace Walk to Sugar Street, volumes 1-3",
+      "certainty": "exact",
+      "summary": "The Muski is the busy shopping street of the quarter, the everyday commercial artery along which al-Sayyid Ahmad runs the grocery that funds the household. Its crowds and goods mark the ordinary Cairo the family belongs to, between mosque and home. The street remains one of the old city's main market thoroughfares.",
+      "note": "Al-Muski is a real named commercial street running west from the al-Husayn quarter; it is part of the trading Cairo where al-Sayyid Ahmad keeps his shop and the family's fortunes are made.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Muski"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

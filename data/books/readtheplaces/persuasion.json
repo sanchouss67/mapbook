@@ -1,0 +1,93 @@
+{
+  "id": "persuasion",
+  "title": "Persuasion",
+  "author": "Jane Austen",
+  "year": 1817,
+  "description": "Austen's last completed novel runs on a line from the Somerset countryside to Georgian Bath and out to the Dorset coast. Kellynch Hall and Uppercross are invented estates, but she plants them firmly in Somersetshire, near the real market country around Crewkerne and Taunton. Bath is the real spa city, named street by street: the Elliots take a house in Camden Place, the real Camden Crescent up on Lansdown, and Anne walks Milsom Street, the Pump Room and the White Hart inn. And at Lyme Regis on the Dorset coast the party walks out on the Cobb, the real stone harbour wall, where Louisa Musgrove falls. The map draws Anne Elliot's England, from a Somerset drawing-room to the sea wall at Lyme and back to Bath.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kellynch-hall-somerset",
+      "displayName": "Kellynch Hall, Somerset",
+      "country": "GB",
+      "lat": 50.8848,
+      "lng": -2.7957,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "The novel opens on Sir Walter reading his own entry in the Baronetage. His vanity and debt force the family to let Kellynch and retrench to Bath, and it is the tenants he takes on, Admiral and Mrs Croft, who bring Captain Wentworth back into Anne's orbit. The house Anne loves and must leave is the still centre the whole story turns away from and, eight years after a broken engagement, back toward.",
+      "note": "Kellynch Hall, seat of Sir Walter Elliot, is invented, but Austen sites it firmly \"in Somersetshire\" and the geography of the novel (Uppercross three miles off, Lyme seventeen) places it in the market country of south Somerset. No single real house is the model; the pin marks the real town of Crewkerne, near the Dorset border, as a representative anchor for the Elliot estate.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    },
+    {
+      "order": 2,
+      "place": "uppercross-somerset",
+      "displayName": "Uppercross, Somerset",
+      "country": "GB",
+      "lat": 50.905,
+      "lng": -2.842,
+      "reference": "Ch. 5",
+      "certainty": "approximate",
+      "summary": "Anne is sent to stay at Uppercross Cottage with her married sister Mary while the family removes to Bath. Here, among the boisterous, kindly Musgroves, she is thrown back together with Captain Wentworth, now returned rich from the war and paying court to the Musgrove girls. The village is the stage for the long, painful reawakening of a love neither of them will admit.",
+      "note": "Uppercross, the Musgroves' village three miles from Kellynch, is invented, but Austen keeps it in the same real Somerset countryside. The pin marks a representative point in the farming country a few miles northwest of Crewkerne, at about the distance from Kellynch that the novel describes; no single real village is the model.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    },
+    {
+      "order": 3,
+      "place": "the-cobb-lyme-regis",
+      "displayName": "The Cobb at Lyme Regis",
+      "country": "GB",
+      "lat": 50.7186,
+      "lng": -2.9366,
+      "reference": "Ch. 12",
+      "certainty": "exact",
+      "summary": "The pivot of the book. On an outing to Lyme, Louisa Musgrove insists on being \"jumped down\" the steps of the Cobb by Captain Wentworth; she mistimes the leap and falls senseless on the stone. In the crisis it is steady Anne who takes charge while the others panic, and the accident quietly unbinds Wentworth from Louisa. The real sea wall remains a place of pilgrimage for Austen readers.",
+      "note": "The Cobb is the real stone harbour wall of Lyme Regis on the Dorset coast, named by Austen and walked by the party in the novel. The pin marks the Cobb where it curves out into Lyme Bay.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    },
+    {
+      "order": 4,
+      "place": "camden-place-bath",
+      "displayName": "Camden Place, Bath",
+      "country": "GB",
+      "lat": 51.3903,
+      "lng": -2.3614,
+      "reference": "Ch. 15",
+      "certainty": "exact",
+      "summary": "The retrenching Elliots do not economize so much as relocate their vanity: Sir Walter picks the loftiest crescent in Bath for its \"dignified situation.\" Anne joins them here with a sinking heart, and the Bath half of the novel unfolds from this address, its cramped snobbery and its social calls, until the arrival of the Musgroves and Captain Wentworth turns the city into the scene of her second chance.",
+      "note": "Austen's \"Camden Place\" is the real Camden Crescent, the Georgian terrace built by John Eveleigh in 1788 high on the Lansdown slope above Bath; the crescent was known as Camden Place in Austen's day. The pin marks the crescent.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    },
+    {
+      "order": 5,
+      "place": "milsom-street-bath",
+      "displayName": "Milsom Street, Bath",
+      "country": "GB",
+      "lat": 51.3839,
+      "lng": -2.3614,
+      "reference": "Ch. 19",
+      "certainty": "exact",
+      "summary": "On Milsom Street a sudden shower drives Anne into a shop, and there, through the window, she sees Captain Wentworth walking up the street. The chance meeting, his obvious confusion, the awkward business of umbrellas and carriages, is the moment the reader knows the old feeling survives on both sides. Bath's smartest street becomes the stage for the courtship's cautious restart.",
+      "note": "Milsom Street is the real principal shopping street of Georgian Bath, named by Austen. The pin marks the street where it runs up from the lower town toward the Assembly Rooms.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    },
+    {
+      "order": 6,
+      "place": "white-hart-bath",
+      "displayName": "The White Hart, Bath",
+      "country": "GB",
+      "lat": 51.381,
+      "lng": -2.36,
+      "reference": "Ch. 23",
+      "certainty": "exact",
+      "summary": "The novel's climax plays out in a crowded parlour of the White Hart. As Anne argues with Captain Harville that women love longest \"when existence or when hope is gone,\" Wentworth, writing at a nearby table, overhears and pours it all into the letter he presses on her: \"You pierce my soul.\" The reconciliation eight years in the making happens here, in a real Bath inn.",
+      "note": "The White Hart was a real coaching inn in Bath, standing in Stall Street opposite the Pump Room until its demolition in 1867; Austen lodges the visiting Musgroves there. The pin marks the inn's site by the Pump Room in the lower town.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/105"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

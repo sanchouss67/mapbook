@@ -1,0 +1,78 @@
+{
+  "id": "burmese-days",
+  "title": "Burmese Days",
+  "author": "George Orwell",
+  "year": 1934,
+  "description": "Orwell's fictional station of Kyauktada is the real town of Katha on the Irrawaddy in Upper Burma, where he served in the Imperial Police in 1926-27. The map holds the small world of the novel: the European Club at its poisonous centre, the bazaar and the maidan, the river and its jetty, and the jungle beyond where Flory keeps his teak camp. It brings Myanmar and the colonial Irrawaddy into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "kyauktada-katha",
+      "displayName": "Kyauktada, the station",
+      "country": "MM",
+      "lat": 24.18222,
+      "lng": 96.33056,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "Kyauktada is the small colonial district headquarters where the whole novel plays out, a hot river station of a few officials, a bazaar and a scatter of bungalows. Orwell built it from Katha on the Irrawaddy, the town he policed, and its narrowness is the point: everyone knows everyone, and there is nowhere to hide from the racism and boredom the book anatomises.",
+      "note": "Orwell renames the town Kyauktada, but it is closely modelled on the real Katha, where he served in the Imperial Police in 1926-27; several buildings from the novel still stand there. The pin marks the real Katha town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Katha,_Myanmar"
+    },
+    {
+      "order": 2,
+      "place": "european-club",
+      "displayName": "The European Club",
+      "country": "MM",
+      "lat": 24.1828,
+      "lng": 96.3302,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "The European Club is the shabby little social fortress of the white community, and the plot turns on whether it will admit a single Oriental member. Flory's failure to defend his Indian friend Dr Veraswami there is the quiet betrayal at the heart of the book. The real club Orwell drank in still stands at Katha, tennis court and all.",
+      "note": "The Club is the novel's moral centre; the real British Club at Katha survives in part (its ground floor and tennis court remain). Sited at a representative point in the town centre near the surviving building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Katha,_Myanmar"
+    },
+    {
+      "order": 3,
+      "place": "bazaar-maidan",
+      "displayName": "The bazaar and the maidan",
+      "country": "MM",
+      "lat": 24.1814,
+      "lng": 96.3295,
+      "reference": "Chapter 5",
+      "certainty": "approximate",
+      "summary": "Beyond the Club fence lies the Burmese town the officials mostly ignore: the crowded bazaar, the open maidan, the pagoda and the market crowds. It is where the corrupt magistrate U Po Kyin spins the intrigue that drives the plot, and where the gap between rulers and ruled is widest.",
+      "note": "The novel's bazaar and open maidan are the ordinary Burmese town around the European enclave; sited at a representative point in Katha, not a single surveyed spot."
+    },
+    {
+      "order": 4,
+      "place": "irrawaddy-jetty",
+      "displayName": "The Irrawaddy and the jetty",
+      "country": "MM",
+      "lat": 24.1822,
+      "lng": 96.3345,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The great Irrawaddy runs past the station, the road by which everything and everyone arrives, from the steamer to the news from Rangoon. The river and its jetty are the edge of Kyauktada's little world and the reminder of the vast country beyond it. Katha still stands on the real river's western bank.",
+      "note": "Katha sits on the west bank of the real Irrawaddy; this marks a representative point on the river at the town's landing.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Katha,_Myanmar"
+    },
+    {
+      "order": 5,
+      "place": "flory-teak-camp",
+      "displayName": "Flory's teak camp in the jungle",
+      "country": "MM",
+      "lat": 24.2,
+      "lng": 96.28,
+      "reference": "Chapter 4",
+      "certainty": "approximate",
+      "summary": "Flory's real life is out in the teak forest, where he supervises the felling and finds the solitude he cannot admit to at the Club. The jungle camp is where he takes Elizabeth on the doomed courtship, and where the book's few moments of tenderness and honesty happen, away from the station's poison.",
+      "note": "Flory's timber camp is a fictional site in the forest beyond the town; placed at a representative point in the hills near Katha, not a documented location."
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

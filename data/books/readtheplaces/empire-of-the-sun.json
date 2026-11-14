@@ -1,0 +1,93 @@
+{
+  "id": "empire-of-the-sun",
+  "title": "Empire of the Sun",
+  "author": "J. G. Ballard",
+  "year": 1984,
+  "description": "Ballard's wartime Shanghai, drawn from his own childhood: a boy is cut loose from his parents when the Japanese seize the city after Pearl Harbour. The map runs from the family villa in the western suburbs, through the International Settlement of the Bund and Nanking Road, out to the internment camp beside the Lunghua pagoda and airfield where he waits out the war.",
+  "route": [
+    {
+      "order": 1,
+      "place": "amherst-avenue-house",
+      "displayName": "The family house, western suburbs",
+      "country": "CN",
+      "lat": 31.2068,
+      "lng": 121.4218,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The story opens in the sheltered world of an English business family in the western suburbs: a large house, servants, a chauffeured car, and a boy who cycles the leafy avenues. When the Japanese move in after Pearl Harbour, this settled life collapses and the boy loses his parents in the panic. Ballard drew the household straight from his own upbringing on Amherst Avenue.",
+      "note": "The novel places Jim's family in a comfortable villa in Shanghai's western suburbs but gives no address; this marks Amherst Avenue, now off Xinhua Road, where Ballard's own childhood home stood and which the fiction closely follows.",
+      "sourceUrl": "https://shanghailander.net/2010/03/farewell-to-jg-ballards-home/"
+    },
+    {
+      "order": 2,
+      "place": "the-bund",
+      "displayName": "The Bund",
+      "country": "CN",
+      "lat": 31.2371,
+      "lng": 121.4903,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The riverfront boulevard of banks and hotels is where the foreign city meets the Huangpu. In the days around the attack the boy watches Japanese warships take the harbour and sees the flooded, corpse-strewn river that the war leaves behind, the grand facades now backed by an occupied city.",
+      "note": "The Bund is named in the book; this marks the historic waterfront promenade along the Huangpu River in the former International Settlement.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Bund"
+    },
+    {
+      "order": 3,
+      "place": "nanking-road",
+      "displayName": "Nanking Road",
+      "country": "CN",
+      "lat": 31.2354,
+      "lng": 121.478,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The great shopping street of the Settlement, lined with department stores and neon, runs west from the river into the heart of the foreign city. In the empty, looted Shanghai that follows the takeover the boy roams these streets alone, scavenging in abandoned flats while the ordinary world he knew disappears.",
+      "note": "Nanking Road is named in the book; this marks the eastern commercial stretch, today's East Nanjing Road, running inland from the Bund.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nanjing_Road"
+    },
+    {
+      "order": 4,
+      "place": "shanghai-racecourse",
+      "displayName": "The Shanghai Racecourse",
+      "country": "CN",
+      "lat": 31.2312,
+      "lng": 121.474,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The colonial racecourse, a vast green oval in the middle of the city, is turned by the war into a grim holding ground. Captured civilians are herded and sorted here, its grandstand and open turf repurposed by the occupiers before prisoners are moved out to the camps. The site is now People's Square.",
+      "note": "The racecourse is named in the book; this marks the old Shanghai Race Club oval, cleared after the war to become today's People's Square and People's Park.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Race_Club"
+    },
+    {
+      "order": 5,
+      "place": "lunghua-pagoda-airfield",
+      "displayName": "Lunghua pagoda and airfield",
+      "country": "CN",
+      "lat": 31.171,
+      "lng": 121.4498,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The ancient brick pagoda and the military airfield beside it dominate the boy's horizon for the rest of the war. He is drawn to the aircraft dispersed across the field, and the pagoda stands as a fixed landmark over the flat, contested ground. Both are real: the Longhua pagoda still stands, and the airfield operated for decades before it was built over.",
+      "note": "Lunghua's pagoda and airfield are named in the book; this point sits between the Longhua (Lunghua) Pagoda and the former Longhua airfield, about three kilometres apart, that frame the boy's view from the camp.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Longhua_Pagoda"
+    },
+    {
+      "order": 6,
+      "place": "lunghua-assembly-centre",
+      "displayName": "Lunghua Civilian Assembly Centre",
+      "country": "CN",
+      "lat": 31.1427,
+      "lng": 121.4334,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "The internment camp on a former school campus is where the boy spends the long middle years of the war, scraping by on thin rations, trading and scheming, and attaching himself to the adults around him. As the war ends he sees a white flash on the horizon, the distant Nagasaki bomb, and the camp begins to dissolve. The site drew directly on the real centre where Ballard was held.",
+      "note": "The novel names Lunghua as the camp but does not fix a precise perimeter; this marks the former Kiangsu Middle School campus, now Shanghai High School, that historians identify as the real Lunghua Civilian Assembly Centre where Ballard was interned.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lunghua_Civilian_Assembly_Centre"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

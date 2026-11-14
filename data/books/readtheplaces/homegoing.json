@@ -1,0 +1,80 @@
+{
+  "id": "homegoing",
+  "title": "Homegoing",
+  "author": "Yaa Gyasi",
+  "year": 2016,
+  "description": "Two half-sisters born in the eighteenth-century Gold Coast never meet, and the novel follows their descendants down parallel lines for two hundred and fifty years. One line stays in the Fante and Asante country of what is now Ghana, anchored on Cape Coast and its slave castle; the other is shipped across the Atlantic into American slavery and, generations later, the Great Migration north. The map centres on the Cape Coast Castle, where the two lines split, and runs inland to the Asante capital at Kumasi.",
+  "route": [
+    {
+      "order": 1,
+      "place": "fante-coastal-village",
+      "displayName": "A Fante village on the coast",
+      "country": "GH",
+      "lat": 5.09,
+      "lng": -1.32,
+      "reference": "Part One, Effia",
+      "certainty": "approximate",
+      "summary": "The novel opens in a Fante village near the coast, where the elder of two half-sisters comes of age and is married off to a British officer stationed at the nearby slave fort. Her line will stay on the Gold Coast for the rest of the book. The village stands in for the many real Fante communities strung along this stretch of shore in the eighteenth century.",
+      "note": "The village where the first half-sister grows up is not a mapped place; it is a Fante settlement on the Central Region coast a short way from the castle. This marks a representative point on that shoreline west of Cape Coast.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fante_people"
+    },
+    {
+      "order": 2,
+      "place": "cape-coast-castle",
+      "displayName": "Cape Coast Castle",
+      "country": "GH",
+      "lat": 5.1036,
+      "lng": -1.2412,
+      "reference": "Part One, Effia and Esi",
+      "certainty": "exact",
+      "summary": "The castle is the hinge of the whole book. One half-sister lives in the airy governor's quarters above; the other, unknown to her, is held in the women's dungeon beneath the same stone floor before being sold and shipped across the Atlantic. It is a real slave fort, a departure point of the transatlantic trade, and today a UNESCO World Heritage site and museum. Its dungeons and the door to the sea are preserved as they were.",
+      "note": "Cape Coast Castle is a real fortress on the Gulf of Guinea, named in the novel and central to it. The coordinates mark the castle on its rocky promontory.",
+      "sourceUrl": "https://whc.unesco.org/en/list/34/"
+    },
+    {
+      "order": 3,
+      "place": "kumasi-asante-capital",
+      "displayName": "Kumasi, capital of Asante",
+      "country": "GH",
+      "lat": 6.6885,
+      "lng": -1.6244,
+      "reference": "Part One, Quey and later chapters",
+      "certainty": "exact",
+      "summary": "As the Gold Coast line moves inland, the story enters Asante country and its capital, the seat of the Asantehene. Kumasi grounds the novel's account of the powerful inland kingdom, its wars and its own role in the slave trade, set against the coastal forts held by the British. The real city was founded in the late seventeenth century as the capital of the Asante state.",
+      "note": "Kumasi is a real city, the historic Asante capital, named in the novel. It lies roughly 150 kilometres inland from Cape Coast; the wide Ghana bounding box holds both.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kumasi"
+    },
+    {
+      "order": 4,
+      "place": "alabama-coal-mines",
+      "displayName": "The coal country of Alabama",
+      "country": "GH",
+      "lat": 33.5207,
+      "lng": -86.8025,
+      "reference": "Part Two, H",
+      "certainty": "exact",
+      "summary": "Generations after the Atlantic crossing, the descendants of the sold sister live under American slavery and then, nominally free, are pulled into the convict-lease system that fed the Alabama coal mines. The chapter set here follows a man leased out to dig coal near Birmingham, one link in a chain that runs from a Gold Coast dungeon to an American pit.",
+      "note": "The American line reaches the coal-mining district around Birmingham, Alabama, a real place named in the novel and far from the Gold Coast setting. The coordinates mark central Birmingham; the mines and convict-lease camps such as Pratt City lay on its western edge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Convict_lease"
+    },
+    {
+      "order": 5,
+      "place": "harlem-new-york",
+      "displayName": "Harlem, New York",
+      "country": "GH",
+      "lat": 40.8116,
+      "lng": -73.9465,
+      "reference": "Part Two, Sonny",
+      "certainty": "exact",
+      "summary": "The American line's northward move ends in Harlem during the Great Migration, in a chapter that turns on heroin, addiction and the weight of inherited history in a mid-century Black neighbourhood. It is the far end of the arc the book traces from a single family split at Cape Coast, generations and an ocean away from where it began.",
+      "note": "Harlem is a real district of Upper Manhattan, named in the novel and far from the Gold Coast setting. The coordinates mark the centre of the neighbourhood.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harlem"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

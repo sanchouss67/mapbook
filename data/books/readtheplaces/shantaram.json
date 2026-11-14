@@ -1,0 +1,93 @@
+{
+  "id": "shantaram",
+  "title": "Shantaram",
+  "author": "Gregory David Roberts",
+  "year": 2003,
+  "description": "The 1980s Bombay of an escaped Australian convict who remakes himself as 'Lin': a city of Colaba tourist cafes and Gateway crowds, of a sprawling seaside slum, the red-light lanes of Kamathipura and the underworld that runs beneath them. The map anchors in South Bombay around Colaba and reaches north to the prison on Arthur Road.",
+  "route": [
+    {
+      "order": 1,
+      "place": "leopold-cafe",
+      "displayName": "Leopold Café, Colaba Causeway",
+      "country": "IN",
+      "lat": 18.92279,
+      "lng": 72.83158,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "Soon after landing in Bombay the narrator falls in with the drifters, dealers and expatriates who hold court at a busy Colaba cafe. It becomes his social hub and listening post, the place where deals and friendships are struck. The real Leopold Café has stood on Colaba Causeway since the late nineteenth century.",
+      "note": "The novel names Leopold's by name; this marks the real cafe and bar on Colaba Causeway that Roberts drew on.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leopold_Cafe"
+    },
+    {
+      "order": 2,
+      "place": "colaba-lodgings",
+      "displayName": "Lin's lodgings, Colaba",
+      "country": "IN",
+      "lat": 18.9163,
+      "lng": 72.832,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "Before the slum, the narrator lodges in the run of cheap tourist hotels behind the Causeway, the standard first berth for a foreigner arriving with a false passport and little money. The neighbourhood of small guest houses near Arthur Bunder Road fits the world he describes.",
+      "note": "The book keeps to cheap traveller hotels off Colaba Causeway without pinning one address; this marks the guest-house strip along Arthur Bunder Road as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colaba"
+    },
+    {
+      "order": 3,
+      "place": "gateway-of-india",
+      "displayName": "The Gateway of India",
+      "country": "IN",
+      "lat": 18.922,
+      "lng": 72.8347,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The great basalt arch on the harbour edge recurs as the narrator's window on Bombay, a meeting spot and a threshold between the sea and the city. Built to mark a royal visit in 1911, it stands at Apollo Bunder a short walk from Colaba's hotels.",
+      "note": "The Gateway of India is named in the novel; coordinates mark the monument on the Colaba waterfront.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gateway_of_India"
+    },
+    {
+      "order": 4,
+      "place": "marine-drive",
+      "displayName": "Marine Drive",
+      "country": "IN",
+      "lat": 18.943,
+      "lng": 72.8228,
+      "reference": "Part Two",
+      "certainty": "exact",
+      "summary": "The long seafront sweep along Back Bay, with its evening crowds and lamp-lit curve, is one of the narrator's favourite stretches of the city and a stage for several turns in the story. Its arc of lights has long been nicknamed the Queen's Necklace.",
+      "note": "Marine Drive is named in the novel; this marks a central point on the seafront boulevard that curves along Back Bay.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+    },
+    {
+      "order": 5,
+      "place": "cuffe-parade-slum",
+      "displayName": "The zopadpatti, near Cuffe Parade",
+      "country": "IN",
+      "lat": 18.909,
+      "lng": 72.8163,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "The heart of the story is a vast shanty settlement where the narrator lives among its people and runs an unlicensed free clinic, learning the city from the inside. Roberts's slum reads as one of the seaside zopadpattis of South Bombay, near the reclaimed land at Cuffe Parade, rather than a single documented address.",
+      "note": "The novel's slum is a composite and is not given a fixed map name; this marks the reclaimed seaside ground near Cuffe Parade in South Bombay that fits its position by the water and near the tourist district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cuffe_Parade"
+    },
+    {
+      "order": 6,
+      "place": "arthur-road-prison",
+      "displayName": "Arthur Road Prison",
+      "country": "IN",
+      "lat": 18.98519,
+      "lng": 72.82976,
+      "reference": "Part Three",
+      "certainty": "exact",
+      "summary": "Held without charge, the narrator endures a stretch in Bombay's oldest and most crowded jail, a brutal passage that hardens the book's middle. The prison on Arthur Road, officially Mumbai Central Prison, was built in 1926 and stands near Chinchpokli, north of the old city.",
+      "note": "Arthur Road jail is named in the novel; coordinates mark Mumbai Central Prison on Sane Guruji Marg.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mumbai_Central_Jail"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

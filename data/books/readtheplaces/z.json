@@ -1,0 +1,80 @@
+{
+  "id": "z",
+  "title": "Z",
+  "author": "Vassilis Vassilikos",
+  "year": 1966,
+  "description": "A thinly fictionalised account of the 1963 murder of the leftist deputy Grigoris Lambrakis in Thessaloniki by right-wing thugs with police collusion, and the dogged investigation that exposed the conspiracy. Vassilikos maps the real city: the hall where the Deputy speaks at a peace rally, the central street where a three-wheeled truck runs him down, the hospital where he dies, the courthouse where an honest magistrate unpicks the cover-up, and the waterfront under the shadow of the coming junta.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rally-hall",
+      "displayName": "The rally hall (the Deputy's speech)",
+      "country": "GR",
+      "lat": 40.6335,
+      "lng": 22.941,
+      "reference": "Part 1",
+      "certainty": "approximate",
+      "summary": "The pacifist Deputy arrives to speak at a rally the authorities have done everything to sabotage, the hall besieged by paid thugs and passive police. Vassilikos builds the atmosphere of menace around the meeting exactly, a democratic act taking place inside a trap the state has already sprung.",
+      "note": "The Deputy comes to central Thessaloniki to address a peace meeting, held in a hall near the centre while an organised mob and complicit police gather outside; the venue is sited in the real city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Z_(novel)"
+    },
+    {
+      "order": 2,
+      "place": "assassination-street",
+      "displayName": "The assassination street",
+      "country": "GR",
+      "lat": 40.636,
+      "lng": 22.943,
+      "reference": "Part 1",
+      "certainty": "exact",
+      "summary": "In full view of the crowd and the watching police, a battered three-wheeler roars out and knocks the Deputy down, a thug leaning out to strike his skull. A journalist's photographs and the testimony of ordinary bystanders will later make the 'accident' impossible to sustain.",
+      "note": "As the Deputy crosses a central Thessaloniki street after the meeting, a three-wheeled delivery truck driven by right-wing thugs runs him down and a passenger clubs him; the attack took place on a real street in the city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Z_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "the-hospital",
+      "displayName": "The hospital",
+      "country": "GR",
+      "lat": 40.628,
+      "lng": 22.962,
+      "reference": "Part 2",
+      "certainty": "approximate",
+      "summary": "For days the Deputy lies dying while the nation waits and his widow keeps vigil, and the regime prepares its story of a traffic accident and a drunk driver. His death turns a local outrage into a national one, and brings a crowd of hundreds of thousands into the streets.",
+      "note": "The gravely injured Deputy is taken to a Thessaloniki hospital, where he dies days later; sited at the city's real central hospital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Z_(novel)"
+    },
+    {
+      "order": 4,
+      "place": "the-courthouse",
+      "displayName": "The courthouse (the investigation)",
+      "country": "GR",
+      "lat": 40.632,
+      "lng": 22.945,
+      "reference": "Part 3",
+      "certainty": "approximate",
+      "summary": "The incorruptible investigating magistrate, pulling one thread after another, exposes the network of thugs, officers and officials behind what was staged as an accident, and dares to indict generals. His lonely integrity, the book's one clean force, is what turns a cover-up into a scandal that shakes the state.",
+      "note": "An examining magistrate reopens the case from the Thessaloniki courts and, against enormous pressure, traces the murder to a shadowy right-wing organisation and the police; sited at the city's real court complex.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Z_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "white-tower-waterfront",
+      "displayName": "The White Tower and the waterfront",
+      "country": "GR",
+      "lat": 40.6265,
+      "lng": 22.9485,
+      "reference": "Part 3",
+      "certainty": "exact",
+      "summary": "Along the seafront by the White Tower, the city that watched the murder becomes the city that mourns and marches. Yet the book ends under a gathering shadow: within four years the colonels' coup would jail the investigators, ban the dead man's memory, and prove how fragile the victory of the truth had been.",
+      "note": "The White Tower on the Thessaloniki seafront, the city's great landmark, stands over the whole affair; the waterfront is the real public space where the political struggle plays out.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/White_Tower_of_Thessaloniki"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

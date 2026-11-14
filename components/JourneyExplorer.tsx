@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 import BookSelector from "@/components/BookSelector";
 import PlaceCard from "@/components/PlaceCard";
 import RouteTimeline from "@/components/RouteTimeline";
-import type { BookRoute, RoutePoint } from "@/types/book";
+import type { BookRoute, BookSummary, RoutePoint } from "@/types/book";
 
 const JourneyMap = dynamic(() => import("@/components/JourneyMap"), {
   ssr: false,
@@ -13,12 +13,14 @@ const JourneyMap = dynamic(() => import("@/components/JourneyMap"), {
 });
 
 type JourneyExplorerProps = {
-  books: BookRoute[];
+  books: BookSummary[];
+  initialBook: BookRoute;
 };
 
-export default function JourneyExplorer({ books }: JourneyExplorerProps) {
-  const [selectedBookId, setSelectedBookId] = useState(books[0]?.id ?? "");
-  const selectedBook = books.find((book) => book.id === selectedBookId) ?? books[0];
+export default function JourneyExplorer({ books, initialBook }: JourneyExplorerProps) {
+  const [selectedBook, setSelectedBook] = useState<BookRoute>(initialBook);
+  const [isLoadingBook, setIsLoadingBook] = useState(false);
+  const [bookError, setBookError] = useState("");
 
   const orderedRoute = useMemo(
     () => [...selectedBook.route].sort((first, second) => first.order - second.order),
@@ -27,15 +29,25 @@ export default function JourneyExplorer({ books }: JourneyExplorerProps) {
 
   const [selectedPoint, setSelectedPoint] = useState<RoutePoint>(orderedRoute[0]);
 
-  const selectBook = (bookId: string) => {
-    const nextBook = books.find((book) => book.id === bookId);
-    if (!nextBook) {
-      return;
-    }
+  const selectBook = async (bookId: string) => {
+    if (bookId === selectedBook.id) return;
 
-    const firstPoint = [...nextBook.route].sort((first, second) => first.order - second.order)[0];
-    setSelectedBookId(bookId);
-    setSelectedPoint(firstPoint);
+    setIsLoadingBook(true);
+    setBookError("");
+
+    try {
+      const response = await fetch(`/api/books/` + encodeURIComponent(bookId));
+      if (!response.ok) throw new Error("Маршрут не найден");
+
+      const nextBook = (await response.json()) as BookRoute;
+      const firstPoint = [...nextBook.route].sort((first, second) => first.order - second.order)[0];
+      setSelectedBook(nextBook);
+      setSelectedPoint(firstPoint);
+    } catch {
+      setBookError("Не удалось загрузить маршрут. Попробуйте ещё раз.");
+    } finally {
+      setIsLoadingBook(false);
+    }
   };
 
   const selectPoint = (point: RoutePoint) => {
@@ -54,6 +66,8 @@ export default function JourneyExplorer({ books }: JourneyExplorerProps) {
       </header>
 
       <BookSelector books={books} selectedBookId={selectedBook.id} onSelectBook={selectBook} />
+      {isLoadingBook ? <p className="bookStatus">Загружаю маршрут…</p> : null}
+      {bookError ? <p className="bookStatus error">{bookError}</p> : null}
 
       <section className="bookSummary" aria-label="Описание выбранной книги">
         <div>
@@ -62,7 +76,21 @@ export default function JourneyExplorer({ books }: JourneyExplorerProps) {
             {selectedBook.author} — «{selectedBook.title}»
           </h2>
         </div>
-        <p>{selectedBook.description}</p>
+        <div className="bookDescription">
+          <p>{selectedBook.description}</p>
+          {selectedBook.source ? (
+            <p className="sourceCredit">
+              Маршрут:{" "}
+              <a href={selectedBook.source.url} target="_blank" rel="noreferrer">
+                {selectedBook.source.name}
+              </a>{" "}
+              ·{" "}
+              <a href={selectedBook.source.licenseUrl} target="_blank" rel="noreferrer">
+                {selectedBook.source.license}
+              </a>
+            </p>
+          ) : null}
+        </div>
       </section>
 
       <section className="journeyLayout" aria-label="Карта и точки маршрута">

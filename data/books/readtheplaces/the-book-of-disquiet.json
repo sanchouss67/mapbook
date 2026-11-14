@@ -1,0 +1,80 @@
+{
+  "id": "the-book-of-disquiet",
+  "title": "The Book of Disquiet",
+  "author": "Fernando Pessoa",
+  "year": 1982,
+  "description": "The factless diary of Bernardo Soares, an assistant bookkeeper who fixes almost his entire life to a few blocks of the Lisbon Baixa. The map keeps to the grid he names again and again: Rua dos Douradores, where his office and rented room stand, the parallel Rua da Prata, the Rossio at the head of the lower town, and the Tagus riverfront where the pavement runs down to the water at Cais das Colunas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "rua-dos-douradores-office",
+      "displayName": "Rua dos Douradores",
+      "country": "PT",
+      "lat": 38.7116,
+      "lng": -9.1367,
+      "reference": "Bernardo Soares's office and rented room, Rua dos Douradores",
+      "certainty": "exact",
+      "summary": "This one downtown street is the narrator's whole world. He keeps ledgers by day in the firm of his employer Vasques and climbs at night to a hired upper room on the same street, until the office, the boss and the errand boy are nearly the only company the diary admits. He treats the confinement as a fate he has half chosen.",
+      "note": "Pessoa names the street repeatedly but gives no house number, so this marks a representative point along Rua dos Douradores in the Baixa.",
+      "sourceUrl": "https://www.artsoulgroup.com/en/blog/fernando-pessoa-lisbon-in-5-passages-from-the-book-of-disquiet/"
+    },
+    {
+      "order": 2,
+      "place": "rua-da-prata",
+      "displayName": "Rua da Prata",
+      "country": "PT",
+      "lat": 38.71,
+      "lng": -9.1364,
+      "reference": "The Baixa streets around Rua dos Douradores",
+      "certainty": "exact",
+      "summary": "One of the straight, silversmith-named streets of the rebuilt lower town, running parallel to the narrator's own. He threads these near-identical blocks between his room and his desk, and the regularity of the grid becomes a mirror for the sameness of his days.",
+      "note": "The street is named in the diary; sited at a representative point along Rua da Prata, one block west of Rua dos Douradores.",
+      "sourceUrl": "https://dialnet.unirioja.es/descarga/articulo/7430673.pdf"
+    },
+    {
+      "order": 3,
+      "place": "rossio",
+      "displayName": "The Rossio",
+      "country": "PT",
+      "lat": 38.71389,
+      "lng": -9.13944,
+      "reference": "The Rossio, at the head of the Baixa",
+      "certainty": "exact",
+      "summary": "The wide plaza that closes the top of the grid, with its cafe tables, fountains and passing crowd. The narrator sits and watches the small traffic of the city here, a spectator who would rather observe life than take part in it.",
+      "note": "Pessoa names the Rossio; coordinates are the centre of the square, officially Praca de Dom Pedro IV.",
+      "sourceUrl": "https://www.artsoulgroup.com/en/blog/fernando-pessoa-lisbon-in-5-passages-from-the-book-of-disquiet/"
+    },
+    {
+      "order": 4,
+      "place": "terreiro-do-paco",
+      "displayName": "Terreiro do Paco",
+      "country": "PT",
+      "lat": 38.7075,
+      "lng": -9.13639,
+      "reference": "The riverside square where the Baixa meets the Tagus",
+      "certainty": "exact",
+      "summary": "The grand arcaded square where the lower town opens onto the water. The narrator crosses it toward the river at the end of the day, drawn out of the closed streets by the sudden width of sky and the smell of the estuary.",
+      "note": "Pessoa names the riverside square, today Praca do Comercio; coordinates are the centre of the plaza.",
+      "sourceUrl": "https://dialnet.unirioja.es/descarga/articulo/7430673.pdf"
+    },
+    {
+      "order": 5,
+      "place": "cais-das-colunas",
+      "displayName": "Cais das Colunas",
+      "country": "PT",
+      "lat": 38.7065,
+      "lng": -9.1361,
+      "reference": "The Tagus waterfront below Terreiro do Paco",
+      "certainty": "exact",
+      "summary": "The low marble landing and its pair of columns where the pavement runs down into the Tagus. The narrator comes to the waterfront to watch the light shift on the river and the ships stand out in the estuary, the recurring release from the office and the grid behind him.",
+      "note": "The marble quay and its two columns on the south side of Terreiro do Paco; coordinates mark the steps at the river's edge.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/Cais_das_Colunas"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "middlesex",
+  "title": "Middlesex",
+  "author": "Jeffrey Eugenides",
+  "year": 2002,
+  "description": "Three generations of a Greek American family, told by Cal Stephanides, run from a burning city on the Aegean to the assembly lines and streets of Detroit. The map holds the east-side Greek quarter where the grandparents land, the boulevard where the city caught fire in 1967, and the quiet modernist house out in Grosse Pointe where the family finally lands.",
+  "route": [
+    {
+      "order": 1,
+      "place": "smyrna-quay",
+      "displayName": "The quay at Smyrna",
+      "country": "US",
+      "lat": 38.433,
+      "lng": 27.138,
+      "reference": "Book One",
+      "certainty": "exact",
+      "summary": "Before Detroit there is the sea. The saga begins with the destruction of Smyrna in 1922, when the Greek population fled the burning waterfront and the narrator's grandparents boarded a ship toward America. The city is now Izmir; the harbour promenade is the seam where the family's crossing starts.",
+      "note": "Smyrna is named in the novel; this marks the waterfront of the old city, today's Izmir on the Turkish Aegean, where the 1922 catastrophe played out.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_fire_of_Smyrna"
+    },
+    {
+      "order": 2,
+      "place": "greektown-detroit",
+      "displayName": "Greektown, Detroit",
+      "country": "US",
+      "lat": 42.3352,
+      "lng": -83.0421,
+      "reference": "Book Two",
+      "certainty": "exact",
+      "summary": "Arriving in Detroit, the grandparents step into the city's Greek immigrant world. The Monroe Street blocks known as Greektown, the last Victorian commercial streetscape downtown, hold the coffee houses, groceries and Orthodox church that anchor the newcomers and give the early Detroit chapters their community.",
+      "note": "The Greek district of Detroit is named in the novel; this marks its historic heart on Monroe Street, where the family's coffee house and church life sit.",
+      "sourceUrl": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/greektown-historic-district"
+    },
+    {
+      "order": 3,
+      "place": "hurlbut-street-home",
+      "displayName": "The family home and the Zebra Room, Hurlbut Street",
+      "country": "US",
+      "lat": 42.3616,
+      "lng": -82.9875,
+      "reference": "Book Two",
+      "certainty": "approximate",
+      "summary": "The grandparents settle into a rented house on Hurlbut Street on the east side and run a bar and grill, the Zebra Room, downstairs from where they live. The street is real; the diner and the exact address belong to the novel. This point sits on Hurlbut near the old Greek east-side settlement.",
+      "note": "The novel puts the family on Hurlbut Street on Detroit's east side, but the specific house and the Zebra Room diner are invented; this marks a representative point on Hurlbut in the Islandview area.",
+      "sourceUrl": "https://www.atdetroit.net/forum/messages/76017/85083.html"
+    },
+    {
+      "order": 4,
+      "place": "twelfth-street-1967",
+      "displayName": "Twelfth Street and the 1967 uprising",
+      "country": "US",
+      "lat": 42.3836,
+      "lng": -83.0989,
+      "reference": "Book Three",
+      "certainty": "exact",
+      "summary": "The summer of 1967 breaks into the family story when the police raid an after-hours bar on Twelfth Street and the city erupts. The corner of Twelfth and Clairmount, where the burning began, is now Gordon Park; Twelfth Street itself has been renamed Rosa Parks Boulevard. The unrest reaches the family's business and pushes them toward the suburbs.",
+      "note": "Twelfth Street and the 1967 riot are named in the novel; this marks the flashpoint at Twelfth and Clairmount, now Gordon Park on Rosa Parks Boulevard.",
+      "sourceUrl": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/uprising-1967"
+    },
+    {
+      "order": 5,
+      "place": "middlesex-grosse-pointe",
+      "displayName": "Middlesex, Grosse Pointe Park",
+      "country": "US",
+      "lat": 42.3772,
+      "lng": -82.9318,
+      "reference": "Book Three",
+      "certainty": "approximate",
+      "summary": "Prospering, the family leaves the city for a strange modernist house on a leafy street named Middlesex in Grosse Pointe. The name gives the book its title and its double meaning. The real Middlesex Road runs through Grosse Pointe Park, the suburb where the author grew up; the house of the novel is a composite of homes he knew there.",
+      "note": "The novel's modernist house on a street named Middlesex draws on Eugenides's own childhood block in Grosse Pointe Park; the fictional house is a composite, and this marks Middlesex Road near his family's addresses at 741 and 567.",
+      "sourceUrl": "https://www.redfin.com/MI/Grosse-Pointe-Park/741-Middlesex-Rd-48230/home/61253576"
+    },
+    {
+      "order": 6,
+      "place": "berlin-narration",
+      "displayName": "Berlin, the narrator's present",
+      "country": "US",
+      "lat": 52.52,
+      "lng": 13.405,
+      "reference": "Book Four",
+      "certainty": "exact",
+      "summary": "The whole story is remembered from a distance. The adult Cal narrates from Berlin, working there years later and looking back across the ocean at Detroit. A city once split and rejoined mirrors a narrator caught between identities, and it frames the family history from outside America.",
+      "note": "Berlin is named as the city from which the adult narrator writes; this marks the central point of the reunified capital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Middlesex_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

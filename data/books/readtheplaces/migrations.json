@@ -1,0 +1,80 @@
+{
+  "id": "migrations",
+  "title": "Migrations",
+  "author": "Miloš Crnjanski",
+  "year": 1929,
+  "description": "Crnjanski's melancholy masterpiece follows the Serbs of the Habsburg military frontier in the 1740s, colonists and soldiers of an empire not their own, dreaming of migrating to Orthodox Russia. Its ground is the Serbian frontier of the Vojvodina and Srem along the Danube: the frontier villages and the officer Vuk Isakovič's home, the great river that marks the border and the road to war, and the prosperous town of his merchant brother, while the campaigns of a foreign war and the far-off dream of Russia pull the exiles endlessly on.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-frontier-villages",
+      "displayName": "The frontier villages",
+      "country": "RS",
+      "lat": 45,
+      "lng": 19.7,
+      "reference": "The home chapters",
+      "certainty": "approximate",
+      "summary": "In the frontier village Vuk Isakovič's wife Dafina waits through the long absences of a soldier-husband forever marched off to the Empire's wars. The colonists' precarious life on the military border, tolerated but never quite belonging, is the ground of the book's great theme of a people without a country of their own.",
+      "note": "The Isakovič family lives in the Serbian villages of the Habsburg military frontier in the Vojvodina and Srem; the villages are sited in that real region along the Danube, the specific settlement the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Military_Frontier"
+    },
+    {
+      "order": 2,
+      "place": "the-danube-frontier",
+      "displayName": "The Danube (the frontier)",
+      "country": "RS",
+      "lat": 45.05,
+      "lng": 19.75,
+      "reference": "The march chapters",
+      "certainty": "exact",
+      "summary": "From the banks of the Danube Vuk leads his Serbian regiment off to fight the Empire's battles far away, weary and half-unwilling, a soldier of a cause that is not his people's. The river, boundary and road at once, carries him out toward the West and back again, the eternal coming and going that gives the book its title.",
+      "note": "The Danube, the great river marking the frontier of the Habsburg lands, is where Vuk's regiment musters and crosses to march to war; the real river anchors the geography of the frontier.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danube"
+    },
+    {
+      "order": 3,
+      "place": "the-western-campaign",
+      "displayName": "The western campaign",
+      "country": "RS",
+      "lat": 50,
+      "lng": 8,
+      "reference": "The war chapters",
+      "certainty": "approximate",
+      "summary": "Under Austrian generals, Vuk's Serbs are marched across half of Europe to fight in a war whose causes mean nothing to them, dying for an emperor who despises them. The distant, pointless campaign, all mud, boredom and slaughter, embodies the futility of a people's service to a foreign crown.",
+      "note": "Vuk's regiment marches west to fight in the War of the Austrian Succession, on campaigns in the German lands; the theatre is real, the exact route the novel's own, far from the Serbian frontier.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
+    },
+    {
+      "order": 4,
+      "place": "the-merchant-town",
+      "displayName": "The merchant's town",
+      "country": "RS",
+      "lat": 45.02,
+      "lng": 19.72,
+      "reference": "The Aranđel chapters",
+      "certainty": "approximate",
+      "summary": "While Vuk marches and dies a little on every campaign, his brother Aranđel stays home and grows rich by trade, and in the officer's absence draws close to Dafina. The merchant's comfortable, worldly life stands against the soldier's rootless honour, the two brothers embodying the choices open to a people trying to survive between empires.",
+      "note": "Vuk's brother Aranđel prospers as a merchant in a frontier town of the Vojvodina; the town and his house are sited in the real region, the specific place the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "the-dream-of-russia",
+      "displayName": "The dream of Russia",
+      "country": "RS",
+      "lat": 55.75,
+      "lng": 37.6,
+      "reference": "The longing chapters",
+      "certainty": "approximate",
+      "summary": "Through all his weariness Vuk nurses the dream shared by many of the frontier Serbs, of migrating to a great Orthodox Russia where they would at last be among their own. Russia, forever imagined and never reached, is the blue horizon of the book's longing, the true homeland that exists only as a direction to keep migrating toward.",
+      "note": "Vuk and many frontier Serbs dream of migrating to Orthodox Russia, an imagined homeland far to the north-east; sited at Russia, the longed-for destination beyond the novel's actual setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Migrations_(novel)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

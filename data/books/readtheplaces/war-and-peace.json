@@ -1,0 +1,80 @@
+{
+  "id": "war-and-peace",
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "year": 1869,
+  "description": "Across the Napoleonic Wars of 1805 to 1812, Tolstoy follows the Bezukhov, Bolkonsky and Rostov families through the salons of Petersburg, the society of Moscow, the country estates, and the battlefields where private lives and vast history collide. The novel maps a real geography: the imperial capital and the old city, the Bolkonsky estate in the provinces, the field of Austerlitz where Prince Andrei looks up at the infinite sky, and Borodino, after which Moscow burns and the French begin their ruinous retreat.",
+  "route": [
+    {
+      "order": 1,
+      "place": "saint-petersburg",
+      "displayName": "Saint Petersburg",
+      "country": "RU",
+      "lat": 59.93,
+      "lng": 30.33,
+      "reference": "Volume I",
+      "certainty": "exact",
+      "summary": "The book begins at Anna Pavlovna Scherer's soirée in Petersburg, where the war is still a topic of drawing-room talk and the young Pierre blunders through society. Tolstoy sets the glittering, hollow world of the capital's salons against the reality of the front to come, the peace whose complacency the war will shatter.",
+      "note": "The novel opens in the salons of Saint Petersburg, the real imperial capital, where the aristocracy debates the coming war with Napoleon; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Petersburg"
+    },
+    {
+      "order": 2,
+      "place": "austerlitz",
+      "displayName": "Austerlitz",
+      "country": "RU",
+      "lat": 49.15,
+      "lng": 16.88,
+      "reference": "Volume I, the campaign",
+      "certainty": "exact",
+      "summary": "At Austerlitz, carrying the standard forward, Prince Andrei falls wounded and lies staring up at the high, endless sky, and all his dreams of glory drain away before its vast indifference. Tolstoy makes the battle the book's first great collision of human ambition with something immeasurably larger, the sky that reduces Napoleon himself to an insect.",
+      "note": "The Battle of Austerlitz (1805) in Moravia, where Prince Andrei is wounded, is a real battle; sited at the field near Slavkov, far outside the Russian setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
+    },
+    {
+      "order": 3,
+      "place": "bald-hills",
+      "displayName": "Bald Hills",
+      "country": "RU",
+      "lat": 54.07,
+      "lng": 37.53,
+      "reference": "The estate chapters",
+      "certainty": "approximate",
+      "summary": "At the Bolkonsky estate of Bald Hills, the old prince rules his household like a martinet, and the quiet rhythms of country life go on between the campaigns. Tolstoy, drawing on his own Yasnaya Polyana, sets against the war the deep Russian world of land, family and season that he believed carried the nation's true life.",
+      "note": "The Bolkonsky country estate of Bald Hills is drawn from Tolstoy's own Yasnaya Polyana in Tula province; sited in that real region south of Moscow.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yasnaya_Polyana"
+    },
+    {
+      "order": 4,
+      "place": "borodino",
+      "displayName": "Borodino",
+      "country": "RU",
+      "lat": 55.52,
+      "lng": 35.82,
+      "reference": "Volume III",
+      "certainty": "exact",
+      "summary": "At Borodino, Pierre strays onto the battlefield in a green tailcoat and watches the slaughter he cannot comprehend, as the Russian army bleeds the French white without breaking. Tolstoy makes the day his argument against the great-man theory of history: no general commands the chaos, and the war is decided by the spirit of countless ordinary men.",
+      "note": "The Battle of Borodino (1812), the bloodiest day of the Napoleonic Wars, is a real battle west of Moscow, which Pierre wanders as a bewildered civilian; sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Borodino"
+    },
+    {
+      "order": 5,
+      "place": "moscow-burning",
+      "displayName": "Moscow",
+      "country": "RU",
+      "lat": 55.75,
+      "lng": 37.62,
+      "reference": "Volume III-IV",
+      "certainty": "exact",
+      "summary": "As Napoleon takes an abandoned Moscow, the city burns, the Rostovs flee with the wounded, and Pierre, staying behind, is captured and marched out with the retreating army. In the fire and the terrible retreat that follows, Tolstoy shows the invader's triumph turning to ruin, and his characters stripped down to what endures when everything else is lost.",
+      "note": "Moscow, the real old capital, is abandoned and burns as the French enter in 1812, and Pierre is taken prisoner there; sited in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

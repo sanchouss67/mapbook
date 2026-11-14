@@ -1,0 +1,80 @@
+{
+  "id": "the-sound-of-waves",
+  "title": "The Sound of Waves",
+  "author": "Yukio Mishima",
+  "year": 1954,
+  "description": "Mishima's simple, luminous love story is set on Uta-jima, a small fishing island in Ise Bay drawn from the real island of Kamishima, where the young fisherman Shinji and the diver's daughter Hatsue fall in love against a tide of gossip. The whole island is the book: the fishing village and its harbour, the steep stone steps of the Yashiro shrine to the sea god, the lighthouse on the height, and the sea itself, worked by the boats and the diving women.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-fishing-village",
+      "displayName": "The fishing village",
+      "country": "JP",
+      "lat": 34.53,
+      "lng": 136.99,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "In the small, close village where everyone knows everyone, the poor young fisherman Shinji lives with his widowed mother and works the boats. Mishima renders the island's hard, honest labour and its watchful community, the world against which the pure love of Shinji and Hatsue must prove itself.",
+      "note": "The island of Uta-jima and its fishing village are drawn from the real island of Kamishima in Ise Bay; the harbour and village are sited there.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kamishima,_Toba"
+    },
+    {
+      "order": 2,
+      "place": "the-yashiro-shrine",
+      "displayName": "The Yashiro shrine",
+      "country": "JP",
+      "lat": 34.532,
+      "lng": 136.992,
+      "reference": "Chapter 3",
+      "certainty": "exact",
+      "summary": "At the shrine at the top of its two hundred stone steps, Shinji prays for a bride as beautiful as the diver's daughter Hatsue, newly returned to the island. The shrine to the sea god, presiding over the fishermen's lives, blesses the love the village gossips try to poison.",
+      "note": "The island's shrine to the sea god, reached by a long flight of stone steps, is drawn from the real Yashiro Shrine on Kamishima; it is where the young pray and where the story's fortunes turn.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kamishima,_Toba"
+    },
+    {
+      "order": 3,
+      "place": "the-lighthouse",
+      "displayName": "The lighthouse",
+      "country": "JP",
+      "lat": 34.535,
+      "lng": 136.995,
+      "reference": "Chapter 4",
+      "certainty": "exact",
+      "summary": "At the lighthouse-keeper's house, where island girls come to learn manners, the threads of the plot cross, and the rich, sullen Yasuo, son of the island's most powerful family, sets himself as Shinji's rival for Hatsue. The height and its light, watching over the dark sea, look down on the small human jealousies below.",
+      "note": "A lighthouse and its keeper's household stand on the island's height; the real Kamishima lighthouse anchors this part of the story, where the young of the island gather.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sound_of_Waves"
+    },
+    {
+      "order": 4,
+      "place": "the-observation-tower",
+      "displayName": "The observation tower",
+      "country": "JP",
+      "lat": 34.534,
+      "lng": 136.988,
+      "reference": "Chapter 8",
+      "certainty": "approximate",
+      "summary": "In the abandoned tower, sheltering from a storm, the two lovers meet, and in the book's famous scene Hatsue tells Shinji to leap the fire between them if he is pure, and they master their desire. The wild weather and the ruin become the test of a love the book insists is as clean and strong as the island itself.",
+      "note": "Shinji and Hatsue's secret meeting in a storm takes place in a ruined observation tower on the island; the tower is sited on the real island's heights, the specific ruin the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sound_of_Waves"
+    },
+    {
+      "order": 5,
+      "place": "the-sea-diving",
+      "displayName": "The sea (the diving grounds)",
+      "country": "JP",
+      "lat": 34.528,
+      "lng": 136.985,
+      "reference": "Chapter 11",
+      "certainty": "exact",
+      "summary": "In the cold sea the island's women dive for abalone, Shinji's mother among them, while the men fish the surrounding waters, and it is at sea that Shinji finally proves his courage in a typhoon. The waves that give the book its title carry the whole world of the island, and reward the honest heart with the happiness the gossips could not deny.",
+      "note": "The sea around the island, worked by the fishing boats and the diving women, is the real element of the book; sited in the waters off Kamishima.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ama_(diving)"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

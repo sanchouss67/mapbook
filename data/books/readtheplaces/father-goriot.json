@@ -1,0 +1,77 @@
+{
+  "id": "father-goriot",
+  "title": "Father Goriot",
+  "author": "Honoré de Balzac",
+  "year": 1835,
+  "description": "Balzac's Paris of 1819, climbed one address at a time. The shabby Maison Vauquer stands in the poor Latin-Quarter streets behind the Panthéon; from there Rastignac reaches up to Mme de Beauseant's salon in the Faubourg Saint-Germain and the new money of the Chaussee d'Antin, and buries Goriot on the heights of Pere-Lachaise. Balzac maps the whole social ladder onto real streets, and it brings the founder of the realist novel into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "maison-vauquer",
+      "displayName": "The Maison Vauquer, Rue Neuve-Sainte-Genevieve",
+      "country": "FR",
+      "lat": 48.8413,
+      "lng": 2.3488,
+      "reference": "The Maison Vauquer",
+      "certainty": "approximate",
+      "summary": "The whole novel starts in this cheap boarding house on a stony, steep back street, where the retired vermicelli-maker Goriot rents the meanest room and Rastignac the garret above him. Balzac opens by insisting the address is real, the poorest quarter of the city, framed between the domes of the Panthéon and the Val-de-Grace.",
+      "note": "The boarding house is invented, but Balzac plants it on a real street: the Rue Neuve-Sainte-Genevieve, renamed the Rue Tournefort in 1864, in the 5th arrondissement behind the Panthéon. Balzac's topographers (Hillairet, Boisseau) place the pension at what is now 30 Rue Tournefort; the pin marks the street.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1237"
+    },
+    {
+      "order": 2,
+      "place": "faubourg-saint-germain",
+      "displayName": "The Faubourg Saint-Germain: Mme de Beauseant's salon",
+      "country": "FR",
+      "lat": 48.857,
+      "lng": 2.321,
+      "reference": "Entry into society",
+      "certainty": "exact",
+      "summary": "Rastignac's aristocratic cousin, the Vicomtesse de Beauseant, keeps the pleasantest house in the Faubourg Saint-Germain, the old-nobility quarter on the Left Bank around the Rue de Grenelle. Her salon is his door into society, and it is here she teaches him the ruthless lesson that fixes his ambition. The pin marks the heart of the faubourg.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1237"
+    },
+    {
+      "order": 3,
+      "place": "chaussee-d-antin",
+      "displayName": "The Chaussee d'Antin: Delphine de Nucingen's house, Rue Saint-Lazare",
+      "country": "FR",
+      "lat": 48.8763,
+      "lng": 2.3319,
+      "reference": "The Nucingens' Paris",
+      "certainty": "exact",
+      "summary": "Across the river in the new-money Chaussee d'Antin, Goriot's younger daughter Delphine has married the banker Baron de Nucingen and lives in this ostentatious house on the Rue Saint-Lazare. Rastignac makes her his mistress and his ladder; her father, doting and ruined, helps set them up. The pin marks the Rue Saint-Lazare in the 9th arrondissement.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1237"
+    },
+    {
+      "order": 4,
+      "place": "latin-quarter-deathbed",
+      "displayName": "The Panthéon quarter: Goriot's deathbed",
+      "country": "FR",
+      "lat": 48.8462,
+      "lng": 2.3461,
+      "reference": "Goriot's death",
+      "certainty": "approximate",
+      "summary": "Goriot dies in his cold garret in the Latin Quarter, having sold everything, even his last silver plate, for daughters who will not come. Rastignac goes in vain to their grand houses to beg them to the bedside; both send excuses. The old man's ruin is the price of the two brilliant marriages, and Rastignac watches the whole account come due.",
+      "note": "The deathbed is the Maison Vauquer itself, which the novel calls a squalid den in the Latin Quarter. The pin marks the Panthéon, the landmark Balzac uses in the opening pages to frame this poor quarter, a few streets from the boarding house.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1237"
+    },
+    {
+      "order": 5,
+      "place": "pere-lachaise",
+      "displayName": "Pere-Lachaise: the challenge to Paris",
+      "country": "FR",
+      "lat": 48.8608,
+      "lng": 2.3928,
+      "reference": "The challenge to Paris",
+      "certainty": "exact",
+      "summary": "After Goriot's near-pauper's funeral, Rastignac climbs to the top of Pere-Lachaise on the eastern heights, looks down on the Paris he means to conquer, and throws down his challenge, “A nous deux, maintenant!”, here rendered “Henceforth there is war between us.” Then he goes to dine with Mme de Nucingen. The finale of the novel, and the birth of one of literature's great social climbers.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1237"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

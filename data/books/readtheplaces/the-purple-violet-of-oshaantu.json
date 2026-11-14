@@ -1,0 +1,80 @@
+{
+  "id": "the-purple-violet-of-oshaantu",
+  "title": "The Purple Violet of Oshaantu",
+  "author": "Neshani Andreas",
+  "year": 2001,
+  "description": "The world of the novel is Owamboland, the flat communal farmland of far northern Namibia, where homesteads sit among the mahangu fields and the year turns on the rains. The narrator watches her friend's marriage and widowhood in the village of Oshaantu, while the regional towns near Oshakati draw the men away to wage work. The map runs from the fictional village out across the real Owambo lands to Oshakati and Ongwediva.",
+  "route": [
+    {
+      "order": 1,
+      "place": "owamboland-communal-lands",
+      "displayName": "The Owambo communal lands",
+      "country": "NA",
+      "lat": -17.85,
+      "lng": 15.75,
+      "reference": "Setting",
+      "certainty": "exact",
+      "summary": "The story belongs to the flat, densely settled communal lands of far northern Namibia, home to the Ovawambo people. Life here runs on subsistence farming and on the strict social rules that bind a village together, and it is against this landscape that the narrator measures every marriage she describes.",
+      "note": "Owamboland, the communal farmland of the northern Ovawambo, is the real region the novel is set in; a whole district has no single point, so this marks its heart between Oshakati and Ondangwa.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ovamboland"
+    },
+    {
+      "order": 2,
+      "place": "oshaantu-village",
+      "displayName": "The village of Oshaantu",
+      "country": "NA",
+      "lat": -17.9,
+      "lng": 15.55,
+      "reference": "The homesteads of Oshaantu",
+      "certainty": "approximate",
+      "summary": "The village where the narrator lives, and where her friend endures a violent marriage and then a widowhood governed by custom, is a small farming community of scattered homesteads. Andreas invented Oshaantu as a stand-in for the ordinary Owambo villages she knew, so we place it as a representative point in the real communal lands rather than at a named settlement.",
+      "note": "Oshaantu is a fictional village standing for a typical rural Owambo community; it has no fixed map location, so this marks a representative point in the communal farmland southwest of Oshakati.",
+      "sourceUrl": "https://muse.jhu.edu/article/201544/summary"
+    },
+    {
+      "order": 3,
+      "place": "oshaantu-mahangu-fields",
+      "displayName": "The mahangu fields",
+      "country": "NA",
+      "lat": -17.88,
+      "lng": 15.53,
+      "reference": "The fields around the homesteads",
+      "certainty": "approximate",
+      "summary": "Much of the women's labour and much of the book's drama plays out in the mahangu, the pearl-millet fields that feed the village. A collective work party, where neighbours gather to hoe a widow's plot, becomes one of the story's clearest pictures of how the community both supports and judges its women. The fields are the ordinary Owambo cropland surrounding any such village.",
+      "note": "The novel's fields are the farmland worked around the fictional village; with no named location, this sits just outside the representative village point in the surrounding Owambo cropland.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pearl_millet"
+    },
+    {
+      "order": 4,
+      "place": "oshakati-town",
+      "displayName": "Oshakati",
+      "country": "NA",
+      "lat": -17.7894,
+      "lng": 15.7058,
+      "reference": "The regional town",
+      "certainty": "exact",
+      "summary": "Beyond the village lies the town, where wage work and cash draw the men away from the homesteads for long stretches, leaving the women to run the farms. Oshakati, the largest town of north-central Namibia, is the regional centre that anchors this pull between village and paid labour.",
+      "note": "Oshakati is the real regional capital of the Oshana Region and the kind of northern town the novel's men leave the village to work in; sited at the town centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Oshakati"
+    },
+    {
+      "order": 5,
+      "place": "ongwediva-town",
+      "displayName": "Ongwediva",
+      "country": "NA",
+      "lat": -17.7731,
+      "lng": 15.7645,
+      "reference": "The regional towns",
+      "certainty": "exact",
+      "summary": "Ongwediva sits a few kilometres from Oshakati and, with it, makes up the built-up heart of the Owambo north: schools, shops, clinics and offices that the villagers reach for and that mark the edge of the rural world the novel lives in. It stands for the towns that shape life beyond Oshaantu.",
+      "note": "Ongwediva is a real neighbouring town just east of Oshakati; it stands here for the wider ring of northern towns that frame the village's world.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ongwediva"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "a-hero-of-our-time",
+  "title": "A Hero of Our Time",
+  "author": "Mikhail Lermontov",
+  "year": 1840,
+  "description": "Lermontov's portrait of the bored, brilliant, destructive Pechorin plays out across the Russian Caucasus of the 1830s. Its heart is the spa society of Pyatigorsk and Kislovodsk, where Pechorin toys with Princess Mary and kills the vain Grushnitsky in a duel on Mount Mashuk, the very mountain where Lermontov himself would die in a duel a year after the book appeared. Two further tales range out to the smugglers' port of Taman on the Black Sea and to a frontier fort on the Georgian Military Road.",
+  "route": [
+    {
+      "order": 1,
+      "place": "pyatigorsk-spa",
+      "displayName": "Pyatigorsk (the spa)",
+      "country": "RU",
+      "lat": 44.04,
+      "lng": 43.06,
+      "reference": "Princess Mary",
+      "certainty": "exact",
+      "summary": "At the wells and in the drawing rooms of Pyatigorsk, Pechorin sets out to make the young Princess Mary fall in love with him, less from desire than from boredom and the pleasure of power. Lermontov's spa, all gossip and vanity, is the ground on which the coldest self-portrait in Russian literature is drawn.",
+      "note": "The central tale, 'Princess Mary', is set in Pyatigorsk, the real Caucasus spa town, whose mineral wells, promenades and idle high society give Pechorin his stage.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pyatigorsk"
+    },
+    {
+      "order": 2,
+      "place": "mount-mashuk-duel",
+      "displayName": "Mount Mashuk (the duel)",
+      "country": "RU",
+      "lat": 44.05,
+      "lng": 43.1,
+      "reference": "Princess Mary",
+      "certainty": "exact",
+      "summary": "On a ledge of Mount Mashuk, Pechorin exposes Grushnitsky's cowardly plot and shoots him dead over a cliff, cool and unmoved. The scene reads as an eerie rehearsal of the author's own end, Lermontov falling in a real duel on the same mountain a year later.",
+      "note": "Pechorin kills the posturing Grushnitsky in a duel on the slopes of Mount Mashuk above Pyatigorsk, the real mountain where Lermontov himself was killed in a duel in 1841, the year after the novel.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mashuk"
+    },
+    {
+      "order": 3,
+      "place": "kislovodsk-springs",
+      "displayName": "Kislovodsk (the springs)",
+      "country": "RU",
+      "lat": 43.905,
+      "lng": 42.72,
+      "reference": "Princess Mary",
+      "certainty": "exact",
+      "summary": "At Kislovodsk, among the sparkling narzan springs and the resort's walks, Princess Mary at last confesses her love, and Pechorin, having won the game, coldly rejects her. Her ruin, engineered for its own sake, is the clearest measure of the hero's hollow, corrosive brilliance.",
+      "note": "The society of the tale moves between Pyatigorsk and Kislovodsk, the real neighbouring spa resort famous for its narzan mineral springs, where the drama with Princess Mary deepens.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kislovodsk"
+    },
+    {
+      "order": 4,
+      "place": "georgian-military-road-fort",
+      "displayName": "The frontier fort (Bela)",
+      "country": "RU",
+      "lat": 43.02,
+      "lng": 44.68,
+      "reference": "Bela",
+      "certainty": "approximate",
+      "summary": "Posted to a lonely mountain fort, Pechorin has the Circassian girl Bela abducted for him, wins her, tires of her, and lets her die. The tale, told by the kindly old officer Maxim Maximych, first shows the pattern the whole book anatomises: Pechorin destroying whatever he touches, and feeling almost nothing.",
+      "note": "The opening tale 'Bela' is set at a Russian frontier fort in the mountains along the Georgian Military Road, the real strategic route through the Caucasus; the specific fort is sited on that road, well east of the spa towns.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Georgian_Military_Road"
+    },
+    {
+      "order": 5,
+      "place": "taman-smugglers-coast",
+      "displayName": "Taman (the smugglers' coast)",
+      "country": "RU",
+      "lat": 45.21,
+      "lng": 36.72,
+      "reference": "Taman",
+      "certainty": "exact",
+      "summary": "In the seedy port of Taman, Pechorin blunders into a smuggling operation and is nearly drowned by the wild girl he calls his undine. The episode, all moonlight and menace on the Black Sea shore, shows him as a restless intruder who wrecks other lives simply by being curious.",
+      "note": "The tale 'Taman' is set in the real Black Sea port of Taman on the Kerch Strait, a squalid little town of smugglers far to the west of the Caucasus spas.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Taman,_Russia"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

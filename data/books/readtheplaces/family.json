@@ -1,0 +1,80 @@
+{
+  "id": "family",
+  "title": "Family",
+  "author": "Ba Jin",
+  "year": 1933,
+  "description": "Ba Jin's landmark novel of youth in revolt is set in the great feudal Gao household of 1920s Chengdu, where three grandsons chafe against the tyranny of the patriarch and the weight of the old ways, and the young women around them are destroyed by them. The real city frames it: the sprawling family compound with its courtyards and garden lake, the Chengdu streets alive with student demonstrations and new ideas, and the river down which the youngest brother finally escapes.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-gao-compound",
+      "displayName": "The Gao family compound",
+      "country": "CN",
+      "lat": 30.66,
+      "lng": 104.07,
+      "reference": "The main narrative",
+      "certainty": "approximate",
+      "summary": "Behind the high walls of the Gao compound, the old patriarch rules three generations by the iron law of Confucian hierarchy, arranging marriages, crushing dissent and clinging to a dying order. The mansion, with its courtyards, servants and suffocating proprieties, is the whole world the young must either submit to or break out of.",
+      "note": "The wealthy Gao family lives in a great multi-courtyard mansion in Chengdu; the compound is invented and sited in the old city of the real capital of Sichuan.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chengdu"
+    },
+    {
+      "order": 2,
+      "place": "the-garden-lake",
+      "displayName": "The garden lake",
+      "country": "CN",
+      "lat": 30.661,
+      "lng": 104.071,
+      "reference": "The tragedy of Mingfeng",
+      "certainty": "approximate",
+      "summary": "The gentle bondmaid Mingfeng loves the youngest grandson, Juehui, but when she is ordered to become an old man's concubine she drowns herself in the garden lake rather than submit. Her death is the book's sharpest indictment of the feudal family, the beauty and the powerlessness of the young women it consumes.",
+      "note": "The compound's inner garden and lake are where the bondmaid Mingfeng drowns herself; the garden is sited within the invented mansion in the real city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Family_(novel)"
+    },
+    {
+      "order": 3,
+      "place": "chengdu-streets",
+      "displayName": "The Chengdu streets",
+      "country": "CN",
+      "lat": 30.658,
+      "lng": 104.065,
+      "reference": "The new-culture chapters",
+      "certainty": "exact",
+      "summary": "Out in the city, the rebellious Juehui throws himself into student protests, radical journals and the intoxicating new ideas of freedom and equality sweeping China. The streets of Chengdu, and the movement stirring in them, are the counter-world to the compound, the future pressing against the walls of the past.",
+      "note": "Beyond the compound, the streets of 1920s Chengdu are alive with student demonstrations, new magazines and the ferment of the May Fourth movement; sited in the real central city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/May_Fourth_Movement"
+    },
+    {
+      "order": 4,
+      "place": "the-eldest-brothers-house",
+      "displayName": "The eldest brother's rooms",
+      "country": "CN",
+      "lat": 30.663,
+      "lng": 104.075,
+      "reference": "The tragedy of Juexin",
+      "certainty": "approximate",
+      "summary": "Juexin, the eldest, believes in the new ideas but lacks the will to defy the family, submitting to an arranged marriage and giving up the woman he loves. When his gentle wife Ruijue is sent away to give birth in squalid conditions because of a superstition and dies, his lifetime of compliance is revealed as its own kind of complicity in the family's cruelty.",
+      "note": "The eldest grandson Juexin keeps his own household within the family's world, where his obedience brings tragedy; sited in the compound and city of the real Chengdu.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Family_(novel)"
+    },
+    {
+      "order": 5,
+      "place": "the-river-escape",
+      "displayName": "The river (the escape)",
+      "country": "CN",
+      "lat": 30.65,
+      "lng": 104.08,
+      "reference": "The ending",
+      "certainty": "exact",
+      "summary": "After the deaths of Mingfeng and Ruijue and the patriarch's own passing, Juehui breaks with the family for good and takes a boat down the river toward Shanghai and the future. Ba Jin ends on his departure, the young at last escaping the great decaying house, the river carrying one generation out of the ruins of another.",
+      "note": "At the end Juehui leaves Chengdu by the river for Shanghai and a new life; the real river through the city is the road out of the old family world.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chengdu"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "a-fine-balance",
+  "title": "A Fine Balance",
+  "author": "Rohinton Mistry",
+  "year": 1995,
+  "description": "Mistry never names the city by the sea, but its stations, promenade and slums are unmistakably 1970s Bombay, today's Mumbai. Under the 1975-77 Emergency the map runs from a great railway terminus and a seafront drive out to the pavement stretches and the bulldozed slum colony where two tailors, fleeing caste violence in an inland village, try to hold a life together.",
+  "route": [
+    {
+      "order": 1,
+      "place": "victoria-terminus",
+      "displayName": "The railway terminus",
+      "country": "IN",
+      "lat": 18.9398,
+      "lng": 72.8354,
+      "reference": "Prologue and Chapter 1",
+      "certainty": "exact",
+      "summary": "The book opens on a crowded morning train, where the student Maneck and the two tailors, Ishvar and Omprakash, are thrown together on their way into the city. The huge station where the lines from upcountry meet the sea reads as Bombay's Victoria Terminus, the gateway through which migrants poured into the city.",
+      "note": "The city is never named in the novel, but its great Gothic railway terminus is plainly Bombay's Victoria Terminus, since 1996 Chhatrapati Shivaji Maharaj Terminus, and the marker sits on the station building.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus"
+    },
+    {
+      "order": 2,
+      "place": "dina-dalal-flat",
+      "displayName": "Dina Dalal's flat",
+      "country": "IN",
+      "lat": 18.933,
+      "lng": 72.8265,
+      "reference": "Chapter 2 onward",
+      "certainty": "approximate",
+      "summary": "The widow Dina Dalal guards her independence in a cramped, rent-controlled flat, taking in the two tailors as piece workers and the student Maneck as a paying boarder. The four uneasy strangers make their fragile shared life inside these few rooms, the still centre the whole story turns around.",
+      "note": "The novel gives Dina no street address; her small rent-controlled flat, within reach of the tailors' work and the sea, matches the older residential blocks of the Churchgate and Marine Lines area, so the marker sits there as a representative point.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+    },
+    {
+      "order": 3,
+      "place": "sea-face-promenade",
+      "displayName": "The Sea Face promenade",
+      "country": "IN",
+      "lat": 18.9415,
+      "lng": 72.8238,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "Away from the workroom, the characters walk the breezy seafront where the city comes to take the air. Bombay's Marine Drive, the arc of pavement and parapet along Back Bay, gives them a rare open horizon against the crowding of the streets behind.",
+      "note": "The city stays unnamed, but the long curved seafront drive and its promenade are unmistakably Bombay's Marine Drive along Back Bay; the marker sits on the promenade.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+    },
+    {
+      "order": 4,
+      "place": "slum-colony",
+      "displayName": "The tailors' slum colony",
+      "country": "IN",
+      "lat": 19.02,
+      "lng": 72.858,
+      "reference": "Chapters 8 to 12",
+      "certainty": "approximate",
+      "summary": "Turned out of their pavement sleeping place, the tailors rent a shack in a sprawling slum colony until the Emergency's slum-clearance drive sends bulldozers through it, part of the real campaign that razed settlements and displaced hundreds of thousands of the city's poor in 1975-77.",
+      "note": "The jhopadpatti is not tied to a named district; the marker sits at a representative point in the northern working-class belt of the city, the kind of shanty settlement cleared during the Emergency's beautification drives.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Emergency_(India)"
+    },
+    {
+      "order": 5,
+      "place": "pavement-dwelling",
+      "displayName": "The pavement dwelling",
+      "country": "IN",
+      "lat": 18.955,
+      "lng": 72.8322,
+      "reference": "Chapters 10 to 14",
+      "certainty": "approximate",
+      "summary": "For a stretch of the book the tailors have no roof at all, laying out bedding on a city footpath among other pavement dwellers, at the mercy of police, weather and the Emergency's roundups. It is Mistry's picture of how thin the margin was for the working poor of Bombay in these years.",
+      "note": "No street is named for the stretch of pavement where the tailors are made to sleep rough; the marker sits at a representative point on the older streets between the terminus and the northern districts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+    },
+    {
+      "order": 6,
+      "place": "home-village",
+      "displayName": "The tailors' home village",
+      "country": "IN",
+      "lat": 19.15,
+      "lng": 74.2,
+      "reference": "Chapters 3 to 5",
+      "certainty": "approximate",
+      "summary": "Ishvar and Omprakash come from a small inland village, born into the Chamaar leather-working caste but trained as tailors in defiance of caste rules. A landlord's reprisal murders much of their family, the atrocity that drives the survivors to the anonymity of the city. Mistry keeps the village unnamed, a stand-in for countless places where caste violence went unpunished.",
+      "note": "The village is fictional and unnamed, placed only somewhere inland from the coastal city; the marker sits at a representative point in the rural interior east of Bombay to show the direction the tailors came from.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/A_Fine_Balance"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

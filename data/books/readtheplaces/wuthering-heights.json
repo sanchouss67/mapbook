@@ -1,0 +1,93 @@
+{
+  "id": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "year": 1847,
+  "description": "The West Yorkshire moors above Haworth, the country Emily Brontë walked from the parsonage. The two houses are invented but firmly rooted here: Wuthering Heights is traditionally the ruined farmhouse at Top Withens, Thrushcross Grange is drawn from Ponden Hall near Stanbury, Gimmerton from the local villages, and the open moorland of Penistone Hill lies the hour's walk between them that is the whole novel.",
+  "route": [
+    {
+      "order": 1,
+      "place": "wuthering-heights-top-withens",
+      "displayName": "Wuthering Heights (Top Withens)",
+      "country": "GB",
+      "lat": 53.81472,
+      "lng": -2.03,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "Lockwood, the new tenant of the Grange, walks up to call on his landlord and gives the house its name and its weather in a sentence. “Wuthering” is the local word for the roar of wind over the edge, and Brontë sets the farm where the north wind bends the thorns one way. Top Withens, the ruin walkers still climb to, stands in exactly that exposure.",
+      "note": "The Heights is Brontë's invention, but the farmhouse has long been identified with Top Withens, a ruin on Haworth Moor she knew from the parsonage. The building never matched the novel's grand house; the bleak, wind-scoured site does. The pin marks the signposted ruin.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+      "order": 2,
+      "place": "the-moors-penistone-hill",
+      "displayName": "The open moor (Penistone Hill)",
+      "country": "GB",
+      "lat": 53.8317,
+      "lng": -1.9633,
+      "reference": "Ch. 3",
+      "certainty": "approximate",
+      "summary": "Lockwood, snowed in at the Heights, reads the child Catherine's diary scrawled in the margins of an old book, and finds her and Heathcliff bolting from Joseph's Sunday sermons out onto the moor. The moor is their refuge and their whole freedom, the ground Cathy later says she would be herself once more among.",
+      "note": "The moor the children escape onto is the open Pennine moorland between the two houses, drawn from Haworth Moor and Penistone Hill above Stanbury, where Emily Brontë walked. No single point is named in the text; the pin marks Penistone Hill Country Park, the walkable moor west of Haworth.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+      "order": 3,
+      "place": "thrushcross-grange-ponden-hall",
+      "displayName": "Thrushcross Grange (Ponden Hall)",
+      "country": "GB",
+      "lat": 53.8301,
+      "lng": -2.0155,
+      "reference": "Ch. 6",
+      "certainty": "approximate",
+      "summary": "Heathcliff tells Nelly how he and Cathy ran down off the Heights and pressed their faces to the Lintons' lit window, seeing for the first time the soft, crimson-carpeted world of the valley. Cathy is taken in by the dogs and kept five weeks; Heathcliff is turned away. The distance between the two houses becomes the distance between them.",
+      "note": "The Grange, the Lintons' comfortable valley house, is fiction, but tradition and the Brontës' own use of it draw it from Ponden Hall near Stanbury, a real farmhouse the family visited for its library. The pin marks Ponden Hall; the novel's grander park is Brontë's enlargement.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+      "order": 4,
+      "place": "the-valley-of-gimmerton-stanbury",
+      "displayName": "The valley of Gimmerton (Stanbury)",
+      "country": "GB",
+      "lat": 53.830346,
+      "lng": -1.981636,
+      "reference": "Ch. 10",
+      "certainty": "approximate",
+      "summary": "Nelly looks out from the Grange over the valley of Gimmerton, its mist tracing the beck up the glen, on the evening Heathcliff comes back rich and changed to claim Catherine. Gimmerton is the ordinary human world the moor's two houses answer to: its chapel marries and buries them, its doctor is sent for down this road.",
+      "note": "Gimmerton, the novel's village with its chapel, doctor and band, is drawn from the villages below the moor, chiefly Stanbury near Haworth. The pin marks Stanbury; the name and the exact chapel are Brontë's.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+      "order": 5,
+      "place": "penistone-crags-ponden-kirk",
+      "displayName": "Penistone Crags (Ponden Kirk)",
+      "country": "GB",
+      "lat": 53.824612,
+      "lng": -2.032336,
+      "reference": "Ch. 18",
+      "certainty": "approximate",
+      "summary": "Cathy Linton, the second Catherine, grows up hedged inside Thrushcross Park and fixes on the far crags catching the last light, forever asking Nelly if she is old enough to ride to them. The road there wound close by Wuthering Heights, so she is kept from it, until the pull of the moor draws her over to the Heights and the next turn of the story.",
+      "note": "Penistone Crags, the golden rocks young Cathy longs to reach, are drawn from Ponden Kirk, a gritstone outcrop on Stanbury Moor above Ponden. Its hole at the base answers to the novel's Fairy Cave. The pin marks Ponden Kirk.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+      "order": 6,
+      "place": "the-three-headstones-haworth-kirkyard",
+      "displayName": "Gimmerton kirkyard (Haworth Church)",
+      "country": "GB",
+      "lat": 53.83122,
+      "lng": -1.95617,
+      "reference": "Ch. 34",
+      "certainty": "approximate",
+      "summary": "The book closes with Lockwood back on the moor, finding the three graves on the slope where the churchyard wall runs low enough for the heath to climb over it. Catherine's stone is half buried in heather, Heathcliff's still raw; he watches the moths and the soft wind and wonders how anyone could imagine unquiet slumbers for the sleepers there.",
+      "note": "The moor-edge kirk where Catherine, Edgar and Heathcliff lie is fictional Gimmerton's, drawn from the parish church at Haworth, St Michael and All Angels, where the Brontës themselves are buried. The pin marks Haworth Church.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/768"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

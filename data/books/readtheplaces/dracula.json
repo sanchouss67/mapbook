@@ -1,0 +1,90 @@
+{
+  "id": "dracula",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "year": 1897,
+  "description": "The abbey steps and the harbour at Whitby, where the Demeter runs aground, are exact and still walkable. Transylvania is drawn from maps Stoker never travelled and Carfax is invented, which is precisely what the labels are for.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-golden-krone-hotel-bistritz",
+      "displayName": "The Golden Krone Hotel, Bistritz",
+      "country": "GB",
+      "lat": 47.1333,
+      "lng": 24.4914,
+      "reference": "Bistritz, 3 May",
+      "certainty": "exact",
+      "summary": "Harker breaks his journey east at Bistritz, lodging at the Golden Krone before the last stage to the Count. Stoker took the real Transylvanian town from a guidebook, down to the hotel Harker names, though no such hotel stood there.",
+      "note": "Bistrița is a real town in Transylvania, some 2,000 km east of Whitby, so it is flagged as an excursion beyond the book's setting.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+      "order": 2,
+      "place": "the-carpathians-castle-dracula",
+      "displayName": "The Carpathians, above the Borgo Pass",
+      "country": "GB",
+      "lat": 47.2861,
+      "lng": 24.7969,
+      "reference": "The Borgo Pass, 5 May",
+      "certainty": "approximate",
+      "summary": "The Count's castle stands somewhere above the Borgo Pass, in the mountains Harker cannot find on any map. The pass is real and still crossed; the castle is not, which is why it is drawn from the place rather than pinned to it.",
+      "note": "Castle Dracula is Stoker's invention. He sited it beyond the Borgo (Tihuța) Pass in the Carpathians, a real mountain road he mapped without ever visiting. The pin marks the pass.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+      "order": 3,
+      "place": "whitby-harbour",
+      "displayName": "Whitby harbour",
+      "country": "GB",
+      "lat": 54.4894,
+      "lng": -0.6133,
+      "reference": "Whitby, 24 July",
+      "certainty": "exact",
+      "summary": "Mina writes from the East Cliff looking down on the working harbour, the granite piers and the lighthouse, weeks before the storm drives the Demeter and its dead crew onto the sand below. The view is precise and still there.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+      "order": 4,
+      "place": "whitby-abbey",
+      "displayName": "The ruin of Whitby Abbey",
+      "country": "GB",
+      "lat": 54.4879,
+      "lng": -0.6079,
+      "reference": "Whitby, 24 July",
+      "certainty": "exact",
+      "summary": "The gaunt abbey on the East Cliff presides over every Whitby scene in the book, the fixed landmark above the churchyard and the steps. Stoker walked here on holiday, and the ruin he describes is exactly the one that still stands.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+      "order": 5,
+      "place": "the-east-cliff-churchyard",
+      "displayName": "The East Cliff churchyard",
+      "country": "GB",
+      "lat": 54.4887,
+      "lng": -0.6083,
+      "reference": "Whitby, 8 August",
+      "certainty": "exact",
+      "summary": "The churchyard of St Mary's, at the top of the 199 steps, is Mina and Lucy's favourite seat and the spot where the sleepwalking begins. It is also where the watchers gather as the storm that carries the Count ashore builds over the sea.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+      "order": 6,
+      "place": "carfax-purfleet",
+      "displayName": "Carfax, at Purfleet",
+      "country": "GB",
+      "lat": 51.4817,
+      "lng": 0.2361,
+      "reference": "Purfleet, London",
+      "certainty": "approximate",
+      "summary": "The Count buys his English refuge sight unseen, an old four-sided house with its own chapel at Purfleet on the Thames. From here he means to spread through London, which is why the hunters later go to Purfleet to sterilise his boxes of earth.",
+      "note": "Carfax is Stoker's invention, but he places it at Purfleet, a real town on the Thames in Essex east of London. The pin marks Purfleet; the estate itself never existed.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/345"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

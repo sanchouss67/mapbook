@@ -1,0 +1,93 @@
+{
+  "id": "the-magic-mountain",
+  "title": "The Magic Mountain",
+  "author": "Thomas Mann",
+  "year": 1924,
+  "description": "A young engineer goes up to Davos for a three-week visit to his cousin at a mountain sanatorium and stays seven years, the fever of the place and of one guest keeping him on the heights while the flatland forgets him. The map climbs from the cure-town of Davos-Platz in the valley up the funicular to the sanatorium shelf, and out onto the high slopes where a blizzard nearly ends him.",
+  "route": [
+    {
+      "order": 1,
+      "place": "davos-platz-arrival",
+      "displayName": "Davos-Platz",
+      "country": "CH",
+      "lat": 46.7914,
+      "lng": 9.8207,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "Hans Castorp arrives in the valley after a long climb by train from Hamburg, meaning to spend three summer weeks visiting his cousin before starting work at a shipyard. The cure-town of Davos-Platz is the last stop in the ordinary world; from here he is carried up to the sanatorium and the flatland releases its hold on him.",
+      "note": "The novel names Davos-Platz as the valley town the traveller reaches by the narrow-gauge mountain railway; the coordinates mark the Davos-Platz station and cure quarter on the valley floor.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Davos"
+    },
+    {
+      "order": 2,
+      "place": "funicular-railway",
+      "displayName": "The funicular railway",
+      "country": "CH",
+      "lat": 46.793,
+      "lng": 9.8258,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "The last stage of the journey leaves the valley floor and climbs the steep mountainside to the sanatorium shelf, hundreds of metres above the town. The real Schatzalp funicular still runs this line from Davos-Platz up to the terrace of Alpine hotels; the short, steep ascent marks the passage out of ordinary time and into the closed world of the cure.",
+      "note": "The sanatorium shelf sits high above the valley and is served by a funicular; the coordinates mark the valley station of the real Schatzalp-Bahn beside Davos-Platz, which climbs to the sanatorium terrace the fictional Berghof is drawn from.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Schatzalp-Bahn"
+    },
+    {
+      "order": 3,
+      "place": "berghof-sanatorium",
+      "displayName": "The Berghof sanatorium (the Schatzalp)",
+      "country": "CH",
+      "lat": 46.797149,
+      "lng": 9.821477,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "The International Sanatorium Berghof is where Castorp settles in for what becomes seven years, its rest-cure balconies facing south to the sun and snow. Mann built the place from the Davos sanatoria of his day; the Schatzalp, opened in 1900 as a tuberculosis sanatorium and still standing above the town, is the real building most readers picture behind it.",
+      "note": "The Berghof is a fictional sanatorium, but Mann drew it from the real Davos cure establishments where his wife took the cure; the coordinates mark the Schatzalp, the iconic Art Nouveau sanatorium on the shelf above town, now a hotel, that stands for the Berghof.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Berghotel_Schatzalp"
+    },
+    {
+      "order": 4,
+      "place": "berghof-dining-hall-chauchat",
+      "displayName": "The Berghof dining hall: Clavdia Chauchat",
+      "country": "CH",
+      "lat": 46.7967,
+      "lng": 9.8219,
+      "reference": "Chapter 5",
+      "certainty": "approximate",
+      "summary": "In the sanatorium's dining hall Castorp becomes fixed on Clavdia Chauchat, the Russian guest whose habit of letting the glass door slam announces her at every meal. His slow infatuation with her, declared at last on a carnival night, is the private fever that keeps him on the mountain long after his cousin has gone.",
+      "note": "The dining hall belongs to the fictional Berghof; the coordinates mark the same real Schatzalp building that stands for the sanatorium, offset slightly from the main marker to note the interior scenes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+    },
+    {
+      "order": 5,
+      "place": "high-slopes-blizzard",
+      "displayName": "The high Alpine slopes: the blizzard",
+      "country": "CH",
+      "lat": 46.808,
+      "lng": 9.808,
+      "reference": "Chapter 6",
+      "certainty": "approximate",
+      "summary": "In the chapter known as Snow, Castorp skis alone onto the high slopes and is caught by a blizzard, losing his way in the whiteout and nearly freezing. Half-dreaming against a hut in the storm, he glimpses a vision of human warmth set against horror and resolves that death shall have no dominion over his thoughts, before the weather clears and he makes it down.",
+      "note": "The Snow chapter sends Castorp skiing up onto the open slopes above the sanatorium; the novel fixes no exact spot, so this marks a representative point on the high ground toward the Strela ridge above the Schatzalp, inside the Davos bowl.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Magic_Mountain"
+    },
+    {
+      "order": 6,
+      "place": "davos-valley-winter",
+      "displayName": "The Davos valley and lake in winter",
+      "country": "CH",
+      "lat": 46.820385,
+      "lng": 9.853785,
+      "reference": "Chapter 6",
+      "certainty": "exact",
+      "summary": "Through the long winters the patients watch the valley freeze far below, the cure-town and its lake locked under snow while the mountain holds its own slow, feverish time. The frozen Davos bowl is the world Castorp keeps meaning to return to and never does, until the outbreak of war finally breaks the spell and sends him down.",
+      "note": "The novel places its winter scenes in the frozen Davos valley below the sanatorium; the coordinates mark Lake Davos at the north end of the bowl, the valley floor the patients look down on from the cure balconies.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lake_Davos"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

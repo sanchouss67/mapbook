@@ -1,0 +1,93 @@
+{
+  "id": "hunger",
+  "title": "Hunger",
+  "author": "Knut Hamsun",
+  "year": 1890,
+  "description": "The book calls the city Kristiania (Christiania in its own spelling); that is the old name for Oslo, which the capital carried until 1925. The unnamed narrator paces it in a fever of starvation, up and down Carl Johann Street, out to the fortress by the sea, and down to the wharves. Hamsun keeps to real streets a hungry man can still walk, and it brings Norway into the atlas.",
+  "route": [
+    {
+      "order": 1,
+      "place": "stortorvet-our-saviours",
+      "displayName": "The market square and Our Saviour's church",
+      "country": "NO",
+      "lat": 59.9123,
+      "lng": 10.747,
+      "reference": "Part I",
+      "certainty": "exact",
+      "summary": "The starving narrator crosses the market square where the country women sell their sausage and vegetables, and checks the hour on the cathedral clock. Vor Frelsers kirke and the market at its foot are the fixed centre he circles all day, too proud to beg and too weak to work.",
+      "note": "Our Saviour's church is Vor Frelsers kirke, today Oslo Cathedral, which still stands over the old market square (Stortorvet). The pin marks the cathedral; the clock in its tower is the one the narrator reads.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    },
+    {
+      "order": 2,
+      "place": "carl-johann-street",
+      "displayName": "Carl Johann Street (Karl Johans gate)",
+      "country": "NO",
+      "lat": 59.915,
+      "lng": 10.736,
+      "reference": "Part I",
+      "certainty": "exact",
+      "summary": "At noon the fashionable crowd fills Karl Johans gate, the city's main street, and the narrator slips past the well-dressed acquaintances he cannot let see how far he has fallen. The promenade of the healthy and fed is the stage he is being quietly written off from.",
+      "note": "Carl Johann Street is Karl Johans gate, Kristiania's grand promenade. The pin sits on its upper stretch by the old University, at the corner of University Street (Universitetsgata) where the narrator watches the acquaintances he dodges.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    },
+    {
+      "order": 3,
+      "place": "akershus-fortress",
+      "displayName": "Akershus fortress by the sea",
+      "country": "NO",
+      "lat": 59.9075,
+      "lng": 10.7368,
+      "reference": "Part I",
+      "certainty": "exact",
+      "summary": "Turned out of his lodging and with nowhere to sleep, the narrator drifts down to the fjord under the walls of Akershus and sits trying to think of a hole to hide in for the night. The old fortress by the water is where his homelessness first becomes literal.",
+      "note": "The fortress on the fjord is Akershus, the medieval castle and citadel above Oslo's harbour. The pin marks it; the narrator comes down to the water beside it looking for somewhere to sleep.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    },
+    {
+      "order": 4,
+      "place": "the-railway-wharf",
+      "displayName": "The harbour and the wharves",
+      "country": "NO",
+      "lat": 59.9078,
+      "lng": 10.7492,
+      "reference": "Part II",
+      "certainty": "approximate",
+      "summary": "He goes down to the harbour where the ships are loading, drawn by the smell of cakes on the quay and the half-formed hope of working his passage out on a vessel like the Nun. The busy wharves are his imagined way out of the city, and out of hunger.",
+      "note": "The narrator names the railway wharf, the railway square and Harbour Street (Havnegata), which put him on the working quays of the inner harbour just south of the station. The exact berth is not fixed; the pin marks that waterfront.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    },
+    {
+      "order": 5,
+      "place": "vaterland-lodging-house",
+      "displayName": "The Vaterland lodging-house",
+      "country": "NO",
+      "lat": 59.9128,
+      "lng": 10.7572,
+      "reference": "Part IV",
+      "certainty": "approximate",
+      "summary": "In the last part the narrator holes up in a cheap travellers' lodging-house in Vaterland, the crowded slum by the Aker river, running up a bill he cannot pay and living on the landlady's charity bread. It is the lowest point of the descent, the place he keeps returning to and dreading.",
+      "note": "Vaterland was the poor riverside district at the mouth of the Aker (Akerselva), north of the present central station; most of it was cleared in the 1950s. The narrator names the quarter but not his inn, so the pin marks Vaterland, by the river, not the exact house.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    },
+    {
+      "order": 6,
+      "place": "the-grand",
+      "displayName": "The Grand Café",
+      "country": "NO",
+      "lat": 59.9136,
+      "lng": 10.7394,
+      "reference": "Part IV",
+      "certainty": "exact",
+      "summary": "The Grand Café on Karl Johans gate, where the fed and the literary sit late over their drinks, marks the world the narrator is shut out of. He hears of it second-hand, in a stranger's story of an evening's amusement, while a servant girl taunts him for pretending he ever dined near such a place.",
+      "note": "The Grand is the Grand Café at the Grand Hotel on Karl Johans gate, the gathering place of Kristiania's writers and artists. The pin marks the hotel.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8387"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

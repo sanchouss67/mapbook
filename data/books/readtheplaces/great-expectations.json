@@ -1,0 +1,91 @@
+{
+  "id": "great-expectations",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "year": 1861,
+  "description": "Pip's road runs from the Kent marshes to London and back. Dickens lightly fictionalises the marsh village and \"the town\", but draws them from real ground: the churchyard at Cooling on the Hoo peninsula, and Rochester, whose Restoration House became Satis House. In London the places are named outright, Little Britain and Smithfield, Newgate, Barnard's Inn. The bbox spans the whole run, from the estuary marshes east of Rochester to Holborn.",
+  "route": [
+    {
+      "order": 1,
+      "place": "cooling-churchyard-marshes",
+      "displayName": "The marsh churchyard, Cooling",
+      "country": "GB",
+      "lat": 51.4611,
+      "lng": 0.5757,
+      "reference": "Ch. 1",
+      "certainty": "approximate",
+      "summary": "The novel opens here, on a raw evening among the graves, where the small bundle of shivers that is Pip is seized by the convict Magwitch risen out of the marsh. Dickens knew this ground: the flat estuary land of the Hoo peninsula, the dikes, and the churchyard at Cooling with its little stone lozenges for dead children.",
+      "note": "Dickens leaves the marsh village unnamed, but drew the churchyard from St James's at Cooling, on the Hoo peninsula north of Rochester, where the row of small children's gravestones Pip describes still stands. The pin marks the real church.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+      "order": 2,
+      "place": "the-hulks-estuary",
+      "displayName": "The Hulks, off the marshes",
+      "country": "GB",
+      "lat": 51.474,
+      "lng": 0.51,
+      "reference": "Ch. 5",
+      "certainty": "approximate",
+      "summary": "Magwitch is an escaped convict from the hulks, the black prison-ships lying out on the water beyond the marshes. The soldiers hunt him across the mud and haul him back to one; the child Pip's guilty dread fixes on those ships, the estuary's floating jails, long before he learns what the man will mean to his life.",
+      "note": "The prison hulks were real, decommissioned ships moored off the Kent shore of the Thames and Medway to hold convicts. Dickens does not fix an exact mooring; the pin marks the estuary off the Hoo marshes below Cooling, where the boy Pip watches the ships from the shore.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+      "order": 3,
+      "place": "satis-house-rochester",
+      "displayName": "Satis House, Rochester",
+      "country": "GB",
+      "lat": 51.3863,
+      "lng": 0.5041,
+      "reference": "Ch. 8",
+      "certainty": "approximate",
+      "summary": "Pip is summoned to play at the barred, brewery-shadowed house where Miss Havisham has stopped every clock, and the cold, proud girl Estella teaches him to be ashamed of his coarse hands. The town is Rochester in all but name; the house is Restoration House on Crow Lane, which Dickens walked past and renamed Satis, \"enough\".",
+      "note": "Dickens sets Satis House in \"the town\", his lightly veiled Rochester, and modelled it on Restoration House on Crow Lane, the Elizabethan mansion that still stands. The pin marks Restoration House.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+      "order": 4,
+      "place": "little-britain-jaggers-office",
+      "displayName": "Jaggers's office, Little Britain",
+      "country": "GB",
+      "lat": 51.517,
+      "lng": -0.0978,
+      "reference": "Ch. 20",
+      "certainty": "exact",
+      "summary": "Pip comes into his London expectations at the office of the lawyer Jaggers, in Little Britain by the meat-market at Smithfield, \"all asmear with filth and fat and blood and foam\", with the black dome of St Paul's and the grim wall of Newgate close by. The street is named outright and still runs from Smithfield toward St Martin's Le Grand.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+      "order": 5,
+      "place": "barnards-inn-lodging",
+      "displayName": "Barnard's Inn, Pip's lodging",
+      "country": "GB",
+      "lat": 51.5176,
+      "lng": -0.1098,
+      "reference": "Ch. 21",
+      "certainty": "exact",
+      "summary": "Pip's first London home, shared with Herbert Pocket, is a set of rooms in Barnard's Inn off Holborn, which the country boy had imagined as a grand hotel and finds to be a soot-blackened, rotting little square. One range of the old inn survives, now part of Gresham College.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+      "order": 6,
+      "place": "thames-below-gravesend-escape",
+      "displayName": "The reaches below Gravesend",
+      "country": "GB",
+      "lat": 51.465,
+      "lng": 0.437,
+      "reference": "Ch. 54",
+      "certainty": "approximate",
+      "summary": "In the climax Pip and his friends row the hunted Magwitch down the tidal Thames, meaning to put him aboard a Hamburg steamer and out of England. Below Gravesend, where the river runs broad between the Kent and Essex shores, the galley of the law overtakes them, the steamer bears down, and the escape ends in the water.",
+      "note": "Dickens names the stretch, the broad reaches below Gravesend between Kent and Essex, without fixing a point; the pin marks the Lower Hope reach of the Thames downstream of Gravesend, where Pip and Herbert row to intercept the foreign steamer.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

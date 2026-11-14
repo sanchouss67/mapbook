@@ -1,0 +1,80 @@
+{
+  "id": "cloudstreet",
+  "title": "Cloudstreet",
+  "author": "Tim Winton",
+  "year": 1991,
+  "description": "Two rural families, the Pickles and the Lambs, wash up together in a big rambling house in working-class inner Perth and share it for twenty years. The map runs from the Lambs' lost country home in the south-west, into the shared house and its shop in the western suburbs, out to the wartime city on Perth Water, and always back to the Swan River, where a boy drowns at the start and is made whole at the end.",
+  "route": [
+    {
+      "order": 1,
+      "place": "margaret-river-country-home",
+      "displayName": "The Lambs' country home, Margaret River",
+      "country": "AU",
+      "lat": -33.955,
+      "lng": 115.076,
+      "reference": "Opening chapters, 1943",
+      "certainty": "exact",
+      "summary": "Before Perth there is the south-west, where the Lamb family keeps a coastal home and a shop. On a late-afternoon prawning trip the favourite son, Fish, is dragged under the net and drowns; his mother beats the water out of him and he lives, but the family always feels that not all of him came back. The loss drives them north to the city, and the river never lets go of him.",
+      "note": "The novel names the Margaret River as the family's home in the south-west, but not an exact spot on it, so this marks the town in the river valley, about 270 kilometres south of Perth. It sits far outside the Perth setting on purpose.",
+      "sourceUrl": "https://www.litcharts.com/lit/cloudstreet/summary"
+    },
+    {
+      "order": 2,
+      "place": "one-cloud-street-house",
+      "displayName": "One Cloud Street, West Leederville",
+      "country": "AU",
+      "lat": -31.9381,
+      "lng": 115.8319,
+      "reference": "The move to Cloud Street, 1944",
+      "certainty": "approximate",
+      "summary": "A big, rambling, half-haunted house where two families who cannot afford anything better end up living side by side for twenty years. The Lambs open a grocery shop on the ground floor; the Pickles take the other half. The house has a grief of its own, tied to the Aboriginal children once confined there, and a quiet black man appears at its edges as a kind of guardian. The street is fictional, but its Perth is entirely real.",
+      "note": "Cloud Street is an invented address, and Winton has never named the real street. Readers and local writers place it in West Leederville, with Kimberley Street most often proposed as the model; this marks that inner-western suburb.",
+      "sourceUrl": "https://atlaslit.com/tim-wintons-cloudstreet-family-saga-from-geraldton-to-perth/"
+    },
+    {
+      "order": 3,
+      "place": "subiaco-inner-suburb",
+      "displayName": "Subiaco, the inner suburb",
+      "country": "AU",
+      "lat": -31.949,
+      "lng": 115.827,
+      "reference": "Throughout, 1944-1963",
+      "certainty": "approximate",
+      "summary": "The families' daily life runs through the ordinary streets around the house: corner shops, footpaths, the two-up and the racing that tempt Sam Pickles, the markets that keep Oriel Lamb's store going. Subiaco is the real inner-western suburb that grounds this neighbourhood of postwar Perth, a short walk from where Cloud Street is imagined to stand.",
+      "note": "The book keeps to its invented street but sets it firmly in Perth's working-class inner west. Subiaco, next to West Leederville, stands in for that world of small shops, markets and back lanes; sited at the suburb centre.",
+      "sourceUrl": "https://www.litcharts.com/lit/cloudstreet/summary"
+    },
+    {
+      "order": 4,
+      "place": "barrack-street-jetty-perth-water",
+      "displayName": "Barrack Street Jetty, Perth Water",
+      "country": "AU",
+      "lat": -31.9602,
+      "lng": 115.8588,
+      "reference": "Throughout",
+      "certainty": "exact",
+      "summary": "Beyond the suburb is the city, where the young people go for work, war news and trouble: Rose Pickles takes an office job, the docks and ferries hum, and the war presses on everyone. The Barrack Street Jetty, where the city meets Perth Water, stands for that busy waterfront the book keeps returning to.",
+      "note": "The novel takes its characters into the wartime and postwar city on the river without fixing every scene to an address; this marks the Barrack Street Jetty on Perth Water, the working edge of the central city on the Swan.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Barrack_Street_Jetty"
+    },
+    {
+      "order": 5,
+      "place": "swan-river-western-reach",
+      "displayName": "The Swan River, western reach",
+      "country": "AU",
+      "lat": -31.981,
+      "lng": 115.82,
+      "reference": "Closing chapters, 1963",
+      "certainty": "exact",
+      "summary": "The river is the book's deepest thread, the water that half-took Fish as a boy and that he longs for ever after. At the end he slips into the Swan at last, and in the moment of drowning he becomes whole, seeing the two families' twenty years at once. The black man who has watched over the house belongs to this water too, a reminder of whose country the river always was.",
+      "note": "The Swan River runs through the whole book, but the closing scene is not tied to a named landing; this marks a representative point on its western-suburbs reach near Crawley and Nedlands, the broad water below the city.",
+      "sourceUrl": "https://www.litcharts.com/lit/cloudstreet/symbols/the-river"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

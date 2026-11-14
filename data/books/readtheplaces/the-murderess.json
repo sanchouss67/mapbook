@@ -1,0 +1,80 @@
+{
+  "id": "the-murderess",
+  "title": "The Murderess",
+  "author": "Alexandros Papadiamantis",
+  "year": 1903,
+  "description": "On the poor Aegean island of Skiathos, an old healer and midwife, Hadoula, worn down by a life of hardship and by watching the burden that daughters are to poor families, comes to a terrible conclusion and begins to kill baby girls, then is hunted across the island to her death. Papadiamantis, a son of Skiathos, sets it all on his real island: the cramped town, the herb-strewn hills, the wells and ravines, the mountain chapels, and the sea between the rocks that finally claims her.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-town-house",
+      "displayName": "The town (Hadoula's house)",
+      "country": "GR",
+      "lat": 39.163,
+      "lng": 23.49,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "The book opens with the sleepless old Hadoula rocking her sick infant granddaughter and brooding on a lifetime of poverty and the endless trouble that girls bring to families like hers. In the close, poor town, her monstrous logic takes shape: that to smother a baby girl is a mercy, and her descent into murder begins.",
+      "note": "Hadoula lives in the poor town of Skiathos, the island's real Chora; her house is invented and sited among its cramped lanes above the harbour.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Skiathos"
+    },
+    {
+      "order": 2,
+      "place": "the-hills-fields",
+      "displayName": "The hills and fields",
+      "country": "GR",
+      "lat": 39.17,
+      "lng": 23.48,
+      "reference": "The wandering chapters",
+      "certainty": "exact",
+      "summary": "Across the terraced fields and thyme-scented hills, the old woman walks with the authority of one who knows every plant and path, healer and, now, killer at once. Papadiamantis renders the harsh, beautiful island landscape with a native's precision, the same nature that heals and that hides her crimes.",
+      "note": "Hadoula, a healer who knows the island's plants, moves through the hills and fields of Skiathos gathering herbs; the real upland country of the island is her element and her refuge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Murderess"
+    },
+    {
+      "order": 3,
+      "place": "the-wells-ravines",
+      "displayName": "The wells and ravines",
+      "country": "GR",
+      "lat": 39.168,
+      "lng": 23.475,
+      "reference": "The killings",
+      "certainty": "approximate",
+      "summary": "At the wells and in the dry ravines, Hadoula does her killing, telling herself each time that she is sparing a girl and her family a lifetime of misery. Her own daughter Delcharo and the other women of the island move through the same landscape, unknowing, as the deaths begin to be noticed and feared.",
+      "note": "The drownings take place at the island's wells and ravines; these are sited in the real Skiathos countryside, the specific places the story's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Murderess"
+    },
+    {
+      "order": 4,
+      "place": "the-chapels-flight",
+      "displayName": "The mountain chapels (the flight)",
+      "country": "GR",
+      "lat": 39.18,
+      "lng": 23.48,
+      "reference": "The pursuit",
+      "certainty": "approximate",
+      "summary": "Hunted, Hadoula takes to the wild interior, sheltering by remote chapels and crossing paths with shepherd girls and hermits as the gendarmes close in. The island's countless little churches, emblems of the faith she still clings to even in her guilt, offer no absolution as her flight tightens toward the sea.",
+      "note": "As suspicion falls on her, Hadoula flees through the island's hills and its many little chapels; Skiathos is famous for such mountain churches, among them the monastery of Evangelistria, and the flight is sited among them.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Skiathos"
+    },
+    {
+      "order": 5,
+      "place": "the-sea-coast",
+      "displayName": "The sea (the coast)",
+      "country": "GR",
+      "lat": 39.155,
+      "lng": 23.47,
+      "reference": "The ending",
+      "certainty": "exact",
+      "summary": "Cornered at last on the shore, Hadoula wades into the sea to reach a hermit's chapel and is caught by the rising tide between the rocks, drowning halfway across, the narrator says, between human and divine justice. Papadiamantis closes on the indifferent, beautiful Aegean, which takes the murderess as it takes everything.",
+      "note": "The story ends on the Skiathos coast, where Hadoula, trapped between the pursuing gendarmes and the water, drowns crossing a strait to a hermitage; sited on the real shore of the island.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Murderess"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

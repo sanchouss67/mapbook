@@ -1,0 +1,80 @@
+{
+  "id": "gate-of-the-sun",
+  "title": "Gate of the Sun",
+  "author": "Elias Khoury",
+  "year": 1998,
+  "description": "In the Shatila refugee camp in Beirut, after the 1982 massacre, the makeshift doctor Khalil keeps vigil over the comatose old fighter Yunes, telling him the interwoven stories of the Palestinian catastrophe. The frame is the camp; the tales range back to the Galilee villages emptied in 1948, to the cave called Bab al-Shams where Yunes crossed the border to meet his wife, and to the long exile in Lebanon, holding a whole people's memory in one dying man's room.",
+  "route": [
+    {
+      "order": 1,
+      "place": "shatila-camp-vigil",
+      "displayName": "Shatila camp (Khalil's vigil)",
+      "country": "LB",
+      "lat": 33.856,
+      "lng": 35.5,
+      "reference": "Framing narrative",
+      "certainty": "exact",
+      "summary": "By the bedside of the comatose Yunes, Khalil talks night after night, pouring out the tangled stories of a people's exile in the hope of keeping the old man alive. The squalid camp, ringed by war and loss, becomes the vessel in which the whole memory of the Palestinian catastrophe is held and retold.",
+      "note": "The novel is framed in the Shatila refugee camp in Beirut, the real Palestinian camp, where the untrained doctor Khalil tends the dying Yunes in a makeshift hospital after the 1982 war.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shatila_refugee_camp"
+    },
+    {
+      "order": 2,
+      "place": "galilee-homeland",
+      "displayName": "The Galilee homeland",
+      "country": "LB",
+      "lat": 32.91,
+      "lng": 35.17,
+      "reference": "The stories",
+      "certainty": "approximate",
+      "summary": "The lost Galilee, its olive terraces and stone villages razed in 1948, is the homeland at the centre of every story Khalil tells. Yunes's life as a fighter is one long attempt to return to it, and the ache of that vanished country is the ground note of the whole book.",
+      "note": "Yunes and his people come from the villages of the Galilee, emptied and destroyed in the 1948 Nakba; the specific village is drawn from that real region of destroyed Palestinian villages, far outside the Beirut setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1948_Palestinian_expulsion_and_flight"
+    },
+    {
+      "order": 3,
+      "place": "bab-al-shams-cave",
+      "displayName": "Bab al-Shams (the cave)",
+      "country": "LB",
+      "lat": 32.95,
+      "lng": 35.35,
+      "reference": "The stories",
+      "certainty": "approximate",
+      "summary": "Across the sealed border Yunes slips back again and again to the hidden cave he calls Bab al-Shams, where he and Nahila make a secret country of their own and their children. The cave, a homeland the size of a marriage bed, gives the book its title and its image of love outlasting dispossession.",
+      "note": "Bab al-Shams, the Gate of the Sun, is the cave in the Galilee hills where Yunes secretly meets his wife Nahila on his crossings back over the border; the cave is the novel's own, sited in the real Galilee highlands.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+    },
+    {
+      "order": 4,
+      "place": "exodus-to-lebanon",
+      "displayName": "The exodus to Lebanon",
+      "country": "LB",
+      "lat": 33.12,
+      "lng": 35.43,
+      "reference": "The stories",
+      "certainty": "approximate",
+      "summary": "The camp midwife Umm Hassan, whose death opens the book, carries the memory of the great flight north, of the roads and the border and the villages left behind. Through her and the other elders the novel gathers the countless small testimonies of the exodus into one long collective remembering.",
+      "note": "The refugees flee north across the border into Lebanon in 1948, gathering in the southern camps before drifting to Beirut; sited on the real route of the exodus into south Lebanon, outside the Beirut setting.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+    },
+    {
+      "order": 5,
+      "place": "sabra-shatila-massacre",
+      "displayName": "The Shatila massacre (1982)",
+      "country": "LB",
+      "lat": 33.855,
+      "lng": 35.499,
+      "reference": "Framing narrative",
+      "certainty": "exact",
+      "summary": "The massacre of 1982, still fresh in the camp's walls and memory, is the immediate horror against which Khalil's storytelling is set, one atrocity folded into a century of them. Khoury refuses any consoling shape, letting the stories contradict and repeat as memory really does, an epic made of a whole people's wounds.",
+      "note": "The Sabra and Shatila massacre of 1982, in which militias killed hundreds of camp civilians, is the recent catastrophe hanging over Khalil's vigil; it took place at the real camp in Beirut.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

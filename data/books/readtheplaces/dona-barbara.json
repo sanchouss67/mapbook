@@ -1,0 +1,80 @@
+{
+  "id": "dona-barbara",
+  "title": "Doña Bárbara",
+  "author": "Rómulo Gallegos",
+  "year": 1929,
+  "description": "The flooded savannah of Apure, where a Caracas lawyer comes home to a cattle ranch on the Arauca and finds a neighbour who has been swallowing his land. The map runs from the provincial capital and seat of law at San Fernando de Apure west across the open llanos to the great river, with the two rival ranches set among the plains between them.",
+  "route": [
+    {
+      "order": 1,
+      "place": "caracas-departure",
+      "displayName": "Caracas, the city left behind",
+      "country": "VE",
+      "lat": 10.4806,
+      "lng": -66.9036,
+      "reference": "Part One, chapter 1",
+      "certainty": "exact",
+      "summary": "The protagonist is a university-trained lawyer raised in the capital, who sets out from Caracas for the family ranch he means to inspect and sell. The city stands for the ordered, lettered world he carries with him into the plains, and it is the one point on this map that lies outside the llano.",
+      "note": "The capital is named as the hero's home and the world of law and study he comes from; sited at the historic centre of Caracas.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caracas"
+    },
+    {
+      "order": 2,
+      "place": "san-fernando-de-apure",
+      "displayName": "San Fernando de Apure",
+      "country": "VE",
+      "lat": 7.88782,
+      "lng": -67.47236,
+      "reference": "Part One",
+      "certainty": "exact",
+      "summary": "The regional capital on the Apure is the last town before the open range and the seat of the courts and records the hero appeals to in his fight over the land. The novel draws on the country around it, which its author toured on a ranch stay near here while gathering material.",
+      "note": "The provincial capital is named in the book and is a real river port; sited at the centre of the modern city.",
+      "sourceUrl": "https://latitude.to/map/ve/venezuela/cities/san-fernando-de-apure"
+    },
+    {
+      "order": 3,
+      "place": "arauca-river",
+      "displayName": "The Arauca river",
+      "country": "VE",
+      "lat": 7.05972,
+      "lng": -69.49667,
+      "reference": "Part One, chapter 1",
+      "certainty": "exact",
+      "summary": "The plains river the whole story hangs on: the hero travels up it by boat toward his ranch, and its name becomes shorthand for the cattle country and its strongwoman ruler. In the dry months it shrinks to sandbanks and in the rains it drowns the savannah for miles, the flood the ranches live by.",
+      "note": "The Arauca is named repeatedly as the river of the story; the book gives no single landing, so this marks the town of Elorza, a real settlement on the Arauca in the Apure llanos.",
+      "sourceUrl": "https://www.britannica.com/place/Arauca-River"
+    },
+    {
+      "order": 4,
+      "place": "altamira-ranch",
+      "displayName": "Altamira, the Luzardo ranch",
+      "country": "VE",
+      "lat": 7.35,
+      "lng": -68.8,
+      "reference": "Part One",
+      "certainty": "approximate",
+      "summary": "The run-down family estate the hero comes to reclaim, its herds thinned and its boundary eaten away by the neighbour. Deciding to fight for it rather than sell, he tries to fence and count and register the land, pitting town law against the customs of the open range. The ranch is invented, but its world is the real Apure grassland.",
+      "note": "Altamira is a fictional ranch; the author modelled the story's estates on cattle ranches he visited in Apure. This marks a representative point in the flooded plains north of the Arauca, not a surveyed site.",
+      "sourceUrl": "https://www.ebsco.com/research-starters/literature-and-writing/dona-barbara-romulo-gallegos"
+    },
+    {
+      "order": 5,
+      "place": "el-miedo-ranch",
+      "displayName": "El Miedo, the rival ranch",
+      "country": "VE",
+      "lat": 7.22,
+      "lng": -68.55,
+      "reference": "Part Two",
+      "certainty": "approximate",
+      "summary": "The neighbouring spread built up by the plains strongwoman through rustling, forged deeds and fear, its very name meaning dread. It presses on the family ranch across a contested boundary, and the clash between the two holdings drives the long duel between town law and the will of the caudilla. Like Altamira, the ranch is invented and its world is the real llano.",
+      "note": "El Miedo is a fictional ranch, the seized and renamed estate of the title character; this marks a representative point in the plains beside the Luzardo land, not a surveyed site.",
+      "sourceUrl": "https://www.ebsco.com/research-starters/literature-and-writing/dona-barbara-romulo-gallegos"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "in-search-of-lost-time",
+  "title": "In Search of Lost Time",
+  "author": "Marcel Proust",
+  "year": 1913,
+  "description": "A narrator looks back over a lifetime in Belle Époque France, from a childhood village and a seaside resort to the aristocratic salons of Paris, chasing the way memory recovers lost time.",
+  "route": [
+    {
+      "order": 1,
+      "place": "combray-illiers",
+      "displayName": "Combray, drawn from Illiers",
+      "country": "FR",
+      "lat": 48.3006,
+      "lng": 1.2464,
+      "reference": "Swann's Way",
+      "certainty": "approximate",
+      "summary": "Combray is the village of the narrator's childhood, its church, hawthorn lanes and Sunday afternoons summoned back whole by the taste of a madeleine dipped in tea. It is here that the neighbour Charles Swann calls in the evenings, and here that the two directions of the family walks divide the child's whole imagined world. Proust built this lost paradise from the real Illiers, which now bears the double name Illiers-Combray.",
+      "note": "Combray, the narrator's childhood village, is fictional but famously modelled on Illiers, the Eure-et-Loir town where Proust spent boyhood holidays; the town renamed itself Illiers-Combray in his honour in 1971. It lies about 110 km south-west of Paris, outside the setting box, so it is marked as an excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+    },
+    {
+      "order": 2,
+      "place": "balbec-cabourg",
+      "displayName": "Balbec, drawn from Cabourg",
+      "country": "FR",
+      "lat": 49.287,
+      "lng": -0.123,
+      "reference": "In the Shadow of Young Girls in Flower",
+      "certainty": "approximate",
+      "summary": "At the seaside resort of Balbec, the narrator stays in the Grand Hôtel above the beach and first sees the little band of girls along the front, among them Albertine, who will come to obsess him. The Normandy coast opens a world of light, sea and desire beyond the enclosed one of Combray. Proust drew Balbec largely from Cabourg, whose seafront hotel he knew well.",
+      "note": "Balbec, the Normandy seaside resort with its Grand Hôtel and seafront, is fictional but drawn chiefly from Cabourg, where Proust stayed; its grand hotel still stands. Cabourg is on the Normandy coast, well outside the Paris setting box, so it is marked as an excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+    },
+    {
+      "order": 3,
+      "place": "faubourg-saint-germain-guermantes",
+      "displayName": "The Faubourg Saint-Germain, the Guermantes world",
+      "country": "FR",
+      "lat": 48.856,
+      "lng": 2.32,
+      "reference": "The Guermantes Way",
+      "certainty": "approximate",
+      "summary": "The Faubourg Saint-Germain is the closed aristocratic quarter the narrator longs to enter, and the Guermantes are its dazzling summit. When at last he is admitted to their salons, the glamour he had imagined dissolves into snobbery, wit and casual cruelty. This is the Paris world where reputations are made and unmade over dinner.",
+      "note": "The Guermantes town house and the aristocratic salons the narrator enters are fictional but set squarely in the Faubourg Saint-Germain, the old noble quarter of the Left Bank. The pin marks the rue de Varenne area at the heart of that quarter.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+    },
+    {
+      "order": 4,
+      "place": "bois-de-boulogne",
+      "displayName": "The Bois de Boulogne",
+      "country": "FR",
+      "lat": 48.862,
+      "lng": 2.25,
+      "reference": "Swann's Way",
+      "certainty": "exact",
+      "summary": "The Bois de Boulogne is where elegant Paris displays itself, and the narrator remembers Odette de Crécy sweeping along its walks, the object of Swann's helpless love before she becomes his wife. The park becomes a place of pure enchantment and, revisited late in the book, of loss, its old glamour faded. Odette moving through the acacias is one of the novel's fixed images of desire.",
+      "note": "The Bois de Boulogne, and especially the Allée des Acacias where fashionable Paris strolls and drives, is named in the novel; the child watches Odette pass here in her finery. The pin marks the park on the western edge of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+    },
+    {
+      "order": 5,
+      "place": "venice",
+      "displayName": "Venice",
+      "country": "FR",
+      "lat": 45.434,
+      "lng": 12.3388,
+      "reference": "The Fugitive (Albertine disparue)",
+      "certainty": "exact",
+      "summary": "After the loss of Albertine, the narrator finally reaches Venice, the city he had dreamed of since childhood, wandering its canals and churches with his mother. The long-desired place proves both marvellous and shadowed by grief, art and memory tangled together. Venice is the far horizon of the book's geography, as distant from Combray as the man is from the child who first imagined it.",
+      "note": "In the later volumes the narrator travels to Venice with his mother; the city, its canals and St Mark's, is named and real. It lies far outside the Paris setting box, so it is marked as an excursion.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

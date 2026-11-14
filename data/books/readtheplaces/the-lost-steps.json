@@ -1,0 +1,80 @@
+{
+  "id": "the-lost-steps",
+  "title": "The Lost Steps",
+  "author": "Alejo Carpentier",
+  "year": 1953,
+  "description": "A disillusioned musicologist, fleeing his hollow modern life, travels to South America and up a great river into the jungle in search of primitive instruments, and finds a world outside time before losing the way back to it. Carpentier maps the real journey up the Orinoco: the Latin American capital of Caracas, the river port of Puerto Ayacucho, the great river climbing into the Guiana highlands, and the deep forest of the tepuis where a settlement seems to exist before history itself.",
+  "route": [
+    {
+      "order": 1,
+      "place": "caracas-the-city",
+      "displayName": "Caracas (the modern city)",
+      "country": "VE",
+      "lat": 10.49,
+      "lng": -66.9,
+      "reference": "The opening",
+      "certainty": "exact",
+      "summary": "The weary musicologist, sickened by the mechanical, inauthentic life of the modern city, comes to the South American capital ostensibly to collect primitive instruments for a museum. A sudden revolution in the streets, and the pull of the vast continent beyond, set him on the journey that will carry him out of his own time.",
+      "note": "The journey begins in a Latin American capital drawn from Caracas, where the narrator arrives from his hollow northern life and is caught up briefly in a revolution; the real city is the threshold of his descent into the continent.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caracas"
+    },
+    {
+      "order": 2,
+      "place": "puerto-ayacucho",
+      "displayName": "Puerto Ayacucho (the river port)",
+      "country": "VE",
+      "lat": 5.66,
+      "lng": -67.63,
+      "reference": "The river chapters",
+      "certainty": "exact",
+      "summary": "At the frontier river port, the narrator's shallow, cosmopolitan mistress Mouche begins to wilt, unable to bear the heat, the insects and the loss of her modern comforts. The town on the edge of the wilderness is the last outpost of the world she belongs to, and the point at which the narrator starts to slip its hold.",
+      "note": "The travellers reach a river port on the upper Orinoco drawn from Puerto Ayacucho, the real gateway town to the Venezuelan jungle; from here the journey leaves the modern world behind.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Puerto_Ayacucho"
+    },
+    {
+      "order": 3,
+      "place": "the-orinoco-upriver",
+      "displayName": "The Orinoco (upriver)",
+      "country": "VE",
+      "lat": 4,
+      "lng": -67,
+      "reference": "The ascent chapters",
+      "certainty": "exact",
+      "summary": "As the boat climbs the Orinoco through rapids and unbroken forest, the narrator falls in with Rosario, a woman wholly of the land, and with her a life stripped of the modern world's abstractions. Carpentier makes the ascent of the river a journey back through the ages, each bend carrying the travellers into an older stratum of time.",
+      "note": "The narrator ascends the great Orinoco by boat, past rapids and jungle, deeper into the continent and further back in time; the real river is the axis of the whole journey.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Orinoco"
+    },
+    {
+      "order": 4,
+      "place": "the-deep-jungle",
+      "displayName": "The deep jungle (the tepuis)",
+      "country": "VE",
+      "lat": 5,
+      "lng": -62.5,
+      "reference": "The jungle chapters",
+      "certainty": "approximate",
+      "summary": "In the primeval forest beneath the great flat-topped tepuis, the narrator finds himself in a world seemingly before history, where he recovers a sense of purpose, of music and of being wholly alive. The jungle out of time is the book's paradise, the authentic existence the modern man had lost and briefly, miraculously, regains.",
+      "note": "The deepest reaches of the journey enter the forest and table-mountains of the Guiana highlands; the tepui country is real, and the exact route into it is the novel's own.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tepui"
+    },
+    {
+      "order": 5,
+      "place": "santa-monica-de-los-venados",
+      "displayName": "Santa Mónica de los Venados",
+      "country": "VE",
+      "lat": 4.5,
+      "lng": -63,
+      "reference": "The founded-city chapters",
+      "certainty": "approximate",
+      "summary": "The Adelantado, a founder in the old conquistador mould, is raising a new city from nothing in the wilderness, and the narrator settles there to compose and to live outside the modern age. But when he leaves for paper to write his music down, he can never find the hidden way back, and Carpentier ends on the paradise lost the moment it is left, the steps that cannot be retraced.",
+      "note": "In the deep jungle the narrator finds the newly founded settlement of Santa Mónica de los Venados; the city is the novel's own, sited in the real forested highlands far up the river.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Lost_Steps"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

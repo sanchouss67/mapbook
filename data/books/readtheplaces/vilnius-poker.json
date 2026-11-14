@@ -1,0 +1,93 @@
+{
+  "id": "vilnius-poker",
+  "title": "Vilnius Poker",
+  "author": "Ričardas Gavelis",
+  "year": 1989,
+  "description": "The Soviet-era Vilnius of a paranoid mind: the capital of occupied Lithuania in the 1970s, its baroque Old Town, its library and its river all watched and warped by an unseen 'Them'. The map holds to the historic centre, from the university library and Cathedral Square up the castle hill to Gediminas Avenue, then renamed for Lenin, and the bend of the Neris.",
+  "route": [
+    {
+      "order": 1,
+      "place": "vilnius-old-town",
+      "displayName": "Vilnius Old Town",
+      "country": "LT",
+      "lat": 54.6796,
+      "lng": 25.2879,
+      "reference": "Vargalys's narration",
+      "certainty": "exact",
+      "summary": "The narrator's Vilnius is the real baroque capital of Soviet-occupied Lithuania, a warren of churches, courtyards and narrow streets that his paranoia turns into a trap. The Old Town is less a backdrop than a character, a city he feels is always being watched and deformed by an unnamed 'Them'.",
+      "note": "Vilnius and its Old Town are named throughout and are the novel's true subject; this marks the historic centre around the Town Hall as a representative anchor.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vilnius_Old_Town"
+    },
+    {
+      "order": 2,
+      "place": "vilnius-university-library",
+      "displayName": "Vilnius University Library",
+      "country": "LT",
+      "lat": 54.6828,
+      "lng": 25.2875,
+      "reference": "Vargalys's narration",
+      "certainty": "approximate",
+      "summary": "Vytautas Vargalys spends his days in a library, cataloguing and compiling, a bookish routine that becomes the still centre of his unravelling. The old university library, one of the oldest in the region, sits inside the university's baroque courtyards in the Old Town and stands here for that world of stacks, colleagues and surveillance.",
+      "note": "The narrator's daily work in a library is central to the book; the historic Vilnius University Library stands for that workplace, though his exact desk and department are not fixed in the text.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q625734"
+    },
+    {
+      "order": 3,
+      "place": "cathedral-square-vilnius",
+      "displayName": "Vilnius Cathedral and Cathedral Square",
+      "country": "LT",
+      "lat": 54.6845,
+      "lng": 25.2858,
+      "reference": "Vargalys's narration",
+      "certainty": "exact",
+      "summary": "The great square at the foot of the castle hill, with the neoclassical cathedral and its free-standing bell tower, is one of the fixed points of the narrator's city. Under the occupation it was a stage for parades and power, and in the novel the baroque and classical churches of Vilnius read as survivals watched with suspicion.",
+      "note": "The cathedral and the city's churches are named landmarks of the mapped Old Town; this marks Cathedral Square in front of the cathedral.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cathedral_Square,_Vilnius"
+    },
+    {
+      "order": 4,
+      "place": "gediminas-tower",
+      "displayName": "Gediminas Tower and Castle Hill",
+      "country": "LT",
+      "lat": 54.6867,
+      "lng": 25.2907,
+      "reference": "Vargalys's narration",
+      "certainty": "exact",
+      "summary": "The brick tower on its steep green hill is the oldest survival of the medieval castle and the highest point over the Old Town. The narrator's Vilnius is a place of hills and vantage points, and the castle mound gives the watching, watched quality of the whole city a literal high ground.",
+      "note": "Gediminas Tower and the castle hill are real, named landmarks overlooking the mapped centre.",
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1497616"
+    },
+    {
+      "order": 5,
+      "place": "gediminas-avenue",
+      "displayName": "Gediminas Avenue (then Lenin Prospekt)",
+      "country": "LT",
+      "lat": 54.6872,
+      "lng": 25.2778,
+      "reference": "Vargalys's narration",
+      "certainty": "exact",
+      "summary": "The city's main axis runs west from Cathedral Square, lined with ministries, shops and the seats of power. Under the occupation it bore Lenin's name, and in the novel this official, ceremonial street is exactly the kind of open ground where the narrator feels most exposed to the eyes of the regime.",
+      "note": "The central avenue is a real, named artery of Vilnius; this marks a mid-point of the street, which in the Soviet period carried Lenin's name.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gediminas_Avenue"
+    },
+    {
+      "order": 6,
+      "place": "neris-river",
+      "displayName": "The Neris river",
+      "country": "LT",
+      "lat": 54.691,
+      "lng": 25.287,
+      "reference": "Vargalys's narration",
+      "certainty": "exact",
+      "summary": "The Neris curves along the northern edge of the historic city, dividing the old centre from the newer districts across the water. In the narrator's charged geography the river is a boundary and an escape route, a moving edge to the closed, surveilled world of the Old Town.",
+      "note": "The Neris is the real river of Vilnius; this marks its bend just north of the Old Town by the King Mindaugas Bridge.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neris"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

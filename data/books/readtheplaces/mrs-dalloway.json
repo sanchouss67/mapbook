@@ -1,0 +1,187 @@
+{
+  "id": "mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "author": "Virginia Woolf",
+  "year": 1925,
+  "description": "A single Wednesday in mid-June 1923. The novel is ordered by the striking of clocks.",
+  "route": [
+    {
+      "order": 1,
+      "place": "westminster-doorstep",
+      "displayName": "Clarissa's house, Westminster",
+      "country": "GB",
+      "lat": 51.4993,
+      "lng": -0.1275,
+      "reference": "10:00",
+      "certainty": "approximate",
+      "summary": "The first line of the novel, and the reason for the whole day: she is going out to buy flowers for a party. Everything that follows hangs off this errand.",
+      "note": "Woolf never gives an address. The Dalloways live in Westminster within earshot of Big Ben; scholars place the house around Dean's Yard. Sited here as a considered guess, not a fact."
+    },
+    {
+      "order": 2,
+      "place": "big-ben-first-stroke",
+      "displayName": "Big Ben",
+      "country": "GB",
+      "lat": 51.50073,
+      "lng": -0.12462,
+      "reference": "10:00",
+      "certainty": "exact",
+      "summary": "The novel's metronome. Big Ben strikes eleven times across the book, and each strike is the hinge Woolf uses to cut from one character to another. 'The leaden circles dissolved in the air' recurs like a refrain. The same sound falls on people who will never meet."
+    },
+    {
+      "order": 3,
+      "place": "victoria-street",
+      "displayName": "Victoria Street",
+      "country": "GB",
+      "lat": 51.49823,
+      "lng": -0.13215,
+      "reference": "10:05",
+      "certainty": "exact",
+      "summary": "Named directly in the text. She is walking north-west, from Westminster towards the parks and the shops."
+    },
+    {
+      "order": 4,
+      "place": "st-jamess-park",
+      "displayName": "St James's Park",
+      "country": "GB",
+      "lat": 51.5025,
+      "lng": -0.1348,
+      "reference": "10:15",
+      "certainty": "exact",
+      "summary": "The threshold of the walk proper. From here the day opens out."
+    },
+    {
+      "order": 5,
+      "place": "hatchards-piccadilly",
+      "displayName": "Hatchards, 187 Piccadilly",
+      "country": "GB",
+      "lat": 51.50762,
+      "lng": -0.13924,
+      "reference": "10:30",
+      "certainty": "exact",
+      "summary": "The bookshop is real, it is named in the text, and it is still at 187 Piccadilly today, one of the very few places in the novel you can stand in front of and see essentially what Clarissa saw. The lines in the window are from Shakespeare's Cymbeline, and they become the novel's private refrain: Clarissa returns to them, and so does Septimus."
+    },
+    {
+      "order": 6,
+      "place": "bond-street",
+      "displayName": "Bond Street: Mulberry's, the florist",
+      "country": "GB",
+      "lat": 51.511,
+      "lng": -0.1421,
+      "reference": "10:45",
+      "certainty": "approximate",
+      "summary": "The destination of the errand. While she is in the flower shop a motor car backfires in the street outside. That bang is the pivot on which the novel turns from Clarissa to Septimus. The two never meet; the noise is the only thing they share.",
+      "note": "Bond Street is explicit. Mulberry's, the florist, is Woolf's invention, there is no such shop. Sited mid-street as a representative point, not a real address."
+    },
+    {
+      "order": 7,
+      "place": "regents-park-septimus",
+      "displayName": "Regent's Park: the Broad Walk",
+      "country": "GB",
+      "lat": 51.5264,
+      "lng": -0.1506,
+      "reference": "11:00",
+      "certainty": "exact",
+      "summary": "The novel's second life begins here. Septimus is a shell-shocked veteran of the Great War, sitting in the park with his wife Rezia while an aeroplane writes letters in the sky above them. He is having a very different morning in the same city, under the same clocks."
+    },
+    {
+      "order": 8,
+      "place": "big-ben-half-hour",
+      "displayName": "Westminster: Peter Walsh leaves",
+      "country": "GB",
+      "lat": 51.4998,
+      "lng": -0.128,
+      "reference": "11:30",
+      "certainty": "approximate",
+      "summary": "Peter Walsh, who loved Clarissa thirty years ago and still does, has just called on her unannounced and been shown out. The half-hour strikes literally between them as he goes.",
+      "note": "He is leaving Clarissa's house, whose location is itself inferred."
+    },
+    {
+      "order": 9,
+      "place": "whitehall-trafalgar",
+      "displayName": "Whitehall and Trafalgar Square",
+      "country": "GB",
+      "lat": 51.506,
+      "lng": -0.1269,
+      "reference": "11:45",
+      "certainty": "exact",
+      "summary": "Peter walks north through Whitehall and into Trafalgar Square, following a young woman he will never speak to, inventing a life for her. The quarter-hour catches him mid-fantasy."
+    },
+    {
+      "order": 10,
+      "place": "noon-westminster",
+      "displayName": "Westminster: the green dress",
+      "country": "GB",
+      "lat": 51.4993,
+      "lng": -0.1275,
+      "reference": "12:00",
+      "certainty": "approximate",
+      "summary": "Read this stop and the next one together: they are the same sentence, and the same instant. Woolf uses the stroke of twelve to hold two places in one moment: a woman laying out a dress for her party, and a man walking to the doctor who will destroy him. This is what the book does that a map of pins cannot.",
+      "note": "Clarissa's house; see westminster-doorstep."
+    },
+    {
+      "order": 11,
+      "place": "noon-harley-street",
+      "displayName": "Harley Street: the appointment",
+      "country": "GB",
+      "lat": 51.5202,
+      "lng": -0.1479,
+      "reference": "12:00",
+      "certainty": "exact",
+      "summary": "The same stroke of twelve, two and a half miles north. Sir William Bradshaw is the eminent psychiatrist who will prescribe 'a sense of proportion' and separation from his wife, and precipitate Septimus's death six hours from now."
+    },
+    {
+      "order": 12,
+      "place": "harley-street-clocks",
+      "displayName": "Harley Street: the clocks",
+      "country": "GB",
+      "lat": 51.5194,
+      "lng": -0.1485,
+      "reference": "13:30",
+      "certainty": "exact",
+      "summary": "The cruellest sentence in the book, and a place-specific one: Harley Street was, and remains: the address of expensive private medicine. Woolf makes its clocks complicit."
+    },
+    {
+      "order": 13,
+      "place": "three-oclock-westminster",
+      "displayName": "Westminster: Richard brings roses",
+      "country": "GB",
+      "lat": 51.4993,
+      "lng": -0.1275,
+      "reference": "15:00",
+      "certainty": "approximate",
+      "summary": "Her husband comes home with roses, having meant all the way from Mayfair to say he loves her, and finding when he arrives that he cannot say it. He gives her the flowers instead.",
+      "note": "Clarissa's house; see westminster-doorstep."
+    },
+    {
+      "order": 14,
+      "place": "septimus-window",
+      "displayName": "Bloomsbury: Mrs Filmer's lodgings",
+      "country": "GB",
+      "lat": 51.522,
+      "lng": -0.131,
+      "reference": "18:00",
+      "certainty": "approximate",
+      "summary": "Six o'clock. Septimus kills himself rather than be taken away by Dr Holmes. The line that undoes you is 'He did not want to die.' The clock strikes on regardless: one, two, three, four, five, six.",
+      "note": "Woolf gives no house number, but she does place the lodgings 'off the Tottenham Court Road', on the Bloomsbury side. Sited on that street as a representative point, not a real address."
+    },
+    {
+      "order": 15,
+      "place": "the-party",
+      "displayName": "Westminster: the party",
+      "country": "GB",
+      "lat": 51.4993,
+      "lng": -0.1275,
+      "reference": "22:30",
+      "certainty": "approximate",
+      "summary": "The party Clarissa has spent the whole day preparing. Sir William Bradshaw arrives late and mentions, as small talk, that a patient of his has killed himself. Clarissa goes alone into a small room and thinks about a man she has never met and never will. The two halves of the novel finally touch, and they touch here, in a drawing room in Westminster, at half past ten at night.",
+      "note": "Clarissa's house; see westminster-doorstep."
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

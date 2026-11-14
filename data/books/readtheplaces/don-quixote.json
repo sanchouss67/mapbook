@@ -1,0 +1,93 @@
+{
+  "id": "don-quixote",
+  "title": "Don Quixote",
+  "author": "Miguel de Cervantes",
+  "year": 1605,
+  "description": "The dusty plain of La Mancha, its inns and windmills, and the long road east that finally reaches Barcelona. Cervantes maps his knight onto real ground: the Campo de Montiel he sets out across, the windmills traditionally those of Campo de Criptana, El Toboso where Dulcinea is supposed to live, the Sierra Morena where he does penance, and the Barcelona beach where he is beaten. The places are real; the giants are windmills.",
+  "route": [
+    {
+      "order": 1,
+      "place": "campo-de-montiel",
+      "displayName": "The plain of Montiel",
+      "country": "ES",
+      "lat": 38.7,
+      "lng": -2.867,
+      "reference": "Part 1, ch. 2",
+      "certainty": "exact",
+      "summary": "On his first sally the old gentleman rides out across the real Campo de Montiel, narrating his own future glory as he goes. The chivalric romances have rewritten a bare Manchegan plain into the stage for a knight-errant, and the whole book proceeds from that one substitution.",
+      "note": "Cervantes names the Campo de Montiel by name, a real historic district in the south of Ciudad Real. It is a plain, not a point; the pin marks the town of Montiel that gives it its name.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+      "order": 2,
+      "place": "puerto-lapice-inn",
+      "displayName": "The inn at Puerto Lapice",
+      "country": "ES",
+      "lat": 39.32444,
+      "lng": -3.48111,
+      "reference": "Part 1, ch. 2",
+      "certainty": "approximate",
+      "summary": "At the first inn he reaches, which he takes for a castle, the innkeeper humours him and dubs him a knight in a mock ceremony over a ledger of straw and barley. Cervantes names Puerto Lapice in the same breath, and the village has kept the association for four centuries.",
+      "note": "The knighting inn is unnamed, and Cervantes himself hedges: the narrator says some writers place the first adventure at Puerto Lapice and others at the windmills. Puerto Lapice, a real village on the old Andalusia road, has claimed the inn ever since and keeps a ventorro shown to visitors as Don Quixote's; the pin marks the village.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+      "order": 3,
+      "place": "campo-de-criptana-windmills",
+      "displayName": "The windmills of Campo de Criptana",
+      "country": "ES",
+      "lat": 39.4098,
+      "lng": -3.1289,
+      "reference": "Part 1, ch. 8",
+      "certainty": "approximate",
+      "summary": "The most famous scene in the book: Don Quixote charges the windmills as giants, and a turning sail shivers his lance and rolls him across the plain. Sancho, who could see they were mills the whole time, hauls his master up. The windmills of Campo de Criptana still turn on their ridge above the town.",
+      "note": "The text says only that there were thirty or forty windmills on the plain and does not name the town. Tradition settles the scene on the ridge of windmills at Campo de Criptana, where ten of the old mills still stand and are shown as the giants; the pin marks that ridge.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+      "order": 4,
+      "place": "sierra-morena-penance",
+      "displayName": "Penance in the Sierra Morena",
+      "country": "ES",
+      "lat": 38.367,
+      "lng": -3.833,
+      "reference": "Part 1, ch. 25",
+      "certainty": "exact",
+      "summary": "Hidden in the Sierra Morena, Don Quixote strips down to do penance for a Dulcinea who has done nothing, in deliberate imitation of Amadis of Gaul. He tears a rosary from his shirt-tail, carves love-verses on the bark, and sends Sancho off to El Toboso with a letter. The madness is now entirely self-authored.",
+      "note": "Cervantes names the Sierra Morena, the real range that walls off La Mancha from Andalusia. The exact hollow where he does penance is left vague; the pin marks a representative point in the heart of the range, toward the Despenaperros pass.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+      "order": 5,
+      "place": "el-toboso-church",
+      "displayName": "The search for Dulcinea in El Toboso",
+      "country": "ES",
+      "lat": 39.51806,
+      "lng": -2.99806,
+      "reference": "Part 2, ch. 9",
+      "certainty": "exact",
+      "summary": "Sancho leads his master through El Toboso at midnight to find a palace for a Dulcinea who does not exist, and they blunder instead into the parish church and a graveyard. Cornered, Sancho later passes off the first peasant girl they meet as the enchanted lady, a lie that drives the rest of Part 2.",
+      "note": "El Toboso is a real village in the province of Toledo, named throughout as the home of Dulcinea. The great tower they stumble on in the dark is its parish church; the pin marks the town, which now keeps a Dulcinea house-museum.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+      "order": 6,
+      "place": "barcelona-beach",
+      "displayName": "Defeat on the beach at Barcelona",
+      "country": "ES",
+      "lat": 41.38,
+      "lng": 2.19,
+      "reference": "Part 2, ch. 64",
+      "certainty": "exact",
+      "summary": "On the Barcelona sand the Knight of the White Moon, the disguised Sanson Carrasco, overthrows Don Quixote at the first charge and exacts his promise to go home and give up knight-errantry for a year. It is the end of the adventures: he returns to his village, recovers his wits, and dies. Barcelona is the farthest he ever travels.",
+      "note": "The duel is set explicitly on the beach at Barcelona, the one real city the knight ever reaches. The pin marks the shore at La Barceloneta, along the strand where the galleys lay.",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/996"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

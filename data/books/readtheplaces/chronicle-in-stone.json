@@ -1,0 +1,80 @@
+{
+  "id": "chronicle-in-stone",
+  "title": "Chronicle in Stone",
+  "author": "Ismail Kadare",
+  "year": 1971,
+  "description": "A boy watches his ancient stone city on its mountainside change hands again and again, Italians, Greeks, Italians, Greeks, Germans, in the chaos of the Second World War. Kadare's own Gjirokastër is the whole book: the steep grey stone houses with their cisterns and slate roofs, the castle brooding over the town, the aerodrome the Italians cut into the plain below, and the old bazaar where the city's life and rumour churn.",
+  "route": [
+    {
+      "order": 1,
+      "place": "the-stone-house",
+      "displayName": "The stone house",
+      "country": "AL",
+      "lat": 40.075,
+      "lng": 20.14,
+      "reference": "The main narrative",
+      "certainty": "exact",
+      "summary": "From the deep, cool rooms of the family's stone house, its cistern in the cellar and its many-eyed windows, the boy takes in a world half real and half magical. The house, seemingly alive, is the fixed point from which he watches his city endure bombing, occupation and the strange comedy of war.",
+      "note": "The boy narrator's home is one of the tall grey stone houses of Gjirokastër, with its cistern and slate roof; such houses, and the real UNESCO 'city of stone', are the ground of the whole book.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+    },
+    {
+      "order": 2,
+      "place": "the-castle",
+      "displayName": "The castle",
+      "country": "AL",
+      "lat": 40.0755,
+      "lng": 20.135,
+      "reference": "The occupation chapters",
+      "certainty": "exact",
+      "summary": "Below and around the ancient citadel the war's forces come and go, and the young men of the town, among them figures like Isa, are drawn toward the resistance forming against the occupiers. The castle, older than any of the empires now fighting over the city, dwarfs them all with the weight of the past.",
+      "note": "The great castle of Gjirokastër broods over the town from its ridge, a real fortress used through the war for anti-aircraft guns and prisoners; it dominates the boy's city and the book's skyline.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr_Fortress"
+    },
+    {
+      "order": 3,
+      "place": "the-aerodrome",
+      "displayName": "The aerodrome",
+      "country": "AL",
+      "lat": 40.085,
+      "lng": 20.155,
+      "reference": "The Italian chapters",
+      "certainty": "approximate",
+      "summary": "The airfield on the plain, with its 'aeroplanes' the boy watches like magical beasts, brings the machinery of the modern war into the medieval city's orbit. When the planes are destroyed and the field abandoned as the occupiers change, it becomes one more marvel swallowed by the town's long memory.",
+      "note": "The Italians cut an aerodrome into the plain below the town, and its planes fascinate the boy; sited on the real Drino valley floor beneath Gjirokastër.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chronicle_in_Stone"
+    },
+    {
+      "order": 4,
+      "place": "the-old-bazaar",
+      "displayName": "The old bazaar",
+      "country": "AL",
+      "lat": 40.076,
+      "lng": 20.141,
+      "reference": "The town chapters",
+      "certainty": "exact",
+      "summary": "Through the bazaar and the steep lanes move the town's unforgettable characters, among them the crone Xhexho with her omens and dire news, carrying rumour from house to house. Kadare builds the city's collective voice out of these figures, a chorus of superstition, malice and wit surviving every occupier.",
+      "note": "The old Ottoman bazaar at the foot of the town is Gjirokastër's real marketplace and gossip-exchange; the crones and characters of the book circulate through it.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr"
+    },
+    {
+      "order": 5,
+      "place": "the-neighbourhood-cisterns",
+      "displayName": "The neighbourhood cisterns",
+      "country": "AL",
+      "lat": 40.074,
+      "lng": 20.139,
+      "reference": "The main narrative",
+      "certainty": "approximate",
+      "summary": "In the deep cisterns and shadowed rooms, the grandmother and the old women keep the city's memory and its rituals as flags rise and fall over the citadel. By the end the war has scarred the stone city, but it endures as it always has, older and stranger than any of the powers that thought they held it.",
+      "note": "The cisterns, cellars and terraced houses of the old neighbourhood, and the wise old women who hold its lore, belong to the real stone city; sited among its steep lanes.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chronicle_in_Stone"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

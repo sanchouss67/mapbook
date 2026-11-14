@@ -1,0 +1,80 @@
+{
+  "id": "the-general-in-his-labyrinth",
+  "title": "The General in His Labyrinth",
+  "author": "Gabriel García Márquez",
+  "year": 1989,
+  "description": "The last months of Simón Bolívar, in 1830, as the sick and disillusioned Liberator makes his final journey out of Bogotá and down the Magdalena River toward the sea and death, his dream of a united Spanish America in ruins. García Márquez follows the real route: the descent from Bogotá to the river port of Honda, the long boat journey down the great Magdalena, the colonial town of Mompox, and the hacienda at Santa Marta where he dies.",
+  "route": [
+    {
+      "order": 1,
+      "place": "bogota-departure",
+      "displayName": "Bogotá (the departure)",
+      "country": "CO",
+      "lat": 4.6097,
+      "lng": -74.0817,
+      "reference": "Chapter 1",
+      "certainty": "exact",
+      "summary": "Bolívar sets out from a hostile Bogotá a ruined man, resigned, ill and mocked, leaving behind Manuela Sáenz, the fierce woman who twice saved his life. The high cold capital, where his enemies now hold power, is the start of the long descent toward the sea and the end.",
+      "note": "The journey begins in Bogotá, the real Andean capital, which Bolívar leaves in 1830 having resigned the presidency, his federation collapsing; his lover Manuela Sáenz remains behind in the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+    },
+    {
+      "order": 2,
+      "place": "honda-river-port",
+      "displayName": "Honda (down to the river)",
+      "country": "CO",
+      "lat": 5.201,
+      "lng": -74.737,
+      "reference": "Chapter 2",
+      "certainty": "exact",
+      "summary": "At the sweltering port of Honda, Bolívar leaves the mountains for the river, boarding the champán boats that will carry him north. The change from the cold heights to the river's heat marks his passage out of the world of power and into the long, feverish drift toward death.",
+      "note": "The party descends from the Andes to Honda, the real river port on the upper Magdalena where travellers left the mountain road and took to the boats.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honda,_Tolima"
+    },
+    {
+      "order": 3,
+      "place": "magdalena-river-descent",
+      "displayName": "The Magdalena River (the descent)",
+      "country": "CO",
+      "lat": 6.49,
+      "lng": -74.4,
+      "reference": "Chapters 3-5",
+      "certainty": "exact",
+      "summary": "Day after day the boats slide down the brown river through jungle and heat, the devoted majordomo José Palacios tending the general who grows weaker and more spectral. On the water Bolívar relives his campaigns and betrayals, the labyrinth of the title being memory itself as much as the winding river.",
+      "note": "The heart of the book is the slow voyage down the Magdalena, the great river that is Colombia's spine; the real river and its heat, mosquitoes and riverside towns carry the failing general north.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Magdalena_River"
+    },
+    {
+      "order": 4,
+      "place": "mompox",
+      "displayName": "Mompox",
+      "country": "CO",
+      "lat": 9.241,
+      "lng": -74.426,
+      "reference": "Chapter 5",
+      "certainty": "exact",
+      "summary": "In the faded colonial splendour of Mompox, generals and officials still honour the Liberator even as the union he built falls apart around them. The half-abandoned river town, glory turned to ruin, mirrors Bolívar's own passage from the summit of power to a lonely death.",
+      "note": "The voyage passes through Mompox (Mompós), the real colonial town on the Magdalena, once rich and now declining, where the general is received by old comrades such as General Montilla.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mompox"
+    },
+    {
+      "order": 5,
+      "place": "santa-marta-death",
+      "displayName": "Santa Marta (his death)",
+      "country": "CO",
+      "lat": 11.22,
+      "lng": -74.13,
+      "reference": "Chapter 8",
+      "certainty": "exact",
+      "summary": "At a borrowed hacienda outside Santa Marta, within sight of the sea he meant to sail into exile, Bolívar dies in December 1830, penniless and all but disowned by the nations he founded. García Márquez ends the labyrinth here, the Liberator undone by the same continent he liberated.",
+      "note": "Bolívar dies at the hacienda of San Pedro Alejandrino near Santa Marta on the Caribbean coast, the real estate now a museum; it is the endpoint of the journey and of his life.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Quinta_de_San_Pedro_Alejandrino"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

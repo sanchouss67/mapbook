@@ -1,0 +1,80 @@
+{
+  "id": "changes",
+  "title": "Changes",
+  "author": "Ama Ata Aidoo",
+  "year": 1991,
+  "description": "Aidoo's spare, sharp love story follows Esi, a successful Accra statistician who leaves a husband she finds stifling, only to become the second wife of a charming businessman and confront afresh the bargains marriage demands of a modern African woman. The real city frames it: the government office where Esi works, the comfortable bungalows of the professional class, the businessman Ali's downtown enterprise, and the restaurants and streets of a booming Accra caught between tradition and change.",
+  "route": [
+    {
+      "order": 1,
+      "place": "esi-office",
+      "displayName": "Esi's office",
+      "country": "GH",
+      "lat": 5.55,
+      "lng": -0.195,
+      "reference": "Chapter 1",
+      "certainty": "approximate",
+      "summary": "At her desk in the Department of Urban Statistics, the educated, ambitious Esi has the independence and income few women of her world command, and guards them fiercely. Her career, and her refusal to let a husband's demands eclipse it, is the ground of the whole book's questioning of what marriage should ask of a modern woman.",
+      "note": "Esi works as a statistician at a government department in Accra; the office is invented and sited in the real ministries district of the capital.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Accra"
+    },
+    {
+      "order": 2,
+      "place": "esi-bungalow",
+      "displayName": "Esi's bungalow",
+      "country": "GH",
+      "lat": 5.58,
+      "lng": -0.18,
+      "reference": "Chapter 2",
+      "certainty": "approximate",
+      "summary": "In the marital bungalow, Esi's first husband Oko wants more of her time, her body and her deference than she is willing to give, and a marital rape convinces her the marriage must end. Aidoo uses the ordinary middle-class home to stage the collision between an independent woman and the expectations even a loving husband brings.",
+      "note": "Esi and her first husband Oko live in a bungalow in the comfortable residential districts of Accra; the house is invented and sited in that real professional-class part of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changes:_A_Love_Story"
+    },
+    {
+      "order": 3,
+      "place": "alis-enterprise",
+      "displayName": "Ali's enterprise (downtown)",
+      "country": "GH",
+      "lat": 5.555,
+      "lng": -0.205,
+      "reference": "Chapter 5",
+      "certainty": "approximate",
+      "summary": "Ali, cosmopolitan, Muslim and married, courts Esi with charm and gifts from his downtown business, and she agrees to become his second wife, believing this modern arrangement will leave her freedom intact. His prosperous enterprise, and the ease with which he moves between wives and worlds, is the tempting, treacherous alternative to Oko's possessiveness.",
+      "note": "The wealthy businessman Ali runs a travel and trading enterprise in central Accra; the office is invented and sited in the real commercial heart of the city.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changes:_A_Love_Story"
+    },
+    {
+      "order": 4,
+      "place": "the-restaurant",
+      "displayName": "The restaurant",
+      "country": "GH",
+      "lat": 5.56,
+      "lng": -0.19,
+      "reference": "Chapter 7",
+      "certainty": "approximate",
+      "summary": "In the smart restaurants of a booming Accra, Esi and Ali conduct a modern romance of dinners, gifts and careful distance, the surface of an arrangement whose costs only slowly appear. The city's new consumer glamour is the stage on which Esi tests whether love and independence can really be had together.",
+      "note": "Much of Esi and Ali's courtship happens over meals in the hotels and restaurants of modern Accra; the specific restaurant is invented and sited in the real city centre.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changes:_A_Love_Story"
+    },
+    {
+      "order": 5,
+      "place": "the-city-opokuya",
+      "displayName": "The city (Opokuya)",
+      "country": "GH",
+      "lat": 5.548,
+      "lng": -0.205,
+      "reference": "Chapter 9",
+      "certainty": "exact",
+      "summary": "Against Esi's chosen solitude stands her old friend Opokuya, juggling job, husband and children in the harried, ordinary Accra of markets and traffic, another kind of woman's bargain. Through their friendship Aidoo weighs Esi's costly independence against Opokuya's crowded compromise, refusing any easy answer as the second marriage, too, begins to fail.",
+      "note": "Esi's friend Opokuya, a busy nurse and mother, moves through the crowded working city of markets, traffic and shared taxis; sited in the real everyday Accra beyond the professional bubble.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changes:_A_Love_Story"
+    }
+  ],
+  "source": {
+    "name": "Read the Places",
+    "url": "https://readtheplaces.com/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
