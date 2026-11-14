@@ -89,7 +89,7 @@ export default function JourneyMap({ route, selectedPoint, onSelectPoint }: Jour
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <Polyline positions={positions} pathOptions={{ color: "#2563eb", weight: 4, opacity: 0.78 }} />
+        <Polyline positions={positions} pathOptions={{ color: "#1746a2", weight: 4, opacity: 0.9 }} />
         {mapRoute.map((point) => {
           const isSelected = point.order === selectedPoint.order;
 

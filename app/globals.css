@@ -1,7 +1,7 @@
 @import "leaflet/dist/leaflet.css";
 
 :root {
-  --background: #f6f8fb;
+  --background: #e3eaf2;
   --surface: #ffffff;
   --surface-muted: #eef4f8;
   --text: #172033;
@@ -95,26 +95,91 @@ h2 {
 }
 
 .bookSelector {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  width: fit-content;
-  max-width: 100%;
+  position: relative;
   margin: 12px 0 18px;
   padding: 14px 16px;
 }
 
-.bookSelector label {
+.bookSearch {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.bookSearch label {
   color: var(--muted);
   font-weight: 700;
 }
 
-.bookSelector select {
-  min-width: min(420px, 60vw);
+.bookSearchField {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.bookSearch input {
+  width: 100%;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface-muted);
   color: var(--text);
+  padding: 10px 12px;
+}
+
+.bookList {
+  position: absolute;
+  z-index: 1000;
+  top: calc(100% + 6px);
+  left: 0;
+  display: grid;
+  gap: 6px;
+  width: 50%;
+  max-height: 420px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 6px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  list-style: none;
+}
+
+.bookItem {
+  display: block;
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text);
+  padding: 10px 12px;
+  text-align: left;
+}
+
+.bookItem:hover,
+.bookItem.active {
+  border-color: #b9c9dc;
+  background: var(--surface-muted);
+}
+
+.bookItem.active {
+  border-color: var(--accent);
+}
+
+.bookItemTitle {
+  display: block;
+  font-weight: 700;
+}
+
+.bookItemMeta {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.bookListEmpty {
+  color: var(--muted);
   padding: 10px 12px;
 }
 
@@ -389,8 +454,17 @@ h2 {
     width: 100%;
   }
 
-  .bookSelector select {
+  .bookSearch {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .bookSearch input {
     min-width: 0;
+    width: 100%;
+  }
+
+  .bookList {
     width: 100%;
   }
 
