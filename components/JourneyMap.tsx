@@ -1,14 +1,19 @@
 "use client";
 
 import L from "leaflet";
-import { useEffect, useMemo } from "react";
+import { useEffect, useMemo, useRef } from "react";
 import { MapContainer, Marker, Polyline, Popup, TileLayer, useMap } from "react-leaflet";
+import TravelLayer from "@/components/TravelLayer";
 import type { RoutePoint } from "@/types/book";
 
 type JourneyMapProps = {
   route: RoutePoint[];
   selectedPoint: RoutePoint;
   onSelectPoint: (point: RoutePoint) => void;
+  markerColor?: (point: RoutePoint) => string | undefined;
+  autoZoom?: boolean;
+  fitMaxZoom?: number;
+  animateTravel?: boolean;
 };
 
 type MapRoutePoint = RoutePoint & {
@@ -18,29 +23,46 @@ type MapRoutePoint = RoutePoint & {
 type MapUpdaterProps = {
   route: MapRoutePoint[];
   selectedPoint: MapRoutePoint;
+  autoZoom: boolean;
+  fitMaxZoom: number;
 };
 
-function MapUpdater({ route, selectedPoint }: MapUpdaterProps) {
+function MapUpdater({ route, selectedPoint, autoZoom, fitMaxZoom }: MapUpdaterProps) {
   const map = useMap();
+  const skipNextMove = useRef(true);
 
   useEffect(() => {
     const bounds = L.latLngBounds(route.map((point) => [point.lat, point.mapLng]));
-    map.fitBounds(bounds, { padding: [36, 36], maxZoom: 5 });
-  }, [map, route]);
+    map.fitBounds(bounds, { padding: [36, 36], maxZoom: fitMaxZoom });
+    skipNextMove.current = true;
+  }, [map, route, fitMaxZoom]);
 
   useEffect(() => {
+    if (!autoZoom) {
+      if (skipNextMove.current) {
+        skipNextMove.current = false;
+        return;
+      }
+
+      map.panTo([selectedPoint.lat, selectedPoint.mapLng], { animate: true, duration: 0.5 });
+      return;
+    }
+
     map.flyTo([selectedPoint.lat, selectedPoint.mapLng], Math.max(map.getZoom(), 5), {
       duration: 0.7
     });
-  }, [map, selectedPoint]);
+  }, [map, selectedPoint, autoZoom]);
 
   return null;
 }
 
-function createMarkerIcon(point: RoutePoint, isSelected: boolean) {
+function createMarkerIcon(point: RoutePoint, isSelected: boolean, color?: string) {
+  const dotClass = isSelected ? "routeMarkerDot selected" : "routeMarkerDot";
+  const style = color ? ` style="background:${color}"` : "";
+
   return L.divIcon({
     className: "routeMarker",
-    html: `<span class="${isSelected ? "routeMarkerDot selected" : "routeMarkerDot"}">${point.order}</span>`,
+    html: `<span class="${dotClass}"${style}>${point.order}</span>`,
     iconSize: [34, 34],
     iconAnchor: [17, 17],
     popupAnchor: [0, -18]
@@ -72,13 +94,26 @@ function unwrapRouteAroundAntimeridian(route: RoutePoint[]): MapRoutePoint[] {
   });
 }
 
-export default function JourneyMap({ route, selectedPoint, onSelectPoint }: JourneyMapProps) {
+export default function JourneyMap({
+  route,
+  selectedPoint,
+  onSelectPoint,
+  markerColor,
+  autoZoom = true,
+  fitMaxZoom = 5,
+  animateTravel = true
+}: JourneyMapProps) {
   const mapRoute = useMemo(() => unwrapRouteAroundAntimeridian(route), [route]);
   const selectedMapPoint =
     mapRoute.find((point) => point.order === selectedPoint.order) ?? mapRoute[0];
 
   const positions = useMemo(
     () => mapRoute.map((point) => [point.lat, point.mapLng] as [number, number]),
+    [mapRoute]
+  );
+
+  const routeSignature = useMemo(
+    () => mapRoute.map((point) => `${point.order}:${point.place}`).join("|"),
     [mapRoute]
   );
 
@@ -97,7 +132,7 @@ export default function JourneyMap({ route, selectedPoint, onSelectPoint }: Jour
             <Marker
               key={`${point.order}-${point.place}`}
               position={[point.lat, point.mapLng]}
-              icon={createMarkerIcon(point, isSelected)}
+              icon={createMarkerIcon(point, isSelected, markerColor?.(point))}
               eventHandlers={{
                 click: () => onSelectPoint(point)
               }}
@@ -109,7 +144,18 @@ export default function JourneyMap({ route, selectedPoint, onSelectPoint }: Jour
             </Marker>
           );
         })}
-        <MapUpdater route={mapRoute} selectedPoint={selectedMapPoint} />
+        <TravelLayer
+          key={routeSignature}
+          route={mapRoute}
+          selectedPoint={selectedMapPoint}
+          enabled={animateTravel}
+        />
+        <MapUpdater
+          route={mapRoute}
+          selectedPoint={selectedMapPoint}
+          autoZoom={autoZoom}
+          fitMaxZoom={fitMaxZoom}
+        />
       </MapContainer>
     </section>
   );

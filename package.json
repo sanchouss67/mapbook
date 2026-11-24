@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "import:readtheplaces": "node scripts/import-readtheplaces.mjs"
+    "import:readtheplaces": "node scripts/import-readtheplaces.mjs",
+    "build:isolated": "NEXT_DIST_DIR=.next-build next build",
+    "start:isolated": "NEXT_DIST_DIR=.next-build next start"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.12",

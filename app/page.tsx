@@ -1,7 +1,9 @@
-import JourneyExplorer from "@/components/JourneyExplorer";
+import HomeTabs from "@/components/HomeTabs";
 import aroundTheWorld from "@/data/books/around-the-world-in-80-days.json";
 import importedCatalog from "@/data/books/readtheplaces/catalog.json";
+import kidsCollection from "@/data/kids/collection.json";
 import type { BookRoute, BookSummary } from "@/types/book";
+import type { KidsBook } from "@/types/kids";
 
 const initialBook = aroundTheWorld as BookRoute;
 const books: BookSummary[] = [
@@ -16,6 +18,8 @@ const books: BookSummary[] = [
   ...(importedCatalog as BookSummary[])
 ];
 
+const kidsBooks = kidsCollection as unknown as KidsBook[];
+
 export default function Home() {
-  return <JourneyExplorer books={books} initialBook={initialBook} />;
+  return <HomeTabs books={books} initialBook={initialBook} kidsBooks={kidsBooks} />;
 }

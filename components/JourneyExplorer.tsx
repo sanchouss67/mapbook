@@ -55,16 +55,7 @@ export default function JourneyExplorer({ books, initialBook }: JourneyExplorerP
   };
 
   return (
-    <main className="pageShell">
-      <header className="hero">
-        <p className="eyebrow">Литературный атлас приключений</p>
-        <h1>Карта книжных путешествий</h1>
-        <p className="intro">
-          Выбирайте книгу, следуйте за героями по карте и открывайте места, где история
-          превращается в настоящее путешествие.
-        </p>
-      </header>
-
+    <section className="atlas" aria-label="Атлас книжных маршрутов">
       <BookSelector books={books} selectedBookId={selectedBook.id} onSelectBook={selectBook} />
       {isLoadingBook ? <p className="bookStatus">Загружаю маршрут…</p> : null}
       {bookError ? <p className="bookStatus error">{bookError}</p> : null}
@@ -98,6 +89,6 @@ export default function JourneyExplorer({ books, initialBook }: JourneyExplorerP
         <JourneyMap route={orderedRoute} selectedPoint={selectedPoint} onSelectPoint={selectPoint} />
         <PlaceCard point={selectedPoint} />
       </section>
-    </main>
+    </section>
   );
 }
