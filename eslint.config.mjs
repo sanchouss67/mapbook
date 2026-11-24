@@ -3,7 +3,7 @@ import nextVitals from "eslint-config-next/core-web-vitals";
 const eslintConfig = [
   ...nextVitals,
   {
-    ignores: ["readtheplaces-source/**"]
+    ignores: ["readtheplaces-source/**", ".next-build/**"]
   }
 ];
 
