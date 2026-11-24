@@ -1,8 +1,28 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
-import catalog from "@/data/books/readtheplaces/catalog.json";
 
-const knownBookIds = new Set(catalog.map((book) => book.id));
+const bookIdPattern = /^[a-z0-9-]+$/;
+const booksRoot = path.join(process.cwd(), "data", "books");
+
+async function readBookFile(id: string) {
+  // Собственные маршруты лежат в data/books, импортированные — в data/books/readtheplaces.
+  const candidates = [
+    path.join(booksRoot, `${id}.json`),
+    path.join(booksRoot, "readtheplaces", `${id}.json`)
+  ];
+
+  for (const filePath of candidates) {
+    try {
+      return JSON.parse(await readFile(filePath, "utf8"));
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+        throw error;
+      }
+    }
+  }
+
+  return null;
+}
 
 export async function GET(
   _request: Request,
@@ -10,18 +30,15 @@ export async function GET(
 ) {
   const { id } = await params;
 
-  if (!knownBookIds.has(id)) {
+  if (!bookIdPattern.test(id)) {
     return Response.json({ error: "Book not found" }, { status: 404 });
   }
 
-  const filePath = path.join(
-    process.cwd(),
-    "data",
-    "books",
-    "readtheplaces",
-    id + ".json"
-  );
-  const book = JSON.parse(await readFile(filePath, "utf8"));
+  const book = await readBookFile(id);
+
+  if (!book) {
+    return Response.json({ error: "Book not found" }, { status: 404 });
+  }
 
   return Response.json(book, {
     headers: {
